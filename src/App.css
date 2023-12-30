@@ -1,0 +1,102 @@
+.text-logo {
+  text-transform: capitalize;
+  font-size: var(--logo-size);
+}
+
+.text-body {
+  font-size: var(--text-size);
+}
+
+.text-title {
+  text-transform: uppercase;
+  font-size: var(--title-size);
+}
+
+.text-heading {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: var(--heading-size);
+}
+
+.text-subheading {
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: var(--subheading-size);
+}
+
+.text-logo,
+.text-title,
+.text-heading,
+.text-subheading {
+  color: var(--primary-color);
+  display: block;
+}
+
+.night-mode .text-logo,
+.night-mode .text-title,
+.night-mode .text-heading,
+.night-mode .text-subheading {
+  color: var(--primary-light-color);
+}
+
+.app-container {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0 0 16px;
+  position: sticky;
+}
+
+.app-container.night-mode {
+  color: var(--secondary-light-color);
+  background: var(--primary-dark-color);
+}
+
+.container {
+  width: 98%;
+  margin: 0 auto;
+  max-width: 680px;
+}
+
+.sticky-top-wrapper {
+  top: 0;
+  z-index: 10;
+  position: sticky;
+  background: white;
+  padding-bottom: 16px;
+}
+
+.night-mode .sticky-top-wrapper {
+  background: var(--primary-dark-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.my-16 {
+  margin: 16px 0;
+}
+
+.flex-default {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.no-scroll {
+  overflow: hidden;
+  height: 100%;
+}
+
+.loading-container {
+  height: calc(100dvh - 280px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

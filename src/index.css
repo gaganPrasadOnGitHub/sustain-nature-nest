@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --logo-size: 24px;
+  --text-size: 14px;
+  --title-size: 24px;
+  --heading-size: 18px;
+  --subheading-size: 14px;
+  --error-color: red;
+  --primary-color: #006241;
+  --primary-dark-color: #1e3932;
+  --secondary-dark-color: #162210;
+  --black: #000;
+  --white: #fff;
+  --primary-light-color: #dff9ba;
+  --secondary-light-color: #d4e9e2;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: 'Montserrat', sans-serif;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  position: relative;
+  font-size: var(--text-size);
+  color: var(--black);
+}

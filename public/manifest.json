@@ -1,0 +1,8 @@
+{
+  "short_name": "Nature Nest",
+  "name": "Sustain Nature Nest",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

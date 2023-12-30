@@ -1,0 +1,37 @@
+.language_options {
+  position: absolute;
+  top: 50px;
+  padding: 16px;
+  right: 0;
+  background: #d6ddcda3;
+  display: flex;
+  width: 320px;
+  flex-wrap: wrap;
+  gap: 16px;
+  border-radius: 16px;
+  backdrop-filter: blur(8px);
+  z-index: 1;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+button.language-item {
+  flex: 40%;
+
+  padding: 12px 8px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+button.language-item:hover {
+  translate: 0 2px;
+}
+
+.night-mode button.language-item {
+  color: var(--primary-light-color);
+  background: var(--primary-dark-color);
+  box-shadow: rgba(0, 0, 0, 1) 0px 25px 20px -20px;
+}
+
+.night-mode .language_options {
+  background: #162210d6;
+}
