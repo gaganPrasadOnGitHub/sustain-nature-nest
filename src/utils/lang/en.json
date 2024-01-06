@@ -1,10 +1,7 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic waste",
-      "isParent": true,
-      "parentBinName": null,
-      "subCategoryIds": ["002", "003", "004"],
+      "name": "Organic Waste",
       "content": [
         "Food Scraps",
         "Fruit and Vegetable Peels",
@@ -19,30 +16,13 @@
         "Used Paper Towels (unbleached, without chemical cleaners)",
         "Nut Shells"
       ],
-      "burnable": true,
-      "recyclable": false,
-      "compostable": true,
-      "caution": false,
-      "flammable": false,
-      "toxic": false,
-      "radioactive": false,
-      "bioHazardous": false,
-      "washHandRequired": true,
-      "disinfectionRequired": false,
-      "protectiveGearNeeded": false,
-      "binImage": "ToDo: pending_image_link",
-      "descriptionImage": "ToDo: pending_image_link",
       "description": "Organic waste, primarily from kitchen and garden, comprises degradable materials like food leftovers, fruit peels, and yard waste. These are nutrient-rich and ideal for composting, a process turning waste into compost, improving soil fertility.",
-      "typicalSize": "Small to Medium",
-      "otherNames": ["Compostable waste", "Biodegradable Waste"],
+      "otherNames": ["Compostable Waste", "Biodegradable Waste"],
       "guideLines": {
         "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
         "handling": "Use gloves for handling, wash hands post-disposal. Avoid direct contact with decomposing material to prevent irritation or infection.",
-        "separation": "Separate organic from inorganic materials (plastics/metals/glass) for effective composting and reducing compost contamination."
-      },
-      "howToHandle": {
-        "treatmentMethods": "Compost at home, in community gardens, or anaerobic digestion in large facilities. Composting units vary from small household bins to large industrial processors.",
-        "disposalMethods": "Collect in dedicated bins, transport to composting facilities or bio-gas plants, reducing landfill use and environmental impact."
+        "separation": "Separate organic from inorganic materials (plastics/metals/glass) for effective composting and reducing compost contamination.",
+        "whatNotToDo": "Do not include inorganic materials like plastic, metal, or glass. Avoid disposing of chemically treated products or materials contaminated with oil, grease, or chemicals."
       },
       "whyItIsImportant": {
         "benefits": "Reduces landfill usage, cuts down methane emissions, and lessens need for chemical fertilizers, promoting sustainable agriculture.",
@@ -1162,8 +1142,12 @@
     }
   },
   "common": {
+    "readMore": "Read more",
+    "managementSolutions": "management solutions",
     "natureNest": "Nature nest",
     "sustainNatureNest": "Sustain Nature nest",
+    "whatGoesHere": "What goes here?",
+
     "disclaimer": "The information provided here is general and may not apply to all regions or circumstances. Local regulations and guidelines for organic waste management should be consulted.",
     "search": "Search",
     "searchWasteItem": "Search waste item",
@@ -1173,6 +1157,10 @@
     "nonRecyclable": "Non recyclable",
     "burnable": "Burnable",
     "nonBurnable": "Non burnable",
+    "caution": "Handle with caution",
+    "flammable": "flammable",
+    "toxic": "toxic",
+
     "author": "Gagan Prasad"
   }
 }

@@ -1,0 +1,102 @@
+#attributes-section {
+  display: flex;
+  margin: 24px 0;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.bin-image {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  box-shadow: var(--primary-box-shadow);
+}
+
+.badge-icon {
+  width: 40px;
+  height: 40px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.attribute-badge {
+  gap: 4px;
+  width: 80px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  backdrop-filter: blur(4px);
+  border-radius: 8px;
+  background: var(--overlay-light-gray);
+}
+
+.night-mode .attribute-badge {
+  background: var(--overlay-dark-green);
+}
+
+.flex-row {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.flex-column {
+  gap: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.info-top-left {
+  top: 16px;
+  left: 0;
+  max-width: 256px;
+  align-items: stretch;
+}
+
+.info-top-right {
+  top: 16px;
+  right: 0;
+}
+
+.info-bottom-left {
+  left: 0;
+  top: 300px;
+  flex-wrap: wrap;
+  max-width: 256px;
+  align-items: stretch;
+}
+
+@media (min-width: 767px) {
+  .bin-image {
+    width: 350px;
+    height: 350px;
+  }
+
+  .attribute-badge {
+    width: 120px;
+  }
+
+  .badge-icon {
+    width: 50px;
+    height: 50px;
+  }
+  .info-bottom-left {
+    top: 400px;
+  }
+  .info-top-right {
+    top: 50%;
+    translate: 0 -50%;
+  }
+}

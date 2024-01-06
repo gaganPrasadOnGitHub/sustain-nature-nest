@@ -1,6 +1,7 @@
 import React from 'react';
-import './App.css';
+import 'animate.css/animate.min.css';
 import './index.css';
+import './App.css';
 import {Provider} from 'react-redux';
 import Store from './utils/redux/store';
 import Router from './routes/router';

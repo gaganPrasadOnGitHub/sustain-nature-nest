@@ -3,21 +3,24 @@ import Header from './Header/Header';
 import SearchComponent from './SearchComponent/SearchComponent';
 import Footer from './Footer/Footer';
 import useNightMode from '../hooks/useNightMode';
-import DisplayCard from './DisplayCard/DisplayCard';
+import WasteBinCard from './WasteBinCard/WasteBinCard';
+import VerticalPageScroll from './VerticalPageScroll';
 
 const Home = () => {
   const {isNight} = useNightMode();
 
   return (
     <div className={`app-container ${isNight ? 'night-mode' : ''}`}>
-      <div className="container">
-        <div className="sticky-top-wrapper">
-          <Header />
-          <SearchComponent />
-        </div>
-        <DisplayCard />
-        <Footer />
+      <div className="header-sticky-wrapper">
+        <Header />
+        <SearchComponent />
       </div>
+      <div className="container">
+        <WasteBinCard />
+        <VerticalPageScroll />
+      </div>
+
+      <Footer />
     </div>
   );
 };

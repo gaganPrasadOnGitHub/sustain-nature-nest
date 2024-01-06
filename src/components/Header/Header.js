@@ -12,15 +12,15 @@ const Header = () => {
 
   return (
     <div className="header">
-      <div className="flex-default">
+      <div className="flex-space-between">
         {/*  TODO: FIX NavMenu component UI */}
         <NavMenu />
-        <div className="flex-default">
+        <div className="flex-space-between">
           <NightMode />
           <LanguageSelector />
         </div>
       </div>
-      <div className="text-logo text-center">{t('common.natureNest')}</div>
+      <div className="text-title text-center">{t('common.natureNest')}</div>
     </div>
   );
 };

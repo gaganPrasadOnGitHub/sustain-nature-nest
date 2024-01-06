@@ -11,12 +11,16 @@ import {
 } from '../../utils/redux/searchSlice';
 import {setSelectedBinId} from '../../utils/redux/binSlice';
 import useSelectedBin from '../../hooks/useSelectedBin';
+import useNightMode from '../../hooks/useNightMode';
+import daySearch from '../../assets/searchIconDay.svg';
+import nightSearch from '../../assets/searchIconNight.svg';
 
 const SearchComponent = () => {
   const dispatch = useDispatch();
   const loading = useSelector((state) => state.search.isLoading);
   const error = useSelector((state) => state.search.error);
   const [searchInput, setSearchInput] = useState('');
+  const {isNight} = useNightMode();
 
   useSelectedBin();
 
@@ -33,7 +37,7 @@ const SearchComponent = () => {
       const result = {
         validItem: true,
         id: '008',
-        reason: 'Apple is manfo',
+        reason: 'Apple is mango',
       };
 
       dispatch(setSearchResult(result));
@@ -51,7 +55,7 @@ const SearchComponent = () => {
     <form className="search-container">
       <input
         type="text"
-        placeholder="Search waste item..."
+        placeholder="Search item to recycle or dispose"
         value={searchInput}
         onChange={handleSearchChange}
         onKeyDown={(event) => {
@@ -62,7 +66,11 @@ const SearchComponent = () => {
         required
       />
       <button onClick={handleSearchSubmit} disabled={loading}>
-        {loading ? 'Searching...' : 'Search'}
+        <img
+          className="search-icon"
+          src={isNight ? nightSearch : daySearch}
+          alt="ArrowPrevious"
+        />
       </button>
       {error && <p className="error-message">{error}</p>}
     </form>

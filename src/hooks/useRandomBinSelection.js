@@ -9,6 +9,7 @@ const useRandomBinSelection = () => {
   const selectedBinId = useSelector((state) => state.bin.selectedBinId);
 
   useEffect(() => {
+    console.log('selectedBinId useRandomBinSelection', selectedBinId);
     if (!selectedBinId && randomBin) {
       console.log('selectedBinId', selectedBinId);
       console.log('randomBin', randomBin);

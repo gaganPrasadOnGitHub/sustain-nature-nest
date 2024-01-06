@@ -1,0 +1,87 @@
+/* navigation heading */
+.text-link {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--secondary-dark-green);
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: all ease-in-out 200ms;
+}
+.text-link:hover {
+  color: var(--main-green);
+  background: var(--light-gray);
+}
+
+.night-mode .text-link {
+  cursor: pointer;
+  color: var(--secondary-light-green);
+}
+
+.night-mode .text-link:hover {
+  color: var(--main-light-green);
+  background: var(--secondary-dark-green);
+}
+
+.bin-name-link {
+  display: table;
+  cursor: pointer;
+}
+
+.detail-info {
+  margin: 24px 0;
+  padding: 16px;
+  background: var(--light-gray);
+  border-radius: 20px;
+  box-shadow: var(--primary-box-shadow);
+}
+
+.detail-info li {
+  margin: 16px;
+  list-style: none;
+  padding-left: 8px;
+  border-left: 3px solid var(--main-green);
+}
+
+.night-mode .detail-info {
+  background: var(--secondary-dark-green);
+}
+
+.night-mode .detail-info li {
+  border-color: var(--main-light-green);
+}
+
+.detail-title {
+  margin: 8px 0 4px;
+  color: var(--main-green);
+}
+.night-mode .detail-title {
+  color: var(--main-light-green);
+}
+
+.card-details-importance {
+  gap: 24px 0;
+  display: flex;
+  margin: 24px 0;
+  flex-direction: column;
+}
+
+.ai-result {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  margin-top: 16px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  color: yellowgreen;
+  background: green;
+}
+
+.ai-result img {
+  width: 40px;
+}
+
+img.recommendedBin {
+  max-width: 300px;
+  border-radius: 24px;
+}
