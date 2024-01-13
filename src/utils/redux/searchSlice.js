@@ -4,7 +4,7 @@ export const searchSlice = createSlice({
   name: 'search',
   initialState: {
     searchTerm: '',
-    searchResult: null,
+    aiSearchResult: null,
     isLoading: false,
     error: null,
   },
@@ -12,8 +12,8 @@ export const searchSlice = createSlice({
     setSearchTerm: (state, action) => {
       state.searchTerm = action.payload;
     },
-    setSearchResult: (state, action) => {
-      state.searchResult = action.payload;
+    setAiSearchResult: (state, action) => {
+      state.aiSearchResult = action.payload;
     },
     setLoading: (state, action) => {
       state.isLoading = action.payload;
@@ -24,7 +24,7 @@ export const searchSlice = createSlice({
   },
 });
 
-export const {setSearchTerm, setSearchResult, setLoading, setError} =
+export const {setSearchTerm, setAiSearchResult, setLoading, setError} =
   searchSlice.actions;
 
 export default searchSlice.reducer;

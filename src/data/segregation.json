@@ -1,6 +1,52 @@
 {
   "wasteBins": [
     {
+      "id": "004",
+      "name": "Animal Waste",
+      "isParent": false,
+      "parentBinName": "Organic Waste",
+      "subCategoryIds": [],
+      "content": [
+        "Manure from livestock and poultry",
+        "Bedding materials",
+        "Feed leftovers",
+        "Farmyard wastes",
+        "Deceased animals",
+        "Slaughterhouse waste",
+        "Animal hair and feathers"
+      ],
+      "burnable": false,
+      "recyclable": false,
+      "compostable": true,
+      "caution": true,
+      "flammable": false,
+      "toxic": false,
+      "radioactive": false,
+      "bioHazardous": true,
+      "washHandRequired": true,
+      "disinfectionRequired": true,
+      "protectiveGearNeeded": true,
+      "binImage": "ToDo: pending_image_link",
+      "descriptionImage": "ToDo: pending_image_link",
+      "description": "Animal waste primarily includes waste from livestock and poultry farming, such as manure, bedding materials, feed leftovers, and more. It requires careful handling due to potential biohazards and odors. Proper disposal is crucial to prevent environmental contamination and health risks.",
+      "typicalSize": "Varies",
+      "otherNames": ["Livestock Waste", "Poultry Waste"],
+      "guideLines": {
+        "recommendedBinType": "Specialized containers for bio-hazardous materials, often labeled and color-coded for animal waste",
+        "handling": "Handle with protective gear, avoid direct contact, and follow biohazard disposal protocols.",
+        "separation": "Separate from other organic and inorganic waste to prevent contamination."
+      },
+      "howToHandle": {
+        "treatmentMethods": "Treatment methods include composting, anaerobic digestion, and in some cases, incineration under controlled conditions.",
+        "disposalMethods": "Disposed of in designated biohazard containers and treated at specialized facilities to mitigate environmental and health impacts.",
+        "compostingProcess": "Composted under controlled conditions to produce organic fertilizer, ensuring pathogens are eliminated."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper handling of animal waste reduces environmental pollution, controls disease spread, and recycles nutrients into agriculture.",
+        "impact": "Responsible management of animal waste contributes to sustainable agricultural practices and reduces the carbon footprint of livestock farming."
+      }
+    },
+    {
       "id": "001",
       "name": "Organic Waste",
       "content": [

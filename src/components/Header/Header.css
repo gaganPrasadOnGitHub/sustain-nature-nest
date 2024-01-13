@@ -20,24 +20,23 @@
   translate: 0 2px;
 }
 
-.nav-menu {
-  position: absolute;
-  left: 0;
-  gap: 24px;
-  top: 50px;
-  width: 100%;
-  z-index: 99;
-  height: 80vh;
-  padding: 32px;
-  display: flex;
-  overflow: scroll;
-  max-width: 750px;
-  border-radius: 20px;
-  background: #d6ddcda3;
-  align-items: flex-start;
-  backdrop-filter: blur(8px);
+.scroll-title {
+  color: var(--text-color);
+  transition: all ease-in-out 500ms;
 }
 
-.night-mode .nav-menu {
-  background: #162210d6;
+.scroll-title.initialScrollFontSize {
+  font-size: 32px;
+}
+
+.scroll-title.smallerScrollFontSize {
+  font-size: 24px;
+}
+
+.border-default {
+  border: 1px solid var(--main-color);
+}
+
+.border-list-item {
+  border-left: 3px solid var(--main-color);
 }

@@ -1,78 +1,63 @@
+import React, {useRef} from 'react';
 import './SearchComponent.css';
-import React, {useState} from 'react';
-import {useDispatch, useSelector} from 'react-redux';
-
-// import { searchWasteItems } from "../../api/searchApi";
-import {
-  setError,
-  setLoading,
-  setSearchTerm,
-  setSearchResult,
-} from '../../utils/redux/searchSlice';
-import {setSelectedBinId} from '../../utils/redux/binSlice';
-import useSelectedBin from '../../hooks/useSelectedBin';
 import useNightMode from '../../hooks/useNightMode';
 import daySearch from '../../assets/searchIconDay.svg';
 import nightSearch from '../../assets/searchIconNight.svg';
+import useClickOutside from '../../hooks/useClickOutside';
+import useSearchLogic from '../../hooks/useSearchLogic';
 
 const SearchComponent = () => {
-  const dispatch = useDispatch();
-  const loading = useSelector((state) => state.search.isLoading);
-  const error = useSelector((state) => state.search.error);
-  const [searchInput, setSearchInput] = useState('');
+  const {
+    searchTerm,
+    handleSearchChange,
+    handleSearchSubmit,
+    handleSearchOptionClick,
+    setSearchOptionsVisible,
+    searchOptions,
+    searchOptionsVisible,
+    isLoading,
+  } = useSearchLogic();
   const {isNight} = useNightMode();
+  const searchOptionRef = useRef(null);
 
-  useSelectedBin();
-
-  const handleSearchChange = (event) => {
-    setSearchInput(event.target.value);
-  };
-
-  const handleSearchSubmit = async (event) => {
-    event?.preventDefault();
-
-    dispatch(setLoading(true));
-    try {
-      // const result = await searchWasteItems(searchInput);
-      const result = {
-        validItem: true,
-        id: '008',
-        reason: 'Apple is mango',
-      };
-
-      dispatch(setSearchResult(result));
-      dispatch(setSearchTerm(searchInput));
-      dispatch(setSelectedBinId(result?.id));
-      dispatch(setError(null));
-    } catch (error) {
-      dispatch(setError('Failed to fetch results.'));
-    } finally {
-      dispatch(setLoading(false));
+  useClickOutside(searchOptionRef, () => {
+    if (searchOptionsVisible) {
+      setSearchOptionsVisible(false);
     }
-  };
+  });
 
   return (
-    <form className="search-container">
+    <form
+      className="search-container border-default"
+      onSubmit={handleSearchSubmit}
+    >
       <input
+        required
         type="text"
         placeholder="Search item to recycle or dispose"
-        value={searchInput}
+        value={searchTerm}
         onChange={handleSearchChange}
-        onKeyDown={(event) => {
-          if (event.key === 'Enter') {
-            handleSearchSubmit();
-          }
-        }}
-        required
       />
-      <button onClick={handleSearchSubmit} disabled={loading}>
+      <button type="submit" disabled={isLoading}>
         <img
           className="search-icon"
           src={isNight ? nightSearch : daySearch}
-          alt="ArrowPrevious"
+          alt="Search Icon"
         />
       </button>
-      {error && <p className="error-message">{error}</p>}
+
+      {searchOptionsVisible && (
+        <ul className="search-options border-default" ref={searchOptionRef}>
+          {searchOptions.map(({item, binId}, index) => (
+            <li
+              key={index}
+              onClick={() => handleSearchOptionClick(item, binId)}
+            >
+              {item}
+            </li>
+          ))}
+        </ul>
+      )}
     </form>
   );
 };

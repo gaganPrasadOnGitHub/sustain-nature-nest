@@ -1,9 +1,11 @@
 import React from 'react';
 import './BinItemsCarousel.css';
 import Slider from 'react-slick';
+import wasteData from '../../data/bin.json';
 import {NextArrow, PrevArrow} from './CarouselArrows';
+import CategoryCard from '../Common/CategoryCard/CategoryCard';
 
-const BinItemsCarousel = ({selectedBin, searchTerm}) => {
+const BinItemsCarousel = () => {
   const settings = {
     button: false,
     className: 'slider',
@@ -23,17 +25,12 @@ const BinItemsCarousel = ({selectedBin, searchTerm}) => {
   };
 
   return (
-    selectedBin && (
+    wasteData && (
       <div className="slider-container">
-        <p className="text-subheading text-right mb-8">
-          What makes up {selectedBin?.name?.toLowerCase()}
-        </p>
+        <p className="text-subheading mb-8">Also know about</p>
         <Slider {...settings}>
-          {searchTerm && <div className="slider-item">{searchTerm}</div>}
-          {selectedBin?.content?.map((item, index) => (
-            <div key={index} className="slider-item">
-              {item}
-            </div>
+          {wasteData?.wasteBins?.map((item, index) => (
+            <CategoryCard key={index} data={item} />
           ))}
         </Slider>
       </div>

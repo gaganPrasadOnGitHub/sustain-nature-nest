@@ -2,7 +2,7 @@ import {useEffect} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
 import {setSelectedBin, setSelectedBinId} from '../utils/redux/binSlice';
 import wasteData from '../data/bin.json';
-import {setSearchResult, setSearchTerm} from '../utils/redux/searchSlice';
+import {setAiSearchResult, setSearchTerm} from '../utils/redux/searchSlice';
 
 const useSelectedBin = () => {
   const dispatch = useDispatch();
@@ -14,7 +14,7 @@ const useSelectedBin = () => {
     if (newBin) {
       dispatch(setSelectedBinId(newBin.id));
       dispatch(setSelectedBin(newBin));
-      dispatch(setSearchResult(null));
+      dispatch(setAiSearchResult(null));
       dispatch(setSearchTerm(null));
       window.scrollTo(0, 0);
     }

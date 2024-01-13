@@ -1143,7 +1143,8 @@
   },
   "common": {
     "readMore": "Read more",
-    "managementSolutions": "management solutions",
+    "local": "local",
+    "managementStation": "management station",
     "natureNest": "Nature nest",
     "sustainNatureNest": "Sustain Nature nest",
     "whatGoesHere": "What goes here?",

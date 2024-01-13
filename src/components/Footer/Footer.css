@@ -6,13 +6,8 @@
   font-size: 12px;
   align-items: center;
   justify-content: center;
-  color: var(--main-green);
-  background: linear-gradient(0deg, var(--bg-color), #0000);
-}
-
-.night-mode .footer-container {
-  color: var(--main-light-green);
-  background: linear-gradient(0deg, var(--secondary-dark-green), #0000);
+  color: var(--main-color);
+  background: linear-gradient(0deg, var(--overlay-color), #0000);
 }
 
 .footer-container a {

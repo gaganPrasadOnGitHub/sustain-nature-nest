@@ -1,22 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --title-size: 24px;
-  --heading-size: 18px;
-  --subheading-size: 16px;
-  --text-size: 14px;
   --white: #fff;
-  --bg-color: floralwhite;
-  --main-green: #006241;
-  --main-light-green: #dff9ba;
-  --secondary-light-green: #d4e9e2;
-  --main-dark-green: #1e3932;
-  --secondary-dark-green: #162210;
-  --overlay-dark-green: #162210cc;
-  --light-gray: #f4f4f4;
-  --overlay-light-gray: #f4f4f4cc;
-  --error-color: red;
+  --main-color: #006241;
+  --overlay-color: #e4e4e4;
+  --option-bg-color: #f5f5f5;
+  --option-card-hover-color: white;
+  --card-hover-color: #f5f5f5;
+  --text-color: #1e3932;
+  --dark-color: #1e3932;
   --primary-box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+:root .night-mode,
+:root .night-mode * {
+  --main-color: #dff9ba;
+  --option-bg-color: #1e3932;
+  --overlay-color: #162210;
+  --option-card-hover-color: #0c1208;
+  --card-hover-color: #0c1208;
+  --text-color: #d4e9e2;
+  --primary-box-shadow: rgba(0, 0, 0, 1) 0px 25px 20px -20px;
 }
 
 *,
@@ -36,6 +40,15 @@
 
 body {
   position: relative;
-  font-size: var(--text-size);
-  color: var(--main-dark-green);
+  font-size: 14px;
+  color: var(--text-color);
+}
+
+.no-scroll {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+  overflow: hidden;
 }

@@ -4,7 +4,8 @@ import SearchComponent from './SearchComponent/SearchComponent';
 import Footer from './Footer/Footer';
 import useNightMode from '../hooks/useNightMode';
 import WasteBinCard from './WasteBinCard/WasteBinCard';
-import VerticalPageScroll from './VerticalPageScroll';
+import VerticalPageScroll from './Common/VerticalPageScroll';
+import BinItemsCarousel from './BinItemsCarousel/BinItemsCarousel';
 
 const Home = () => {
   const {isNight} = useNightMode();
@@ -17,6 +18,7 @@ const Home = () => {
       </div>
       <div className="container">
         <WasteBinCard />
+        <BinItemsCarousel />
         <VerticalPageScroll />
       </div>
 

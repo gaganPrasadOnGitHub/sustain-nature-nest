@@ -4,8 +4,8 @@
 }
 
 .app-container.night-mode {
-  color: var(--secondary-light-green);
-  background: var(--main-dark-green);
+  color: var(--text-color);
+  background: var(--dark-color);
 }
 
 .container {
@@ -20,28 +20,23 @@
   top: 0;
   z-index: 10;
   position: sticky;
-  background: linear-gradient(180deg, var(--bg-color), #ffffff00);
+  background: linear-gradient(180deg, var(--overlay-color), #ffffff00);
   padding-bottom: 16px;
   backdrop-filter: blur(3px);
 }
 
-.night-mode .header-sticky-wrapper {
-  background: linear-gradient(180deg, var(--secondary-dark-green), #ffffff00);
-}
-
 .text-body {
-  font-size: var(--text-size);
+  font-size: 14px;
 }
 
 .text-title {
   text-transform: capitalize;
-  font-size: var(--title-size);
+  font-size: 16px;
 }
 
 .text-heading {
-  font-weight: 600;
   text-transform: uppercase;
-  font-size: var(--heading-size);
+  font-size: 18px;
 }
 
 .text-heading::first-letter {
@@ -49,20 +44,15 @@
 }
 
 .text-subheading {
-  font-size: var(--subheading-size);
+  font-size: 16px;
 }
 
 .text-title,
 .text-heading,
 .text-subheading {
-  color: var(--main-green);
+  font-weight: 600;
+  color: var(--main-color);
   display: block;
-}
-
-.night-mode .text-title,
-.night-mode .text-heading,
-.night-mode .text-subheading {
-  color: var(--main-light-green);
 }
 
 .text-right {
@@ -71,10 +61,7 @@
 
 a {
   text-decoration: none;
-  color: var(--main-green);
-}
-.night-mode a {
-  color: var(--main-light-green);
+  color: var(--main-color);
 }
 
 img {
@@ -118,18 +105,22 @@ img {
 }
 
 .row {
-  position: relative;
+  gap: 24px;
   display: flex;
+  margin: 24px 0;
+  position: relative;
+  align-items: center;
   flex-direction: column;
+  justify-content: center;
 }
 
-.column {
+.row > div {
   flex: 1;
-  position: relative;
+  gap: 24px;
+  width: 100%;
   display: flex;
-  align-items: center;
-  justify-content: center;
   flex-direction: column;
+  justify-content: center;
 }
 
 .flex-default {
@@ -180,11 +171,8 @@ img {
 
 .scroll-arrow:hover {
   translate: 0 2px;
-  background: var(--secondary-light-green);
-}
-
-.night-mode .scroll-arrow:hover {
-  background: var(--secondary-dark-green);
+  background: var(--overlay-color);
+  border: 1px solid var(--main-color);
 }
 
 #scrollToTop,
@@ -201,6 +189,7 @@ img {
 
 @media (min-width: 767px) {
   .row {
+    margin: 50px 0;
     flex-direction: row;
   }
   #scrollToTop,

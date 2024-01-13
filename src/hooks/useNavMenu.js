@@ -1,45 +1,55 @@
-import {useRef, useState} from 'react';
+import {useMemo, useRef, useState} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
 import {setMenuVisibility, toggleMenuVisibility} from '../utils/redux/appSlice';
 import useClickOutside from './useClickOutside';
+import useGetBinById from './useGetBinById';
 
 const useNavMenu = () => {
   const menuRef = useRef(null);
   const isMenuVisible = useSelector((state) => state.appData.isMenuVisible);
-  const [activeBinId, setActiveBinId] = useState('001');
   const dispatch = useDispatch();
+  const getBinById = useGetBinById;
+  const [selectedParentBin, setSelectedParentBin] = useState(getBinById('001'));
+  const [activeMenuItem, setActiveMenuItem] = useState('001');
+
+  const subCategoryBins = useMemo(
+    () =>
+      selectedParentBin?.subCategoryIds
+        ?.map((subCatId) => getBinById(subCatId))
+        ?.filter((bin) => bin) || [],
+    [selectedParentBin, getBinById]
+  );
+
+  const handleMenuItemClick = (binId) => {
+    const parentBin = getBinById(binId);
+    setSelectedParentBin(parentBin);
+    setActiveMenuItem(binId);
+  };
 
   useClickOutside(menuRef, () => {
     dispatch(setMenuVisibility(false));
-    setActiveBinId('001');
+    document.body.classList.remove('no-scroll');
   });
 
   const handleToggleMenuVisibility = (event) => {
     event.stopPropagation();
-    if (!isMenuVisible) {
-      console.log('isMenuVisible', isMenuVisible);
-      setActiveBinId('001');
-    }
+    const shouldPreventScroll = !isMenuVisible;
     dispatch(toggleMenuVisibility());
-  };
-
-  const handleNavItemClick = (binId) => {
-    setActiveBinId(binId);
-    const element = document?.getElementById(`bin-${binId}`);
-    const navMenuContainer = menuRef?.current;
-
-    if (element && navMenuContainer) {
-      const offsetTop = element.offsetTop;
-      navMenuContainer.scrollTop = offsetTop - 16;
+    if (shouldPreventScroll) {
+      document.body.classList.add('no-scroll');
+    } else {
+      document.body.classList.remove('no-scroll');
     }
   };
 
   return {
     menuRef,
     isMenuVisible,
-    activeBinId,
+    activeMenuItem,
+    subCategoryBins,
+    selectedParentBin,
+    handleMenuItemClick,
     handleToggleMenuVisibility,
-    handleNavItemClick,
   };
 };
 

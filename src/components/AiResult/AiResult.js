@@ -3,13 +3,13 @@ import aiIcon from '../../assets/ai.svg';
 import {useSelector} from 'react-redux';
 
 const AiResult = () => {
-  const searchResult = useSelector((state) => state.search.searchResult);
+  const aiSearchResult = useSelector((state) => state.search.aiSearchResult);
 
   return (
-    searchResult && (
+    aiSearchResult && (
       <div className="ai-result">
         <img src={aiIcon} alt="ai" />
-        <p>{searchResult?.reason}</p>
+        <p>{aiSearchResult?.reason}</p>
       </div>
     )
   );
