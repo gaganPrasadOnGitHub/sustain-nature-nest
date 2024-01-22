@@ -1,103 +1,154 @@
 import React from 'react';
-import ScrollAnimation from 'react-animate-on-scroll';
-import wasteData from '../../../data/bin.json';
-import compostBin from '../../assets/compostBin.png';
+import compostBin from '../../../assets/compostBin.png';
 import ReadMoreLink from './ReadMoreLink';
+import {useTranslation} from 'react-i18next';
+import useSelectedLanguage from '../../../hooks/useSelectedLanguage';
+import ScrollAnimation from '../../Common/ScrollAnimation/Scrollanimation';
 
-const BinDescriptionPanel = ({selectedBin, descriptionRef}) => {
+const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
+  const {t} = useTranslation();
+  useSelectedLanguage();
+
   const guidelineItems = [
-    {key: 'recommendedBinType', label: 'Suggested Bin'},
-    {key: 'handling', label: 'Handling'},
-    {key: 'separation', label: 'Separation'},
-    {key: 'whatNotToDo', label: 'What not to do'},
+    {key: 'handling', label: t('common.handling')},
+    {key: 'separation', label: t('common.separation')},
+    {key: 'whatNotToDo', label: t('common.whatNotToDo')},
   ];
 
-  const defaultAnimationSettings = {
-    animateOnce: true,
-    offset: 50,
-    animateIn: 'animate__fadeInUp',
-    animatePreScroll: false,
-  };
-
-  const guideLines = selectedBin?.guideLines || {};
-
   return (
-    <section id="description-section">
-      <div className="row g-32">
-        <div className="column">
-          <ScrollAnimation {...defaultAnimationSettings}>
+    <section id="description-panel" ref={descriptionRef} className="pt-100">
+      {/* what section */}
+      <div id="what-section" className="row">
+        {/* description */}
+        <div>
+          <ScrollAnimation>
+            <p className="text-heading">
+              {t('common.whatIsWaste', {
+                value: t(`wasteBins.${selectedBinId}.name`),
+              })}
+            </p>
+          </ScrollAnimation>
+          <ScrollAnimation>
+            <div className="detail-info">
+              {/* description info */}
+              {t(`wasteBins.${selectedBinId}.description`)}
+
+              {/* other names */}
+              {selectedBin?.otherNames?.length > 0 && (
+                <>
+                  <p className="text-subheading my-16">
+                    {t('common.alsoKnownAs')}
+                  </p>
+                  <ul>
+                    {selectedBin.otherNames.map((nameKey, index) => (
+                      <li key={index}>
+                        {t(`wasteBins.${selectedBinId}.otherNames.${nameKey}`)}
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              )}
+            </div>
+          </ScrollAnimation>
+        </div>
+
+        {/* example list */}
+        <div>
+          <ScrollAnimation>
+            <div className="detail-info">
+              <p className="text-subheading mb-16">
+                {t('common.itemsInsideWaste', {
+                  value: t(`wasteBins.${selectedBinId}.name`).toLowerCase(),
+                })}
+              </p>
+
+              <ul className="items-list">
+                {selectedBin?.wasteItems?.map((itemKey, index) => (
+                  <li key={index}>
+                    {t(`wasteBins.${selectedBinId}.wasteItems.${itemKey}`)}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </ScrollAnimation>
+        </div>
+      </div>
+
+      {/* how  section */}
+      <div id="how-section" className="row">
+        <div>
+          <ScrollAnimation>
+            <p className="text-heading">
+              {t('common.howToHandle', {
+                value: t(`wasteBins.${selectedBinId}.name`).toLowerCase(),
+              })}
+            </p>
+          </ScrollAnimation>
+          {guidelineItems.map(({key, label}) => {
+            if (selectedBin?.guideLines && selectedBin?.guideLines[key]) {
+              return (
+                <div className="detail-info" key={key}>
+                  <ScrollAnimation>
+                    <span className="text-subheading">{label}</span>
+                    {t(`wasteBins.${selectedBinId}.guideLines.${key}`)}
+                  </ScrollAnimation>
+                </div>
+              );
+            }
+            return null;
+          })}
+        </div>
+
+        <div>
+          {/* Bin Image */}
+          <ScrollAnimation>
             <img
-              ref={descriptionRef}
               className="recommendedBin"
               src={compostBin}
               alt="recommendedBin"
             />
           </ScrollAnimation>
-
-          {/* description */}
-          <div className="card-details-importance">
-            <div className="card-detail">
-              <ScrollAnimation {...defaultAnimationSettings}>
-                <p className="text-heading">
-                  What is {selectedBin?.name?.toLowerCase()}
-                </p>
-              </ScrollAnimation>
-              <ScrollAnimation {...defaultAnimationSettings}>
-                <div className="detail-info">{selectedBin?.description}</div>
-              </ScrollAnimation>
-              <ScrollAnimation {...defaultAnimationSettings}>
-                <div className="detail-info">
-                  <span className="text-subheading">Other names</span>
-                  <ul>
-                    {selectedBin?.otherNames?.map((item, index) => (
-                      <li key={index}>{item}</li>
-                    ))}
-                  </ul>
-                </div>
-              </ScrollAnimation>
+          <ScrollAnimation>
+            <div className="detail-info">
+              <span className="text-subheading">
+                {t('common.suggestedBin')}
+              </span>
+              {t(`wasteBins.${selectedBinId}.guideLines.recommendedBinType`)}
             </div>
-          </div>
+          </ScrollAnimation>
+          <ScrollAnimation>
+            <p className="detail-info">
+              <span className="text-subheading">
+                {t('common.safetyPrecautions')}
+              </span>
+              {t(`wasteBins.${selectedBinId}.guideLines.safetyPrecautions`)}
+            </p>
+          </ScrollAnimation>
         </div>
       </div>
-      <div className="row g-32">
-        <div className="column">
-          {/* Guideline */}
 
-          <div className="">
-            <p className="text-heading">Guidelines</p>
-            {guidelineItems?.map(
-              ({key, label}) =>
-                guideLines[key] && (
-                  <ScrollAnimation {...defaultAnimationSettings}>
-                    <p className="detail-info">
-                      <span className="text-subheading">{label}</span>
-                      {guideLines[key]}
-                    </p>
+      {/* why section */}
+      <div id="why-section" className="row">
+        <div className="card-detail">
+          <ScrollAnimation>
+            <p className="text-heading">{t('common.whyItsImportant')}</p>
+          </ScrollAnimation>
+          {selectedBin?.whyItIsImportant &&
+            Object?.entries(selectedBin?.whyItIsImportant)?.map(
+              ([key], index) => (
+                <div key={index} className="detail-info">
+                  <ScrollAnimation>
+                    {t(`wasteBins.${selectedBinId}.whyItIsImportant.${key}`)}
                   </ScrollAnimation>
-                )
+                </div>
+              )
             )}
-          </div>
         </div>
-        <div className="column">
-          <div className="card-detail">
-            <ScrollAnimation {...defaultAnimationSettings}>
-              <p className="text-heading">Why it's important</p>
-            </ScrollAnimation>
-            {selectedBin?.whyItIsImportant &&
-              Object.entries(selectedBin.whyItIsImportant).map(
-                ([key, value], index) => (
-                  <ScrollAnimation key={index} {...defaultAnimationSettings}>
-                    <div className="detail-info">{value}</div>
-                  </ScrollAnimation>
-                )
-              )}
-          </div>
-        </div>
-        <div className="column">
-          <ScrollAnimation {...defaultAnimationSettings}>
+        <div>
+          <ScrollAnimation>
             <p className="detail-info">
-              <span className="text-subheading">Note</span>
-              {wasteData.disclaimer} <ReadMoreLink />
+              <span className="text-subheading">{t('common.note')}</span>
+              {t('common.disclaimer')} <ReadMoreLink />
             </p>
           </ScrollAnimation>
         </div>

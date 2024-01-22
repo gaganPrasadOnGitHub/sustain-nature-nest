@@ -7,7 +7,7 @@ const useDynamicFontSize = () => {
     const handleScroll = () => {
       const scrollPosition = window.scrollY;
       let newFontSize = 'initialScrollFontSize';
-      if (scrollPosition > 100) {
+      if (scrollPosition > 99) {
         newFontSize = 'smallerScrollFontSize';
       }
       setFontSize(newFontSize);

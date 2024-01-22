@@ -1,0 +1,13 @@
+.ai-result {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  margin-top: 16px;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+}
+
+.ai-result img {
+  width: 40px;
+}

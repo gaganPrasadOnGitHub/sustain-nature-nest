@@ -10,7 +10,7 @@ const NightMode = () => {
     <img
       className="nav-icon"
       src={!isNight ? nightIcon : dayIcon}
-      alt={isNight ? 'Switch to day view' : 'Switch to night view'}
+      alt={isNight ? 'SwitchToDayView' : 'SwitchToNightView'}
       onClick={handleToggleNightMode}
     />
   );

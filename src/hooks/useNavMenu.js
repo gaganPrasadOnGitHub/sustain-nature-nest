@@ -1,12 +1,17 @@
 import {useMemo, useRef, useState} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
-import {setMenuVisibility, toggleMenuVisibility} from '../utils/redux/appSlice';
-import useClickOutside from './useClickOutside';
+import {
+  setFocusScroll,
+  setIsCategoryMenuVisible,
+} from '../utils/redux/appSlice';
 import useGetBinById from './useGetBinById';
+import useOutsideOrScrollHide from './useOutsideOrScrollHide';
 
 const useNavMenu = () => {
   const menuRef = useRef(null);
-  const isMenuVisible = useSelector((state) => state.appData.isMenuVisible);
+  const isCategoryMenuVisible = useSelector(
+    (state) => state.appData.isCategoryMenuVisible
+  );
   const dispatch = useDispatch();
   const getBinById = useGetBinById;
   const [selectedParentBin, setSelectedParentBin] = useState(getBinById('001'));
@@ -26,25 +31,22 @@ const useNavMenu = () => {
     setActiveMenuItem(binId);
   };
 
-  useClickOutside(menuRef, () => {
-    dispatch(setMenuVisibility(false));
-    document.body.classList.remove('no-scroll');
+  useOutsideOrScrollHide(menuRef, () => {
+    if (menuRef) {
+      dispatch(setIsCategoryMenuVisible(false));
+      dispatch(setFocusScroll(false));
+    }
   });
 
   const handleToggleMenuVisibility = (event) => {
     event.stopPropagation();
-    const shouldPreventScroll = !isMenuVisible;
-    dispatch(toggleMenuVisibility());
-    if (shouldPreventScroll) {
-      document.body.classList.add('no-scroll');
-    } else {
-      document.body.classList.remove('no-scroll');
-    }
+    dispatch(setIsCategoryMenuVisible(!isCategoryMenuVisible));
+    dispatch(setFocusScroll(!isCategoryMenuVisible));
   };
 
   return {
     menuRef,
-    isMenuVisible,
+    isCategoryMenuVisible,
     activeMenuItem,
     subCategoryBins,
     selectedParentBin,

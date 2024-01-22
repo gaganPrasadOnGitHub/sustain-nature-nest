@@ -7,15 +7,12 @@ const ReadMoreLink = () => {
   const {t} = useTranslation();
   useSelectedLanguage();
   const {selectedBinId} = useSelectedBin();
+  const readMoreSearch = t('common.readMoreSearch', {
+    value: t(`wasteBins.${selectedBinId}.name`).toLowerCase(),
+  });
 
-  const translatedLocal = t('common.local');
-  const translatedBinName = t(`wasteBins.${selectedBinId}.name`);
-  const translatedManagementStation = t('common.managementStation');
-
-  const googleSearchUrl = `https://www.google.com/search?q=${encodeURIComponent(
-    translatedLocal
-  )}+${encodeURIComponent(translatedBinName)}+${encodeURIComponent(
-    translatedManagementStation
+  const googleSearchUrl = `https://www.google.com/search?q=+${encodeURIComponent(
+    readMoreSearch
   )}`;
 
   return (

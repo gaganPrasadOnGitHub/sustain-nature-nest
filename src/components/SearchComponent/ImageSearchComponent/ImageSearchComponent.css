@@ -1,0 +1,127 @@
+.image-search-popup {
+  left: 0;
+  top: -8px;
+  gap: 16px;
+  width: 100%;
+  z-index: 1;
+  max-width: 320px;
+  flex-direction: column;
+}
+
+.image-search-popup * {
+  transition: all ease-in-out 250ms;
+}
+
+img.close-popup {
+  width: 20px;
+  padding: 4px;
+  display: flex;
+  cursor: pointer;
+  border-radius: 4px;
+  align-self: flex-end;
+}
+
+img.close-popup:hover {
+  translate: 0 2px;
+}
+
+.or-break {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.or-break hr {
+  width: 20%;
+  height: 2px;
+  border-radius: 20px;
+}
+
+.url-input {
+  border-radius: 8px;
+  background: var(--hover-background);
+  border: 1px solid #0000;
+}
+
+.url-input:focus {
+  border: 1px solid var(--main-color);
+}
+
+.image-preview-wrapper {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--hover-background);
+  border-radius: 16px;
+  flex-direction: column;
+  position: relative;
+}
+.image-preview-wrapper .uploaded-image {
+  width: 100%;
+}
+.image-preview-wrapper .mock-image {
+  width: 65px;
+  opacity: 0.5;
+}
+
+.image-preview-wrapper img {
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+}
+
+#image-upload-input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  border-radius: 16px;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.image-preview-wrapper label {
+  bottom: 16px;
+  padding: 8px 16px;
+  position: absolute;
+  border-radius: 8px;
+  color: var(--text-color);
+  font-size: 12px;
+  transition: all ease-in-out 200ms;
+  background: var(--image-hover-text-bg);
+}
+
+.image-preview-wrapper:hover label {
+  scale: 1.1;
+  color: var(--main-color);
+}
+
+#image-search-button {
+  gap: 4px;
+  flex: 1;
+  font-weight: 500;
+  background: var(--option-bg-color);
+  border-radius: 8px;
+  justify-content: center;
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+}
+
+#image-reset-button {
+  background: var(--hover-background);
+  border-radius: 8px;
+  color: var(--text-color);
+  flex: 1;
+  justify-content: center;
+  border: 1px solid var(--main-color);
+}
+
+#image-search-button:hover,
+#image-reset-button:hover {
+  translate: 0 2px;
+  background: var(--menu-card-hover-background);
+}

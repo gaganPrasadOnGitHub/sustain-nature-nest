@@ -6,9 +6,18 @@
   justify-content: center;
 }
 
-.bin-image {
+.attributes-wrapper {
   width: 220px;
   height: 220px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.bin-image {
+  width: 100%;
+  cursor: pointer;
   border-radius: 50%;
   box-shadow: var(--primary-box-shadow);
 }
@@ -22,6 +31,7 @@
 }
 
 .attribute-badge {
+  position: absolute;
   gap: 4px;
   width: 80px;
   padding: 8px;
@@ -31,67 +41,124 @@
   align-items: center;
   text-align: center;
   border-radius: 8px;
-  background: 0;
+  font-size: 12px;
+  cursor: default;
 }
 
-.flex-row {
-  gap: 16px;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+#recyclable {
+  top: -100px;
+  left: 25px;
+  animation: upDown 8s ease-in-out infinite alternate;
 }
 
-.flex-column {
-  gap: 16px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+#burnable {
+  top: -75px;
+  left: -50px;
+  animation: upDown 4s ease-in-out infinite alternate-reverse;
+}
+#toxic {
+  left: -70px;
+  bottom: 40px;
+  animation: upDown 5s ease-in-out infinite alternate;
+}
+#flammable {
+  bottom: -35px;
+  left: -40px;
+  animation: upDown 6s ease-in-out infinite alternate-reverse;
 }
 
-.absolute {
-  position: absolute;
+#special-handling {
+  bottom: -80px;
+  left: 40px;
+  animation: upDown 6s ease-in-out infinite alternate;
 }
 
-.info-top-left {
-  top: 16px;
-  left: 0;
-  max-width: 256px;
-  align-items: stretch;
+#caution {
+  left: 120px;
+  bottom: -90px;
+  animation: upDown 4s ease-in-out infinite alternate;
 }
 
-.info-top-right {
-  top: 16px;
-  right: 0;
+#safetyGear {
+  top: -90px;
+  right: 0px;
+  animation: upDown 8s ease-in-out infinite alternate;
 }
 
-.info-bottom-left {
-  left: 0;
-  top: 300px;
-  flex-wrap: wrap;
-  max-width: 256px;
-  align-items: stretch;
+#washHand {
+  right: -65px;
+  top: -25px;
+  animation: upDown 6s ease-in-out infinite alternate-reverse;
+}
+
+#sanitize {
+  bottom: 75px;
+  right: -65px;
+  animation: upDown 6s ease-in-out infinite alternate;
+}
+
+@keyframes upDown {
+  from {
+    translate: 0px;
+  }
+
+  to {
+    translate: 0 10px;
+  }
 }
 
 @media (min-width: 767px) {
-  .bin-image {
+  .attributes-wrapper {
     width: 350px;
     height: 350px;
   }
 
   .attribute-badge {
     width: 120px;
+    font-size: 14px;
   }
 
   .badge-icon {
     width: 50px;
     height: 50px;
   }
-  .info-bottom-left {
-    top: 400px;
+
+  #recyclable {
+    top: -84px;
+    left: 10px;
   }
-  .info-top-right {
-    top: 50%;
-    translate: 0 -50%;
+  #burnable {
+    top: -10px;
+    left: -85px;
+  }
+  #caution {
+    left: 154px;
+    bottom: -112px;
+  }
+  #toxic {
+    left: -90px;
+    bottom: 51px;
+  }
+
+  #flammable {
+    bottom: -35px;
+    left: -37px;
+  }
+
+  #special-handling {
+    bottom: -89px;
+    left: 52px;
+  }
+  #safetyGear {
+    right: 10px;
+    top: -100px;
+  }
+  #washHand {
+    right: -80px;
+    top: -10px;
+  }
+  #sanitize {
+    right: -110px;
+    top: 0px;
   }
 }

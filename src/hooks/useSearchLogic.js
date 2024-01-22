@@ -1,4 +1,4 @@
-import {useState, useEffect, useCallback} from 'react';
+import {useState, useEffect, useCallback, useMemo} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
 import {
   setError,
@@ -9,20 +9,31 @@ import {
 import {setSelectedBinId} from '../utils/redux/binSlice';
 import wasteManagementData from '../data/bin.json';
 import {debounce} from '../utils/debounce';
+import {
+  setFocusScroll,
+  setIsTextSearchOptionsVisible,
+} from '../utils/redux/appSlice';
+import {searchWasteItems} from '../api/searchApi';
 
 const useSearchLogic = () => {
   const dispatch = useDispatch();
   const {isLoading, searchTerm} = useSelector((state) => state.search);
   const [searchOptions, setSearchOptions] = useState([]);
-  const [searchOptionsVisible, setSearchOptionsVisible] = useState(false);
 
-  // Update function for the search options
-  const updateSearchOptions = (input) => {
-    if (input.length >= 2) {
+  const handleSearchChange = useCallback(
+    (event) => {
+      dispatch(setSearchTerm(event.target.value));
+    },
+    [dispatch]
+  );
+
+  const updateSearchOptions = useCallback(
+    (input) => {
       const uniqueItems = new Set();
       const options = [];
+
       wasteManagementData.wasteBins.forEach((bin) => {
-        bin.content.forEach((item) => {
+        bin.wasteItems.forEach((item) => {
           const lowerItem = item.toLowerCase();
           if (
             lowerItem.includes(input.toLowerCase()) &&
@@ -36,55 +47,60 @@ const useSearchLogic = () => {
       });
 
       setSearchOptions(options);
-      setSearchOptionsVisible(options.length > 0);
-    } else {
-      setSearchOptionsVisible(false);
-    }
-  };
-
-  // Debounce the updateSearchOptions function
-  const debouncedUpdateSearchOptions = debounce(updateSearchOptions, 300);
-
-  // Memoize the debounced function
-  const memoizedDebouncedUpdate = useCallback(debouncedUpdateSearchOptions, []);
-
-  useEffect(() => {
-    memoizedDebouncedUpdate(searchTerm);
-  }, [searchTerm, memoizedDebouncedUpdate]);
-
-  const handleSearchChange = useCallback(
-    (event) => {
-      dispatch(setSearchTerm(event.target.value));
+      dispatch(
+        setIsTextSearchOptionsVisible(options.length > 0 && input.length >= 2)
+      );
+      dispatch(setFocusScroll(options.length > 0 && input.length >= 2));
     },
     [dispatch]
   );
+
+  const debouncedUpdateSearchOptions = useMemo(
+    () => debounce(updateSearchOptions, 300),
+    [updateSearchOptions]
+  );
+
+  useEffect(() => {
+    if (searchTerm) {
+      debouncedUpdateSearchOptions(searchTerm);
+    }
+  }, [searchTerm, debouncedUpdateSearchOptions]);
 
   const handleSearchSubmit = useCallback(
     async (event) => {
       event.preventDefault();
       const foundOption = searchOptions.find(
-        (option) => option.item.toLowerCase() === searchTerm?.toLowerCase()
+        (option) => option.item.toLowerCase() === searchTerm.toLowerCase()
       );
 
       if (foundOption) {
+        dispatch(setAiSearchResult(null));
         dispatch(setSelectedBinId(foundOption.binId));
-        dispatch(
-          setAiSearchResult({item: foundOption.item, binId: foundOption.binId})
-        );
-        dispatch(setSearchTerm(searchTerm));
-        setSearchOptionsVisible(false);
+        dispatch(setIsTextSearchOptionsVisible(false));
+        dispatch(setFocusScroll(false));
       } else {
         dispatch(setLoading(true));
         try {
-          // API call logic here
-          const result = {
-            validItem: true,
-            id: '008',
-            reason: 'Found in API call',
-          };
+          const result = await searchWasteItems(searchTerm);
+
+          console.log('resulr', result);
+          // const result = await new Promise((resolve) => {
+          //   setTimeout(() => {
+          //     resolve({
+          //       binId: '004',
+          //       message:
+          //         'Organic waste such as fruit peels and food scraps can be composted to create nutrient-rich soil for gardening.',
+          //       validItem: true,
+          //     });
+          //   }, 5000);
+          // });
+
           dispatch(setAiSearchResult(result));
-          dispatch(setSearchTerm(searchTerm));
-          dispatch(setSelectedBinId(result.id));
+          dispatch(setSelectedBinId(result?.binId));
+          dispatch(setIsTextSearchOptionsVisible(false));
+          dispatch(setFocusScroll(false));
+
+          window.scrollTo(0, 0);
         } catch (error) {
           dispatch(setError('Failed to fetch results.'));
         } finally {
@@ -100,21 +116,24 @@ const useSearchLogic = () => {
       dispatch(setSearchTerm(item));
       dispatch(setSelectedBinId(binId));
       dispatch(setAiSearchResult(null));
-      setSearchOptionsVisible(false);
+
+      setTimeout(() => {
+        dispatch(setIsTextSearchOptionsVisible(false));
+        dispatch(setFocusScroll(false));
+      }, 350);
+
       window.scrollTo(0, 0);
     },
     [dispatch]
   );
 
   return {
+    isLoading,
     searchTerm,
+    searchOptions,
     handleSearchChange,
     handleSearchSubmit,
     handleSearchOptionClick,
-    setSearchOptionsVisible,
-    searchOptions,
-    searchOptionsVisible,
-    isLoading,
   };
 };
 

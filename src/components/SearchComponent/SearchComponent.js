@@ -3,62 +3,83 @@ import './SearchComponent.css';
 import useNightMode from '../../hooks/useNightMode';
 import daySearch from '../../assets/searchIconDay.svg';
 import nightSearch from '../../assets/searchIconNight.svg';
-import useClickOutside from '../../hooks/useClickOutside';
 import useSearchLogic from '../../hooks/useSearchLogic';
+import {useTranslation} from 'react-i18next';
+import useSelectedLanguage from '../../hooks/useSelectedLanguage';
+import ImageSearchComponent from './ImageSearchComponent/ImageSearchComponent';
+import useOutsideOrScrollHide from '../../hooks/useOutsideOrScrollHide';
+import {
+  setFocusScroll,
+  setIsTextSearchOptionsVisible,
+} from '../../utils/redux/appSlice';
+import {useDispatch, useSelector} from 'react-redux';
 
 const SearchComponent = () => {
+  const dispatch = useDispatch();
+
+  const {t} = useTranslation();
+  useSelectedLanguage();
   const {
+    isLoading,
     searchTerm,
+    searchOptions,
     handleSearchChange,
     handleSearchSubmit,
     handleSearchOptionClick,
-    setSearchOptionsVisible,
-    searchOptions,
-    searchOptionsVisible,
-    isLoading,
   } = useSearchLogic();
+
   const {isNight} = useNightMode();
   const searchOptionRef = useRef(null);
+  const isTextSearchOptionsVisible = useSelector(
+    (state) => state.appData.isTextSearchOptionsVisible
+  );
 
-  useClickOutside(searchOptionRef, () => {
-    if (searchOptionsVisible) {
-      setSearchOptionsVisible(false);
-    }
+  useOutsideOrScrollHide(searchOptionRef, () => {
+    dispatch(setIsTextSearchOptionsVisible(false));
+    dispatch(setFocusScroll(false));
   });
 
   return (
-    <form
-      className="search-container border-default"
-      onSubmit={handleSearchSubmit}
-    >
+    <div className="search-container border-default">
       <input
+        className="search-input"
         required
         type="text"
-        placeholder="Search item to recycle or dispose"
+        placeholder={t('common.searchPlaceholder')}
         value={searchTerm}
         onChange={handleSearchChange}
       />
-      <button type="submit" disabled={isLoading}>
-        <img
-          className="search-icon"
-          src={isNight ? nightSearch : daySearch}
-          alt="Search Icon"
-        />
+
+      <ImageSearchComponent />
+      <button
+        className="search-button"
+        onClick={handleSearchSubmit}
+        disabled={isLoading || !searchTerm.trim().length}
+      >
+        {isLoading ? (
+          <p className="searching"></p>
+        ) : (
+          <img
+            className="search-icon"
+            src={isNight ? nightSearch : daySearch}
+            alt="Search Icon"
+          />
+        )}
       </button>
 
-      {searchOptionsVisible && (
-        <ul className="search-options border-default" ref={searchOptionRef}>
+      {isTextSearchOptionsVisible && (
+        <ul className="search-options popup" ref={searchOptionRef}>
           {searchOptions.map(({item, binId}, index) => (
             <li
               key={index}
               onClick={() => handleSearchOptionClick(item, binId)}
             >
-              {item}
+              {t(`wasteBins.${binId}.wasteItems.${item}`)}
             </li>
           ))}
         </ul>
       )}
-    </form>
+    </div>
   );
 };
 

@@ -1,5 +1,5 @@
 .category-card {
-  gap: 8px;
+  gap: 16px;
   width: 100px;
   height: 170px;
   padding: 16px;
@@ -11,16 +11,16 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background: var(--option-bg-color);
   color: var(--text-color);
   transition: all ease-in-out 250ms;
+  background: var(--main-background);
   box-shadow: var(--primary-box-shadow);
 }
 
 .category-card:hover {
   translate: 0 2px;
   color: var(--main-color);
-  background: var(--option-card-hover-color);
+  background: var(--image-hover-text-bg);
 }
 
 img.category-card-image {

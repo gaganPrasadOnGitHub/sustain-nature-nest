@@ -1,9 +1,9 @@
 .header {
   gap: 16px;
-  max-width: 680px;
-  margin: 0 auto;
   display: flex;
+  margin: 0 auto;
   padding: 8px 0;
+  max-width: 680px;
   position: relative;
   flex-direction: column;
 }
@@ -25,18 +25,10 @@
   transition: all ease-in-out 500ms;
 }
 
-.scroll-title.initialScrollFontSize {
+.initialScrollFontSize {
   font-size: 32px;
 }
 
-.scroll-title.smallerScrollFontSize {
+.smallerScrollFontSize {
   font-size: 24px;
-}
-
-.border-default {
-  border: 1px solid var(--main-color);
-}
-
-.border-list-item {
-  border-left: 3px solid var(--main-color);
 }

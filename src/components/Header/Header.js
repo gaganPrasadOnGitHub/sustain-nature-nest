@@ -1,16 +1,16 @@
-import React from 'react';
 import './Header.css';
+import React from 'react';
 import NavMenu from './NavMenu/NavMenu';
 import {useTranslation} from 'react-i18next';
-import useSelectedLanguage from '../../hooks/useSelectedLanguage';
-import useDynamicFontSize from '../../hooks/useDynamicFontSize';
 import NightMode from './NightMode/NightMode';
+import useDynamicFontSize from '../../hooks/useDynamicFontSize';
+import useSelectedLanguage from '../../hooks/useSelectedLanguage';
 import LanguageSelector from './LanguageSelector/LanguageSelector';
 
 const Header = () => {
-  const {t} = useTranslation();
   useSelectedLanguage();
-  const fontSize = useDynamicFontSize(); // Use the custom hook
+  const {t} = useTranslation();
+  const fontSize = useDynamicFontSize();
 
   return (
     <div className="header">
@@ -21,8 +21,11 @@ const Header = () => {
           <LanguageSelector />
         </div>
       </div>
+
       <div className="text-center">
-        <h1 className={`scroll-title ${fontSize}`}>Know your waste</h1>
+        <h1 className={`scroll-title ${fontSize}`}>
+          {t('common.knowYourWaste')}
+        </h1>
         <p className="text-title">{t('common.sustainNatureNest')}</p>
       </div>
     </div>

@@ -1,573 +1,1060 @@
 {
-  "wasteBins": [
-    {
-      "id": "001",
-      "name": "Organic Waste it",
-      "content": [
-        "Food scraps",
-        "Fruit and vegetable peels",
-        "Coffee grounds",
-        "Tea bags",
-        "Eggshells",
-        "Flowers",
-        "Grass and weeds",
-        "Food waste",
-        "Garden trimmings",
-        "Leaves"
-      ],
-      "caution": "false",
-      "burnable": "false",
-      "recyclable": "true",
-      "isParent": "true",
-      "subCategoryId": ["002", "003"],
-      "size": "Small to Medium",
-      "imageUrl": "https://i.postimg.cc/8cG1mqrf/wetWaste.png",
-      "description": "Organic waste, commonly known as wet waste, originates from kitchens and gardens. It includes food remnants and plant-based materials, which are typically moist. This type of waste is ideal for composting, transforming it into a valuable resource for enhancing soil fertility.",
-      "how": {
-        "composting": "Organic waste undergoes composting to convert it into nutrient-rich compost, which is beneficial for soil health and supports sustainable gardening and agricultural practices.",
-        "separation": "It's essential to separate organic waste from inorganic materials like plastics and metals to improve composting efficiency and recycling processes.",
-        "controlledDisposal": "Organic waste is often collected separately by municipalities for centralized composting or conversion into bio-gas, significantly reducing the environmental impact of waste disposal."
+  "wasteBins": {
+    "001": {
+      "name": "Organic Waste",
+      "wasteItems": {
+        "Food Scraps": "Food Scraps",
+        "Fruit Peels": "Fruit Peels",
+        "Vegetable Peels": "Vegetable Peels",
+        "Coffee Grounds": "Coffee Grounds",
+        "Tea Bags": "Tea Bags",
+        "Eggshells": "Eggshells",
+        "Garden Flowers": "Garden Flowers",
+        "Houseplants": "Houseplants",
+        "Grass Clippings": "Grass Clippings",
+        "Weeds": "Weeds",
+        "Nut Shells": "Nut Shells",
+        "Paper Towels": "Paper Towels",
+        "Cardboard": "Cardboard",
+        "Wood Scrap": "Wood Scrap",
+        "Natural Fibers": "Natural Fibers"
       },
-      "why": {
-        "environmentalImpact": "Composting organic waste dramatically reduces landfill usage, decreasing methane emissions that result from the decomposition of organic materials in landfills.",
-        "resourceRecovery": "The composting process recycles organic nutrients back into the soil, enriching it, supporting plant growth, and reducing the need for synthetic fertilizers, thereby promoting eco-friendly agricultural practices."
-      }
-    },
-    {
-      "id": "002",
-      "name": "Green Waste",
-      "content": [
-        "Leaves",
-        "Grass clippings",
-        "Branches",
-        "Flowers",
-        "Plants",
-        "Weeds",
-        "Garden trimmings",
-        "Tree bark",
-        "Compostable food containers",
-        "Plant-based packaging"
-      ],
-      "caution": false,
-      "burnable": true,
-      "recyclable": true,
-      "parentBin": "Organic Waste",
-      "size": "Varies (Small to Large)",
-      "imageUrl": "",
-      "description": "Green waste is primarily composed of plant-based materials from gardens and parks, including leaves, grass clippings, and branches. This type of waste is particularly suitable for composting and mulching, playing a crucial role in enhancing garden health and reducing landfill burden.",
-      "how": {
-        "composting": "Green waste can be effectively turned into compost, creating a nutrient-rich soil amendment that boosts soil health and plant growth.",
-        "mulching": "Processed green waste can serve as mulch, helping to conserve soil moisture, suppress weed growth, and enhance soil fertility.",
-        "collection": "Many localities offer specialized green waste collection services, enabling its processing into compost or mulch on a larger scale."
+      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "otherNames": {
+        "Compostable Waste": "Compostable Waste",
+        "Biodegradable Waste": "Biodegradable Waste"
       },
-      "why": {
-        "environmental Impact": "Composting or mulching green waste minimizes organic material in landfills, lowering methane emissions and conserving landfill space.",
-        "garden Health": "Utilizing composted green waste as a soil enhancer enriches the soil, fosters healthier plant growth, and reduces reliance on chemical fertilizers."
-      }
+      "guideLines": {
+        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
+        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
+        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
+        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
+        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
+        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+      },
+      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
     },
-    {
-      "id": "003",
+    "002": {
       "name": "Agricultural Waste",
-      "content": [
-        "Crop residues (straw, husks, leaves)",
-        "Animal manure",
-        "Poultry litter",
-        "Agricultural plastics (mulch film, silage wrap)",
-        "Spoiled food crops",
-        "Pesticide containers",
-        "Fertilizer bags",
-        "Prunings and trimmings from orchards and vineyards"
-      ],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Organic Waste",
-      "size": "Varies (Small to Large)",
-      "imageUrl": "",
-      "description": "Agricultural waste comprises various by-products from farming activities, including crop residues, animal waste, and used agricultural plastics. Properly managing this waste is critical to prevent environmental contamination and to endorse sustainable agriculture.",
-      "how": {
-        "composting": "Many organic components of agricultural waste, such as crop residues and manure, are suitable for composting, enriching soil quality.",
-        "recycling": "Recycling of materials like agricultural plastics is essential to mitigate environmental impact.",
-        "biogas production": "Certain types of agricultural waste, including animal manure and specific plant wastes, are utilized in biogas plants to produce renewable energy."
+      "wasteItems": {
+        "Crop Residues": "Crop Residues",
+        "Manure": "Manure",
+        "Pesticide Containers": "Pesticide Containers",
+        "Fertilizer Bags": "Fertilizer Bags",
+        "Farm Machinery": "Farm Machinery",
+        "Spoiled Produce": "Spoiled Produce",
+        "Agricultural Plastics": "Agricultural Plastics",
+        "Diseased Plants": "Diseased Plants",
+        "Greenhouse Films": "Greenhouse Films",
+        "Seed Sacks": "Seed Sacks",
+        "Pruning Waste": "Pruning Waste",
+        "Irrigation Equipment": "Irrigation Equipment",
+        "Soil Amendment Packaging": "Soil Amendment Packaging",
+        "Animal Feed Bags": "Animal Feed Bags",
+        "Silage Wraps": "Silage Wraps",
+        "Horticultural Pots": "Horticultural Pots",
+        "Waste Pesticides": "Waste Pesticides",
+        "Contaminated Soils": "Contaminated Soils",
+        "Old Tools": "Old Tools",
+        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
+        "Discarded Gloves": "Discarded Gloves",
+        "Protective Gear": "Protective Gear",
+        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
+        "Baler Twine": "Baler Twine",
+        "Netting Material": "Netting Material",
+        "Plastic Mulch": "Plastic Mulch"
       },
-      "why": {
-        "environmental Protection": "Efficient management of agricultural waste curtails pollution from agricultural runoff and diminishes waste in landfills.",
-        "sustainable Farming": "Through recycling and composting, agricultural waste is repurposed, enhancing soil fertility and reducing dependence on chemical fertilizers, contributing to sustainable agricultural methods.",
-        "energy Recovery": "The transformation of waste into biogas offers a sustainable energy source, lessening the reliance on non-renewable energy sources."
-      }
-    },
-    {
-      "id": "004",
-      "name": "Dry Waste",
-      "content": ["Paper", "Plastic", "Textiles", "Wood", "Metal", "Glass"],
-      "caution": false,
-      "burnable": "Varies",
-      "recyclable": true,
-      "isParent": true,
-      "subCategoryId": ["005", "006", "007", "008", "009", "010", "011"],
-      "size": "Varies",
-      "imageUrl": "",
-      "description": "Dry waste typically includes non-biodegradable materials that are not wet or soiled. This category encompasses a wide range of commonly used items such as paper, plastic, textiles, and materials from construction like wood, metal, and glass. Proper recycling of these materials is crucial for reducing the environmental impact.",
-      "how": {
-        "separation": "Separating dry waste into its components (paper, plastic, etc.) is essential for effective recycling.",
-        "recycling": "Each type of dry waste material can be processed and repurposed into new products, conserving resources and reducing the need for new raw materials.",
-        "controlled Disposal": "Certain types of dry waste that cannot be recycled should be disposed of in a controlled manner to minimize environmental harm."
+      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "otherNames": {
+        "Farm Waste": "Farm Waste",
+        "Agricultural Byproducts": "Agricultural Byproducts"
       },
-      "why": {
-        "resource Conservation": "Recycling dry waste saves natural resources and reduces the need for new material extraction.",
-        "landfill Reduction": "Proper handling and recycling lead to less dry waste ending up in landfills, thereby reducing pollution and conserving space.",
-        "sustainability": "Efficient management of dry waste is a step towards sustainable practices, promoting a circular economy and reducing environmental footprints."
-      }
-    },
-    {
-      "id": "005",
-      "name": "Paper Waste",
-      "content": [
-        "Newspapers",
-        "Magazines",
-        "Office paper",
-        "Cardboard",
-        "Books",
-        "Mail"
-      ],
-      "caution": false,
-      "burnable": true,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Paper waste includes various types of paper products like newspapers, magazines, office paper, and cardboard. These are among the most recyclable materials. Recycling paper waste plays a significant role in conserving trees and reducing environmental impact.",
-      "how": {
-        "recycling": "Paper is collected, sorted, cleaned, and then re-pulped to create new paper products.",
-        "reuse": "Many paper products, especially cardboard, can be reused multiple times before recycling."
+      "guideLines": {
+        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
+        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
+        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
+        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
+        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
       },
-      "why": {
-        "environmental Impact": "Recycling paper reduces the need for virgin paper production, conserving trees and lowering greenhouse gas emissions.",
-        "energy Savings": "The energy required to produce recycled paper is considerably less than that required for producing new paper from trees."
-      }
-    },
-    {
-      "id": "006",
-      "name": "Plastic Waste",
-      "content": [
-        "Plastic bottles",
-        "Containers",
-        "Packaging materials",
-        "Bags"
-      ],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Plastic waste encompasses a wide range of plastic items including bottles, containers, packaging materials, and bags. Due to the durability and prevalence of plastics, managing plastic waste is crucial for reducing environmental pollution and promoting recycling.",
-      "how": {
-        "recycling": "Plastic waste is sorted by type, cleaned, shredded, and then melted to form new plastic products.",
-        "reuse": "Many plastic items can be reused, reducing the need for new plastic production and waste generation."
+      "whyItIsImportant": {
+        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
+        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
       },
-      "why": {
-        "pollution Reduction": "Proper recycling of plastics significantly reduces environmental pollution, especially in oceans and waterways.",
-        "resource Efficiency": "Recycling plastics reduces the need for new plastic production, conserving petroleum resources and energy."
-      }
+      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
     },
-    {
-      "id": "007",
-      "name": "Textile Waste",
-      "content": [
-        "Clothing items",
-        "Fabric scraps",
-        "Towels",
-        "Bedding materials"
-      ],
-      "caution": false,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Textile waste includes discarded clothing, fabric scraps, towels, and bedding. This category is important for recycling and repurposing to reduce the environmental impact of textile production and waste.",
-      "how": {
-        "recycling": "Textiles can be recycled into new fabric or other materials, depending on their condition and quality.",
-        "reuse": "Many textile products can be reused or repurposed, extending their lifecycle and reducing waste."
+    "003": {
+      "name": "Animal Waste",
+      "wasteItems": {
+        "Manure": "Manure",
+        "Bedding Straw": "Bedding Straw",
+        "Livestock Carcasses": "Livestock Carcasses",
+        "Poultry Waste": "Poultry Waste",
+        "Feathers": "Feathers",
+        "Fish Waste": "Fish Waste",
+        "Milk Spoilage": "Milk Spoilage",
+        "Eggshell Waste": "Eggshell Waste",
+        "Animal Hair": "Animal Hair",
+        "Wool": "Wool",
+        "Dairy Processing Waste": "Dairy Processing Waste",
+        "Veterinary Supplies": "Veterinary Supplies",
+        "Expired Animal Feed": "Expired Animal Feed",
+        "Contaminated Animal Products": "Contaminated Animal Products"
       },
-      "why": {
-        "resource Conservation": "Recycling textiles saves resources by reducing the need for new material production.",
-        "waste Reduction": "Proper handling of textile waste minimizes its presence in landfills, reducing environmental impact."
-      }
-    },
-    {
-      "id": "008",
-      "name": "Metal Waste",
-      "content": [
-        "Aluminum cans",
-        "Tin cans",
-        "Metallic packaging materials",
-        "Metal scraps"
-      ],
-      "caution": false,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Metal waste encompasses various metal products like cans, packaging materials, and scraps. These materials are highly recyclable and can be melted down and reformed into new products, reducing the need for virgin metal extraction.",
-      "how": {
-        "recycling": "Metal waste is collected, sorted by type, cleaned, and then melted for reuse in new products."
+      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "otherNames": {
+        "Livestock Waste": "Livestock Waste",
+        "Poultry Waste": "Poultry Waste"
       },
-      "why": {
-        "resource Efficiency": "Recycling metal conserves natural resources and saves energy compared to extracting and processing new metals.",
-        "environmental Benefits": "Recycling metal reduces greenhouse gas emissions and pollution associated with metal production."
-      }
-    },
-    {
-      "id": "009",
-      "name": "Glass Waste",
-      "content": ["Bottles", "Jars", "Glass containers", "Broken glass pieces"],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Glass waste includes items like bottles, jars, and other containers. Glass is fully recyclable and can be melted down and reformed into new glass products multiple times without loss of purity or quality.",
-      "how": {
-        "recycling": "Glass is collected, sorted by color, cleaned, and then melted to produce new glass items."
+      "guideLines": {
+        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
+        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
+        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
+        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
+        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
       },
-      "why": {
-        "sustainability": "Recycling glass reduces the demand for raw materials, conserves energy, and decreases greenhouse gas emissions."
-      }
-    },
-    {
-      "id": "010",
-      "name": "Wood Waste",
-      "content": [
-        "Lumber scraps",
-        "Furniture pieces",
-        "Pallets",
-        "Branches and twigs"
-      ],
-      "caution": false,
-      "burnable": true,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Wood waste consists of discarded or leftover wood from various sources, including construction, furniture, and tree trimmings. This type of waste can be reused, repurposed, or recycled into wood-based products.",
-      "how": {
-        "recycling": "Wood can be chipped or shredded for use in products like particle board, mulch, or biomass fuel.",
-        "reuse": "Larger pieces of wood can be reused in construction or furniture making."
+      "whyItIsImportant": {
+        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
+        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
       },
-      "why": {
-        "resource Conservation": "Recycling and reusing wood saves trees and reduces the environmental impact associated with logging and wood processing.",
-        "energy Production": "Some wood waste can be used as a source of renewable energy in biomass plants."
-      }
+      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
     },
-    {
-      "id": "011",
-      "name": "Rubber Waste",
-      "content": [
-        "Used tires",
-        "Rubber gloves",
-        "Worn out rubber hoses",
-        "Damaged rubber boots",
-        "Conveyor belts",
-        "Rubber gaskets",
-        "Rubber scraps"
-      ],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Rubber waste comprises various products made of rubber that have reached the end of their useful life. This includes items like used tires, rubber hoses, and damaged rubber footwear. Proper management of rubber waste is essential to prevent environmental pollution and to recover valuable materials.",
-      "how": {
-        "recycling": "Rubber can be ground down and reused in products such as asphalt, playground surfaces, and new rubber products.",
-        "energy Recovery": "In some cases, rubber can be used as a fuel in cement kilns or other industrial processes, due to its high energy content.",
-        "repurposing": "Larger pieces of rubber can be repurposed for applications like construction material, landscaping, or as barriers in various settings."
+    "004": {
+      "name": "Food Waste",
+
+      "wasteItems": {
+        "Cooked Food": "Cooked Food",
+        "Uncooked Food": "Uncooked Food",
+        "Meat Scraps": "Meat Scraps",
+        "Fish Scraps": "Fish Scraps",
+        "Dairy Products": "Dairy Products",
+        "Bread": "Bread",
+        "Pastries": "Pastries",
+        "Leftover Meals": "Leftover Meals",
+        "Expired Food": "Expired Food",
+        "Rice": "Rice",
+        "Pasta": "Pasta",
+        "Cheese": "Cheese",
+        "Egg Shells": "Egg Shells",
+        "Fruit Scraps": "Fruit Scraps",
+        "Vegetable Scraps": "Vegetable Scraps",
+        "Coffee Grounds": "Coffee Grounds",
+        "Tea Bags": "Tea Bags",
+        "Food-Soiled Paper": "Food-Soiled Paper"
       },
-      "why": {
-        "environmental Protection": "Recycling rubber helps reduce landfill waste and prevents harmful environmental impact of improperly disposed rubber, especially tires.",
-        "resource Efficiency": "Repurposing and recycling rubber products maximizes the use of this material, reducing the need for new rubber production and conserving resources.",
-        "energy Recovery": "Using rubber waste as an alternative fuel source helps in energy recovery, reducing reliance on fossil fuels."
-      }
-    },
-    {
-      "id": "012",
-      "name": "Construction Waste",
-      "content": [
-        "Concrete",
-        "Bricks",
-        "Tiles",
-        "Ceramics",
-        "Wood scraps",
-        "Drywall"
-      ],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Dry Waste",
-      "size": "Large",
-      "imageUrl": "",
-      "description": "Construction waste includes materials such as concrete, bricks, tiles, and ceramics, primarily generated from construction and demolition activities. Efficient management, recycling, or repurposing of these materials is essential for sustainable construction practices.",
-      "how": {
-        "recycling": "Construction materials can be crushed and reused in new construction projects or as road base.",
-        "reuse": "Some construction materials can be directly reused in other construction projects, reducing the need for new resources."
+      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "otherNames": {
+        "Kitchen Waste": "Kitchen Waste",
+        "Leftover Waste": "Leftover Waste"
       },
-      "why": {
-        "environmental Sustainability": "Recycling construction waste reduces the need for new raw materials, conserving resources and minimizing environmental impact.",
-        "waste Management": "Proper handling of construction waste helps in reducing the volume of waste in landfills, contributing to a cleaner environment."
-      }
-    },
-    {
-      "id": "013",
-      "name": "Hazardous Waste",
-      "content": [
-        "Electronic waste",
-        "Automotive waste",
-        "Universal waste",
-        "Radioactive waste",
-        "Biomedical and infectious waste",
-        "Chemical waste",
-        "Oil waste",
-        "Industrial process waste",
-        "Chemicals",
-        "Pesticides",
-        "Batteries",
-        "Fluorescent bulbs"
-      ],
-      "alert": true,
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "isParent": true,
-      "subCategoryId": ["014", "015", "016", "017", "018", "019"],
-      "size": "Varies",
-      "imageUrl": "",
-      "description": "Hazardous waste includes a variety of materials that pose significant risks to health and the environment. This category covers electronic waste, automotive products, chemicals, and more. Special handling and disposal methods are required to safely manage these materials.",
-      "how": {
-        "specialized Disposal": "Hazardous waste requires specialized disposal methods to prevent environmental contamination and health risks.",
-        "recycling": "Certain types of hazardous waste, like electronic waste, can be recycled under controlled conditions."
+      "guideLines": {
+        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
+        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
+        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
+        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
+        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
       },
-      "why": {
-        "health and Safety": "Proper management of hazardous waste is crucial for protecting human health and preventing environmental damage.",
-        "legal Compliance": "Many regions have strict regulations governing the disposal of hazardous waste, making compliance essential."
-      }
-    },
-    {
-      "id": "014",
-      "name": "Electronic Waste",
-      "content": ["Computers", "Mobile phones", "TVs", "Electronic gadgets"],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBinId": "012",
-      "size": "Small to Large",
-      "imageUrl": "",
-      "description": "Electronic waste, or e-waste, includes discarded electronic devices such as computers, mobile phones, and TVs. Specialized recycling processes are required to safely extract valuable materials and properly dispose of hazardous components.",
-      "how": {
-        "recycling": "E-waste is processed to recover valuable materials like metals, while safely handling hazardous substances like lead and mercury."
+      "whyItIsImportant": {
+        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
+        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
       },
-      "why": {
-        "resource Recovery": "Recycling e-waste recovers valuable materials, reducing the need for virgin resource extraction.",
-        "environmental Protection": "Proper e-waste management prevents harmful substances from contaminating the environment."
-      }
+      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
     },
-    {
-      "id": "015",
+    "005": {
+      "name": "Green Waste",
+      "wasteItems": {
+        "Grass Clippings": "Grass Clippings",
+        "Leaves": "Leaves",
+        "Branches": "Branches",
+        "Weeds": "Weeds",
+        "Flowers": "Flowers",
+        "Garden Trimmings": "Garden Trimmings",
+        "Shrubs": "Shrubs",
+        "Small Twigs": "Small Twigs",
+        "Hedge Clippings": "Hedge Clippings",
+        "Fallen Fruit": "Fallen Fruit",
+        "Garden Maintenance": "Garden Maintenance",
+        "Plant Prunings": "Plant Prunings"
+      },
+      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "otherNames": {
+        "Yard Waste": "Yard Waste",
+        "Garden Waste": "Garden Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
+        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
+        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
+        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+      },
+      "whyItIsImportant": {
+        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
+        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+      },
+      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+    },
+    "006": {
+      "name": "Recyclable Waste",
+      "wasteItems": {
+        "Newspapers": "Newspapers",
+        "Magazines": "Magazines",
+        "Office Paper": "Office Paper",
+        "Cardboard": "Cardboard",
+        "Plastic Bottles": "Plastic Bottles",
+        "Plastic Containers": "Plastic Containers",
+        "Glass Bottles": "Glass Bottles",
+        "Glass Jars": "Glass Jars",
+        "Aluminum Cans": "Aluminum Cans",
+        "Steel Cans": "Steel Cans",
+        "Electronics": "Electronics",
+        "Textiles": "Textiles",
+        "Untreated Wood": "Untreated Wood",
+        "Aerosol Cans": "Aerosol Cans",
+        "Batteries": "Batteries",
+        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+      },
+      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "otherNames": {},
+      "guideLines": {
+        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
+        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
+        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
+        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
+        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
+        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+      },
+      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+    },
+    "007": {
       "name": "Automotive Waste",
-      "content": [
-        "Used motor oil",
-        "Batteries",
-        "Tires",
-        "Vehicle parts",
-        "Car batteries",
-        "Old car parts"
-      ],
-      "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Hazardous Waste",
-      "size": "Varies",
-      "imageUrl": "",
-      "description": "Automotive waste includes various materials from vehicles, such as used motor oil, batteries, tires, and other parts. These materials require specific disposal and recycling methods to prevent environmental harm.",
-      "how": {
-        "recycling": "Automotive parts are recycled to recover materials, and substances like oil and batteries are processed to prevent environmental contamination."
+      "wasteItems": {
+        "Used Motor Oil": "Used Motor Oil",
+        "Oil Filters": "Oil Filters",
+        "Batteries": "Batteries",
+        "Tires": "Tires",
+        "Brake Pads": "Brake Pads",
+        "Brake Fluid": "Brake Fluid",
+        "Transmission Fluid": "Transmission Fluid",
+        "Coolants": "Coolants",
+        "Metal Parts": "Metal Parts",
+        "Rubber Hoses": "Rubber Hoses",
+        "Belts": "Belts",
+        "Air Filters": "Air Filters",
+        "Windshield Glass": "Windshield Glass",
+        "Upholstery Materials": "Upholstery Materials",
+        "Automotive Bumpers": "Automotive Bumpers",
+        "Headlights": "Headlights",
+        "Electrical Components": "Electrical Components"
       },
-      "why": {
-        "pollution Prevention": "Proper disposal of automotive waste helps prevent soil and water pollution.",
-        "resource Conservation": "Recycling automotive materials conserves natural resources and reduces the need for new material production."
-      }
+      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "otherNames": {
+        "Vehicle Waste": "Vehicle Waste",
+        "Car Waste": "Car Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
+        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
+        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
+        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
+        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+      },
+      "whyItIsImportant": {
+        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
+        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+      },
+      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
     },
-    {
+    "008": {
+      "name": "Bulky Waste",
+      "wasteItems": {
+        "Furniture": "Furniture",
+        "Appliances": "Appliances",
+        "Mattresses": "Mattresses",
+        "Large Toys": "Large Toys",
+        "Carpeting": "Carpeting",
+        "Bicycles": "Bicycles",
+        "Large Electronics": "Large Electronics",
+        "BBQ Grills": "BBQ Grills",
+        "Exercise Equipment": "Exercise Equipment",
+        "Large Household Items": "Large Household Items"
+      },
+      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "otherNames": {
+        "Large Waste": "Large Waste",
+        "Oversized Items": "Oversized Items"
+      },
+      "guideLines": {
+        "recommendedBinType": "Special Collection or Drop-off Point",
+        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
+        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
+        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
+        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
+        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+      },
+      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+    },
+    "009": {
+      "name": "Construction and Demolition Waste",
+      "wasteItems": {
+        "Concrete": "Concrete",
+        "Bricks": "Bricks",
+        "Wood": "Wood",
+        "Gypsum": "Gypsum",
+        "Metal": "Metal",
+        "Glass": "Glass",
+        "Plastic": "Plastic",
+        "Insulation Materials": "Insulation Materials",
+        "Electrical Wiring": "Electrical Wiring",
+        "Plumbing Fixtures": "Plumbing Fixtures",
+        "Ceramic Tiles": "Ceramic Tiles",
+        "Asphalt": "Asphalt",
+        "Roofing Materials": "Roofing Materials",
+        "Windows": "Windows",
+        "Doors": "Doors",
+        "Piping": "Piping",
+        "Reinforced Concrete": "Reinforced Concrete",
+        "Drywall": "Drywall",
+        "Flooring Materials": "Flooring Materials",
+        "Wall Coverings": "Wall Coverings"
+      },
+      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "otherNames": {
+        "Building Waste": "Building Waste",
+        "Renovation Debris": "Renovation Debris"
+      },
+      "guideLines": {
+        "recommendedBinType": "Special Collection or Designated Dumping Areas",
+        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
+        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
+        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
+        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
+        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+      },
+      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+    },
+    "010": {
+      "name": "Electronic Waste",
+      "wasteItems": {
+        "Computers": "Computers",
+        "Laptops": "Laptops",
+        "Mobile Phones": "Mobile Phones",
+        "Printers": "Printers",
+        "Scanners": "Scanners",
+        "Televisions": "Televisions",
+        "Monitors": "Monitors",
+        "DVD Players": "DVD Players",
+        "Game Consoles": "Game Consoles",
+        "Small Appliances": "Small Appliances",
+        "Electronic Tools": "Electronic Tools",
+        "Batteries": "Batteries",
+        "Circuit Boards": "Circuit Boards",
+        "Hard Drives": "Hard Drives",
+        "Keyboards": "Keyboards",
+        "Mice": "Mice",
+        "Speakers": "Speakers",
+        "Chargers": "Chargers",
+        "Cables": "Cables",
+        "Cameras": "Cameras",
+        "Electronic Toys": "Electronic Toys",
+        "CDs": "CDs",
+        "DVDs": "DVDs",
+        "GPS Devices": "GPS Devices"
+      },
+      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "otherNames": {
+        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
+        "E-Waste": "E-Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
+        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
+        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
+        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
+        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
+        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+      },
+      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+    },
+    "011": {
+      "name": "Glass Waste",
+      "wasteItems": {
+        "Glass Bottles": "Glass Bottles",
+        "Glass Jars": "Glass Jars",
+        "Window Glass": "Window Glass",
+        "Mirror Glass": "Mirror Glass",
+        "Glass Containers": "Glass Containers",
+        "Drinking Glasses": "Drinking Glasses",
+        "Broken Glassware": "Broken Glassware",
+        "Automotive Glass": "Automotive Glass",
+        "Glass Tableware": "Glass Tableware",
+        "Light Bulbs": "Light Bulbs (non-fluorescent)",
+        "Laboratory Glassware": "Laboratory Glassware",
+        "Tempered Glass": "Tempered Glass",
+        "Glass Shards": "Glass Shards"
+      },
+      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "otherNames": {
+        "Broken Glass": "Broken Glass",
+        "Discarded Glassware": "Discarded Glassware"
+      },
+      "guideLines": {
+        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
+        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
+        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
+        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
+        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
+        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+      },
+      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+    },
+    "012": {
+      "name": "Industrial Waste",
+      "wasteItems": {
+        "Chemical Solvents": "Chemical Solvents",
+        "Metal Scraps": "Metal Scraps",
+        "Plastic Offcuts": "Plastic Offcuts",
+        "Construction Debris": "Construction Debris",
+        "Electronic Components": "Electronic Components",
+        "Paper and Cardboard": "Paper and Cardboard",
+        "Textile Scraps": "Textile Scraps",
+        "Glass Pieces": "Glass Pieces",
+        "Rubber Waste": "Rubber Waste",
+        "Biodegradable Waste": "Biodegradable Waste",
+        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
+        "Hazardous Materials": "Hazardous Materials",
+        "Non-Hazardous Materials": "Non-Hazardous Materials",
+        "Industrial Sludge": "Industrial Sludge",
+        "Packaging Materials": "Packaging Materials"
+      },
+      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "otherNames": {
+        "Manufacturing Waste": "Manufacturing Waste",
+        "Production Waste": "Production Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
+        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
+        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
+        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
+        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
+        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+      },
+      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+    },
+    "013": {
+      "name": "Metal Waste",
+      "wasteItems": {
+        "Aluminum Cans": "Aluminum Cans",
+        "Tin Cans": "Tin Cans",
+        "Steel Scraps": "Steel Scraps",
+        "Copper Wire": "Copper Wire",
+        "Metal Pipes": "Metal Pipes",
+        "Metal Tools": "Metal Tools",
+        "Metal Packaging": "Metal Packaging",
+        "Automotive Parts": "Automotive Parts",
+        "Metal Furniture": "Metal Furniture",
+        "Metal Appliances": "Metal Appliances",
+        "Construction Materials": "Construction Materials",
+        "Aerosol Cans": "Aerosol Cans",
+        "Electronic Metals": "Electronic Metals",
+        "Metal Caps": "Metal Caps",
+        "Metal Lids": "Metal Lids"
+      },
+      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "otherNames": {
+        "Scrap Metal": "Scrap Metal",
+        "Discarded Metal": "Discarded Metal"
+      },
+      "guideLines": {
+        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
+        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
+        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
+        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
+        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
+        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+      },
+      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+    },
+    "014": {
+      "name": "Paper Waste",
+      "wasteItems": {
+        "Newspapers": "Newspapers",
+        "Magazines": "Magazines",
+        "Office Paper": "Office Paper",
+        "Notebooks": "Notebooks",
+        "Envelopes": "Envelopes",
+        "Junk Mail": "Junk Mail",
+        "Cardboard Boxes": "Cardboard Boxes",
+        "Paper Packaging": "Paper Packaging",
+        "Paper Bags": "Paper Bags",
+        "Phone Books": "Phone Books",
+        "Catalogs": "Catalogs",
+        "Shredded Paper": "Shredded Paper",
+        "Paper Cups": "Paper Cups",
+        "Paper Plates": "Paper Plates",
+        "Greeting Cards": "Greeting Cards",
+        "Wrapping Paper": "Wrapping Paper"
+      },
+      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "otherNames": {
+        "Discarded Paper": "Discarded Paper",
+        "Paper Scraps": "Paper Scraps"
+      },
+      "guideLines": {
+        "recommendedBinType": "Paper Recycling Bin",
+        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
+        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
+        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
+        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
+        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+      },
+      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+    },
+    "015": {
+      "name": "Plastic Waste",
+      "wasteItems": {
+        "Plastic Bottles": "Plastic Bottles",
+        "Plastic Bags": "Plastic Bags",
+        "Plastic Packaging": "Plastic Packaging",
+        "Plastic Containers": "Plastic Containers",
+        "Plastic Utensils": "Plastic Utensils",
+        "Plastic Wraps": "Plastic Wraps",
+        "Plastic Toys": "Plastic Toys",
+        "Polystyrene Foam": "Polystyrene Foam",
+        "Plastic Cups": "Plastic Cups",
+        "Plastic Plates": "Plastic Plates",
+        "Plastic Film": "Plastic Film",
+        "Water Bottles": "Water Bottles",
+        "Detergent Bottles": "Detergent Bottles",
+        "Shampoo Bottles": "Shampoo Bottles",
+        "Plastic Caps": "Plastic Caps",
+        "Plastic Lids": "Plastic Lids",
+        "Plastic Furniture": "Plastic Furniture",
+        "Plastic Hangers": "Plastic Hangers"
+      },
+      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "otherNames": {
+        "Discarded Plastics": "Discarded Plastics",
+        "Scrap Plastics": "Scrap Plastics"
+      },
+      "guideLines": {
+        "recommendedBinType": "Plastic Recycling Bin or Facility",
+        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
+        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
+        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
+        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
+        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+      },
+      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+    },
+    "016": {
       "id": "016",
-      "name": "Universal Waste",
-      "content": [
-        "Batteries",
-        "Fluorescent light bulbs",
-        "Pesticides",
-        "Mercury-containing equipment"
-      ],
-      "caution": true,
-      "burnable": false,
+      "name": "Rubber Waste",
+      "isParent": false,
+      "subCategoryIds": [],
+      "wasteItems": {
+        "Used Tires": "Used Tires",
+        "Rubber Bands": "Rubber Bands",
+        "Rubber Gloves": "Rubber Gloves",
+        "Rubber Hoses": "Rubber Hoses",
+        "Rubber Footwear": "Rubber Footwear",
+        "Rubber Mats": "Rubber Mats",
+        "Conveyor Belts": "Conveyor Belts",
+        "Rubber Gaskets": "Rubber Gaskets",
+        "Rubber Seals": "Rubber Seals",
+        "Rubber Sheets": "Rubber Sheets",
+        "Rubber Toys": "Rubber Toys",
+        "Automotive Rubber": "Automotive Rubber",
+        "Rubber Tubing": "Rubber Tubing",
+        "Elastomeric Materials": "Elastomeric Materials",
+        "Synthetic Rubber": "Synthetic Rubber"
+      },
+      "binImage": "link_to_rubber_waste_bin_image.jpg",
+      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
+      "compostable": false,
       "recyclable": true,
-      "parentBin": "Hazardous Waste",
-      "size": "Small to Medium",
-      "imageUrl": "",
-      "description": "Universal waste includes widely produced hazardous waste like batteries, fluorescent bulbs, and mercury-containing equipment. These items need special handling to prevent environmental contamination.",
-      "how": {
-        "recycling": "Universal waste is recycled under controlled conditions to safely recover materials and properly dispose of hazardous components."
-      },
-      "why": {
-        "environmental Safety": "Proper management of universal waste prevents the release of hazardous substances into the environment."
-      }
-    },
-    {
-      "id": "017",
-      "name": "Radioactive Waste",
-      "content": [
-        "Spent nuclear fuel",
-        "Radioactive medical materials",
-        "Radioactive industrial materials",
-        "Contaminated equipment and clothing"
-      ],
-      "alert": true,
-      "caution": true,
-      "burnable": false,
-      "recyclable": false,
-      "parentBin": "Hazardous Waste",
-      "size": "Varies",
-      "imageUrl": "",
-      "description": "Radioactive waste includes materials contaminated with radionuclides or materials that are naturally radioactive. It requires specialized, secure handling and disposal to protect human health and the environment from radiation exposure.",
-      "how": {
-        "controlled Disposal": "Radioactive waste is disposed of in specially designed facilities that isolate it from the environment and people."
-      },
-      "why": {
-        "health and Safety": "Proper disposal is crucial to prevent harmful radiation exposure to humans and wildlife.",
-        "environmental Protection": "Secure containment prevents radioactive contamination of the environment."
-      }
-    },
-    {
-      "id": "018",
-      "name": "Biomedical and Infectious Waste",
-      "content": [
-        "Used syringes",
-        "Soiled bandages",
-        "Surgical gloves",
-        "Discarded medical equipment",
-        "Used cat litter",
-        "Pet waste",
-        "Medication packaging",
-        "Used test strips",
-        "Soiled pet bedding"
-      ],
-      "alert": true,
-      "caution": true,
       "burnable": true,
-      "recyclable": false,
-      "parentBin": "Hazardous Waste",
-      "size": "Small to Medium",
-      "imageUrl": "",
-      "description": "Biomedical and infectious waste comprises waste from medical and healthcare facilities, including used syringes, soiled bandages, and surgical gloves. This type of waste poses a risk of infection and requires careful handling and disposal.",
-      "how": {
-        "incineration": "Often incinerated to safely eliminate potential infectious agents.",
-        "specialized Disposal": "Handled and disposed of by specialized medical waste management services."
-      },
-      "why": {
-        "disease Prevention": "Proper disposal is essential to prevent the spread of infectious diseases.",
-        "healthcare Safety": "Ensures a safe environment in healthcare settings for both patients and staff."
-      }
-    },
-    {
-      "id": "019",
-      "name": "Oil and Chemical Waste",
-      "content": [
-        "Used motor oil",
-        "Industrial solvents",
-        "Chemical reagents",
-        "Paints and varnishes"
-      ],
-      "alert": true,
       "caution": true,
-      "burnable": false,
-      "recyclable": true,
-      "parentBin": "Hazardous Waste",
-      "size": "Varies",
-      "imageUrl": "",
-      "description": "Oil and chemical waste includes a wide range of substances such as used motor oil, industrial solvents, and chemical reagents. Due to their hazardous nature, they require specific disposal methods to prevent environmental and health risks.",
-      "how": {
-        "specialized Treatment": "Chemicals and oils are treated and disposed of using methods that minimize environmental impact, such as chemical stabilization or incineration.",
-        "recycling": "Some oil and chemical waste can be recycled or reprocessed for further use."
+      "toxic": false,
+      "flammable": true,
+      "bioHazardous": false,
+      "radioactive": false,
+      "washHand": true,
+      "sanitize": false,
+      "safetyGear": true,
+      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "otherNames": {
+        "Scrap Rubber": "Scrap Rubber",
+        "Waste Rubber": "Waste Rubber"
       },
-      "why": {
-        "environmental Safety": "Correct handling prevents contamination of water, soil, and air, protecting ecosystems.",
-        "health Protection": "Ensures that harmful chemicals don't pose a risk to public health."
-      }
+      "guideLines": {
+        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
+        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
+        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
+        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
+        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
+        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+      },
+      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
     },
-    {
-      "id": "020",
+    "017": {
+      "name": "Textile Waste",
+      "wasteItems": {
+        "Clothing": "Clothing",
+        "Bed Linens": "Bed Linens",
+        "Towels": "Towels",
+        "Curtains": "Curtains",
+        "Fabric Scraps": "Fabric Scraps",
+        "Carpeting": "Carpeting",
+        "Upholstery": "Upholstery",
+        "Footwear": "Footwear",
+        "Handbags": "Handbags",
+        "Belts": "Belts",
+        "Hats": "Hats",
+        "Socks": "Socks",
+        "Non-reusable Textiles": "Non-reusable Textiles",
+        "Stuffed Toys": "Stuffed Toys",
+        "Ropes": "Ropes",
+        "Thread": "Thread",
+        "Yarn": "Yarn"
+      },
+      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "otherNames": {
+        "Discarded Fabric": "Discarded Fabric",
+        "Scrap Textiles": "Scrap Textiles"
+      },
+      "guideLines": {
+        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
+        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
+        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
+        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
+        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
+        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+      },
+      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+    },
+    "018": {
+      "name": "Wood Waste",
+      "wasteItems": {
+        "Lumber Scraps": "Lumber Scraps",
+        "Pallets": "Pallets",
+        "Timber Offcuts": "Timber Offcuts",
+        "Furniture Pieces": "Furniture Pieces",
+        "Branches": "Branches",
+        "Twigs": "Twigs",
+        "Sawdust": "Sawdust",
+        "Plywood": "Plywood",
+        "Particle Board": "Particle Board",
+        "Wooden Crates": "Wooden Crates",
+        "Wooden Tools": "Wooden Tools",
+        "Construction Debris": "Construction Debris",
+        "Floorboards": "Floorboards",
+        "Window Frames": "Window Frames",
+        "Door Frames": "Door Frames",
+        "Tree Stumps": "Tree Stumps",
+        "Wooden Fencing": "Wooden Fencing",
+        "Decking Material": "Decking Material",
+        "Firewood Scraps": "Firewood Scraps"
+      },
+      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "otherNames": {
+        "Scrap Wood": "Scrap Wood",
+        "Used Wood": "Used Wood"
+      },
+      "guideLines": {
+        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
+        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
+        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
+        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
+        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
+        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+      },
+      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+    },
+    "019": {
+      "name": "Hazardous Waste",
+      "wasteItems": {
+        "Toxic Chemicals": "Toxic Chemicals",
+        "Solvents": "Solvents",
+        "Pesticides": "Pesticides",
+        "Herbicides": "Herbicides",
+        "Medical Sharps": "Medical Sharps",
+        "Contaminated Materials": "Contaminated Materials",
+        "Radioactive Substances": "Radioactive Substances",
+        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
+        "Sewage Treatment Waste": "Sewage Treatment Waste",
+        "Automotive Fluids": "Automotive Fluids",
+        "Antifreeze": "Antifreeze",
+        "Brake Fluid": "Brake Fluid",
+        "Lead-based Paints": "Lead-based Paints",
+        "Electronic Hazardous Components": "Electronic Hazardous Components",
+        "Industrial Residues": "Industrial Residues",
+        "Used Oil": "Used Oil",
+        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
+        "Toxic Plastic Additives": "Toxic Plastic Additives"
+      },
+      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "otherNames": {
+        "Dangerous Waste": "Dangerous Waste",
+        "Toxic Waste": "Toxic Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
+        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
+        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
+        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
+        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
+        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+      },
+      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+    },
+    "020": {
+      "name": "Chemical Waste",
+      "wasteItems": {
+        "Industrial Chemicals": "Industrial Chemicals",
+        "Laboratory Chemicals": "Laboratory Chemicals",
+        "Cleaning Agents": "Cleaning Agents",
+        "Pesticides": "Pesticides",
+        "Herbicides": "Herbicides",
+        "Paints": "Paints",
+        "Solvents": "Solvents",
+        "Automotive Fluids": "Automotive Fluids",
+        "Batteries": "Batteries",
+        "Aerosol Cans": "Aerosol Cans",
+        "Mercury Devices": "Mercury Devices",
+        "Pharmaceuticals": "Pharmaceuticals",
+        "Photographic Chemicals": "Photographic Chemicals",
+        "Pool Chemicals": "Pool Chemicals",
+        "Flammable Liquids": "Flammable Liquids",
+        "Toxic Metals": "Toxic Metals",
+        "Acids": "Acids",
+        "Bases": "Bases",
+        "Reactive Materials": "Reactive Materials"
+      },
+      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "otherNames": {
+        "Hazardous Chemicals": "Hazardous Chemicals",
+        "Toxic Chemicals": "Toxic Chemicals"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
+        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
+        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
+        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
+        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
+        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+      },
+      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+    },
+    "021": {
+      "name": "Medical Waste",
+      "wasteItems": {
+        "Used Bandages": "Used Bandages",
+        "Gauze": "Gauze",
+        "Expired Medicines": "Expired Medicines",
+        "Medical Gloves": "Medical Gloves",
+        "Sharps": "Sharps",
+        "Test Strips": "Test Strips",
+        "Surgical Instruments": "Surgical Instruments",
+        "Disposable Garments": "Disposable Garments",
+        "Pathological Waste": "Pathological Waste",
+        "Infectious Agents": "Infectious Agents",
+        "Discarded Vaccines": "Discarded Vaccines",
+        "Dialysis Waste": "Dialysis Waste",
+        "Chemotherapy Agents": "Chemotherapy Agents",
+        "Imaging Chemicals": "Imaging Chemicals",
+        "Radioactive Waste": "Radioactive Waste",
+        "Biological Specimens": "Biological Specimens"
+      },
+      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "otherNames": {
+        "Clinical Waste": "Clinical Waste",
+        "Healthcare Waste": "Healthcare Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
+        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
+        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
+        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
+        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
+        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+      },
+      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+    },
+    "022": {
+      "name": "Oil Waste",
+      "wasteItems": {
+        "Used Motor Oil": "Used Motor Oil",
+        "Cooking Oil": "Cooking Oil",
+        "Lubricating Oil": "Lubricating Oil",
+        "Hydraulic Oil": "Hydraulic Oil",
+        "Transmission Fluid": "Transmission Fluid",
+        "Machine Oil": "Machine Oil",
+        "Grease": "Grease",
+        "Oil Filters": "Oil Filters",
+        "Oil-Soaked Rags": "Oil-Soaked Rags",
+        "Fuel Oils": "Fuel Oils",
+        "Vegetable Oils": "Vegetable Oils",
+        "Petroleum Products": "Petroleum Products",
+        "Oil Containers": "Oil Containers",
+        "Oil-Water Mixtures": "Oil-Water Mixtures",
+        "Synthetic Oils": "Synthetic Oils",
+        "Oil Sludge": "Oil Sludge"
+      },
+      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "otherNames": {
+        "Used Oil": "Used Oil",
+        "Waste Oil": "Waste Oil"
+      },
+      "guideLines": {
+        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
+        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
+        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
+        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
+        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+      },
+      "whyItIsImportant": {
+        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
+        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+      },
+      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+    },
+    "023": {
+      "name": "Radioactive Waste",
+      "wasteItems": {
+        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
+        "Radioactive Medical Waste": "Radioactive Medical Waste",
+        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
+        "Radioactive Glass": "Radioactive Glass",
+        "Contaminated Metals": "Contaminated Metals",
+        "Americium Smoke Detectors": "Americium Smoke Detectors",
+        "Uranium Residues": "Uranium Residues",
+        "Irradiated Tools": "Irradiated Tools",
+        "Contaminated Clothing": "Contaminated Clothing",
+        "Radioactive Sources": "Radioactive Sources",
+        "Luminous Dials": "Luminous Dials",
+        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
+        "Radioactive Ores": "Radioactive Ores"
+      },
+      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "otherNames": {
+        "Nuclear Waste": "Nuclear Waste",
+        "Radioactive Material": "Radioactive Material"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Radioactive Waste Facilities",
+        "handling": "Strict safety protocols required. Handling by trained professionals only.",
+        "separation": "Based on radioactivity type and level for proper disposal.",
+        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
+        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+      },
+      "whyItIsImportant": {
+        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
+        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+      },
+      "funFact": "Some radioactive waste can remain hazardous for millennia."
+    },
+    "024": {
       "name": "Sanitary Waste",
-      "content": [
-        "Diapers",
-        "Sanitary napkins",
-        "Wipes",
-        "Condom",
-        "Medical bandages",
-        "Tampon",
-        "Sanitary products",
-        "Tissues"
-      ],
-      "caution": true,
-      "burnable": false,
-      "recyclable": false,
-      "isParent": true,
-      "subCategoryId": null,
-      "size": "Small to Medium",
-      "imageUrl": "",
-      "description": "Sanitary waste consists of products used for personal hygiene and medical purposes, including diapers, sanitary napkins, and medical bandages. Due to health concerns, this waste needs to be carefully disposed of.",
-      "how": {
-        "controlled Disposal": "Sanitary waste should be disposed of in a controlled manner, often in sealed bags, to prevent contamination and health risks.",
-        "incineration": "In some cases, sanitary waste can be incinerated under high temperatures to ensure safe disposal."
+      "wasteItems": {
+        "Used Diapers": "Used Diapers",
+        "Sanitary Napkins": "Sanitary Napkins",
+        "Tampons": "Tampons",
+        "Wet Wipes": "Wet Wipes",
+        "Incontinence Pads": "Incontinence Pads",
+        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
+        "Cotton Swabs": "Cotton Swabs",
+        "Facial Tissues": "Facial Tissues",
+        "Bandages": "Bandages",
+        "Disposable Razors": "Disposable Razors",
+        "Dental Floss": "Dental Floss"
       },
-      "why": {
-        "hygiene and Health": "Proper disposal of sanitary waste is vital for maintaining hygiene and preventing the spread of diseases.",
-        "environmental Protection": "Controlled disposal helps prevent environmental contamination."
-      }
+      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "otherNames": {
+        "Hygiene Waste": "Hygiene Waste",
+        "Personal Care Waste": "Personal Care Waste"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
+        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
+        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
+        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
+        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
+        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+      },
+      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
     },
-    {
-      "id": "021",
-      "name": "Mixed Waste",
-      "content": ["Combination of various waste types"],
-      "caution": true,
-      "burnable": false,
-      "recyclable": false,
-      "isParent": true,
-      "subCategoryId": null,
-      "size": "Varies",
-      "imageUrl": "",
-      "description": "Mixed waste contains a combination of different types of waste materials, which can complicate sorting and recycling processes. It often requires additional separation and specialized treatment.",
-      "how": {
-        "separation": "Efforts should be made to separate mixed waste into its component categories for proper disposal or recycling.",
-        "specialized Treatment": "In some cases, mixed waste may require specialized treatment methods depending on its composition."
+    "025": {
+      "name": "Sewage Waste",
+      "wasteItems": {
+        "Human Excreta": "Human Excreta",
+        "Used Water": "Used Water",
+        "Domestic Wastewater": "Domestic Wastewater",
+        "Industrial Effluent": "Industrial Effluent",
+        "Agricultural Runoff": "Agricultural Runoff",
+        "Storm water Discharge": "Storm water Discharge",
+        "Septic Tank Sludge": "Septic Tank Sludge",
+        "Grease Trap Waste": "Grease Trap Waste",
+        "Gray Water": "Gray Water",
+        "Black Water": "Black Water",
+        "Sewage Sludge": "Sewage Sludge",
+        "Soapy Water": "Soapy Water",
+        "Cooking Water Discharge": "Cooking Water Discharge",
+        "Bathroom Water": "Bathroom Water",
+        "Laundry Wastewater": "Laundry Wastewater",
+        "Sink Drainage": "Sink Drainage",
+        "Toilet Flushing Waste": "Toilet Flushing Waste",
+        "Shower Drain Water": "Shower Drain Water",
+        "Sump Pump Discharge": "Sump Pump Discharge",
+        "Urban Runoff": "Urban Runoff"
       },
-      "why": {
-        "efficient Waste Management": "Proper handling of mixed waste is crucial for efficient waste management and resource recovery.",
-        "reduction in Contamination": "Separating mixed waste helps reduce contamination of recyclable materials, improving overall recycling rates."
-      }
+      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "otherNames": {
+        "Wastewater": "Waste water",
+        "Sewerage": "Sewerage"
+      },
+      "guideLines": {
+        "recommendedBinType": "Specialized Sewage Treatment Facilities",
+        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
+        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
+        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
+        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
+        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+      },
+      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+    },
+
+    "026": {
+      "name": "Landfill Waste",
+      "wasteItems": {
+        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
+        "Contaminated Paper": "Contaminated Paper",
+        "Broken Glass": "Broken Glass",
+        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
+        "Worn Textiles": "Worn Textiles",
+        "Damaged Furniture": "Damaged Furniture",
+        "Ceramic Items": "Ceramic Items",
+        "Construction Debris": "Construction Debris",
+        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
+        "Household Trash": "Household Trash",
+        "Ineligible Food Waste": "Ineligible Food Waste",
+        "Ineligible Garden Waste": "Ineligible Garden Waste",
+        "Used Batteries": "Used Batteries",
+        "Soiled Clothing": "Soiled Clothing",
+        "Old Carpets": "Old Carpets",
+        "Expired Medicines": "Expired Medicines",
+        "Waste Foam": "Waste Foam",
+        "Disposable Utensils": "Disposable Utensils",
+        "Waste Oil": "Waste Oil",
+        "Contaminated Soil": "Contaminated Soil"
+      },
+      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "otherNames": {
+        "Non-Recyclable Waste": "Non-Recyclable Waste",
+        "General Trash": "General Trash"
+      },
+      "guideLines": {
+        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
+        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
+        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
+        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
+        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+      },
+      "whyItIsImportant": {
+        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
+        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+      },
+      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
     }
-  ],
+  },
   "common": {
-    "natureNest": "Nature it",
-    "sustainNatureNest": "Sustain Nature nest",
-    "search": "Search",
-    "searchWasteItem": "Search waste item",
-    "resources": "resources",
-    "handelWithCare": "Handel with care",
-    "recyclable": "Recyclable",
-    "nonRecyclable": "Non recyclable",
-    "burnable": "Burnable",
-    "nonBurnable": "Non burnable",
-    "author": "Gagan Prasad"
+    "knowYourWaste": "Conosci i tuoi rifiuti",
+    "sustainNatureNest": "Sostenere il nido della natura",
+    "searchPlaceholder": "Cerca articolo da riciclare o smaltire",
+    "whatIsWaste": "Cos'è {{value}}",
+    "alsoKnownAs": "Conosciuto anche come",
+    "itemsInsideWaste": "Oggetti dentro {{value}}",
+    "howToHandle": "Come gestire {{value}}",
+    "handling": "Manipolazione",
+    "separation": "Separazione",
+    "whatNotToDo": "Cosa non fare",
+    "suggestedBin": "Bidone consigliato",
+    "whyItsImportant": "Perché è importante",
+    "note": "Nota",
+    "safetyPrecautions": "Precauzioni di sicurezza",
+    "alsoKnowAbout": "Sapere anche su",
+    "compostable": "Compostabile",
+    "recyclable": "Riciclabile",
+    "nonRecyclable": "Non riciclabile",
+    "burnable": "Bruciabile controllato",
+    "nonBurnable": "Non bruciabile",
+    "caution": "maneggiare con cautela",
+    "flammable": "infiammabile",
+    "toxic": "tossico",
+    "biohazardous": "Biohazard",
+    "radioactive": "Radioattivo",
+    "useSafetyGear": "prendere precauzioni protettive",
+    "washHand": "Lavare la mano",
+    "sanitize": "Sanificare",
+    "disclaimer": "Le informazioni fornite qui sono generali e potrebbero non essere applicabili a tutte le regioni o circostanze. Si dovrebbero consultare le normative e le linee guida locali per la gestione dei rifiuti organici.",
+    "readMore": "Leggi di più",
+    "readMoreSearch": "soluzioni e gestione locale di {{value}}",
+    "managementStation": "stazione di gestione",
+    "credits": "Info credito",
+    "visitToKnowMore": "Visita per saperne di più",
+    "sustainNatureNestBy": "Sostenere il nido della natura con"
   }
 }

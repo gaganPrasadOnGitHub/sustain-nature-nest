@@ -7,18 +7,25 @@ import {
   setAiSearchResult,
   setSearchTerm,
 } from '../../../utils/redux/searchSlice';
-import {setMenuVisibility} from '../../../utils/redux/appSlice';
+import {
+  setFocusScroll,
+  setIsCategoryMenuVisible,
+} from '../../../utils/redux/appSlice';
+import useSelectedLanguage from '../../../hooks/useSelectedLanguage';
+import {useTranslation} from 'react-i18next';
 
 const CategoryCard = ({data}) => {
+  useSelectedLanguage();
+  const {t} = useTranslation();
   const dispatch = useDispatch();
 
   const handleBinClick = () => {
     dispatch(setSelectedBinId(data.id));
     dispatch(setSelectedBin(data));
-    dispatch(setAiSearchResult(null));
     dispatch(setSearchTerm(''));
-    dispatch(setMenuVisibility(false));
-    document.body.classList.remove('no-scroll');
+    dispatch(setAiSearchResult(null));
+    dispatch(setFocusScroll(false));
+    dispatch(setIsCategoryMenuVisible(false));
     window.scrollTo(0, 0);
   };
 
@@ -30,7 +37,7 @@ const CategoryCard = ({data}) => {
         alt="background"
       />
 
-      <p className="category-card-title">{data?.name}</p>
+      <p className="category-card-title">{t(`wasteBins.${data.id}.name`)}</p>
     </div>
   );
 };

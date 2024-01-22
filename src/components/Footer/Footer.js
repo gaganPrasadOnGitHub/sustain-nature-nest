@@ -1,12 +1,47 @@
+import React, {useRef} from 'react';
 import './Footer.css';
-import React from 'react';
+import {useTranslation} from 'react-i18next';
+import useSelectedLanguage from '../../hooks/useSelectedLanguage';
+import useOutsideOrScrollHide from '../../hooks/useOutsideOrScrollHide';
+import {useDispatch, useSelector} from 'react-redux';
+import {
+  setFocusScroll,
+  setIsCreditMenuVisible,
+} from '../../utils/redux/appSlice';
 
 const Footer = () => {
+  const {t} = useTranslation();
+  useSelectedLanguage();
+  const dispatch = useDispatch();
+  const isCreditMenuVisible = useSelector(
+    (state) => state.appData.isCreditMenuVisible
+  );
+  const creditMenuRef = useRef(null);
+
+  const resourceLinks = [
+    {name: 'google.com', url: 'https://google.com'},
+    {name: 'openai.com', url: 'https://platform.openai.com/'},
+  ];
+
+  const toggleCreditMenu = (event) => {
+    event.stopPropagation();
+    dispatch(setIsCreditMenuVisible(!isCreditMenuVisible));
+    dispatch(setFocusScroll(!isCreditMenuVisible));
+  };
+
+  useOutsideOrScrollHide(creditMenuRef, () => {
+    if (isCreditMenuVisible) {
+      dispatch(setIsCreditMenuVisible(false));
+      dispatch(setFocusScroll(false));
+    }
+  });
+
   return (
     <div className="footer-container">
+      <p> {t('common.sustainNatureNest')} </p>|
       <p>
-        Sustain Nature Nest by{' '}
         <a
+          className="underline"
           href="https://cssbattle.dev/player/gagan"
           target="_blank"
           rel="noopener noreferrer"
@@ -14,8 +49,22 @@ const Footer = () => {
           GP
         </a>
       </p>
-      <p>|</p>
-      <p>Resource</p>
+      |
+      <p onClick={toggleCreditMenu} className="cursor-pointer">
+        {t('common.credits')}
+      </p>
+      {isCreditMenuVisible && (
+        <ul className="footer-credit-menu popup" ref={creditMenuRef}>
+          <p className="text-subheading mb-16">{t('common.visitToKnowMore')}</p>
+          {resourceLinks.map((link, index) => (
+            <li key={index}>
+              <a href={link.url} target="_blank" rel="noopener noreferrer">
+                {link.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
     </div>
   );
 };

@@ -11,8 +11,6 @@ const useRandomBinSelection = () => {
   useEffect(() => {
     console.log('selectedBinId useRandomBinSelection', selectedBinId);
     if (!selectedBinId && randomBin) {
-      console.log('selectedBinId', selectedBinId);
-      console.log('randomBin', randomBin);
       dispatch(setSelectedBinId(randomBin.id));
       dispatch(setSelectedBin(randomBin));
     }

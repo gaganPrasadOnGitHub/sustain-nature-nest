@@ -2,25 +2,18 @@
 .text-link {
   display: inline-block;
   cursor: pointer;
-  color: var(--text-color);
-  padding: 8px 16px;
-  border-radius: 8px;
+  color: var(--main-color);
   transition: all ease-in-out 200ms;
 }
 .text-link:hover {
-  color: var(--main-color);
-  background: var(--light-gray);
-}
-
-.bin-name-link {
-  display: table;
-  cursor: pointer;
+  translate: 0 2px;
 }
 
 .detail-info {
   padding: 16px;
-  background: var(--overlay-color);
-  border-radius: 20px;
+  position: relative;
+  border-radius: 16px;
+  background: var(--main-background);
   box-shadow: var(--primary-box-shadow);
 }
 
@@ -48,26 +41,11 @@
   flex-direction: column;
 }
 
-.ai-result {
-  gap: 16px;
-  display: flex;
-  padding: 16px;
-  margin-top: 16px;
-  border-radius: 10px;
-  align-items: center;
-  justify-content: center;
-  color: yellowgreen;
-  background: green;
-}
-
-.ai-result img {
-  width: 40px;
-}
-
 img.recommendedBin {
   max-width: 300px;
   margin: 0 auto;
   border-radius: 24px;
+  box-shadow: var(--primary-box-shadow);
 }
 
 .readMore a {
@@ -77,5 +55,9 @@ img.recommendedBin {
 @media (min-width: 767px) {
   .detail-info {
     padding: 24px;
+  }
+
+  #description-panel {
+    padding-top: 50px;
   }
 }

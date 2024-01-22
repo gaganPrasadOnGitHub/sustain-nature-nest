@@ -1,6 +1,6 @@
 import React from 'react';
-import upArrow from '../../assets/upArrow.svg';
-import upArrowGreen from '../../assets/upArrowGreen.svg';
+import upArrowNight from '../../assets/upArrowNight.svg';
+import upArrowDay from '../../assets/upArrowGreen.svg';
 import useNightMode from '../../hooks/useNightMode';
 
 export const NextArrow = (props) => {
@@ -8,7 +8,7 @@ export const NextArrow = (props) => {
   const {isNight} = useNightMode();
   return (
     <div className={`${className} scroll-arrow`} onClick={onClick}>
-      <img src={isNight ? upArrow : upArrowGreen} alt="Next" />
+      <img src={isNight ? upArrowNight : upArrowDay} alt="Next" />
     </div>
   );
 };
@@ -18,7 +18,7 @@ export const PrevArrow = (props) => {
   const {isNight} = useNightMode();
   return (
     <div className={`${className} scroll-arrow`} onClick={onClick}>
-      <img src={isNight ? upArrow : upArrowGreen} alt="Previous" />
+      <img src={isNight ? upArrowNight : upArrowDay} alt="Previous" />
     </div>
   );
 };

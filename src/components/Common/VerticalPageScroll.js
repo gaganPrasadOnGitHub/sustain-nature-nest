@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
-import upArrow from '../../assets/upArrow.svg';
-import upArrowGreen from '../../assets/upArrowGreen.svg';
+import upArrowNight from '../../assets/upArrowNight.svg';
+import upArrowDay from '../../assets/upArrowGreen.svg';
 import useNightMode from '../../hooks/useNightMode';
 
 const VerticalPageScroll = () => {
@@ -12,7 +12,7 @@ const VerticalPageScroll = () => {
     const scrolled = window.scrollY;
     setIsVisible(scrolled > 300);
     setIsMiddleVisible(
-      scrolled >= 0 &&
+      scrolled >= 20 &&
         scrolled < document.body.scrollHeight - window.innerHeight
     );
   };
@@ -46,7 +46,7 @@ const VerticalPageScroll = () => {
           className="scroll-arrow"
           onClick={handleScrollToTop}
         >
-          <img src={isNight ? upArrow : upArrowGreen} alt="Scroll to Top" />
+          <img src={isNight ? upArrowNight : upArrowDay} alt="Scroll to Top" />
         </div>
       )}
       {isMiddleVisible && (
@@ -55,7 +55,7 @@ const VerticalPageScroll = () => {
           className="scroll-arrow"
           onClick={handleScrollDown}
         >
-          <img src={isNight ? upArrow : upArrowGreen} alt="Scroll Down" />
+          <img src={isNight ? upArrowNight : upArrowDay} alt="Scroll Down" />
         </div>
       )}
     </>

@@ -6,39 +6,54 @@
   align-items: center;
   position: relative;
   justify-content: center;
+  background: var(--main-background);
   box-shadow: var(--primary-box-shadow);
 }
 
-.search-container input,
-.search-container button {
-  height: 42px;
-  padding: 16px;
+input,
+button {
+  max-height: 42px;
+  padding: 12px 16px;
   border: none;
   display: flex;
   align-items: center;
-  background: var(--overlay-color);
+  background: var(--main-background);
 }
 
-.search-container input {
+.search-container .search-input {
   width: 100%;
   font-weight: 500;
-  color: var(--text-color);
   border-radius: 50px 0 0 50px;
 }
 
-.search-container input::placeholder {
+input {
+  color: var(--text-color);
+}
+
+input[type='text']::placeholder {
   opacity: 0.7;
   font-weight: 500;
   color: var(--text-color);
 }
 
-.search-container input:focus-visible {
+input:focus-visible {
   outline: none;
 }
 
-.search-container button {
-  cursor: pointer;
+.search-container .search-button {
   border-radius: 0 50px 50px 0;
+}
+
+button {
+  cursor: pointer;
+}
+button:hover {
+  transition: 0 2px;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .search-container .search-icon {
@@ -46,24 +61,26 @@
   transition: all ease-in-out 200ms;
 }
 
-.search-container:hover .search-icon {
+.search-container .search-icon:hover,
+.search-container .image-search-icon:hover {
   scale: 1.1;
+}
+
+.search-container .image-search-icon {
+  width: 24px;
+  transition: all ease-in-out 200ms;
+  cursor: pointer;
 }
 
 ul.search-options {
   top: 0px;
   width: 320px;
-  /* margin: 0 auto; */
   z-index: -1;
-  background: var(--overlay-color);
   list-style-type: none;
   padding: 50px 16px 16px;
-  border-radius: 20px;
-  position: absolute;
-  display: flex;
+  border-radius: 25px;
   flex-direction: column;
   height: 280px;
-  /* align-items: center; */
   overflow: scroll;
 }
 
@@ -74,8 +91,24 @@ ul.search-options {
   border-radius: 8px;
   transition: all ease-in-out 250ms;
 }
-
 .search-options li:hover {
   color: var(--main-color);
-  background: var(--option-bg-color);
+  background: var(--hover-background);
+}
+
+.searching {
+  width: 20px;
+  height: 20px;
+  border-radius: 16px;
+  border: 7px dotted var(--main-color);
+  animation: rotate 1000ms infinite linear;
+}
+
+@keyframes rotate {
+  0% {
+    rotate: 0deg;
+  }
+  100% {
+    rotate: 360deg;
+  }
 }

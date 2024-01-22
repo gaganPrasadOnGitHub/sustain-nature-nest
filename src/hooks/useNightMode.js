@@ -1,6 +1,6 @@
 import {useCallback, useEffect} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
-import {toggleNightMode, setNightMode} from '../utils/redux/appSlice';
+import {setFocusScroll, setNightMode} from '../utils/redux/appSlice';
 
 const useNightMode = () => {
   const dispatch = useDispatch();
@@ -13,8 +13,9 @@ const useNightMode = () => {
   }, [dispatch]);
 
   const handleToggleNightMode = useCallback(() => {
-    dispatch(toggleNightMode());
-  }, [dispatch]);
+    dispatch(setNightMode(!isNight));
+    dispatch(setFocusScroll(false));
+  }, [dispatch, isNight]);
 
   return {isNight, handleToggleNightMode};
 };
