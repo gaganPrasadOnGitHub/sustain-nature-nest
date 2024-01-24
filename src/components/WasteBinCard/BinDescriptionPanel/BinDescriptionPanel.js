@@ -115,7 +115,7 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
 
         <div>
           {/* Bin Image */}
-          <ScrollAnimation>
+          <ScrollAnimation className="flex-default">
             <img
               className={`recommendedBin ${imageLoaded ? '' : 'hide'}`}
               src={

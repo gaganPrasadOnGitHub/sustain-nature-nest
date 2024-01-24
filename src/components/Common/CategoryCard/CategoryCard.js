@@ -44,6 +44,7 @@ const CategoryCard = ({data}) => {
   return (
     <div className="category-card" onClick={handleBinClick}>
       <div className="flex-default category-card-image-wrapper">
+        {!imageLoaded && <p className="searching"></p>}
         {imageLoaded && (
           <img
             className="category-card-image"
@@ -57,7 +58,6 @@ const CategoryCard = ({data}) => {
             alt="background"
           />
         )}
-        {!imageLoaded && <p className="searching"></p>}
       </div>
       <p className="category-card-title">{t(`wasteBins.${data.id}.name`)}</p>
     </div>

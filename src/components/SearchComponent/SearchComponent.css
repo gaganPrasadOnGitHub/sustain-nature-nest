@@ -110,8 +110,7 @@ ul.search-options {
   position: absolute;
   translate: -50% -50%;
   animation: rotate 1000ms infinite linear;
-  border-color: var(--main-color) var(--main-color) var(--text-color)
-    var(--text-color);
+  border-color: #006241 #006241 #dff9ba #dff9ba;
 }
 
 @keyframes rotate {
