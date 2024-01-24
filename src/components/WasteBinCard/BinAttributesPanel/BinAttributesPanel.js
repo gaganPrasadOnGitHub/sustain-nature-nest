@@ -105,7 +105,6 @@ const BinAttributesPanel = ({selectedBin, scrollToDescription}) => {
       <div className="attributes-wrapper">
         {/* main image */}
         <img
-          loading="lazy"
           className={`bin-image ${imageLoaded ? '' : 'hide'}`}
           onClick={scrollToDescription}
           src={

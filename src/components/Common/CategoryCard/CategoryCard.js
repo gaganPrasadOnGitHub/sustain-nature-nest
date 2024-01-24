@@ -46,7 +46,6 @@ const CategoryCard = ({data}) => {
       <div className="flex-default category-card-image-wrapper">
         {imageLoaded && (
           <img
-            loading="lazy"
             className="category-card-image"
             src={
               validateImageUrl(data?.descriptionImage)
