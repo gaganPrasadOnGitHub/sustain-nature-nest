@@ -17,7 +17,6 @@ const BinItemsCarousel = () => {
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
-    lazyLoad: true,
     autoplay: true,
     swipeToSlide: true,
     swipe: true,
