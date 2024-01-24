@@ -24,7 +24,6 @@ export const useImageSearch = () => {
       if (event.target.files && event.target.files[0]) {
         setImageUrl('');
         const file = event.target.files[0];
-        console.log('file', file);
         if (
           file.type.match(/image\/(jpeg|jpg|gif|png)$/i) &&
           file.size < 5 * 1024 * 1024
