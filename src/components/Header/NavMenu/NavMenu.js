@@ -1,6 +1,6 @@
 import React from 'react';
 import './NavMenu.css';
-import menu from '../../../assets/menu.png';
+import menu from '../../../assets/dayMenu.png';
 import menuNight from '../../../assets/menuNight.png';
 import wasteManagementData from '../../../data/bin.json';
 import useNightMode from '../../../hooks/useNightMode';
@@ -11,8 +11,7 @@ import {useTranslation} from 'react-i18next';
 
 const NavMenu = () => {
   useSelectedLanguage();
-  const {t} = useTranslation();
-  const {isNight} = useNightMode();
+
   const {
     menuRef,
     isCategoryMenuVisible,
@@ -23,19 +22,21 @@ const NavMenu = () => {
     handleToggleMenuVisibility,
   } = useNavMenu();
 
+  const {t} = useTranslation();
+  const {isNight} = useNightMode();
+
   return (
-    <>
-      <div onClick={handleToggleMenuVisibility}>
-        <img
-          className="nav-icon"
-          src={isNight ? menuNight : menu}
-          alt="Menu Icon"
-        />
-      </div>
+    <div ref={menuRef} className="flex-default">
+      <img
+        onClick={handleToggleMenuVisibility}
+        className="nav-icon"
+        src={isNight ? menuNight : menu}
+        alt="Menu Icon"
+      />
 
       {/* menu popup */}
       {isCategoryMenuVisible && (
-        <div className="nav-menu popup" ref={menuRef}>
+        <div className="nav-menu popup">
           <div className="category-menu">
             {wasteManagementData?.wasteBins?.map(
               (bin) =>
@@ -63,7 +64,7 @@ const NavMenu = () => {
           </div>
         </div>
       )}
-    </>
+    </div>
   );
 };
 

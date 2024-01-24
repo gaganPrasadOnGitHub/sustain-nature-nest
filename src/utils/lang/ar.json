@@ -3,1059 +3,1054 @@
     "001": {
       "name": "النفايات العضوية",
       "wasteItems": {
-        "Food Scraps": "فضلات الطعام",
+        "Food Scraps": "قشور الطعام",
         "Fruit Peels": "قشور الفواكه",
-        "Vegetable Peels": "قشور الخضروات",
-        "Coffee Grounds": "تفل القهوة",
+        "Vegetable Peels": "قشور الخضار",
+        "Coffee Grounds": "بقايا القهوة",
         "Tea Bags": "أكياس الشاي",
         "Eggshells": "قشور البيض",
-        "Garden Flowers": "أزهار الحديقة",
-        "Houseplants": "النباتات المنزلية",
-        "Grass Clippings": "قصاصات العشب",
+        "Garden Flowers": "زهور الحديقة",
+        "Houseplants": "نباتات المنزل",
+        "Grass Clippings": "قصب العشب",
         "Weeds": "الأعشاب الضارة",
-        "Nut Shells": "قشور الجوز",
+        "Nut Shells": "قشور المكسرات",
         "Paper Towels": "مناشف ورقية",
         "Cardboard": "ورق مقوى",
-        "Wood Scrap": "خردة الخشب",
-        "Natural Fibers": "الألياف الطبيعية"
+        "Wood Scrap": "مخلفات الخشب",
+        "Natural Fibers": "ألياف طبيعية"
       },
-      "description": "تأتي النفايات العضوية بشكل رئيسي من المطابخ والحدائق. تشمل المواد القابلة للتحلل مثل فضلات الطعام ونفايات الحديقة والألياف الطبيعية. غنية بالمغذيات، هذه المواد مثالية للتسميد، الذي يحول النفايات إلى محسنات التربة القيمة.",
+      "description": "تأتي النفايات العضوية بشكل أساسي من المطابخ والحدائق. تتضمن مواد قابلة للتحلل مثل قشور الطعام ونفايات الحديقة والألياف الطبيعية. تحتوي هذه المواد على محتوى غني من العناصر الغذائية، مما يجعلها مثالية للتحويل إلى سماد عضوي قيم يحسن التربة.",
       "otherNames": {
-        "Compostable Waste": "نفايات قابلة للتسميد",
-        "Biodegradable Waste": "نفايات قابلة للتحلل البيولوجي"
+        "Compostable Waste": "النفايات القابلة للتحلل",
+        "Biodegradable Waste": "النفايات قابلة للتحلل"
       },
       "guideLines": {
-        "recommendedBinType": "صندوق السماد (مهوى)، معدن أو بلاستيك متين، أخضر/بني",
-        "handling": "استخدم القفازات عند التعامل، اغسل يديك بعد التخلص. تجنب الاتصال المباشر بالمواد المتحللة.",
-        "separation": "افصل المواد العضوية عن العناصر غير العضوية (مثل البلاستيك والمعادن والزجاج) لضمان التسميد الفعال.",
-        "whatNotToDo": "لا تتضمن المواد غير العضوية مثل البلاستيك والمعادن أو الزجاج. تجنب التخلص من المنتجات المعالجة كيميائياً أو المواد الملوثة بالزيت/الشحوم.",
-        "safetyPrecautions": "استخدم القفازات عند التعامل مع النفايات العضوية لتجنب الاتصال المباشر بالمواد المتحللة والمسببات المحتملة للأمراض. تأكد من أن منطقة التسميد جيدة التهوية لمنع تراكم الروائح الكريهة. اغسل يديك جيدًا بعد التعامل مع المواد العضوية للحفاظ على النظافة الشخصية."
+        "recommendedBinType": "صندوق تحويل العضويات (مهوى)، معدني أو بلاستيك متين، أخضر/بني",
+        "handling": "استخدم القفازات عند التعامل مع النفايات واغسل يديك بعد التخلص منها. تجنب ملامسة المواد المتحللة مباشرة.",
+        "separation": "افصل المواد العضوية عن المواد غير العضوية (مثل البلاستيك والمعادن والزجاج) لضمان تحويل فعال للمواد العضوية.",
+        "whatNotToDo": "لا تضمن المواد غير العضوية مثل البلاستيك والمعادن والزجاج. تجنب التخلص من المنتجات التي تحتوي على مواد كيميائية أو مواد ملوثة بالزيت/الشحوم.",
+        "safetyPrecautions": "استخدم القفازات عند التعامل مع النفايات العضوية لتجنب ملامسة المواد المتحللة والممكنة للمسببات المرضية. تأكد من توفر التهوية الجيدة في منطقة تحويل العضويات لمنع تراكم الروائح الكريهة. اغسل يديك جيدًا بعد التعامل مع المواد العضوية للحفاظ على النظافة الشخصية."
       },
       "whyItIsImportant": {
-        "benefits": "يقلل من استخدام مكبات النفايات وانبعاثات الميثان، ويقلل من الحاجة إلى الأسمدة الكيماوية. يعزز الزراعة المستدامة.",
-        "impact": "يحول النفايات إلى سماد قيم، مما يثري التربة بالمغذيات ويدعم نمو النباتات الصحي. يشجع على استخدام الأرض المستدام."
+        "benefits": "يقلل من استخدام مكبات النفايات وانبعاثات الغاز الميثان، ويخفض من الحاجة إلى الأسمدة الكيميائية. يشجع على الزراعة المستدامة.",
+        "impact": "يحول النفايات إلى سماد قيم يثري التربة بالعناصر الغذائية ويدعم نمو النباتات الصحي. يشجع على استخدام الأراضي بطريقة مستدامة."
       },
-      "funFact": "إذا تم تسميدها، يمكن للنفايات الغذائية السنوية العالمية أن تقلل من الانبعاثات المكافئة لثاني أكسيد الكربون لـ 2 مليار سيارة خارج الطريق، وهو أكثر من إجمالي عدد السيارات التي تُقاد في العالم."
+      "funFact": "إذا تم تحويل النفايات العضوية إلى سماد، يمكن أن تقلل النفايات الغذائية السنوية العالمية من انبعاثات ثاني أكسيد الكربون المعادلة لسيارات تعادل عددها 2 مليار سيارة على الطرق، وهو أكثر من عدد السيارات الموجودة في العالم."
     },
     "002": {
       "name": "نفايات زراعية",
       "wasteItems": {
         "Crop Residues": "بقايا المحاصيل",
-        "Manure": "سماد",
+        "Manure": "سماد حيواني",
         "Pesticide Containers": "حاويات المبيدات",
         "Fertilizer Bags": "أكياس الأسمدة",
-        "Farm Machinery": "آلات المزرعة",
-        "Spoiled Produce": "المنتجات التالفة",
-        "Agricultural Plastics": "البلاستيك الزراعي",
-        "Diseased Plants": "النباتات المريضة",
-        "Greenhouse Films": "أفلام الدفيئة",
+        "Farm Machinery": "آلات زراعية",
+        "Spoiled Produce": "منتجات زراعية تالفة",
+        "Agricultural Plastics": "بلاستيك زراعي",
+        "Diseased Plants": "نباتات مصابة بالأمراض",
+        "Greenhouse Films": "أفلام البيوت الزراعية",
         "Seed Sacks": "أكياس البذور",
-        "Pruning Waste": "نفايات التقليم",
+        "Pruning Waste": "نفايات القص",
         "Irrigation Equipment": "معدات الري",
-        "Soil Amendment Packaging": "تغليف تعديل التربة",
-        "Animal Feed Bags": "أكياس علف الحيوانات",
-        "Silage Wraps": "أغلفة العلف",
-        "Horticultural Pots": "أواني البستنة",
-        "Waste Pesticides": "مبيدات الآفات النفايات",
-        "Contaminated Soils": "التربة الملوثة",
+        "Soil Amendment Packaging": "تعبئة تعديل التربة",
+        "Animal Feed Bags": "أكياس العلف الحيواني",
+        "Silage Wraps": "أغلفة السايليدج",
+        "Horticultural Pots": "أواني الزراعة",
+        "Waste Pesticides": "مبيدات زراعية مستهلكة",
+        "Contaminated Soils": "تربة ملوثة",
         "Old Tools": "أدوات قديمة",
         "Broken Irrigation Pipes": "أنابيب الري المكسورة",
-        "Discarded Gloves": "قفازات مهملة",
+        "Discarded Gloves": "قفازات مستخدمة",
         "Protective Gear": "معدات الحماية",
         "Unused Veterinary Medicines": "أدوية بيطرية غير مستخدمة",
-        "Baler Twine": "خيط البالر",
-        "Netting Material": "مواد الشبك",
-        "Plastic Mulch": "غطاء بلاستيكي"
+        "Baler Twine": "حبال الضغط",
+        "Netting Material": "مواد الشبكات",
+        "Plastic Mulch": "الغشاء البلاستيكي للزراعة"
       },
-      "description": "تشمل النفايات الزراعية كلاً من المواد العضوية وغير العضوية من الأنشطة الزراعية. وهذا يشمل المنتجات الطبيعية الثانوية مثل بقايا المحاصيل والسماد، فضلاً عن النفايات غير العضوية مثل الحاويات والبلاستيك والآلات القديمة. الإدارة الفعالة ضرورية للحد من التأثير البيئي ودعم الزراعة المستدامة.",
+      "description": "تشمل النفايات الزراعية كل من المواد العضوية وغير العضوية من أنشطة الزراعة. ويشمل ذلك منتجات طبيعية مثل بقايا المحاصيل والسماد الحيواني، بالإضافة إلى النفايات غير العضوية مثل الحاويات والبلاستيك والآلات القديمة. إدارة فعالة ضرورية لتقليل التأثير على البيئة ودعم الزراعة المستدامة.",
       "otherNames": {
-        "Farm Waste": "نفايات المزرعة",
-        "Agricultural Byproducts": "المنتجات الثانوية الزراعية"
+        "Farm Waste": "نفايات زراعية",
+        "Agricultural Byproducts": "منتجات زراعية فرعية"
       },
       "guideLines": {
-        "recommendedBinType": "حاويات متخصصة للنفايات العضوية وغير العضوية، مع معالجة منفصلة للمواد الخطرة",
-        "handling": "استخدم معدات الحماية للعناصر الخطرة. قم بتسميد النفايات العضوية حيثما ينطبق ذلك.",
-        "separation": "افصل المواد العضوية عن النفايات الكيميائية والبلاستيكية. تعامل مع المواد الخطرة بعناية.",
-        "whatNotToDo": "لا تحرق البلاستيك أو حاويات المواد الكيميائية. تجنب خلط النفايات العضوية مع المواد الخطرة.",
-        "safetyPrecautions": "ارتدي القفازات والملابس الواقية، خاصةً عند التعامل مع الأسمدة الكيميائية أو المبيدات. تأكد من التهوية الجيدة عند العمل مع تعديلات التربة أو في أماكن مغلقة مثل البيوت الزجاجية."
+        "recommendedBinType": "صناديق مخصصة للنفايات العضوية وغير العضوية، مع معاملة منفصلة للمواد الخطرة",
+        "handling": "استخدم معدات الحماية للعناصر الخطرة. قم بتحويل النفايات العضوية حيثما كان ذلك مناسبًا.",
+        "separation": "افصل المواد العضوية عن النفايات الكيميائية والبلاستيكية. تعامل بحذر مع المواد الخطرة.",
+        "whatNotToDo": "لا تحرق البلاستيك أو الحاويات الكيميائية. تجنب مزج النفايات العضوية مع المواد الخطرة.",
+        "safetyPrecautions": "ارتدي القفازات والملابس الواقية، خصوصًا عند التعامل مع الأسمدة الكيميائية أو المبيدات الزراعية. تأكد من وجود تهوية جيدة عند العمل مع مواد تعديل التربة أو في المساحات المغلقة مثل البيوت الزراعية."
       },
       "whyItIsImportant": {
-        "benefits": "التخلص السليم يقلل من التلوث، ويعزز صحة التربة، ويعزز الممارسات المستدامة.",
-        "impact": "إدارة النفايات الزراعية بفعالية تقلل البصمة البيئية للزراعة وتحافظ على الموارد، مع دعم الممارسات الزراعية المستدامة."
+        "benefits": "التخلص السليم يقلل من التلوث، ويعزز صحة التربة، ويشجع على الممارسات المستدامة.",
+        "impact": "إدارة النفايات الزراعية بشكل فعال تقلل من الأثر البيئي للزراعة وتحافظ على الموارد، مع دعم الممارسات الزراعية المستدامة."
       },
-      "funFact": "إذا تم إدارتها وتسميدها بشكل صحيح، يمكن لبقايا المحاصيل أن تثري خصوبة التربة بشكل كبير، مما يقلل من الحاجة إلى الأسمدة الاصطناعية."
+      "funFact": "بقايا المحاصيل، إذا تم إدارتها وتحويلها بشكل صحيح، يمكن أن تثري خصوبة التربة بشكل كبير، مما يقلل بشكل محتمل من الحاجة إلى الأسمدة الاصطناعية."
     },
-
     "003": {
-      "name": "نفايات الحيوانات",
+      "name": "نفايات حيوانية",
       "wasteItems": {
-        "Manure": "سماد",
-        "Bedding Straw": "قش التبن",
-        "Livestock Carcasses": "ذبائح الماشية",
+        "Manure": "سماد حيواني",
+        "Bedding Straw": "قش تسريب",
+        "Livestock Carcasses": "جثث الماشية",
         "Poultry Waste": "نفايات الدواجن",
-        "Feathers": "الريش",
-        "Fish Waste": "نفايات السمك",
-        "Milk Spoilage": "تلف الحليب",
+        "Feathers": "ريش",
+        "Fish Waste": "نفايات الأسماك",
+        "Milk Spoilage": "فاسد الحليب",
         "Eggshell Waste": "نفايات قشر البيض",
-        "Animal Hair": "شعر الحيوان",
-        "Wool": "الصوف",
-        "Dairy Processing Waste": "نفايات معالجة الألبان",
-        "Veterinary Supplies": "لوازم بيطرية",
-        "Expired Animal Feed": "علف الحيوانات المنتهي الصلاحية",
+        "Animal Hair": "شعر الحيوانات",
+        "Wool": "صوف",
+        "Dairy Processing Waste": "نفايات معالجة منتجات الألبان",
+        "Veterinary Supplies": "مستلزمات الطب البيطري",
+        "Expired Animal Feed": "علف حيواني منتهي الصلاحية",
         "Contaminated Animal Products": "منتجات حيوانية ملوثة"
       },
-      "description": "تشير نفايات الحيوانات إلى المنتجات الثانوية الناتجة عن تربية المواشي والدواجن وغيرها من أنشطة تربية الحيوانات. وتشمل النفايات العضوية مثل السماد والتبن، بالإضافة إلى الذبائح والمنتجات المشتقة من الحيوانات والتالفة. التعامل السليم والتخلص منها أمر حاسم لصحة البيئة ولمنع انتشار الأمراض.",
+      "description": "تشير النفايات الحيوانية إلى النواتج الفرعية التي تنتج من تربية الماشية والدواجن وأنشطة تربية الحيوانات الأخرى. تتضمن هذه النفايات نفايات عضوية مثل السماد والقش التسريبي، بالإضافة إلى جثث الحيوانات والمنتجات الحيوانية التي فسدت. يعتبر التعامل والتخلص السليم ضروريًا لصحة البيئة والوقاية من انتشار الأمراض.",
       "otherNames": {
-        "Livestock Waste": "نفايات الماشية",
-        "Poultry Waste": "نفايات الدواجن"
+        "Livestock Waste": "نفايات ماشية",
+        "Poultry Waste": "نفايات دواجن"
       },
       "guideLines": {
-        "recommendedBinType": "حاويات متخصصة للنفايات الحيوية الخطرة، منفصلة عن النفايات العادية",
-        "handling": "استخدم معدات الحماية، خاصةً عند التعامل مع الذبائح أو النفايات الملوثة. اتبع بروتوكولات النظافة الصارمة.",
-        "separation": "افصل نفايات الحيوانات الحيوية الخطرة عن النفايات العادية. تخلص منها في حاويات مخصصة.",
-        "whatNotToDo": "لا تخلطها مع النفايات العامة. تجنب الاتصال المباشر بدون معدات السلامة المناسبة.",
-        "safetyPrecautions": "ارتدِ قفازات وأحذية واقية عند التعامل مع نفايات الحيوانات لمنع الاتصال المباشر مع الكائنات الدقيقة الضارة. تأكد من تهوية جيدة في المناطق التي يتم فيها تخزين أو معالجة نفايات الحيوانات. بعد التعامل مع نفايات الحيوانات، اغسل يديك جيدًا بالصابون والماء لمنع انتشار الأمراض الحيوانية المنشأ.",
-        "whyItIsImportant": {
-          "benefits": "الإدارة السليمة تمنع التلوث البيئي والمخاطر الصحية للبشر والحيوانات.",
-          "impact": "التخلص المسؤول من نفايات الحيوانات يدعم الصحة العامة، وحماية البيئة، وممارسات الزراعة المستدامة."
-        },
-        "funFact": "يمكن للسماد من بقرة واحدة أن يولد كفاية كهرباء لتشغيل ثلاجة صغيرة ليوم واحد، مما يوضح إمكانية تحويل نفايات الحيوانات إلى طاقة متجددة."
-      }
+        "recommendedBinType": "حاويات مخصصة للنفايات البيولوجية الخطرة، مع فصلها عن النفايات العادية",
+        "handling": "استخدم معدات الحماية، خصوصًا عند التعامل مع جثث الحيوانات أو النفايات الملوثة. اتبع بروتوكولات النظافة الصارمة.",
+        "separation": "افصل النفايات البيولوجية الخطرة من النفايات العادية. اتخذ إجراءات التخلص المخصصة.",
+        "whatNotToDo": "لا تمزجها مع النفايات العامة. تجنب ملامستها مباشرة بدون معدات السلامة الصحيحة.",
+        "safetyPrecautions": "ارتدي القفازات والأحذية الواقية عند التعامل مع النفايات الحيوانية لتجنب ملامسة مباشرة مع الكائنات الدقيقة الضارة المحتملة. تأكد من وجود تهوية جيدة في المناطق التي يتم فيها تخزين أو معالجة النفايات الحيوانية. بعد التعامل مع النفايات الحيوانية، اغسل يديك جيدًا بالصابون والماء للوقاية من انتشار الأمراض المعدية."
+      },
+      "whyItIsImportant": {
+        "benefits": "إدارة النفايات بشكل سليم تمنع التلوث البيئي وتقلل من مخاطر الصحة على البشر والحيوانات.",
+        "impact": "التخلص المسؤول من النفايات الحيوانية يدعم الصحة العامة وحماية البيئة وممارسات الزراعة المستدامة."
+      },
+      "funFact": "سماد البقرة الواحدة يمكن أن يولد ما يكفي من الكهرباء لتشغيل ثلاجة صغيرة ليوم واحد، مما يوضح إمكانية تحويل النفايات الحيوانية إلى طاقة متجددة."
     },
-
     "004": {
       "name": "نفايات الطعام",
       "wasteItems": {
-        "Cooked Food": "طعام مطبوخ",
-        "Uncooked Food": "طعام غير مطبوخ",
-        "Meat Scraps": "فضلات اللحوم",
-        "Fish Scraps": "فضلات السمك",
+        "Cooked Food": "الطعام المطهي",
+        "Uncooked Food": "الطعام غير المطهي",
+        "Meat Scraps": "قشور اللحم",
+        "Fish Scraps": "قشور السمك",
         "Dairy Products": "منتجات الألبان",
-        "Bread": "خبز",
-        "Pastries": "معجنات",
-        "Leftover Meals": "وجبات متبقية",
-        "Expired Food": "طعام منتهي الصلاحية",
-        "Rice": "أرز",
-        "Pasta": "معكرونة",
-        "Cheese": "جبن",
+        "Bread": "الخبز",
+        "Pastries": "المعجنات",
+        "Leftover Meals": "وجبات الطعام المتبقية",
+        "Expired Food": "الطعام منتهي الصلاحية",
+        "Rice": "الأرز",
+        "Pasta": "المعكرونة",
+        "Cheese": "الجبن",
         "Egg Shells": "قشور البيض",
-        "Fruit Scraps": "فضلات الفواكه",
-        "Vegetable Scraps": "فضلات الخضروات",
-        "Coffee Grounds": "تفل القهوة",
+        "Fruit Scraps": "قشور الفواكه",
+        "Vegetable Scraps": "قشور الخضار",
+        "Coffee Grounds": "بقايا القهوة",
         "Tea Bags": "أكياس الشاي",
-        "Food-Soiled Paper": "ورق متسخ بالطعام"
+        "Food-Soiled Paper": "ورق ملوث بالطعام"
       },
-      "description": "حاويات نفايات الطعام مخصصة للتخلص من أنواع مختلفة من نفايات الطعام، بما في ذلك البقايا والعناصر منتهية الصلاحية وفضلات الطعام. هذه الفئة من النفايات مناسبة للهضم الحيوي أو التسميد، وتحويل المواد العضوية إلى موارد ذات قيمة.",
+      "description": "صناديق نفايات الطعام مخصصة للتخلص من مختلف أنواع النفايات الغذائية، بما في ذلك البقايا، والمواد المنتهية الصلاحية، وقشور الطعام. تعتبر هذه الفئة من النفايات مناسبة للهضم البيولوجي أو التحويل إلى موارد قيمة.",
       "otherNames": {
         "Kitchen Waste": "نفايات المطبخ",
-        "Leftover Waste": "نفايات المتبقيات"
+        "Leftover Waste": "نفايات الباقي"
       },
       "guideLines": {
-        "recommendedBinType": "حاوية محكمة الإغلاق، مع التحكم في الرائحة، أخضر داكن أو بني",
-        "handling": "أغلق نفايات الطعام للحد من الروائح ومنع الحشرات. اغسل وعقم يديك دائمًا بعد التعامل. نظف التسربات على الفور.",
-        "separation": "افصل نفايات الطعام عن المواد القابلة لإعادة التدوير وغير القابلة للتسميد لتعزيز كفاءة التسميد وإعادة التدوير.",
-        "whatNotToDo": "لا تخلط نفايات الطعام مع السوائل أو الزيوت أو المواد الكيميائية. تجنب إدراج العناصر غير القابلة للتحلل البيولوجي مثل البلاستيك أو المعادن. لا تترك نفايات الطعام مكشوفة لمنع جذب الآفات وتوليد الروائح.",
-        "safetyPrecautions": "ارتدي القفازات والأحذية الواقية عند التعامل مع نفايات الطعام لمنع الاتصال المباشر بالكائنات الدقيقة الضارة. تأكد من أن الأماكن التي يتم فيها تخزين أو معالجة نفايات الطعام جيدة التهوية. اغسل يديك جيدًا بالصابون والماء بعد التعامل مع نفايات الطعام لمنع انتشار الأمراض الحيوانية المنشأ."
+        "recommendedBinType": "صندوق محكم الإغلاق مع مراعاة للرائحة، اللون الأخضر الداكن أو البني",
+        "handling": "اغلق النفايات الغذائية للحد من الروائح ولصد الحشرات. اغسل وعقم يديك دائمًا بعد التعامل. نظف فورًا الانسكابات.",
+        "separation": "افصل النفايات الغذائية عن المواد القابلة للتدوير والتي لا يمكن تحويلها بواسطة التحلل البيولوجي لزيادة كفاءة التحويل الى سماد.",
+        "whatNotToDo": "لا تخلط النفايات الغذائية مع السوائل أو الزيوت أو المواد الكيميائية. تجنب تضمين العناصر غير القابلة للتحلل مثل البلاستيك أو المعادن. لا تترك النفايات الغذائية غير مغطاة لتجنب جذب الآفات وانبعاث الروائح.",
+        "safetyPrecautions": "عند التعامل مع النفايات الغذائية، خصوصًا إذا كانت كميات كبيرة، ارتدي القفازات للحماية من التلف والبكتيريا المحتملة. احتفظ بحاويات النفايات الغذائية نظيفة ومغطاة لتجنب جذب الآفات وانبعاث الروائح. نظف يديك وأدواتك والأسطح التي تلامسها النفايات الغذائية بانتظام للحفاظ على النظافة الشخصية."
       },
       "whyItIsImportant": {
-        "benefits": "يساعد في منع جذب الآفات، ويقلل من انبعاثات غازات الاحتباس الحراري من مكبات النفايات، ويسهل إنتاج السماد أو الغاز الحيوي.",
-        "impact": "الإدارة السليمة لنفايات الطعام توفر الموارد، وتقلل من التأثير البيئي، وتعزز الممارسات المستدامة."
+        "benefits": "يساعد في منع جذب الآفات، ويقلل من انبعاثات الغازات الدفيئة من المكبات، ويسهم في إنتاج السماد أو الغاز الحيوي.",
+        "impact": "إدارة النفايات الغذائية بشكل صحيح توفر الموارد، وتقلل من الأثر البيئي، وتشجع على الممارسات المستدامة."
       },
-      "funFact": "إذا كانت نفايات الطعام دولة، فستكون ثالث أكبر مصدر لانبعاثات غازات الدفيئة عالميًا، بعد الولايات المتحدة والصين. تقليل نفايات الطعام أمر حاسم لتقليل التأثير البيئي."
+      "funFact": "إذا كانت نفايات الطعام دولة، فإنها ستكون ثالث أكبر مصدر لانبعاثات الغازات الدفيئة عالميًا، بعد الولايات المتحدة والصين. تقليل نفايات الطعام أمر ضروري لتقليل الأثر البيئي."
     },
     "005": {
       "name": "نفايات خضراء",
       "wasteItems": {
-        "Grass Clippings": "قصاصات العشب",
-        "Leaves": "أوراق الشجر",
-        "Branches": "فروع",
+        "Grass Clippings": "قشور العشب",
+        "Leaves": "أوراق الأشجار",
+        "Branches": "أغصان",
         "Weeds": "الأعشاب الضارة",
-        "Flowers": "زهور",
-        "Garden Trimmings": "تشذيب الحديقة",
+        "Flowers": "الزهور",
+        "Garden Trimmings": "قص الحدائق",
         "Shrubs": "الشجيرات",
-        "Small Twigs": "أغصان صغيرة",
-        "Hedge Clippings": "قصاصات السياج",
-        "Fallen Fruit": "الفواكه الساقطة",
-        "Garden Maintenance": "صيانة الحديقة",
-        "Plant Prunings": "تقليم النباتات"
+        "Small Twigs": "فروع صغيرة",
+        "Hedge Clippings": "قص الأشجار العائلية",
+        "Fallen Fruit": "الفاكهة المتساقطة",
+        "Garden Maintenance": "صيانة الحدائق",
+        "Plant Prunings": "قص النباتات"
       },
-      "description": "تتألف النفايات الخضراء من حطام النباتات والحدائق، وتلعب دورًا حيويًا في إعادة تدوير المواد العضوية. يساهم تحويل النفايات الخضراء إلى سماد في إنشاء تعديلات التربة الغنية بالمغذيات، وهو أمر ضروري للزراعة والبستنة المستدامة.",
+      "description": "النفايات الخضراء، التي تتألف من فاقد النباتات ومخلفات الحدائق، تلعب دورًا حيويًا في إعادة تدوير المواد العضوية. يسهم تحويل النفايات الخضراء إلى سماد عضوي في إنتاج تعديلات تربة غنية بالعناصر الغذائية، الأمر الضروري للزراعة المستدامة والبستنة.",
       "otherNames": {
         "Yard Waste": "نفايات الفناء",
         "Garden Waste": "نفايات الحديقة"
       },
       "guideLines": {
-        "recommendedBinType": "حاوية مفتوحة، سعة كبيرة، يفضل أن تكون خضراء",
-        "handling": "استخدم القفازات عند التعامل مع النفايات الخضراء لتجنب القطوع أو التهيج من المواد الخشنة. اغسل يديك بعد التخلص منها.",
-        "separation": "افصل النفايات الخضراء عن النفايات المنزلية والخطرة. لا تخلطها مع نفايات الطعام أو المواد القابلة لإعادة التدوير.",
-        "whatNotToDo": "تجنب التخلص من المواد غير العضوية مثل الأكياس البلاستيكية أو الأواني. لا تشمل التربة أو الصخور. امتنع عن إضافة النباتات المريضة أو الأنواع الغازية التي قد تلوث السماد."
+        "recommendedBinType": "صندوق مفتوح بسعة كبيرة، مفضلًا باللون الأخضر",
+        "handling": "استخدم القفازات عند التعامل مع النفايات الخضراء للحماية من التجاعيد أو التهيج الناتج عن المواد الخشنة. اغسل يديك بعد التخلص.",
+        "separation": "افصل النفايات الخضراء عن النفايات المنزلية والخطرة. لا تمزجها مع نفايات الطعام أو القابلة لإعادة التدوير.",
+        "whatNotToDo": "تجنب التخلص من المواد غير العضوية مثل أكياس البلاستيك أو الأواني. لا تشمل التربة أو الصخور. امتنع عن إضافة النباتات المصابة أو الأنواع الغزيرة التي قد تلوث السماد.",
+        "safetyPrecautions": "عند التعامل مع النفايات الخضراء، ارتدي القفازات للحماية من المواد الحادة وتأكد من عدم وجود مواد ضارة مثل الخشب المعالج."
       },
       "whyItIsImportant": {
-        "benefits": "يسهل إنتاج السماد، ويثري صحة التربة، ويساعد في احتجاز الكربون. يقلل من استخدام مساحة مكب النفايات وانبعاثات غازات الدفيئة.",
-        "impact": "يساهم في إدارة النفايات المستدامة، ويدعم التنوع البيولوجي في التربة، ويشجع على ممارسات البستنة والزراعة الصديقة للبيئة."
+        "benefits": "يسهل إنتاج السماد، ويغني تربة الأرض بالعناصر الغذائية، ويساعد في استنباط الكربون. يقلل من استخدام المكبات وانبعاثات الغازات الدفيئة.",
+        "impact": "يسهم في إدارة النفايات المستدامة، ويدعم التنوع البيولوجي في التربة، ويشجع على ممارسات البستنة والزراعة الصديقة للبيئة."
       },
-      "funFact": "يمكن تحويل النفايات الخضراء مثل قصاصات العشب وأوراق الشجر إلى تربة غنية، والمعروفة باسم 'الذهب الأسود' بين البستانيين، مما يحسن نمو النباتات بدون الأسمدة الكيميائية."
+      "funFact": "النفايات الخضراء مثل قشور العشب وأوراق الأشجار يمكن تحويلها إلى سماد غني بالعناصر الغذائية، ويعرف باسم 'الذهب الأسود' بين عشاق البستنة، مما يحسن نمو النباتات دون الحاجة للأسمدة الكيميائية."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "نفايات قابلة للتدوير",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "الصحف",
+        "Magazines": "المجلات",
+        "Office Paper": "ورق المكتب",
+        "Cardboard": "الورق المقوى",
+        "Plastic Bottles": "زجاجات بلاستيكية",
+        "Plastic Containers": "حاويات بلاستيكية",
+        "Glass Bottles": "زجاجات زجاجية",
+        "Glass Jars": "جرار زجاجية",
+        "Aluminum Cans": "علب الألومنيوم",
+        "Steel Cans": "علب الصلب",
+        "Electronics": "الأجهزة الإلكترونية",
+        "Textiles": "المنسوجات",
+        "Untreated Wood": "خشب غير معالج",
+        "Aerosol Cans": "علب الرشاشات",
+        "Batteries": "البطاريات",
+        "Non-LED Light Bulbs": "مصابيح الإضاءة غير الليد"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "تشمل النفايات القابلة للتدوير مجموعة متنوعة من المواد التي يمكن إعادة معالجتها للاستخدام فيما بعد. تشمل العناصر الرئيسية في هذه الفئة منتجات الورق والبلاستيك والزجاج والمعادن وبعض أنواع الأجهزة الإلكترونية، والتي تلعب دورًا حيويًا في الحفاظ على الموارد والاستدامة البيئية.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "صندوق تدوير معدني أو بلاستيكي متين",
+        "handling": "تأكد من نظافة وجفاف العناصر قبل التدوير. فرزها وفقًا لإرشادات التدوير المحلية.",
+        "separation": "افصل أنواع القابلة للتدوير المختلفة لتجنب التلوث بالمواد غير القابلة لإعادة التدوير.",
+        "whatNotToDo": "تجنب تضمين مواد متسخة أو ملوثة أو غير قابلة لإعادة التدوير. اتبع قواعد التدوير المحلية للتخلص من العناصر بشكل محدد.",
+        "safetyPrecautions": "عند التعامل مع القابلة للتدوير، ارتدي معدات السلامة المناسبة إذا كان ذلك ضروريًا. كن حذرًا من الحشرات أو الحيوانات التي قد تكون بالقرب من مواد التدوير."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "يقلل من الحاجة إلى المواد الخام الجديدة، ويوفر الطاقة، ويقلل من الأثر البيئي للنفايات.",
+        "impact": "يدعم إدارة الموارد المستدامة، ويسهم في جهود الحفاظ على البيئة والحماية."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "يساعد التدوير في تقليل الأثر البيئي للنفايات والحفاظ على الموارد القيمة للأجيال المستقبلية."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "نفايات السيارات",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "زيت المحرك المستعمل",
+        "Oil Filters": "فلاتر الزيت",
+        "Batteries": "البطاريات",
+        "Tires": "الإطارات",
+        "Brake Pads": "أقراص الفرامل",
+        "Brake Fluid": "سائل الفرامل",
+        "Transmission Fluid": "زيت النقل",
+        "Coolants": "المبردات",
+        "Metal Parts": "أجزاء معدنية",
+        "Rubber Hoses": "أنابيب مطاطية",
+        "Belts": "أحزمة",
+        "Air Filters": "مرشحات الهواء",
+        "Windshield Glass": "زجاج الزجاج الأمامي",
+        "Upholstery Materials": "مواد التنجيد",
+        "Automotive Bumpers": "صدمات السيارات",
+        "Headlights": "مصابيح أمامية",
+        "Electrical Components": "مكونات كهربائية"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "تشمل نفايات السيارات مواد ومكونات مختلفة تتم التخلص منها من السيارات. تشمل هذه النفايات كل من النفايات الخطرة وغير الخطرة، مثل الزيوت والبطاريات والإطارات والأجزاء الميكانيكية. التخلص السليم وإعادة تدوير نفايات السيارات أمران حاسمان لحماية البيئة والحفاظ على الموارد.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "نفايات المركبات",
+        "Car Waste": "نفايات السيارات"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "حاويات متخصصة للمواد الخطرة، مناطق مخصصة للأجزاء الكبيرة",
+        "handling": "تعامل بحذر، خاصة مع المواد الخطرة. استخدم معدات السلامة عند التعامل مع الزيوت والمواد الكيميائية.",
+        "separation": "افصل بين النفايات الخطرة مثل الزيوت والبطاريات والعناصر غير الخطرة. اتبع الإرشادات المحلية للتخلص من كل نوع.",
+        "whatNotToDo": "لا تتخلص من الزيوت والمواد الكيميائية الخاصة بالسيارات في سلة القمامة العادية أو في المصارف. تجنب مزج أنواع مختلفة من نفايات السيارات.",
+        "safetyPrecautions": "ارتدي القفازات وواقي العينين عند التعامل مع نفايات السيارات مثل الزيت المستعمل والبطاريات والإطارات للحماية من المواد الخطرة. اعمل دائمًا في أماكن جيدة التهوية لتجنب استنشاق الأبخرة، خاصة عند التعامل مع السوائل السيارات. تخلص من نفايات السيارات في مراكز إعادة التدوير المخصصة لمنع التلوث البيئي."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "يمنع التلوث البيئي، ويحافظ على المواد القيمة، ويدعم مبادرات إعادة التدوير.",
+        "impact": "إدارة النفايات السيارات السليمة تقلل من الأثر البيئي لاستخدام وصيانة السيارات، مما يسهم في بيئة نظيفة وآمنة."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "إعادة تدوير سيارة واحدة فقط يوفر أكثر من 2500 جنيه من خام الحديد، و1400 جنيه من الفحم، و120 جنيه من الحجر الجيري. يقلل هذا العملية بشكل كبير أيضًا من الطاقة والمواد الخام اللازمة لإنتاج أجزاء السيارات والمركبات الجديدة."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "النفايات الضخمة",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "الأثاث",
+        "Appliances": "الأجهزة الكهربائية",
+        "Mattresses": "الفرش",
+        "Large Toys": "الألعاب الكبيرة",
+        "Carpeting": "السجاد",
+        "Bicycles": "الدراجات",
+        "Large Electronics": "الإلكترونيات الكبيرة",
+        "BBQ Grills": "أجهزة شواء اللحوم",
+        "Exercise Equipment": "أجهزة اللياقة البدنية",
+        "Large Household Items": "أغراض منزلية كبيرة"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "تشمل النفايات الضخمة العناصر الكبيرة التي لا يمكن أن تتناسب في حاويات القمامة العادية. التخلص السليم من النفايات الضخمة أمر بالغ الأهمية لإدارة النفايات الفعالة وللمحافظة على البيئة. إعادة تدوير العناصر الضخمة يمكن أن تسهم في الحفاظ على الموارد.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "النفايات الكبيرة",
+        "Oversized Items": "العناصر الكبيرة"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "نقطة تجميع أو نقطة تسليم خاصة",
+        "handling": "تحقق مع إدارة النفايات المحلية للحصول على تعليمات محددة للتخلص. قد تتطلب بعض العناصر التعامل الخاص أو خدمات الاستلام.",
+        "separation": "افصل بين أنواع مختلفة من العناصر الضخمة للتدوير أو طرق التخلص المناسبة.",
+        "whatNotToDo": "لا تترك العناصر الضخمة على الرصيف دون ترتيب جمع مناسب. تجنب التخلص غير القانوني.",
+        "safetyPrecautions": "عند التعامل مع العناصر الضخمة مثل الأثاث والأجهزة الكهربائية والألعاب الكبيرة، استخدم تقنيات الرفع الصحيحة لتجنب إصابات الظهر. من الجيد أن يكون لديك مساعدة أو استخدام عربة لنقل العناصر الثقيلة. ارتدي أحذية واقية لتجنب إصابات القدم وقفازات للمزيد من الثبات والحماية من الحواف الحادة."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "التخلص السليم من النفايات الضخمة يقلل من استخدام المزبلة، ويشجع على إعادة التدوير، ويساهم في جعل البيئة نظيفة وآمنة.",
+        "impact": "إعادة تدوير العناصر الضخمة يساعد في استعادة المواد القيمة، ويقلل من الأثر البيئي، ويدعم ممارسات إدارة النفايات المستدامة."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "غالبًا ما تنتهي الأثاث والعناصر الضخمة الأخرى في المزابل، ولكن إذا تم إعادة استخدامها أو إعادة تدويرها، يمكن لكنبة واحدة أن توفر ما يصل إلى 9 ياردة مكعبة من مساحة المزبلة، مما يوضح الأثر الكبير لإعادة التدوير وإعادة استخدام العناصر الضخمة."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "نفايات البناء والهدم",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "الخرسانة",
+        "Bricks": "الطوب",
+        "Wood": "الخشب",
+        "Gypsum": "الجبس",
+        "Metal": "المعدن",
+        "Glass": "الزجاج",
+        "Plastic": "البلاستيك",
+        "Insulation Materials": "مواد العزل",
+        "Electrical Wiring": "أسلاك الكهرباء",
+        "Plumbing Fixtures": "أدوات السباكة",
+        "Ceramic Tiles": "بلاط السيراميك",
+        "Asphalt": "الأسفلت",
+        "Roofing Materials": "مواد السقف",
+        "Windows": "النوافذ",
+        "Doors": "الأبواب",
+        "Piping": "أنابيب",
+        "Reinforced Concrete": "الخرسانة المسلحة",
+        "Drywall": "جدران جبسية",
+        "Flooring Materials": "مواد الأرضيات",
+        "Wall Coverings": "تغطيات الجدران"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "تشمل نفايات البناء والهدم المواد المستخدمة في البناء والتجديد والهدم للمباني والهياكل. إدارة سليمة مهمة لإعادة تدوير المواد وتقليل التأثير على البيئة.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "نفايات البناء",
+        "Renovation Debris": "بقايا التجديد"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "نقطة تجميع خاصة أو مناطق تخليص مخصصة",
+        "handling": "تحقق من التشريعات المحلية للتخلص. بعض المواد تتطلب معالجة أو تعامل خاص.",
+        "separation": "افصل المواد بناءً على نوعها (على سبيل المثال، المعدن، الخشب، الخرسانة) لإعادة التدوير الفعال.",
+        "whatNotToDo": "لا تمزج نفايات البناء والهدم مع النفايات المنزلية العادية. تجنب التخلص غير القانوني والتخلص غير الصحيح.",
+        "safetyPrecautions": "تأكد من ارتداء قفازات قوية ونظارات واقية للحماية من الأجسام الحادة والحطام في نفايات البناء والهدم مثل الخشب والمعدن والخرسانة. الحذاء المناسب ضروري لتجنب الإصابات من المواد الثقيلة. استخدم أقنعة الغبار للحماية من الغبار والجسيمات الدقيقة. اعتمد تقنيات رفع مناسبة للأشياء الثقيلة لتجنب إصابات الظهر."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "التخلص السليم يعزز من إعادة تدوير المواد، ويقلل من استخدام المزبلة، ويقلل من التلوث البيئي.",
+        "impact": "إعادة تدوير مواد البناء والهدم يحفظ الموارد، ويدعم صناعة البناء باستخدام المواد المعاد تدويرها، ويساهم في التنمية المستدامة."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "إعادة تدوير طن واحد من الخرسانة يمكن أن يوفر ما يصل إلى 1,360 جالون من الماء و900 كجم من ثاني أكسيد الكربون، مما يسلط الضوء على فوائد إعادة تدوير مواد البناء والهدم بدلاً من التخلص منها في المزابل."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "نفايات الإلكترونيات",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "أجهزة الكمبيوتر",
+        "Laptops": "أجهزة اللابتوب",
+        "Mobile Phones": "الهواتف المحمولة",
+        "Printers": "الطابعات",
+        "Scanners": "أجهزة الفحص",
+        "Televisions": "التلفزيونات",
+        "Monitors": "الشاشات",
+        "DVD Players": "مشغلات الدي في دي",
+        "Game Consoles": "أجهزة الألعاب",
+        "Small Appliances": "الأجهزة الصغيرة",
+        "Electronic Tools": "أدوات الكترونية",
+        "Batteries": "البطاريات",
+        "Circuit Boards": "لوحات الدوائر الإلكترونية",
+        "Hard Drives": "أقراص القرص الصلب",
+        "Keyboards": "لوحات المفاتيح",
+        "Mice": "الماوس",
+        "Speakers": "السماعات",
+        "Chargers": "الشواحن",
+        "Cables": "الكوابل",
+        "Cameras": "الكاميرات",
+        "Electronic Toys": "ألعاب إلكترونية",
+        "CDs": "أقراص السي دي",
+        "DVDs": "أقراص الدي في دي",
+        "GPS Devices": "أجهزة تحديد المواقع (GPS)"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "نفايات الإلكترونيات، أو ما يُعرف بالنفايات الإلكترونية، تشمل الأجهزة والمعدات الإلكترونية المهملة. التدوير والتخلص السليم ضروريان لاسترداد المواد القيمة ومنع التلوث البيئي.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE (المعدات الكهربائية والإلكترونية القديمة)",
+        "E-Waste": "النفايات الإلكترونية"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "نقاط تجميع النفايات الإلكترونية أو مراكز إعادة التدوير المتخصصة",
+        "handling": "تعامل بحرص مع النفايات الإلكترونية لتجنب الكسر وتسرب المواد الخطرة. اتبع التشريعات المحلية للتخلص.",
+        "separation": "افصل النفايات الإلكترونية عن النفايات العادية. قم بالفرز حسب النوع لإعادة التدوير الفعّال.",
+        "whatNotToDo": "لا تتخلص من النفايات الإلكترونية في القمامة العادية. تجنب تفكيك أو كسر الأجهزة الإلكترونية، مما قد يؤدي إلى تسرب مواد سامة.",
+        "safetyPrecautions": "استخدم قفازات للحماية من الحواف الحادة عند التعامل مع النفايات الإلكترونية مثل أجهزة الكمبيوتر القديمة والتلفزيونات. كن حذرًا من المواد الخطرة مثل الرصاص والزئبق في الإلكترونيات. تجنب تكسيرها للحماية من التعرض للمخاطر. قم بإعادة التدوير في المراكز المخصصة للتخلص الآمن."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "التخلص السليم للنفايات الإلكترونية يعيد تدوير المواد القيمة، ويقلل من استخدام المزبلة، ويحمي البيئة من المواد السامة.",
+        "impact": "إعادة تدوير النفايات الإلكترونية يدعم الاقتصاد الدائري، ويقلل من حاجة الصناعة للمواد الخام الجديدة، ويقلل من الأثر البيئي."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "إعادة تدوير مليون لابتوب يمكن أن يوفر طاقة كافية لتشغيل أكثر من 3,500 منزل في الولايات المتحدة لمدة عام. إعادة تدوير مليون هاتف محمول يمكن أن يسترد 35,274 جنيهًا من النحاس، و772 جنيهًا من الفضة، و75 جنيهًا من الذهب، و33 جنيهًا من البالاديوم."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "نفايات الزجاج",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "زجاجات زجاجية",
+        "Glass Jars": "جرار زجاجية",
+        "Window Glass": "زجاج النوافذ",
+        "Mirror Glass": "زجاج المرايا",
+        "Glass Containers": "حاويات زجاجية",
+        "Drinking Glasses": "أكواب زجاجية",
+        "Broken Glassware": "أواني زجاجية مكسورة",
+        "Automotive Glass": "زجاج السيارات",
+        "Glass Tableware": "أواني مائدة زجاجية",
+        "Light Bulbs": "مصابيح زجاجية (غير الفلورسنت)",
+        "Laboratory Glassware": "أواني زجاجية مختبرية",
+        "Tempered Glass": "زجاج مقوى",
+        "Glass Shards": "شظايا زجاجية"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "نفايات الزجاج تشمل مجموعة متنوعة من منتجات الزجاج المهملة. إعادة تدوير الزجاج أمر بالغ الأهمية حيث يمكن معالجته وإعادة تصنيعه لإنتاج منتجات زجاجية جديدة، مما يقلل من حاجة الصناعة للمواد الخام الجديدة.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "الزجاج المكسور",
+        "Discarded Glassware": "أواني زجاجية مهملة"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "حاوية إعادة تدوير الزجاج أو نقاط تسليم مخصصة",
+        "handling": "تعامل مع نفايات الزجاج بعناية لتجنب الإصابات. قم بإزالة أي مكونات غير زجاجية إذا كان ذلك ضروريًا.",
+        "separation": "افصل الزجاج حسب اللون والنوع عند الإمكان لزيادة فعالية إعادة التدوير.",
+        "whatNotToDo": "لا تتخلص من الزجاج في حاويات القمامة العادية. تجنب مزج الزجاج مع مواد إعادة التدوير الأخرى التي قد تلوثه.",
+        "safetyPrecautions": "استخدم القفازات عند التعامل مع الزجاج المكسور لتجنب الجروح. إذا كنت تتعامل مع كمية كبيرة من نفايات الزجاج، يُفضل ارتداء واقيات العين للحماية من الشظايا المحتملة. قم دائمًا برفع الأشياء الزجاجية الثقيلة بشكل صحيح لتجنب الإصابات. احتفظ بنفايات الزجاج في حاوية صلبة لتجنب الكسر وضمان نقل آمن."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "إعادة تدوير الزجاج يقلل من النفايات المكدسة في المزابل، ويوفر الموارد الطبيعية، ويوفر الطاقة. يمكن إعادة تدوير الزجاج بلا نهاية دون فقدان الجودة.",
+        "impact": "إعادة تدوير الزجاج بشكل فعال يساعد في تقليل الأثر البيئي، ويدعم استخدام الموارد بشكل مستدام، ويسهم في الاقتصاد الدائري."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "إعادة تدوير الزجاج كفاءة للغاية حيث يمكن إعادة تدوير 80% من الزجاج المسترد في زجاجات زجاجية جديدة، ويمكن لزجاجة زجاجية الانتقال من حاوية إعادة التدوير إلى رف المتجر في مدة تصل إلى 30 يومًا فقط."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "نفايات صناعية",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "مذيبات كيميائية",
+        "Metal Scraps": "قصاصات معدنية",
+        "Plastic Offcuts": "قطع بلاستيكية متبقية",
+        "Construction Debris": "حطام البناء",
+        "Electronic Components": "مكونات إلكترونية",
+        "Paper and Cardboard": "ورق وكرتون",
+        "Textile Scraps": "قطع نسيج",
+        "Glass Pieces": "قطع زجاجية",
+        "Rubber Waste": "نفايات مطاطية",
+        "Biodegradable Waste": "نفايات قابلة للتحلل الحيوي",
+        "Non-Biodegradable Waste": "نفايات غير قابلة للتحلل الحيوي",
+        "Hazardous Materials": "مواد خطرة",
+        "Non-Hazardous Materials": "مواد غير خطرة",
+        "Industrial Sludge": "طين صناعي",
+        "Packaging Materials": "مواد التعبئة والتغليف"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "النفايات الصناعية تشمل مجموعة واسعة من المواد الناتجة عن العمليات الصناعية والتصنيعية. إدارة مناسبة، بما في ذلك إعادة التدوير والتخلص الآمن، أمر حيوي لتقليل الأثر البيئي.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "نفايات التصنيع",
+        "Production Waste": "نفايات الإنتاج"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "حاويات نفايات صناعية متخصصة أو مرافق إعادة التدوير",
+        "handling": "تعامل بالملابس والمعدات الواقية المناسبة، خاصة عند التعامل مع المواد الخطرة. اتبع جميع الإرشادات واللوائح الرسمية للتخلص.",
+        "separation": "افصل النفايات حسب النوع (مثل النفايات الخطرة مقابل الغير خطرة) وحسب المادة (مثل المعدن، البلاستيك) لتسهيل إعادة التدوير والتخلص.",
+        "whatNotToDo": "لا تخلط بين النفايات الصناعية الخطرة والغير خطرة. تجنب التخلص غير القانوني أو التخلص غير الصحيح للنفايات الصناعية.",
+        "safetyPrecautions": "استخدم دائمًا القفازات وواقيات العين والأقنعة الواقية عند التعامل مع النفايات الصناعية، خاصة إذا كانت تحتوي على مواد خطرة."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "التعامل السليم وإعادة تدوير النفايات الصناعية يوفر الموارد، ويقلل من التلوث، ويدعم الممارسات الصناعية المستدامة.",
+        "impact": "إدارة فعالة للنفايات الصناعية تقلل من الضغط على المزابل، وتقلل من المخاطر البيئية، وتسهم في الاقتصاد الدائري."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "إعادة تدوير المعادن الصناعية يمكن أن توفر ما يصل إلى 75٪ من الطاقة المطلوبة لإنتاجها من المواد الخام."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "نفايات المعادن",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "علب الألومنيوم",
+        "Tin Cans": "علب الصفيح",
+        "Steel Scraps": "قصاصات الصلب",
+        "Copper Wire": "أسلاك النحاس",
+        "Metal Pipes": "أنابيب معدنية",
+        "Metal Tools": "أدوات معدنية",
+        "Metal Packaging": "تعبئة معدنية",
+        "Automotive Parts": "قطع السيارات المعدنية",
+        "Metal Furniture": "أثاث معدني",
+        "Metal Appliances": "أجهزة كهربائية معدنية",
+        "Construction Materials": "مواد البناء المعدنية",
+        "Aerosol Cans": "علب البخاخات المعدنية",
+        "Electronic Metals": "معادن الإلكترونيات",
+        "Metal Caps": "أغطية معدنية",
+        "Metal Lids": "أغطية معدنية"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "نفايات المعادن تشمل مجموعة متنوعة من الأشياء والمواد المعدنية المستهلكة. إنها قابلة لإعادة التدوير بشكل كبير ويمكن معالجتها مرة أخرى لإنتاج منتجات معدنية جديدة، مما يقلل من الحاجة إلى استخراج الخامات الطبيعية.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "معادن معادة",
+        "Discarded Metal": "معادن مستهلكة"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "حاوية إعادة تدوير المعادن أو ساحة لجمع المعادن",
+        "handling": "فرز المعادن حسب النوع وإزالة أي مكونات غير معدنية إذا كان ذلك ممكنًا. تعامل بحذر لتجنب الإصابات.",
+        "separation": "افصل المعادن الحديدية (مثل الصلب والحديد) عن المعادن غير الحديدية (مثل الألومنيوم والنحاس) لتعزيز كفاءة إعادة التدوير.",
+        "whatNotToDo": "لا تتخلص من نفايات المعادن مع القمامة العادية. تجنب مزج أنواع مختلفة من المعادن ما لم يتم توجيهك إلى ذلك من قبل مرفق إعادة التدوير المحلي.",
+        "safetyPrecautions": "استخدم القفازات والأحذية الواقية عند التعامل مع نفايات المعادن لتجنب الجروح والإصابات."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "إعادة تدوير المعادن يوفر الطاقة ويقلل من انبعاثات غازات الاحتباس الحراري، ويحافظ على الموارد الطبيعية. يمكن إعادة تدوير المعادن مرارًا وتكرارًا دون تدهور خصائصها.",
+        "impact": "إعادة تدوير المعادن بفعالية يقلل من الأثر البيئي، ويقلل من الحاجة إلى التعدين الجديد، ويدعم إدارة الموارد المستدامة."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "إعادة تدوير علبة الألومنيوم واحدة يمكن أن توفر ما يكفي من الطاقة لتشغيل تلفزيون لمدة ثلاث ساعات."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "نفايات الورق",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "الصحف",
+        "Magazines": "المجلات",
+        "Office Paper": "ورق المكتب",
+        "Notebooks": "المفكرات",
+        "Envelopes": "الظروف",
+        "Junk Mail": "البريد العشوائي",
+        "Cardboard Boxes": "صناديق الكرتون",
+        "Paper Packaging": "تعبئة من الورق",
+        "Paper Bags": "أكياس من الورق",
+        "Phone Books": "دليل الهاتف",
+        "Catalogs": "كتالوجات",
+        "Shredded Paper": "الورق الممزق",
+        "Paper Cups": "أكواب من الورق",
+        "Paper Plates": "أطباق من الورق",
+        "Greeting Cards": "بطاقات المعايدة",
+        "Wrapping Paper": "ورق التغليف"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "نفايات الورق تشمل مجموعة متنوعة من الأوراق ومنتجات الورق المستهلكة. إعادة تدوير نفايات الورق أمر بالغ الأهمية للحد من التصحر والمحافظة على الموارد الطبيعية.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "الورق المستهلك",
+        "Paper Scraps": "قصاصات الورق"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "حاوية إعادة تدوير الورق",
+        "handling": "قم بإزالة أي مكونات غير ورقية مثل البلاستيك والأزمنة والشريط. حافظ على الورق جافًا ونظيفًا لضمان إعادة التدوير الفعّال.",
+        "separation": "افصل الورق حسب النوع (مثل الكرتون، وورق المكتب) والحالة (نظيف أم متسخ) لتعزيز كفاءة إعادة التدوير.",
+        "whatNotToDo": "لا تمزج نفايات الورق المتسخ أو الزيتية مع الورق النظيف. تجنب التخلص من الورق القابل لإعادة التدوير في حاويات القمامة العادية.",
+        "safetyPrecautions": "لا تتطلب معظم نفايات الورق إجراءات أمان محددة للتعامل معها."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "إعادة تدوير الورق يقلل من الحاجة إلى إنتاج ورق جديد، مما يوفر الأشجار ويقلل من استهلاك الطاقة والمياه.",
+        "impact": "إعادة تدوير الورق بفعالية يقلل من استخدام المكبات، ويقلل من انبعاثات غازات الاحتباس الحراري، ويدعم ممارسات الزراعة المستدامة."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "إعادة تدوير طن واحد من الورق يمكن أن يوفر 17 شجرة و7000 جالون من المياه."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "نفايات البلاستيك",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "زجاجات بلاستيكية",
+        "Plastic Bags": "أكياس بلاستيكية",
+        "Plastic Packaging": "تعبئة بلاستيكية",
+        "Plastic Containers": "حاويات بلاستيكية",
+        "Plastic Utensils": "أواني بلاستيكية",
+        "Plastic Wraps": "أغلفة بلاستيكية",
+        "Plastic Toys": "ألعاب بلاستيكية",
+        "Polystyrene Foam": "رغوة بوليستيرين",
+        "Plastic Cups": "أكواب بلاستيكية",
+        "Plastic Plates": "أطباق بلاستيكية",
+        "Plastic Film": "أفلام بلاستيكية",
+        "Water Bottles": "زجاجات مياه بلاستيكية",
+        "Detergent Bottles": "زجاجات المنظفات بلاستيكية",
+        "Shampoo Bottles": "زجاجات الشامبو بلاستيكية",
+        "Plastic Caps": "أغطية بلاستيكية",
+        "Plastic Lids": "أغطية بلاستيكية",
+        "Plastic Furniture": "أثاث بلاستيكي",
+        "Plastic Hangers": "معلقات بلاستيكية"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "نفايات البلاستيك تشمل مجموعة متنوعة من الأشياء المصنوعة من البلاستيك والتي تم التخلص منها. نظرًا لفترة تحللها الطويلة، فإن إعادة تدويرها والتخلص السليم منها ضروريين للحد من التأثير البيئي.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "البلاستيك المستهلك",
+        "Scrap Plastics": "البلاستيك المهمل"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "حاوية إعادة تدوير البلاستيك أو مرفق مخصص لإعادة التدوير",
+        "handling": "قم بتنظيف وتجفيف البلاستيك قبل إعادة التدوير. ازيل أي مكونات غير بلاستيكية مثل اللاصقات أو الأغطية.",
+        "separation": "افصل البلاستيك حسب النوع والفئة، حيث أن أنواع مختلفة من البلاستيك تخضع لعمليات تدوير مختلفة.",
+        "whatNotToDo": "لا تخلط نفايات البلاستيك مع النفايات الأخرى أو القمامة العامة. تجنب رمي الأشياء البلاستيكية الكبيرة في حاويات القمامة العادية.",
+        "safetyPrecautions": "لا تتطلب معظم نفايات البلاستيك إجراءات أمان محددة للتعامل معها."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "إعادة تدوير البلاستيك يقلل من الحاجة إلى إنتاج بلاستيك جديد، ويحفظ الموارد ويقلل من التلوث. كما يساعد في تقليل كمية البلاستيك التي تدخل المكبات والمحيطات.",
+        "impact": "إعادة تدوير البلاستيك بفعالية يسهم في الاستدامة البيئية، ويقلل من انبعاثات غازات الاحتباس الحراري، ويدعم كفاءة إدارة النفايات."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "إعادة تدوير طن واحد من البلاستيك يمكن أن يوفر ما يصل إلى 7.4 ياردة مكعبة من مساحة المكب."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "نفايات المطاط",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "إطارات مستعملة",
+        "Rubber Bands": "مطاط المشدات",
+        "Rubber Gloves": "قفازات مطاطية",
+        "Rubber Hoses": "خراطيم مطاطية",
+        "Rubber Footwear": "أحذية مطاطية",
+        "Rubber Mats": "بساطات مطاطية",
+        "Conveyor Belts": "أحزمة النقل الناقلة",
+        "Rubber Gaskets": "أختام مطاطية",
+        "Rubber Seals": "أختام مطاطية",
+        "Rubber Sheets": "أوراق مطاطية",
+        "Rubber Toys": "ألعاب مطاطية",
+        "Automotive Rubber": "مطاط السيارات",
+        "Rubber Tubing": "أنابيب مطاطية",
+        "Elastomeric Materials": "مواد مرنة",
+        "Synthetic Rubber": "مطاط صناعي"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "نفايات المطاط تتكون من مجموعة متنوعة من المنتجات المطاطية التي تم التخلص منها. إعادة تدوير المطاط أمر مهم للحفاظ على الموارد وتقليل التأثير البيئي، حيث يمكن أن يستغرق المطاط وقتًا طويلاً للتحلل في المكبات.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "مطاط مستهلك",
+        "Waste Rubber": "مطاط مهمل"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "مرفق إعادة تدوير المطاط المتخصص أو نقاط جمع معينة",
+        "handling": "تعامل مع نفايات المطاط بعناية، خاصة عند التعامل مع الأشياء الكبيرة أو الثقيلة. تأكد من تخزينها بشكل صحيح لمنع التلوث البيئي.",
+        "separation": "افصل بين أنواع مختلفة من نفايات المطاط لإعادة التدوير الفعال. ازل أي مكونات غير مطاطية إذا كان ذلك ممكنًا.",
+        "whatNotToDo": "لا تتخلص من نفايات المطاط في حاويات القمامة العادية. تجنب حرق نفايات المطاط، حيث يطلق مواد سامة.",
+        "safetyPrecautions": "ارتدي القفازات والملابس الواقية عند التعامل مع نفايات المطاط لتجنب تهيج الجلد المحتمل."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "إعادة تدوير المطاط يساعد في تقليل النفايات في المكبات والتلوث. يمكن استخدامه في إنتاج منتجات متنوعة مثل الفرش المطاطية والبساطات وإضافات الأسفلت.",
+        "impact": "إدارة النفايات المطاطية بشكل فعّال تدعم الاستدامة البيئية وتساهم في الحفاظ على الموارد غير المتجددة المستخدمة في إنتاج المطاط."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "يمكن استخدام المطاط المعاد تدويره من الإطارات لإنشاء العشب الاصطناعي وأسطح الملاعب وحتى كمصدر للوقود في بعض العمليات الصناعية."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "نفايات النسيج",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "الملابس",
+        "Bed Linens": "مفارش السرير",
+        "Towels": "مناشف",
+        "Curtains": "الستائر",
+        "Fabric Scraps": "قطع النسيج",
+        "Carpeting": "السجاد",
+        "Upholstery": "التنجيد",
+        "Footwear": "الأحذية",
+        "Handbags": "حقائب اليد",
+        "Belts": "الأحزمة",
+        "Hats": "القبعات",
+        "Socks": "الجوارب",
+        "Non-reusable Textiles": "النسيج غير قابل لإعادة الاستخدام",
+        "Stuffed Toys": "الألعاب المحشوة",
+        "Ropes": "الحبال",
+        "Thread": "الخيوط",
+        "Yarn": "الغزل"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "نفايات النسيج تتكون من مواد النسيج والملابس المستهلكة. إنها جزء هام من نفايات البيئة. إعادة تدوير وإعادة استخدام نفايات النسيج ضروريان للحد من تأثيرها على البيئة.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "النسيج المستهلك",
+        "Scrap Textiles": "النسيج المستهلك"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "حاوية إعادة تدوير النسيج أو مراكز التبرع",
+        "handling": "قم بتنظيف وتجفيف النسيج قبل إعادة التدوير. يمكن إعادة استخدام أو إعادة تدوير النسيج التالف أو المتآكل في منتجات جديدة.",
+        "separation": "افصل النسيج حسب النوع (مثل القطن أو البوليستر) والحالة (مثل قابل للارتداء أو غير قابل للارتداء) لتحسين عملية إعادة التدوير أو إعادة الاستخدام.",
+        "whatNotToDo": "لا تتخلص من النسيج القابل للارتداء مع القمامة العادية. تجنب التخلص من النسيج المتسخ بشدة أو الملوث بدون المعالجة المناسبة.",
+        "safetyPrecautions": "لا تتطلب النسيج القابل لإعادة التدوير إجراءات أمان خاصة."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "إعادة تدوير النسيج يحافظ على الموارد، ويقلل من نفايات المكبات، ويقلل من الطلب على المواد الخام الجديدة. يمكن أن يجد النسيج المعاد تصنيعه حياة جديدة في تطبيقات متنوعة.",
+        "impact": "إدارة نفايات النسيج بشكل فعال تدعم الأزياء المستدامة، وتقلل من التلوث البيئي، وتشجع على الاقتصاد الدائري في صناعة النسيج."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "يمكن أن يمنع إعادة تدوير أو إعادة استخدام طن واحد فقط من النسيج انبعاث حوالي 7 أطنان من ثاني أكسيد الكربون."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "نفايات الخشب",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "قطع الأخشاب",
+        "Pallets": "المنصات الخشبية",
+        "Timber Offcuts": "قطع الخشب الزائدة",
+        "Furniture Pieces": "قطع الأثاث",
+        "Branches": "الفروع",
+        "Twigs": "الأغصان الصغيرة",
+        "Sawdust": "النشارة",
+        "Plywood": "الخشب المقطوع",
+        "Particle Board": "لوح الجسيمات الخشبي",
+        "Wooden Crates": "صناديق خشبية",
+        "Wooden Tools": "أدوات خشبية",
+        "Construction Debris": "مخلفات البناء",
+        "Floorboards": "لوحات الأرضية",
+        "Window Frames": "أطار النوافذ",
+        "Door Frames": "أطار الأبواب",
+        "Tree Stumps": "جذوع الأشجار",
+        "Wooden Fencing": "سياج خشبي",
+        "Decking Material": "مواد التراس",
+        "Firewood Scraps": "قطع حطب النار"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "نفايات الخشب تتضمن مجموعة متنوعة من منتجات ومواد الخشب المستهلكة. من الضروري إعادة تدوير وإعادة استخدام نفايات الخشب للحد من الاستغلال الغابي وإدارة النفايات بشكل مستدام.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "الخشب المستهلك",
+        "Used Wood": "الخشب المستعمل"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "مرفق إعادة تدوير الخشب أو نقاط التجميع المتخصصة",
+        "handling": "تعامل بحذر مع نفايات الخشب لتجنب الاصابات بالأشظاء. ازيل أي مكونات غير خشبية مثل المسامير أو البراغي.",
+        "separation": "افصل الخشب المعالج عن الخشب غير المعالج حيث يتطلبان عمليات إعادة تدوير مختلفة. فرز الخشب حسب النوع والحجم لتحسين عملية الإعادة التدوير.",
+        "whatNotToDo": "لا تتخلص من نفايات الخشب مع القمامة العادية، خاصة إذا كانت معالجة بالمواد الكيميائية. تجنب حرق الخشب المعالج بسبب انبعاث الغازات السامة.",
+        "safetyPrecautions": "ارتدي القفازات وواقيات العين عند التعامل مع نفايات الخشب لتجنب الإصابات بالأشظاء والحواف الحادة."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "إعادة تدوير نفايات الخشب تقلل من استخدام المكبات، وتحافظ على الموارد الطبيعية، وتدعم ممارسات الاستغلال الغابي المستدامة.",
+        "impact": "إدارة نفايات الخشب بشكل فعال تقلل من التلوث البيئي وتوفر موارد قيمة لإعادة الاستخدام في مجال البناء والتصنيع."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "يمكن أن يوفر إعادة تدوير طن واحد فقط من نفايات الخشب ما يعادل 1000 جالون من البنزين من حيث القيمة الطاقية."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "نفايات خطرة",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "مواد كيميائية سامة",
+        "Solvents": "مذيبات",
+        "Pesticides": "مبيدات الآفات",
+        "Herbicides": "مبيدات الأعشاب",
+        "Medical Sharps": "أدوات طبية حادة",
+        "Contaminated Materials": "مواد ملوثة",
+        "Radioactive Substances": "مواد مشعة",
+        "Contaminated Sanitary Products": "منتجات صحية ملوثة",
+        "Sewage Treatment Waste": "نفايات معالجة مياه الصرف الصحي",
+        "Automotive Fluids": "سوائل السيارات",
+        "Antifreeze": "مضاد التجميد",
+        "Brake Fluid": "سائل الفرامل",
+        "Lead-based Paints": "ألوان تحتوي على الرصاص",
+        "Electronic Hazardous Components": "مكونات إلكترونية خطرة",
+        "Industrial Residues": "بقايا صناعية",
+        "Used Oil": "زيت مستعمل",
+        "Oil-Contaminated Materials": "مواد ملوثة بالزيت",
+        "Toxic Plastic Additives": "إضافات بلاستيكية سامة"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "تشمل النفايات الخطرة مجموعة متنوعة من المواد التي تشكل مخاطر كبيرة على الصحة والبيئة. من الضروري التعامل والتخزين والتخلص منها بشكل صحيح للحد من هذه المخاطر.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "نفايات خطرة",
+        "Toxic Waste": "نفايات سامة"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "مرافق جمع نفايات خطرة متخصصة",
+        "handling": "تعامل بحذر شديد باستخدام معدات السلامة المناسبة. اتبع جميع اللوائح المحلية والفيدرالية لتخزين والتخلص منها.",
+        "separation": "افصل أنواع النفايات الخطرة المختلفة حيث تتطلب معالجة وتخلص فريدة.",
+        "whatNotToDo": "لا تتخلص من النفايات الخطرة في صناديق القمامة العادية أو الصرف. تجنب أي تفريغ غير مصرح به.",
+        "safetyPrecautions": "ارتدي دائمًا معدات السلامة الشخصية، بما في ذلك القفازات والنظارات الواقية والأقنعة، عند التعامل مع المواد الخطرة. تأكد من التهوية الجيدة وتجنب الاتصال المباشر."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "إدارة النفايات الخطرة بشكل صحيح تمنع التلوث البيئي، وتحمي الصحة العامة، وتضمن الامتثال للمعايير القانونية.",
+        "impact": "التخلص الحذر من المواد الخطرة يقلل من خطر التلوث للتربة والمياه ويدعم بيئة أكثر نظافة وسلامة."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "التخلص السليم لربع جالون من زيت المحرك يمكن أن يمنع تلوث ما يصل إلى مليوني جالون من مياه الشرب."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "نفايات كيميائية",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "مواد كيميائية صناعية",
+        "Laboratory Chemicals": "مواد كيميائية مختبرية",
+        "Cleaning Agents": "وكلاء التنظيف",
+        "Pesticides": "مبيدات الآفات",
+        "Herbicides": "مبيدات الأعشاب",
+        "Paints": "الألوان",
+        "Solvents": "مذيبات",
+        "Automotive Fluids": "سوائل السيارات",
+        "Batteries": "بطاريات",
+        "Aerosol Cans": "عبوات الرذاذ",
+        "Mercury Devices": "أجهزة الزئبق",
+        "Pharmaceuticals": "مستحضرات الصيدلة",
+        "Photographic Chemicals": "مواد التصوير الفوتوغرافي",
+        "Pool Chemicals": "مواد الأحواض",
+        "Flammable Liquids": "السوائل القابلة للاشتعال",
+        "Toxic Metals": "المعادن السامة",
+        "Acids": "الأحماض",
+        "Bases": "القواعد",
+        "Reactive Materials": "المواد التفاعلية"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "تشمل النفايات الكيميائية مجموعة متنوعة من المواد الخطرة والغير قابلة للتحلل البيولوجي التي يمكن أن تشكل مخاطر كبيرة على الصحة والبيئة. التعامل والتخزين والتخلص الصحيحين أمور حاسمة للحد من هذه المخاطر.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "مواد كيميائية خطرة",
+        "Toxic Chemicals": "مواد كيميائية سامة"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "مرافق جمع نفايات كيميائية متخصصة",
+        "handling": "تعامل بحذر شديد باستخدام معدات السلامة المناسبة. اتبع جميع اللوائح التنظيمية لتخزين ونقل والتخلص.",
+        "separation": "افصل المواد الكيميائية التي لا تتفق مع بعضها وصنفها استنادًا إلى فئة الخطر (مثل القابل للاشتعال، القلوي، السام).",
+        "whatNotToDo": "لا تتخلص من النفايات الكيميائية في صناديق القمامة العادية أو في المصارف أو في المياه الطبيعية. تجنب خلط المواد الكيميائية المختلفة التي يمكن أن تتفاعل بشكل خطير.",
+        "safetyPrecautions": "ارتدي دائمًا معدات السلامة الشخصية، بما في ذلك القفازات والنظارات الواقية ووسائل الحماية التنفسية المناسبة. تأكد من وجود تهوية جيدة عند التعامل مع المواد الكيميائية القابلة للاشتعال أو الرائحة."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "التخلص الصحيح من النفايات الكيميائية يمنع التلوث البيئي، ويحافظ على الموارد، ويقلل من مخاطر الصحة.",
+        "impact": "إدارة النفايات الكيميائية بشكل مسؤول تقلل من خطر تلوث التربة والمياه وتساهم في نظام بيئي أكثر أمانًا."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "إعادة تدوير جالون واحد فقط من زيت المحرك المستخدم بشكل صحيح يمكن أن ينتج كمية كافية من الطاقة لتغذية المنزل العادي لمدة عام."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "نفايات طبية",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "ضمادات مستخدمة",
+        "Gauze": "غزة طبية",
+        "Expired Medicines": "أدوية منتهية الصلاحية",
+        "Medical Gloves": "قفازات طبية",
+        "Sharps": "أدوات حادة",
+        "Test Strips": "شرائط الاختبار",
+        "Surgical Instruments": "أدوات جراحية",
+        "Disposable Garments": "ملابس قابلة للتصرف",
+        "Pathological Waste": "نفايات طبية مرضية",
+        "Infectious Agents": "عوامل معدية",
+        "Discarded Vaccines": "لقاحات مهملة",
+        "Dialysis Waste": "نفايات الغسيل الكلوي",
+        "Chemotherapy Agents": "عوامل العلاج الكيميائي",
+        "Imaging Chemicals": "مواد التصوير الطبي",
+        "Radioactive Waste": "نفايات إشعاعية",
+        "Biological Specimens": "عينات حيوية"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "تتضمن النفايات الطبية مجموعة متنوعة من العناصر المستخدمة في منشآت الرعاية الصحية والتي قد تكون معرضة للعدوى أو تحمل مخاطر. التخلص السليم ضروري لمنع انتشار الأمراض وحماية الصحة العامة.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "نفايات طبية سريرية",
+        "Healthcare Waste": "نفايات الرعاية الصحية"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "حاويات متخصصة للتخلص من النفايات الطبية",
+        "handling": "تعامل بحذر شديد واستخدم معدات الحماية المناسبة. يجب فصل النفايات الطبية في نقطة الإنتاج.",
+        "separation": "افصل بين الأدوات الحادة والأدوية والنفايات المرضية والكيماويات لأن كل نوع يتطلب طرق تخلص مختلفة.",
+        "whatNotToDo": "لا تتخلص من النفايات الطبية في صناديق القمامة العادية أو مزجها مع النفايات العامة. تجنب التعامل معها بدون ارتداء معدات الحماية المناسبة.",
+        "safetyPrecautions": "استخدم دائمًا القفازات والأقنعة وقد تكون الدروع أو الأثواب الواقية ضرورية عند التعامل مع النفايات الطبية للحد من مخاطر التعرض."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "التخلص السليم من النفايات الطبية يقلل من خطر انتقال العدوى، ويحمي العاملين في مجال الرعاية الصحية والجمهور، ويتوافق مع اللوائح الصحية.",
+        "impact": "إدارة النفايات الطبية بفعالية ضرورية للحفاظ على بيئة آمنة وصحية، خاصة في منشآت الرعاية الصحية."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "يولد مستشفى نموذجي حوالي 33 جنيهًا من النفايات الطبية لكل سرير يوميًا، مما يؤكد أهمية إدارة النفايات الفعالة في منشآت الرعاية الصحية."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "نفايات الزيوت",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "زيت المحرك المستعمل",
+        "Cooking Oil": "زيت الطهي",
+        "Lubricating Oil": "زيت التشحيم",
+        "Hydraulic Oil": "زيت هيدروليكي",
+        "Transmission Fluid": "سائل نقل الحركة",
+        "Machine Oil": "زيت الآلات",
+        "Grease": "شحم",
+        "Oil Filters": "مرشحات الزيت",
+        "Oil-Soaked Rags": "قطع قماش مشربة بالزيت",
+        "Fuel Oils": "زيوت الوقود",
+        "Vegetable Oils": "زيوت نباتية",
+        "Petroleum Products": "منتجات البترول",
+        "Oil Containers": "حاويات الزيت",
+        "Oil-Water Mixtures": "خلائط مياه وزيت",
+        "Synthetic Oils": "زيوت اصطناعية",
+        "Oil Sludge": "طمي الزيت"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "تتضمن نفايات الزيوت مجموعة متنوعة من أنواع الزيوت المستخدمة والملوثة، والتي تتطلب معاملة خاصة لإعادة تدويرها والتخلص منها لمنع التلوث البيئي والمخاطر الصحية.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "زيت مستخدم",
+        "Waste Oil": "زيت مهمل"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "مرفق تدوير الزيوت المخصص أو نقاط جمع مخصصة للزيوت",
+        "handling": "قم بتخزين نفايات الزيوت في حاويات مانعة للتسرب. تجنب الاتصال المباشر واستنشاق الأبخرة.",
+        "separation": "افصل بين أنواع الزيوت المختلفة ونفايات ذات الصلة بالزيت لإعادة التدوير والتخلص السليم.",
+        "whatNotToDo": "لا تتخلص من نفايات الزيوت في صناديق القمامة العادية، أو في الصرف، أو في مجاري المياه. تجنب مزج نفايات الزيوت مع مواد خطرة أخرى.",
+        "safetyPrecautions": "استخدم القفازات وحماية العيون عند التعامل مع نفايات الزيوت. تأكد من وجود تهوية مناسبة في مناطق التخزين."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "إعادة تدوير نفايات الزيوت تحفظ الموارد الطبيعية، وتمنع التلوث، وتدعم الاستدامة البيئية. يمكن تكرير الزيوت المعاد تدويرها بشكل صحيح لإنتاج منتجات جديدة.",
+        "impact": "إدارة نفايات الزيوت بفعالية تقلل من خطر تلوث التربة والمياه وتساهم في الحفاظ على بيئة نظيفة وآمنة."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "يمكن أن يلوث جالون واحد من زيت المحرك المستخدم مليون جالون من المياه العذبة."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "النفايات الإشعاعية",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "وقود النووي المستهلك",
+        "Radioactive Medical Waste": "نفايات الطب الإشعاعية",
+        "Contaminated Lab Equipment": "معدات المختبر الملوثة",
+        "Radioactive Glass": "زجاج إشعاعي",
+        "Contaminated Metals": "معادن ملوثة",
+        "Americium Smoke Detectors": "أجهزة كشف الدخان بالأميريسيوم",
+        "Uranium Residues": "بقايا اليورانيوم",
+        "Irradiated Tools": "أدوات مشعة",
+        "Contaminated Clothing": "ملابس ملوثة",
+        "Radioactive Sources": "مصادر إشعاعية",
+        "Luminous Dials": "مؤشرات مضيئة",
+        "Thorium Lantern Mantles": "شمعدانات الثوريوم",
+        "Radioactive Ores": "خامات إشعاعية"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "النفايات الإشعاعية تشمل موادًا وأشياء تحتوي على مواد إشعاعية. طبيعتها الخطرة تستدعي بروتوكولات صارمة للتعامل معها وتخزينها والتخلص منها.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "نفايات نووية",
+        "Radioactive Material": "مادة إشعاعية"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "مرافق متخصصة للنفايات الإشعاعية",
+        "handling": "يتطلب بروتوكولات سلامة صارمة. التعامل يتم فقط من قبل محترفين مدربين.",
+        "separation": "بناءً على نوع ومستوى الإشعاع للتخلص السليم.",
+        "whatNotToDo": "لا يجوز التخلص منها في صناديق القمامة العادية. لا يجوز التعامل المباشر بدون حماية.",
+        "safetyPrecautions": "معدات الحماية المتخصصة وأجهزة كشف الإشعاع إلزامية."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "تحمي من الإشعاع الضار وتمنع التلوث البيئي.",
+        "impact": "أساسية للصحة والسلامة العامة، وتمنع الأضرار البيئية على المدى الطويل."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "بعض النفايات الإشعاعية يمكن أن تبقى خطرة لآلاف السنين."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "النفايات الصحية",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "حفاضات مستخدمة",
+        "Sanitary Napkins": "فوط صحية",
+        "Tampons": "طمبونات",
+        "Wet Wipes": "مناديل مبللة",
+        "Incontinence Pads": "فواصل البول",
+        "Disposable Toilet Seat Covers": "أغطية مقاعد المراحيض القابلة للتخلص",
+        "Cotton Swabs": "أعواد القطن",
+        "Facial Tissues": "مناديل ورقية للوجه",
+        "Bandages": "ضمادات",
+        "Disposable Razors": "موس بلاستيكية",
+        "Dental Floss": "خيط تنظيف الأسنان"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "النفايات الصحية تشمل مجموعة متنوعة من منتجات النظافة الشخصية التي يتم استخدامها والتخلص منها. نظرًا للمخاطر الصحية المحتملة، خاصة في المرافق الطبية أو رعاية المسنين، فإن التخلص السليم ضروري لمنع التلوث.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "نفايات النظافة",
+        "Personal Care Waste": "نفايات العناية الشخصية"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "وحدات تخلص متخصصة للنفايات الصحية",
+        "handling": "التعامل بعناية، idealباستخدام القفازات إذا أمكن، لتجنب الاتصال المباشر والتلوث.",
+        "separation": "فصل النفايات الصحية عن النفايات العادية للتخلص المتخصص.",
+        "whatNotToDo": "عدم التخلص من النفايات الصحية في المراحيض. تجنب التخلص منها في صناديق القمامة العادية بدون وحدات تخزين مناسبة.",
+        "safetyPrecautions": "ارتداء القفازات عند التعامل والتخلص من النفايات الصحية. ضمان ممارسات النظافة الصحية الصحيحة بعد التخلص."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "التخلص السليم يمنع انتشار العدوى ويحافظ على النظافة في الأماكن العامة والخاصة.",
+        "impact": "إدارة النفايات الصحية بفعالية أمر ضروري لصحة الجمهور، خاصة في المناطق ذات الكثافة السكانية العالية أو المناطق الحساسة مثل المستشفيات."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "يولد الشخص العادي حوالي 30 جنيهًا من النفايات الصحية في السنة."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "النفايات الصرفية",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "مخلفات الإنسان",
+        "Used Water": "المياه المستخدمة",
+        "Domestic Wastewater": "مياه الصرف المنزلي",
+        "Industrial Effluent": "مياه الصرف الصناعي",
+        "Agricultural Runoff": "تصريف المياه الزراعية",
+        "Storm water Discharge": "تصريف مياه الأمطار",
+        "Septic Tank Sludge": "رواسب الصهاريج الصرفية",
+        "Grease Trap Waste": "نفايات فاصل الشحوم",
+        "Gray Water": "مياه الرمادي",
+        "Black Water": "مياه الصرف الصحي",
+        "Sewage Sludge": "رماديات الصرف الصحي",
+        "Soapy Water": "مياه الصابون",
+        "Cooking Water Discharge": "تصريف مياه الطهي",
+        "Bathroom Water": "مياه الحمام",
+        "Laundry Wastewater": "مياه الغسيل",
+        "Sink Drainage": "تصريف مياه الحوض",
+        "Toilet Flushing Waste": "نفايات تدفق المرحاض",
+        "Shower Drain Water": "تصريف مياه الدش",
+        "Sump Pump Discharge": "تصريف مياه مضخة الحفرة",
+        "Urban Runoff": "تصريف المياه العمرانية"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "تشمل النفايات الصرفية المياه العادية والمواد التي يتم تصريفها أو تصريفها من المنازل والمنشآت الصناعية والأراضي الزراعية. العلاج والتخلص السليم ضروريان لحماية البيئة ومنع تلوث المياه.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "مياه الصرف",
+        "Sewerage": "الصرف الصحي"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "مرافق معالجة الصرف الصحي المتخصصة",
+        "handling": "تجنب الاتصال المباشر واتباع بروتوكولات السلامة عند التعامل مع الصرف الصحي.",
+        "separation": "ضمان الفصل عن مصادر المياه الصالحة للشرب والامتثال لعمليات معالجة مياه الصرف.",
+        "whatNotToDo": "عدم إطلاق الصرف الصحي غير المعالج في المياه الطبيعية أو البيئة.",
+        "safetyPrecautions": "ارتداء ملابس واقية بما في ذلك القفازات والأقنعة، وممارسة النظافة الشخصية بعد التعامل مع نفايات الصرف الصحي."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "إدارة الصرف الصحي السليمة تمنع انتقال الأمراض، وتحمي مصادر المياه، وتدعم الصحة العامة.",
+        "impact": "معالجة الصرف الصحي بفعالية ضرورية للحفاظ على البيئة والتنمية الحضرية المستدامة."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "يمكن لمحطات معالجة الصرف الصحي المتقدمة تحويل النفايات إلى طاقة ومياه قابلة لإعادة الاستخدام، مما يظهر إمكانية استرداد الموارد من النفايات."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "نفايات المكب",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "البلاستيك غير القابل لإعادة التدوير",
+        "Contaminated Paper": "الورق الملوث",
+        "Broken Glass": "الزجاج المكسور",
+        "Non-Recyclable Packaging": "التعبئة والتغليف غير القابل لإعادة التدوير",
+        "Worn Textiles": "المنسوجات المتآكلة",
+        "Damaged Furniture": "الأثاث التالف",
+        "Ceramic Items": "السلع الخزفية",
+        "Construction Debris": "فوضى البناء",
+        "Non-Recyclable Electronics": "الإلكترونيات غير القابلة لإعادة التدوير",
+        "Household Trash": "نفايات المنزل",
+        "Ineligible Food Waste": "نفايات الطعام غير المؤهلة",
+        "Ineligible Garden Waste": "نفايات الحديقة غير المؤهلة",
+        "Used Batteries": "البطاريات المستخدمة",
+        "Soiled Clothing": "الملابس المتسخة",
+        "Old Carpets": "السجاد القديمة",
+        "Expired Medicines": "الأدوية منتهية الصلاحية",
+        "Waste Foam": "الرغوة النفايات",
+        "Disposable Utensils": "أدوات الاستخدام الواحد",
+        "Waste Oil": "زيت النفايات",
+        "Contaminated Soil": "التربة الملوثة"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "تشمل نفايات المكب المواد التي لا يمكن إعادة تدويرها أو تحويلها إلى سماد. إنها تتضمن مجموعة متنوعة من العناصر غير القابلة لإعادة التدوير التي تنتهي في المكبات، مما يؤدي إلى مخاوف بيئية محتملة مثل تلوث التربة والمياه الجوفية.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "النفايات غير القابلة لإعادة التدوير",
+        "General Trash": "القمامة العامة"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "حاويات القمامة العامة أو الحاويات المخصصة للعناصر غير القابلة لإعادة التدوير مع وجود تصنيف مناسب",
+        "handling": "التعامل بعناية مع نفايات المكب، مفصلة عن المواد القابلة لإعادة التدوير والمواد الخطرة.",
+        "separation": "من المهم فصل نفايات المكب عن القابلة لإعادة التدوير والعضويات ونفايات الخطر للحد من تأثير المكب.",
+        "whatNotToDo": "تجنب التخلص من العناصر القابلة لإعادة التدوير أو التحول العضوي كنفايات مكب.",
+        "safetyPrecautions": "ارتداء القفازات واستخدام تقنيات رفع مناسبة عند التعامل مع نفايات المكب لتجنب الإصابة وضمان النظافة الصحيحة."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "التخلص السليم في المكبات يساعد في إدارة النفايات غير القابلة لإعادة التدوير والحد من تلوث البيئة.",
+        "impact": "تقليل نفايات المكب ضروري لإدارة النفايات المستدامة ومنع الأضرار البيئية طويلة الأمد."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "جهود الحد من نفايات المكب يمكن أن تقلل بشكل كبير من انبعاثات غازات الاحتباس الحراري، مما يؤكد على أهمية إعادة التدوير وتقليل النفايات."
     }
   },
+
+  "error": {
+    "invalidImageUrl": "الرجاء إدخال عنوان URL صحيح للصورة.",
+    "emptySearch": "الرجاء تقديم صورة أو عنوان URL.",
+    "searchResponse": "حدث خطأ أثناء البحث، الرجاء المحاولة لاحقًا.",
+    "invalidImageSize": "الرجاء تقديم ملف صورة بحجم يصل إلى 5 ميجابايت."
+  },
   "common": {
-    "knowYourWaste": "اعرف نفاياتك",
-    "sustainNatureNest": "الحفاظ على عش الطبيعة",
-    "searchPlaceholder": "ابحث عن عنصر لإعادة التدوير أو التخلص منه",
+    "knowYourWaste": "اعرف مخلفاتك",
+    "sustainNatureNest": "احتفظ بعش الطبيعة",
+    "searchPlaceholder": "ابحث عن العنصر لإعادة التدوير أو التخلص منه",
     "whatIsWaste": "ما هو {{value}}",
-    "alsoKnownAs": "يعرف أيضا باسم",
+    "alsoKnownAs": "معروف أيضًا بـ",
     "itemsInsideWaste": "العناصر داخل {{value}}",
     "howToHandle": "كيفية التعامل مع {{value}}",
     "handling": "التعامل",
     "separation": "الفصل",
-    "whatNotToDo": "ما لا يجب فعله",
-    "suggestedBin": "الحاوية المقترحة",
-    "whyItsImportant": "لماذا هو مهم",
+    "whatNotToDo": "ما الذي لا يجب القيام به",
+    "suggestedBin": "صندوق مقترح",
+    "whyItsImportant": "لماذا هذا مهم",
     "note": "ملاحظة",
     "safetyPrecautions": "احتياطات السلامة",
-    "alsoKnowAbout": "اعرف أيضًا عن",
-    "compostable": "قابل للتسميد",
+    "alsoKnowAbout": "أعرف أيضًا عن",
+    "compostable": "قابل للتحلل",
     "recyclable": "قابل لإعادة التدوير",
     "nonRecyclable": "غير قابل لإعادة التدوير",
-    "burnable": "قابل للحرق بشكل مُنضبط",
+    "burnable": "قابل للحرق بشكل مراقب",
     "nonBurnable": "غير قابل للحرق",
-    "caution": "تعامل معه بحذر",
+    "caution": "التعامل بحذر",
     "flammable": "قابل للاشتعال",
     "toxic": "سام",
-    "biohazardous": "خطر بيولوجي",
+    "biohazardous": "محمل بالخطر البيولوجي",
     "radioactive": "مشع",
-    "useSafetyGear": "اتخذ احتياطات وقائية",
+    "useSafetyGear": "استخدم معدات السلامة",
     "washHand": "اغسل يديك",
-    "sanitize": "تعقيم",
-    "disclaimer": "المعلومات المقدمة هنا عامة وقد لا تنطبق على جميع المناطق أو الظروف. يجب استشارة اللوائح والإرشادات المحلية لإدارة النفايات العضوية.",
+    "sanitize": "عقم",
+    "disclaimer": "المعلومات المقدمة هنا هي عامة وقد لا تنطبق على جميع المناطق أو الظروف. يجب استشارة اللوائح والإرشادات المحلية لإدارة {{value}}.",
     "readMore": "اقرأ المزيد",
-    "readMoreSearch": "حلول إدارة {{value}} المحلية وكيفية التعامل معها",
-    "managementStation": "محطة إدارة",
+    "readMoreSearch": "حلول إدارة {{value}} المحلية وكيفية التعامل",
     "credits": "معلومات الائتمان",
     "visitToKnowMore": "زيارة لمعرفة المزيد",
-    "sustainNatureNestBy": "الحفاظ على عش الطبيعة بواسطة"
+    "imageSearch": "البحث عن الصور",
+    "uploadImage": "تحميل الصورة",
+    "changeImage": "تغيير الصورة",
+    "or": "أو",
+    "pasteImageLink": "لصق رابط الصورة",
+    "reset": "إعادة تعيين",
+    "search": "بحث",
+    "searching": "جاري البحث"
   }
 }

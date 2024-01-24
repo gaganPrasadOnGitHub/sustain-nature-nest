@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "Organisch Afval",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "Voedselresten",
+        "Fruit Peels": "Fruitschillen",
+        "Vegetable Peels": "Groenteschillen",
+        "Coffee Grounds": "Koffiedik",
+        "Tea Bags": "Theezakjes",
+        "Eggshells": "Eierschalen",
+        "Garden Flowers": "Tuinbloemen",
+        "Houseplants": "Kamerplanten",
+        "Grass Clippings": "Grasmaaisel",
+        "Weeds": "Onkruid",
+        "Nut Shells": "Nootschalen",
+        "Paper Towels": "Papieren handdoeken",
+        "Cardboard": "Karton",
+        "Wood Scrap": "Houtafval",
+        "Natural Fibers": "Natuurlijke vezels"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "Organisch afval komt voornamelijk uit keukens en tuinen. Het omvat biologisch afbreekbare materialen zoals voedselresten, tuinafval en natuurlijke vezels. Rijk aan voedingsstoffen zijn deze materialen ideaal voor compostering, waarmee afval wordt omgezet in waardevolle bodemverbeteraars.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Composteerbaar Afval": "Composteerbaar Afval",
+        "Biologisch Afbreekbaar Afval": "Biologisch Afbreekbaar Afval"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "Compostbak (geventileerd), Metaal of Duurzaam Plastic, Groen/Bruin",
+        "handling": "Gebruik handschoenen bij het hanteren, was uw handen na verwijdering. Vermijd direct contact met ontbindende materialen.",
+        "separation": "Scheid organisch materiaal van anorganische items (zoals plastic, metaal, glas) om effectieve compostering te garanderen.",
+        "whatNotToDo": "Voeg geen anorganische materialen toe zoals plastic, metaal of glas. Vermijd het wegwerpen van chemisch behandeld producten of materialen die met olie/vet zijn verontreinigd.",
+        "safetyPrecautions": "Gebruik handschoenen bij het hanteren van organisch afval om direct contact met ontbindende materialen en mogelijke ziekteverwekkers te vermijden. Zorg ervoor dat de composteerplaats goed geventileerd is om de ophoping van onaangename geuren te voorkomen. Was uw handen grondig na het hanteren van organische materialen om persoonlijke hygiëne te behouden."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "Vermindert het gebruik van stortplaatsen en methaanemissies, en vermindert de behoefte aan chemische meststoffen. Bevordert duurzame landbouw.",
+        "impact": "Zet afval om in waardevolle compost, verrijkt de bodem met voedingsstoffen en ondersteunt gezonde plantengroei. Bevordert duurzaam grondgebruik."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "Als wereldwijd voedselafval wordt gecomposteerd, kan dit de equivalent CO2-uitstoot van 2 miljard auto's van de weg halen, meer dan het totale aantal auto's dat in de wereld wordt gereden."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "Landbouwafval",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
+        "Crop Residues": "Gewasresten",
+        "Manure": "Mest",
+        "Pesticide Containers": "Bestrijdingsmiddel Containers",
+        "Fertilizer Bags": "Meststofzakken",
+        "Farm Machinery": "Landbouwmachines",
+        "Spoiled Produce": "Bedorven Producten",
+        "Agricultural Plastics": "Landbouwplastics",
+        "Diseased Plants": "Zieke Planten",
+        "Greenhouse Films": "Kasfolies",
+        "Seed Sacks": "Zaakzakken",
+        "Pruning Waste": "Snoeiafval",
+        "Irrigation Equipment": "Irrigatie Apparatuur",
+        "Soil Amendment Packaging": "Verpakking van Bodemverbeteraars",
+        "Animal Feed Bags": "Dieren Voerzakken",
+        "Silage Wraps": "Inkuilfolie",
+        "Horticultural Pots": "Tuinbouwpotten",
+        "Waste Pesticides": "Afval Bestrijdingsmiddelen",
+        "Contaminated Soils": "Verontreinigde Gronden",
+        "Old Tools": "Oude Gereedschappen",
+        "Broken Irrigation Pipes": "Gebroken Irrigatiebuizen",
+        "Discarded Gloves": "Weggeworpen Handschoenen",
+        "Protective Gear": "Beschermende Kleding",
+        "Unused Veterinary Medicines": "Ongebruikte Diergeneesmiddelen",
+        "Baler Twine": "Balenpers Touw",
+        "Netting Material": "Netmateriaal",
         "Plastic Mulch": "Plastic Mulch"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "Landbouwafval omvat zowel organische als anorganische materialen afkomstig van landbouwactiviteiten. Dit omvat natuurlijke bijproducten zoals gewasresten en mest, evenals niet-organisch afval zoals containers, plastics en oude machines. Effectief beheer is essentieel om de milieueffecten te minimaliseren en duurzame landbouw te ondersteunen.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "Boerderijafval",
+        "Agricultural Byproducts": "Landbouw Bijproducten"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "Speciale bakken voor zowel organisch als anorganisch afval, met aparte behandeling voor gevaarlijke materialen",
+        "handling": "Gebruik beschermende kleding voor gevaarlijke items. Composteer organisch afval indien van toepassing.",
+        "separation": "Scheid organische materialen van chemisch en plastic afval. Behandel gevaarlijke materialen met zorg.",
+        "whatNotToDo": "Verbrand geen plastics of chemische containers. Vermijd het mengen van organisch afval met gevaarlijke materialen.",
+        "safetyPrecautions": "Draag handschoenen en beschermende kleding, vooral bij het hanteren van chemische meststoffen of bestrijdingsmiddelen. Zorg voor goede ventilatie bij het werken met bodemverbeteraars of in afgesloten ruimtes zoals kassen."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "Juiste verwijdering vermindert vervuiling, verbetert de bodemgezondheid en bevordert duurzame praktijken.",
+        "impact": "Effectief beheer van landbouwafval vermindert de ecologische voetafdruk van landbouw en conserveert hulpbronnen, terwijl duurzame landbouwpraktijken worden ondersteund."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "Gewasresten, indien op de juiste manier beheerd en gecomposteerd, kunnen de bodemvruchtbaarheid aanzienlijk verrijken, waardoor de behoefte aan synthetische meststoffen mogelijk wordt verminderd."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "Dierlijk Afval",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "Mest",
+        "Bedding Straw": "Strooisel",
+        "Livestock Carcasses": "Karkassen van Vee",
+        "Poultry Waste": "Pluimvee Afval",
+        "Feathers": "Veren",
+        "Fish Waste": "Visafval",
+        "Milk Spoilage": "Bedorven Melk",
+        "Eggshell Waste": "Eierschalen Afval",
+        "Animal Hair": "Dierenhaar",
+        "Wool": "Wol",
+        "Dairy Processing Waste": "Zuivelverwerkingsafval",
+        "Veterinary Supplies": "Dierenarts Benodigdheden",
+        "Expired Animal Feed": "Verlopen Diervoeding",
+        "Contaminated Animal Products": "Verontreinigde Dierlijke Producten"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "Dierlijk afval verwijst naar bijproducten die worden gegenereerd uit vee, pluimvee en andere dierlijke landbouwactiviteiten. Het omvat organisch afval zoals mest en strooisel, evenals karkassen en bedorven dierlijke producten. Juiste behandeling en verwijdering zijn cruciaal voor de milieuhygiëne en het voorkomen van de verspreiding van ziekten.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "Vee Afval",
+        "Poultry Waste": "Pluimvee Afval"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "Speciale containers voor biologisch afval, gescheiden van gewoon afval",
+        "handling": "Gebruik beschermende kleding, vooral bij het hanteren van karkassen of verontreinigd afval. Volg strikte hygiëneprotocollen.",
+        "separation": "Scheid biologisch afval van gewoon afval. Gooi het weg in aangewezen containers.",
+        "whatNotToDo": "Meng het niet met gewoon afval. Vermijd direct contact zonder de juiste veiligheidsuitrusting.",
+        "safetyPrecautions": "Draag handschoenen en beschermende schoenen bij het hanteren van dierlijk afval om direct contact met mogelijk schadelijke micro-organismen te voorkomen. Zorg ervoor dat gebieden waar dierlijk afval wordt opgeslagen of verwerkt goed geventileerd zijn. Na het hanteren van dierlijk afval grondig de handen wassen met water en zeep om de verspreiding van zoönose te voorkomen."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "Een juiste behandeling voorkomt milieuvervuiling en gezondheidsrisico's voor mens en dier.",
+        "impact": "Verantwoorde verwijdering van dierlijk afval ondersteunt de volksgezondheid, milieubescherming en duurzame landbouwpraktijken."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "Mest van één melkkoe kan genoeg elektriciteit genereren om een kleine koelkast een dag lang van stroom te voorzien, wat het potentieel illustreert van het omzetten van dierlijk afval in hernieuwbare energie."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "Voedselafval",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
+        "Cooked Food": "Gekookt Voedsel",
+        "Uncooked Food": "Ongekookt Voedsel",
+        "Meat Scraps": "Vleesresten",
+        "Fish Scraps": "Visresten",
+        "Dairy Products": "Zuivelproducten",
+        "Bread": "Brood",
+        "Pastries": "Gebak",
+        "Leftover Meals": "Overgebleven Maaltijden",
+        "Expired Food": "Verlopen Voedsel",
+        "Rice": "Rijst",
         "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cheese": "Kaas",
+        "Egg Shells": "Eierschalen",
+        "Fruit Scraps": "Fruitresten",
+        "Vegetable Scraps": "Groenteresten",
+        "Coffee Grounds": "Koffiedik",
+        "Tea Bags": "Theezakjes",
+        "Food-Soiled Paper": "Voedselbevlekt Papier"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "Voedselafvalbakken zijn bedoeld voor het wegwerpen van verschillende soorten voedselafval, waaronder restjes, verlopen items en voedselresten. Deze categorie afval is geschikt voor biovergisting of compostering, waarbij organisch materiaal wordt omgezet in waardevolle hulpbronnen.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "Keukenafval",
+        "Leftover Waste": "Overgebleven Afval"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "Afgesloten Bak, met geurcontrole, Donkergroen of Bruin",
+        "handling": "Sluit voedselafval af om geuren te verminderen en insecten af te schrikken. Was en desinfecteer altijd uw handen na het hanteren. Reinig morsingen onmiddellijk.",
+        "separation": "Scheid voedselafval van recyclebaar en niet-composteerbaar afval om de efficiëntie van compostering en recycling te verbeteren.",
+        "whatNotToDo": "Meng voedselafval niet met vloeistoffen, oliën of chemicaliën. Voeg geen niet-biologisch afbreekbare items toe zoals plastic of metaal. Laat voedselafval niet onbedekt om te voorkomen dat ongedierte wordt aangetrokken en geuren ontstaan.",
+        "safetyPrecautions": "Draag bij het hanteren van voedselafval, vooral in grote hoeveelheden, handschoenen om u te beschermen tegen mogelijke bederf en bacteriën. Houd voedselafvalcontainers schoon en afgedekt om ongedierte aan te trekken en geuren te voorkomen. Reinig regelmatig uw handen, gereedschap en oppervlakken die in contact komen met voedselafval om de hygiëne te behouden."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "Helpt bij het voorkomen van aantrekking van ongedierte, vermindert de uitstoot van broeikasgassen van stortplaatsen en vergemakkelijkt de productie van compost of biogas.",
+        "impact": "Het juiste beheer van voedselafval bespaart hulpbronnen, vermindert de milieu-impact en bevordert duurzame praktijken."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "Als voedselafval een land was, zou het wereldwijd de op twee na grootste uitstoter van broeikasgassen zijn, na de VS en China. Het verminderen van voedselverspilling is cruciaal om de milieu-impact te minimaliseren."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "Groenafval",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "Grasmaaisel",
+        "Leaves": "Bladeren",
+        "Branches": "Takken",
+        "Weeds": "Onkruid",
+        "Flowers": "Bloemen",
+        "Garden Trimmings": "Tuinafval",
+        "Shrubs": "Struiken",
+        "Small Twigs": "Kleine Twijgjes",
+        "Hedge Clippings": "Hegsnoeisel",
+        "Fallen Fruit": "Gevallen Fruit",
+        "Garden Maintenance": "Tuinonderhoud",
+        "Plant Prunings": "Plantensnoei"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "Groenafval, bestaande uit planten- en tuinafval, speelt een essentiële rol in organische recycling. Het composteren van groenafval draagt bij aan de productie van voedingsrijke bodemverbeteraars, essentieel voor duurzaam tuinieren en landbouw.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "Tuinafval",
+        "Garden Waste": "Tuinafval"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "Open Bak, Grote Capaciteit, bij voorkeur Groen",
+        "handling": "Gebruik handschoenen bij het hanteren van groenafval om snijwonden of irritatie door ruw materiaal te voorkomen. Was uw handen na het weggooien.",
+        "separation": "Scheid groenafval van huishoudelijk afval en gevaarlijk afval. Meng het niet met voedselafval of recyclebaar afval.",
+        "whatNotToDo": "Vermijd het weggooien van niet-biologisch afbreekbaar materiaal zoals plastic zakken of potten. Voeg geen grond of stenen toe. Wees terughoudend met het toevoegen van zieke planten of invasieve soorten die de compost kunnen besmetten.",
+        "safetyPrecautions": "Bij het hanteren van groenafval draagt u handschoenen om uzelf te beschermen tegen scherpe materialen, en zorgt u ervoor dat het vrij is van schadelijke stoffen zoals behandeld hout."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "Faciliteert de productie van compost, verrijkt de bodemgezondheid en draagt bij aan koolstofopslag. Vermindert het gebruik van stortplaatsruimte en de uitstoot van broeikasgassen.",
+        "impact": "Draagt bij aan duurzaam afvalbeheer, ondersteunt biodiversiteit in de bodem en bevordert milieuvriendelijke tuin- en landbouwpraktijken."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "Groenafval zoals grasmaaisel en bladeren kan worden gecomposteerd om rijke grond te creëren, bekend als 'zwart goud' onder tuinders, wat de plantengroei verbetert zonder chemische meststoffen."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "Recyclebaar Afval",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
+        "Newspapers": "Kranten",
+        "Magazines": "Tijdschriften",
+        "Office Paper": "Kantoorpapier",
+        "Cardboard": "Karton",
+        "Plastic Bottles": "Plastic Flessen",
         "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Glass Bottles": "Glazen Flessen",
+        "Glass Jars": "Glazen Potten",
+        "Aluminum Cans": "Aluminium Blikjes",
+        "Steel Cans": "Stalen Blikjes",
+        "Electronics": "Elektronica",
+        "Textiles": "Textiel",
+        "Untreated Wood": "Onbehandeld Hout",
+        "Aerosol Cans": "Aerosol Bussen",
+        "Batteries": "Batterijen",
+        "Non-LED Light Bulbs": "Niet-LED Lampen"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "Recyclebaar afval omvat een verscheidenheid aan materialen die opnieuw kunnen worden verwerkt voor verdere gebruik. Belangrijke items in deze categorie zijn papierproducten, plastics, glas, metalen en bepaalde soorten elektronica, die allemaal een cruciale rol spelen in het behoud van hulpbronnen en milieuduurzaamheid.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "Recyclingbak, Metaal of Duurzaam Plastic",
+        "handling": "Zorg ervoor dat items schoon en droog zijn voordat ze worden gerecycled. Sorteer ze volgens lokale recyclingrichtlijnen.",
+        "separation": "Scheid verschillende soorten recyclebare materialen om besmetting met niet-recyclebaar materiaal te voorkomen.",
+        "whatNotToDo": "Vermijd het opnemen van vervuild, verontreinigd of niet-recyclebaar materiaal. Houd u aan de lokale regels voor recycling voor specifieke verwijderingen.",
+        "safetyPrecautions": "Bij het hanteren van recyclebare materialen draagt u indien nodig geschikte veiligheidsuitrusting. Wees voorzichtig met insecten of dieren die zich in de buurt van het recyclebare materiaal kunnen bevinden."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "Verkleint de behoefte aan nieuwe grondstoffen, bespaart energie en vermindert de milieueffecten van afval.",
+        "impact": "Ondersteunt duurzaam beheer van hulpbronnen en draagt bij aan inspanningen voor milieubescherming en -behoud."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Recycling helpt de milieueffecten van afval te verminderen en waardevolle hulpbronnen te behouden voor toekomstige generaties."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "Automobielafval",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "Gebruikte Motorolie",
+        "Oil Filters": "Olie Filters",
+        "Batteries": "Batterijen",
+        "Tires": "Banden",
+        "Brake Pads": "Remblokken",
+        "Brake Fluid": "Remvloeistof",
+        "Transmission Fluid": "Transmissievloeistof",
+        "Coolants": "Koelvloeistoffen",
+        "Metal Parts": "Metalen Onderdelen",
+        "Rubber Hoses": "Rubberen Slangen",
+        "Belts": "Riemen",
+        "Air Filters": "Luchtfilters",
+        "Windshield Glass": "Voorruitglas",
+        "Upholstery Materials": "Bekledingsmaterialen",
+        "Automotive Bumpers": "Autobumpers",
+        "Headlights": "Koplampen",
+        "Electrical Components": "Elektrische Componenten"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "Automobielafval omvat verschillende materialen en onderdelen die afkomstig zijn van voertuigen. Het omvat zowel gevaarlijk als niet-gevaarlijk afval, zoals oliën, batterijen, banden en mechanische onderdelen. Een juiste verwijdering en recycling van automobielafval zijn cruciaal voor milieubescherming en het behoud van hulpbronnen.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "Voertuigafval",
+        "Car Waste": "Autovuilnis"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "Gespecialiseerde containers voor gevaarlijke materialen, aangewezen gebieden voor grotere onderdelen",
+        "handling": "Behandel met zorg, vooral voor gevaarlijke stoffen. Gebruik veiligheidsuitrusting bij het omgaan met oliën en chemicaliën.",
+        "separation": "Scheid gevaarlijk afval zoals oliën en batterijen van niet-gevaarlijke items. Volg lokale richtlijnen voor de verwijdering van elk type.",
+        "whatNotToDo": "Gooi geen autolie en chemicaliën weg in gewoon afval of afvoer. Vermijd het mengen van verschillende soorten automobielafval.",
+        "safetyPrecautions": "Draag handschoenen en oogbescherming bij het hanteren van automobielafval zoals gebruikte olie, batterijen en banden om contact met gevaarlijke materialen te voorkomen. Werk altijd in goed geventileerde ruimtes om het inademen van dampen te voorkomen, vooral bij het omgaan met automobielvloeistoffen. Gooi automobielafval weg bij aangewezen recyclingcentra om milieubeschadiging te voorkomen."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "Voorkomt milieubesmetting, behoudt waardevolle materialen en ondersteunt recyclinginitiatieven.",
+        "impact": "Een juiste behandeling van automobielafval minimaliseert de ecologische voetafdruk van het gebruik en onderhoud van voertuigen, wat bijdraagt aan een schoner en veiliger milieu."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "Het recyclen van slechts één auto bespaart meer dan 2.500 pond ijzererts, 1.400 pond steenkool en 120 pond kalksteen. Dit proces vermindert ook aanzienlijk de energie en grondstoffen die nodig zijn voor de productie van nieuwe auto-onderdelen en voertuigen."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "Groot Afval",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "Meubels",
+        "Appliances": "Apparaten",
+        "Mattresses": "Matrassen",
+        "Large Toys": "Groot Speelgoed",
+        "Carpeting": "Tapijten",
+        "Bicycles": "Fietsen",
+        "Large Electronics": "Grote Elektronica",
+        "BBQ Grills": "Barbecues",
+        "Exercise Equipment": "Fitnessapparatuur",
+        "Large Household Items": "Grote Huishoudelijke Artikelen"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "Groot afval omvat grote voorwerpen die niet in reguliere vuilnisbakken passen. Een juiste verwijdering van groot afval is essentieel voor efficiënt afvalbeheer en milieubehoud. Het recyclen van grote voorwerpen kan bijdragen aan het behoud van hulpbronnen.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "Groot Afval",
+        "Oversized Items": "Oversized Voorwerpen"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "Speciale Inzameling of Afleverpunt",
+        "handling": "Raadpleeg de lokale afvalbeheerder voor specifieke verwijderingsinstructies. Sommige voorwerpen vereisen speciale behandeling of ophaaldiensten.",
+        "separation": "Scheid verschillende soorten groot afval voor passende recycling- of verwijderingsmethoden.",
+        "whatNotToDo": "Laat geen groot afval op de stoep achter zonder voor een juiste ophaling te zorgen. Vermijd illegaal dumpen.",
+        "safetyPrecautions": "Bij het hanteren van grote afvalvoorwerpen zoals meubels, apparaten en groot speelgoed, gebruik de juiste tiltechnieken om rugblessures te voorkomen. Het is raadzaam om hulp te hebben of een steekwagen te gebruiken voor het verplaatsen van zware voorwerpen. Draag beschermende schoenen om voetblessures te voorkomen en handschoenen voor grip en bescherming tegen scherpe randen."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "Een juiste verwijdering van groot afval vermindert het gebruik van stortplaatsen, bevordert recycling en draagt bij aan een schonere en veiligere omgeving.",
+        "impact": "Het recyclen van grote voorwerpen helpt bij het terugwinnen van waardevolle materialen, vermindert de milieubelasting en ondersteunt duurzame praktijken voor afvalbeheer."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "Meubels en andere grote voorwerpen belanden vaak op stortplaatsen, maar als ze worden hergebruikt of gerecycled, kan een enkele bank tot wel 9 kubieke yards aan stortplaatsruimte besparen, wat de aanzienlijke impact van het recyclen en hergebruiken van grote voorwerpen illustreert."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "Bouw- en Sloopafval",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
+        "Concrete": "Beton",
+        "Bricks": "Bakstenen",
+        "Wood": "Hout",
+        "Gypsum": "Gips",
+        "Metal": "Metaal",
+        "Glass": "Glas",
         "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Insulation Materials": "Isolatiematerialen",
+        "Electrical Wiring": "Elektrische Bedrading",
+        "Plumbing Fixtures": "Sanitair",
+        "Ceramic Tiles": "Keramische Tegels",
+        "Asphalt": "Asfalt",
+        "Roofing Materials": "Dakmaterialen",
+        "Windows": "Ramen",
+        "Doors": "Deuren",
+        "Piping": "Leidingen",
+        "Reinforced Concrete": "Gewapend Beton",
+        "Drywall": "Gipsplaten",
+        "Flooring Materials": "Vloermaterialen",
+        "Wall Coverings": "Wandbekleding"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "Bouw- en Sloopafval omvat materialen van de bouw, renovatie en sloop van gebouwen en structuren. Een juist beheer is cruciaal om materialen te recyclen en milieubelasting te minimaliseren.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "Bouwafval",
+        "Renovation Debris": "Renovatiepuin"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "Speciale Inzameling of Aangewezen Stortplaatsen",
+        "handling": "Raadpleeg lokale voorschriften voor verwijdering. Sommige materialen vereisen speciale verwerking of behandeling.",
+        "separation": "Scheid materialen op basis van type (bijv. metaal, hout, beton) voor efficiënte recycling.",
+        "whatNotToDo": "Mix C&D-afval niet met regulier huishoudelijk afval. Vermijd illegaal dumpen en onjuiste verwijdering.",
+        "safetyPrecautions": "Zorg ervoor dat u stevige handschoenen en veiligheidsbril draagt om te beschermen tegen scherpe objecten en puin in C&D-afval zoals hout, metaal en beton. Geschikt schoeisel is essentieel om verwondingen door zware materialen te voorkomen. Gebruik stofmaskers ter bescherming tegen stof en fijne deeltjes. Gebruik de juiste tiltechnieken voor zware voorwerpen om rugblessures te voorkomen."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "Een juiste verwijdering bevordert de recycling van materialen, vermindert het gebruik van stortplaatsen en minimaliseert milieuvervuiling.",
+        "impact": "Het recyclen van C&D-materialen bespaart hulpbronnen, ondersteunt de bouwsector met gerecyclede materialen en draagt bij aan duurzame ontwikkeling."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "Het recyclen van één ton beton kan tot wel 1360 liter water en 900 kg CO2 besparen, wat de aanzienlijke milieuvoordelen van hergebruik van C&D-materialen benadrukt in plaats van ze op stortplaatsen te storten."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "Elektronisch Afval",
       "wasteItems": {
         "Computers": "Computers",
         "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
+        "Mobile Phones": "Mobiele Telefoons",
         "Printers": "Printers",
         "Scanners": "Scanners",
-        "Televisions": "Televisions",
+        "Televisions": "Televisies",
         "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "DVD Players": "DVD-Spelers",
+        "Game Consoles": "Spelconsoles",
+        "Small Appliances": "Kleine Apparaten",
+        "Electronic Tools": "Elektronische Gereedschappen",
+        "Batteries": "Batterijen",
+        "Circuit Boards": "Printplaten",
+        "Hard Drives": "Harde Schijven",
+        "Keyboards": "Toetsenborden",
+        "Mice": "Muizen",
+        "Speakers": "Luidsprekers",
+        "Chargers": "Opladers",
+        "Cables": "Kabels",
+        "Cameras": "Camera's",
+        "Electronic Toys": "Elektronisch Speelgoed",
+        "CDs": "CD's",
+        "DVDs": "DVD's",
+        "GPS Devices": "GPS-apparaten"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "Elektronisch Afval, of E-Afval, omvat afgedankte elektronische apparaten en apparatuur. Een juiste recycling en verwijdering zijn essentieel om waardevolle materialen te herstellen en milieubelasting te voorkomen.",
       "otherNames": {
         "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "E-Waste": "E-Afval"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "Speciale Inzamelpunten voor E-Afval of Recyclingcentra",
+        "handling": "Behandel E-Afval voorzichtig om breuk en lekkage van gevaarlijke stoffen te voorkomen. Volg lokale voorschriften voor verwijdering.",
+        "separation": "Scheid E-Afval van gewoon afval. Sorteer op type voor efficiënte recycling.",
+        "whatNotToDo": "Gooi E-Afval niet bij het reguliere afval. Vermijd het demonteren of breken van elektronische apparaten, wat giftige stoffen kan vrijgeven.",
+        "safetyPrecautions": "Gebruik handschoenen om te beschermen tegen scherpe randen bij het hanteren van E-Afval zoals oude computers en tv's. Wees op de hoogte van gevaarlijke stoffen zoals lood en kwik in elektronica. Voorkom breuk om blootstelling te voorkomen. Recycle op aangewezen centra voor veilige verwijdering."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "Een juiste verwijdering van E-Afval recycleert waardevolle materialen, vermindert het gebruik van stortplaatsen en beschermt het milieu tegen giftige stoffen.",
+        "impact": "Het recyclen van E-Afval ondersteunt de circulaire economie, vermindert de behoefte aan nieuwe grondstoffen en minimaliseert ecologische voetafdrukken."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "Het recyclen van één miljoen laptops bespaart genoeg energie om meer dan 3.500 Amerikaanse huizen een jaar lang van stroom te voorzien. Het recyclen van een miljoen mobiele telefoons kan 35.274 pond koper, 772 pond zilver, 75 pond goud en 33 pond palladium terugwinnen."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "Glasafval",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "Glazen Flessen",
+        "Glass Jars": "Glazen Potten",
+        "Window Glass": "Raamglas",
+        "Mirror Glass": "Spiegelglas",
+        "Glass Containers": "Glazen Containers",
+        "Drinking Glasses": "Drinkglazen",
+        "Broken Glassware": "Gebroken Glaswerk",
+        "Automotive Glass": "Auto Glas",
+        "Glass Tableware": "Glazen Servies",
+        "Light Bulbs": "Gloeilampen (niet fluorescerend)",
+        "Laboratory Glassware": "Laboratoriumglaswerk",
+        "Tempered Glass": "Gehard Glas",
+        "Glass Shards": "Glas Scherven"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "Glasafval omvat verschillende soorten weggegooid glaswerk. Het recyclen van glas is cruciaal omdat het kan worden verwerkt en omgevormd tot nieuwe glasproducten, wat de behoefte aan nieuwe grondstoffen vermindert.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "Gebroken Glas",
+        "Discarded Glassware": "Weggegooid Glaswerk"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "Glas Recycling Bak of Inzamelpunten",
+        "handling": "Behandel glasafval voorzichtig om verwondingen te voorkomen. Verwijder indien nodig alle niet-glascomponenten.",
+        "separation": "Scheid glas zoveel mogelijk op kleur en type om de recycle-efficiëntie te verbeteren.",
+        "whatNotToDo": "Gooi glas niet in gewone afvalbakken. Vermijd het mengen van glas met andere recyclebare materialen die het kunnen verontreinigen.",
+        "safetyPrecautions": "Gebruik handschoenen bij het hanteren van gebroken glas om snijwonden te voorkomen. Als u met een grote hoeveelheid glasafval werkt, wordt oogbescherming aanbevolen om te beschermen tegen mogelijke splinters of scherven. Til altijd zware glazen items op de juiste manier om verwondingen te voorkomen. Bewaar glasafval in een stevige container om breuk te voorkomen en zorg voor veilig transport."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "Het recyclen van glas vermindert afval op stortplaatsen, bespaart natuurlijke hulpbronnen en energie. Glas kan oneindig worden gerecycled zonder verlies van kwaliteit.",
+        "impact": "Effectieve glasrecycling helpt de milieubelasting te verminderen, ondersteunt duurzaam gebruik van hulpbronnen en draagt bij aan een circulaire economie."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "Het recyclen van glas is buitengewoon efficiënt, aangezien het oneindig kan worden gerecycled zonder verlies van zuiverheid of kwaliteit. Sterker nog, 80% van gerecycled glas wordt gebruikt voor nieuwe glazen flessen, en een glazen container kan in slechts 30 dagen van een recyclingbak naar een winkelschap gaan."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "Industrieel Afval",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "Chemische Oplosmiddelen",
+        "Metal Scraps": "Metaalschroot",
+        "Plastic Offcuts": "Plastic Resten",
+        "Construction Debris": "Bouwafval",
+        "Electronic Components": "Elektronische Componenten",
+        "Paper and Cardboard": "Papier en Karton",
+        "Textile Scraps": "Textielresten",
+        "Glass Pieces": "Glazen Stukken",
+        "Rubber Waste": "Rubber Afval",
+        "Biodegradable Waste": "Biologisch Afbreekbaar Afval",
+        "Non-Biodegradable Waste": "Niet-biologisch Afbreekbaar Afval",
+        "Hazardous Materials": "Gevaarlijke Materialen",
+        "Non-Hazardous Materials": "Niet-gevaarlijke Materialen",
+        "Industrial Sludge": "Industrieel Slib",
+        "Packaging Materials": "Verpakkingsmaterialen"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "Industrieel Afval omvat een breed scala aan materialen die ontstaan uit industriële en productieprocessen. Een juist beheer, inclusief recycling en veilige verwijdering, is essentieel om de milieubelasting te minimaliseren.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "Productieafval",
+        "Production Waste": "Productieafval"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "Speciale Containers voor Industrieel Afval of Recyclingfaciliteiten",
+        "handling": "Behandel met de juiste veiligheidsuitrusting, vooral bij het omgaan met gevaarlijke materialen. Volg alle wettelijke richtlijnen voor verwijdering.",
+        "separation": "Scheid afval op basis van type (bijv. gevaarlijk versus niet-gevaarlijk) en materiaal (bijv. metaal, plastic) om recycling en verwijdering te vergemakkelijken.",
+        "whatNotToDo": "Meng gevaarlijk industrieel afval niet met niet-gevaarlijk afval. Vermijd illegaal dumpen of onjuiste verwijdering van industrieel afval.",
+        "safetyPrecautions": "Gebruik altijd handschoenen, beschermende oogbescherming en maskers bij het hanteren van industrieel afval, vooral als het gevaarlijke materialen bevat."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "Het juist hanteren en recyclen van industrieel afval bespaart hulpbronnen, vermindert vervuiling en ondersteunt duurzame industriële praktijken.",
+        "impact": "Effectief beheer van industrieel afval verlicht de druk op stortplaatsen, minimaliseert milieurisico's en draagt bij aan de circulaire economie."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "Het recyclen van industriële metalen kan tot 75% van de energie besparen die nodig is om ze uit ruwe materialen te produceren."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "Metaalafval",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "Aluminium Blikjes",
+        "Tin Cans": "Blikken",
+        "Steel Scraps": "Staalschroot",
+        "Copper Wire": "Koperdraad",
+        "Metal Pipes": "Metalen Buizen",
+        "Metal Tools": "Metalen Gereedschap",
+        "Metal Packaging": "Metalen Verpakkingen",
+        "Automotive Parts": "Auto-onderdelen",
+        "Metal Furniture": "Metalen Meubels",
+        "Metal Appliances": "Metalen Apparaten",
+        "Construction Materials": "Bouwmaterialen",
+        "Aerosol Cans": "Spuitbussen",
+        "Electronic Metals": "Elektronische Metalen",
+        "Metal Caps": "Metalen Doppen",
+        "Metal Lids": "Metalen Deksel"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "Metaalafval omvat verschillende afgedankte metalen voorwerpen en materialen. Het is zeer recyclebaar en kan worden herverwerkt tot nieuwe metalen producten, waardoor de behoefte aan het delven van nieuw erts wordt verminderd.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "Schrootmetaal",
+        "Discarded Metal": "Afgedankt Metaal"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "Metalen Recyclingcontainer of Schroothandel",
+        "handling": "Sorteer metalen op type en verwijder indien mogelijk niet-metalen componenten. Ga voorzichtig te werk om verwondingen te voorkomen.",
+        "separation": "Scheid ferrometalen (zoals staal en ijzer) van non-ferrometalen (zoals aluminium en koper) om de efficiëntie van recycling te verbeteren.",
+        "whatNotToDo": "Gooi geen metaalafval bij het gewone afval. Meng verschillende soorten metalen niet, tenzij dit wordt aangegeven door uw lokale recyclefaciliteit.",
+        "safetyPrecautions": "Draag handschoenen en beschermende schoenen bij het hanteren van metaalafval om snijwonden en verwondingen te voorkomen."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "Het recyclen van metaal bespaart energie, vermindert de uitstoot van broeikasgassen en conserveert natuurlijke hulpbronnen. Metalen kunnen meerdere keren worden gerecycled zonder hun eigenschappen te degraderen.",
+        "impact": "Effectief recyclen van metaal vermindert de milieubelasting, verlaagt de vraag naar nieuwe mijnbouw en ondersteunt duurzaam beheer van hulpbronnen."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "Het recyclen van één aluminium blikje bespaart genoeg energie om een televisie drie uur lang te laten draaien."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "Papierafval",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "Kranten",
+        "Magazines": "Tijdschriften",
+        "Office Paper": "Kantoorpapier",
+        "Notebooks": "Notitieboeken",
+        "Envelopes": "Enveloppen",
+        "Junk Mail": "Reclamefolders",
+        "Cardboard Boxes": "Kartonnen Dozen",
+        "Paper Packaging": "Papieren Verpakkingen",
+        "Paper Bags": "Papieren Zakken",
+        "Phone Books": "Telefoonboeken",
+        "Catalogs": "Catalogi",
+        "Shredded Paper": "Versnipperd Papier",
+        "Paper Cups": "Papieren Bekers",
+        "Paper Plates": "Papieren Borden",
+        "Greeting Cards": "Wenskaarten",
+        "Wrapping Paper": "Cadeaupapier"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "Papierafval omvat verschillende soorten afgedankt papier en papierproducten. Het recyclen van papierafval is cruciaal om ontbossing te verminderen en natuurlijke hulpbronnen te behouden.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "Afgedankt Papier",
+        "Paper Scraps": "Papiersnippers"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "Papier Recyclingcontainer",
+        "handling": "Verwijder eventuele niet-papieren componenten zoals plastic voeringen, nietjes of tape. Houd papier droog en schoon voor effectieve recycling.",
+        "separation": "Scheid papier op basis van type (bijv. karton, kantoorpapier) en conditie (bijv. schoon, vervuild) om de recyclingefficiëntie te verbeteren.",
+        "whatNotToDo": "Meng geen vervuild of vettig papierafval met schoon papier. Gooi recyclebaar papier niet bij het gewone afval.",
+        "safetyPrecautions": "Er zijn geen specifieke veiligheidsmaatregelen nodig voor het hanteren van de meeste papierafval."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "Het recyclen van papier vermindert de behoefte aan nieuwe papierproductie, bespaart bomen en vermindert het energie- en waterverbruik.",
+        "impact": "Effectieve papierrecycling minimaliseert het gebruik van stortplaatsen, vermindert de uitstoot van broeikasgassen en ondersteunt duurzame bosbouwpraktijken."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "Het recyclen van één ton papier kan 17 bomen en 7.000 gallon water besparen."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "Plastic Afval",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
+        "Plastic Bottles": "Plastic Flessen",
+        "Plastic Bags": "Plastic Tassen",
+        "Plastic Packaging": "Plastic Verpakkingen",
         "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Utensils": "Plastic Bestek",
+        "Plastic Wraps": "Plastic Verpakkingen",
+        "Plastic Toys": "Plastic Speelgoed",
+        "Polystyrene Foam": "Polystyreen Schuim",
+        "Plastic Cups": "Plastic Bekers",
+        "Plastic Plates": "Plastic Borden",
+        "Plastic Film": "Plastic Folie",
+        "Water Bottles": "Waterflessen",
+        "Detergent Bottles": "Wasflessen",
+        "Shampoo Bottles": "Shampooflessen",
+        "Plastic Caps": "Plastic Doppen",
+        "Plastic Lids": "Plastic Deksel",
+        "Plastic Furniture": "Plastic Meubels",
+        "Plastic Hangers": "Plastic Kleerhangers"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "Plastic afval omvat een verscheidenheid aan afgedankte plastic items. Vanwege de lange ontbindingsduur zijn recycling en juiste verwijdering van plastic afval essentieel om milieueffecten te beperken.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "Afgedankt Plastic",
+        "Scrap Plastics": "Schroot Plastic"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "Plastic Recyclingcontainer of faciliteit",
+        "handling": "Maak plastic schoon en droog voordat je het recycleert. Verwijder eventuele niet-plastic componenten, zoals labels of doppen.",
+        "separation": "Scheid plastic op basis van type en categorie, omdat verschillende soorten plastic verschillende recyclingprocessen hebben.",
+        "whatNotToDo": "Meng geen plastic afval met ander recyclebaar materiaal of algemeen afval. Grote plastic voorwerpen horen niet thuis in gewone vuilnisbakken.",
+        "safetyPrecautions": "Voor het hanteren van de meeste plastic afval zijn geen specifieke veiligheidsmaatregelen nodig."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "Het recyclen van plastic vermindert de behoefte aan nieuwe plastic productie, bespaart grondstoffen en vermindert vervuiling. Het helpt ook om de hoeveelheid plastic in stortplaatsen en oceanen te verminderen.",
+        "impact": "Effectieve plastic recycling draagt bij aan milieuduurzaamheid, vermindert de uitstoot van broeikasgassen en ondersteunt efficiënte afvalbeheer."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "Het recyclen van één ton plastic kan tot 7,4 kubieke yards aan stortplaatsruimte besparen."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "Rubber Afval",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
+        "Used Tires": "Gebruikte Banden",
+        "Rubber Bands": "Rubberen Elastieken",
+        "Rubber Gloves": "Rubberen Handschoenen",
+        "Rubber Hoses": "Rubberen Slangen",
+        "Rubber Footwear": "Rubberen Schoeisel",
+        "Rubber Mats": "Rubberen Matten",
+        "Conveyor Belts": "Transportbanden",
+        "Rubber Gaskets": "Rubberen Pakkingen",
+        "Rubber Seals": "Rubberen Afdichtingen",
+        "Rubber Sheets": "Rubberen Platen",
+        "Rubber Toys": "Rubberen Speelgoed",
         "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Rubber Tubing": "Rubberen Slangen",
+        "Elastomeric Materials": "Elastomeer Materialen",
+        "Synthetic Rubber": "Synthetisch Rubber"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "Rubber Afval bestaat uit verschillende afgedankte rubber producten. Het recyclen van rubber is belangrijk om grondstoffen te besparen en milieueffecten te verminderen, aangezien rubber lang kan duren om te ontbinden op stortplaatsen.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "Schroot Rubber",
+        "Waste Rubber": "Afval Rubber"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "Gespecialiseerde Rubber Recyclingfaciliteit of Inzamelpunten",
+        "handling": "Behandel rubber afval voorzichtig, vooral bij grote of zware voorwerpen. Zorg voor de juiste opslag om milieubesmetting te voorkomen.",
+        "separation": "Scheid verschillende soorten rubber afval voor effectieve recycling. Verwijder indien mogelijk niet-rubberen componenten.",
+        "whatNotToDo": "Gooi geen rubber afval in gewone vuilnisbakken. Vermijd het verbranden van rubber afval, omdat dit schadelijke gifstoffen kan vrijgeven.",
+        "safetyPrecautions": "Draag handschoenen en beschermende kleding bij het hanteren van rubber afval om mogelijke huidirritatie te voorkomen."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "Het recyclen van rubber helpt bij het verminderen van stortplaatsafval en vervuiling. Het kan worden hergebruikt in verschillende producten zoals rubberen mulch, matten en asfaltadditieven.",
+        "impact": "Effectief beheer van rubber afval ondersteunt milieuduurzaamheid en helpt bij het behoud van niet-hernieuwbare grondstoffen die worden gebruikt in de rubberproductie."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "Gerecycled rubber van banden kan worden gebruikt om kunstgras, speelplaatsoppervlakken te creëren, en zelfs als brandstofbron in sommige industriële processen."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "Textielafval",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "Kleding",
+        "Bed Linens": "Beddengoed",
+        "Towels": "Handdoeken",
+        "Curtains": "Gordijnen",
+        "Fabric Scraps": "Stofresten",
+        "Carpeting": "Tapijt",
+        "Upholstery": "Bekleding",
+        "Footwear": "Schoeisel",
+        "Handbags": "Handtassen",
+        "Belts": "Riemen",
+        "Hats": "Hoeden",
+        "Socks": "Sokken",
+        "Non-reusable Textiles": "Niet-herbruikbaar Textiel",
+        "Stuffed Toys": "Knuffels",
+        "Ropes": "Touwen",
+        "Thread": "Garen",
+        "Yarn": "Breigaren"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "Textielafval bestaat uit afgedankte stoffen en kledingmaterialen. Het is een aanzienlijk onderdeel van milieuvuil. Het recyclen en hergebruiken van textielafval is essentieel om de impact op het milieu te verminderen.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "Afgedankte Stof",
+        "Scrap Textiles": "Textielresten"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "Textiel Recyclingbak of Donatiecentra",
+        "handling": "Maak textiel schoon en droog voordat je het recycleert. Beschadigd of versleten textiel kan worden hergebruikt of gerecycled tot nieuwe producten.",
+        "separation": "Scheid textiel op basis van type (bijv. katoen, polyester) en conditie (draagbaar, niet-draagbaar) voor efficiëntere recycling of hergebruik.",
+        "whatNotToDo": "Gooi draagbaar textiel niet weg bij gewoon afval. Vermijd het weggooien van sterk vervuild of verontreinigd textiel zonder de juiste behandeling.",
+        "safetyPrecautions": "Er zijn geen specifieke veiligheidsmaatregelen nodig voor het hanteren van de meeste textielafval."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "Het recyclen van textiel bespaart grondstoffen, vermindert stortplaatsafval en vermindert de vraag naar nieuwe grondstoffen. Hergebruikt textiel kan een nieuwe bestemming vinden in verschillende toepassingen.",
+        "impact": "Effectief beheer van textielafval ondersteunt duurzame mode, vermindert milieupollutie en bevordert een circulaire economie in de textielindustrie."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "Het recyclen of hergebruiken van slechts één ton textiel kan de uitstoot van ongeveer 7 ton CO2 voorkomen."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "Houtafval",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
+        "Lumber Scraps": "Houtresten",
         "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Timber Offcuts": "Resten van Timmerhout",
+        "Furniture Pieces": "Meubelstukken",
+        "Branches": "Takken",
+        "Twigs": "Twijgjes",
+        "Sawdust": "Zaagsel",
+        "Plywood": "Multiplex",
+        "Particle Board": "Spaanplaat",
+        "Wooden Crates": "Houten Kisten",
+        "Wooden Tools": "Houten Gereedschap",
+        "Construction Debris": "Bouwafval",
+        "Floorboards": "Vloerdelen",
+        "Window Frames": "Raamkozijnen",
+        "Door Frames": "Deurkozijnen",
+        "Tree Stumps": "Boomstronken",
+        "Wooden Fencing": "Houten Hekwerk",
+        "Decking Material": "Materiaal voor Terras",
+        "Firewood Scraps": "Resten Brandhout"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "Houtafval omvat verschillende afgedankte houtproducten en materialen. Het is cruciaal om houtafval te recyclen en hergebruiken om ontbossing te verminderen en afval duurzaam te beheren.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "Schroot Hout",
+        "Used Wood": "Gebruikt Hout"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "Hout Recyclingfaciliteit of Speciale Inzamelpunten",
+        "handling": "Behandel houtafval voorzichtig om splinters en verwondingen te voorkomen. Verwijder eventuele niet-houten onderdelen zoals spijkers of schroeven.",
+        "separation": "Scheid behandeld hout van onbehandeld hout, omdat ze verschillende recyclingprocessen vereisen. Sorteer op type en grootte voor efficiënte recycling.",
+        "whatNotToDo": "Gooi houtafval niet bij gewoon afval, vooral als het behandeld is met chemicaliën. Vermijd verbranding van behandeld hout vanwege de uitstoot van giftige dampen.",
+        "safetyPrecautions": "Draag handschoenen en beschermende oogkleding bij het hanteren van houtafval om verwondingen door splinters en scherpe randen te voorkomen."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "Recycling van houtafval vermindert het gebruik van stortplaatsen, conserveert natuurlijke hulpbronnen en ondersteunt duurzame bosbouwpraktijken.",
+        "impact": "Effectief beheer van houtafval vermindert milieupollutie en levert waardevolle hulpbronnen op voor hergebruik in de bouw en productie."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "Het recyclen van slechts één ton houtafval kan de equivalent van 1.000 gallon benzine aan energiewaarde besparen."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "Gevaarlijk Afval",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "Giftige Chemicaliën",
+        "Solvents": "Oplosmiddelen",
+        "Pesticides": "Bestrijdingsmiddelen",
+        "Herbicides": "Herbiciden",
+        "Medical Sharps": "Medische Scherpe Voorwerpen",
+        "Contaminated Materials": "Verontreinigde Materialen",
+        "Radioactive Substances": "Radioactieve Stoffen",
+        "Contaminated Sanitary Products": "Verontreinigde Sanitaire Producten",
+        "Sewage Treatment Waste": "Afval van Afvalwaterzuivering",
+        "Automotive Fluids": "Automobiele Vloeistoffen",
+        "Antifreeze": "Antivries",
+        "Brake Fluid": "Remvloeistof",
+        "Lead-based Paints": "Verf op Basis van Lood",
+        "Electronic Hazardous Components": "Elektronische Gevaarlijke Componenten",
+        "Industrial Residues": "Industriële Residuen",
+        "Used Oil": "Gebruikte Olie",
+        "Oil-Contaminated Materials": "Olie-Verontreinigde Materialen",
+        "Toxic Plastic Additives": "Giftige Plastic Additieven"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "Gevaarlijk Afval omvat verschillende materialen die aanzienlijke risico's voor gezondheid en milieu met zich meebrengen. Een juiste behandeling, opslag en verwijdering zijn essentieel om deze risico's te minimaliseren.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "Gevaarlijk Afval",
+        "Toxic Waste": "Toxisch Afval"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "Speciale Inzamelingsfaciliteiten voor Gevaarlijk Afval",
+        "handling": "Behandel met uiterste voorzichtigheid en gebruik geschikte veiligheidsuitrusting. Volg alle lokale en federale voorschriften voor opslag en verwijdering.",
+        "separation": "Scheid verschillende soorten gevaarlijk afval, omdat ze unieke behandeling en verwijdering vereisen.",
+        "whatNotToDo": "Gooi gevaarlijk afval niet in gewone afvalcontainers of riolen. Vermijd elke ongeautoriseerde dumping.",
+        "safetyPrecautions": "Draag altijd beschermende uitrusting, inclusief handschoenen, veiligheidsbril en maskers, bij het hanteren van gevaarlijke materialen. Zorg voor goede ventilatie en vermijd direct contact."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "Een juiste behandeling van gevaarlijk afval voorkomt milieuverontreiniging, beschermt de volksgezondheid en zorgt voor naleving van wettelijke normen.",
+        "impact": "Zorgvuldige verwijdering van gevaarlijke materialen vermindert het risico op bodem- en waterverontreiniging en ondersteunt een veiligere, schonere omgeving."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "De juiste verwijdering van één liter motorolie kan voorkomen dat tot twee miljoen liter drinkwater wordt vervuild."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "Chemisch Afval",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "Industriële Chemicaliën",
+        "Laboratory Chemicals": "Laboratorium Chemicaliën",
+        "Cleaning Agents": "Reinigingsmiddelen",
+        "Pesticides": "Bestrijdingsmiddelen",
+        "Herbicides": "Herbiciden",
+        "Paints": "Verf",
+        "Solvents": "Oplosmiddelen",
+        "Automotive Fluids": "Automobiele Vloeistoffen",
+        "Batteries": "Batterijen",
+        "Aerosol Cans": "Spuitbussen",
+        "Mercury Devices": "Kwikapparaten",
+        "Pharmaceuticals": "Farmaceutische Producten",
+        "Photographic Chemicals": "Fotografische Chemicaliën",
+        "Pool Chemicals": "Zwembad Chemicaliën",
+        "Flammable Liquids": "Ontvlambare Vloeistoffen",
+        "Toxic Metals": "Giftige Metalen",
+        "Acids": "Zuren",
+        "Bases": "Basen",
+        "Reactive Materials": "Reactieve Materialen"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "Chemisch Afval omvat verschillende gevaarlijke en niet-biologisch afbreekbare chemicaliën die aanzienlijke risico's voor gezondheid en milieu kunnen vormen. Een juiste behandeling, opslag en verwijdering zijn cruciaal om deze risico's te minimaliseren.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "Gevaarlijke Chemicaliën",
+        "Toxic Chemicals": "Giftige Chemicaliën"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "Speciale Inzamelingsfaciliteiten voor Chemisch Afval",
+        "handling": "Behandel met uiterste voorzichtigheid en gebruik geschikte veiligheidsuitrusting. Volg alle wettelijke voorschriften voor opslag, transport en verwijdering.",
+        "separation": "Scheid onverenigbare chemicaliën en categoriseer ze op basis van gevaarklasse (bijv. ontvlambaar, corrosief, giftig).",
+        "whatNotToDo": "Gooi chemisch afval niet in gewone afvalcontainers, afvoeren of in natuurlijke waterlichamen. Vermijd het mengen van verschillende chemicaliën die gevaarlijk kunnen reageren.",
+        "safetyPrecautions": "Draag altijd beschermende uitrusting, inclusief handschoenen, veiligheidsbril en geschikte ademhalingsbescherming. Zorg voor goede ventilatie bij het hanteren van vluchtige of dampvormige chemicaliën."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "Een juiste verwijdering van chemisch afval voorkomt milieuverontreiniging, conserveert hulpbronnen en vermindert gezondheidsrisico's.",
+        "impact": "Het verantwoord beheer van chemisch afval minimaliseert het risico op bodem- en waterverontreiniging en draagt bij aan een veiliger ecologisch systeem."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "Door slechts één gallon gebruikte motorolie op de juiste manier te recyclen, kan genoeg energie worden opgewekt om het gemiddelde huis een jaar lang van stroom te voorzien."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "Medisch Afval",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "Gebruikte Verbanden",
+        "Gauze": "Gaas",
+        "Expired Medicines": "Verlopen Medicijnen",
+        "Medical Gloves": "Medische Handschoenen",
+        "Sharps": "Scherpe Voorwerpen",
+        "Test Strips": "Teststrips",
+        "Surgical Instruments": "Chirurgische Instrumenten",
+        "Disposable Garments": "Wegwerp Kledingstukken",
+        "Pathological Waste": "Pathologisch Afval",
+        "Infectious Agents": "Besmettelijke Stoffen",
+        "Discarded Vaccines": "Afgewezen Vaccins",
+        "Dialysis Waste": "Dialyse Afval",
+        "Chemotherapy Agents": "Chemotherapie Middelen",
+        "Imaging Chemicals": "Beeldvormende Chemicaliën",
+        "Radioactive Waste": "Radioactief Afval",
+        "Biological Specimens": "Biologische Monsters"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "Medisch Afval omvat diverse items die in gezondheidszorginstellingen worden gebruikt en potentieel besmettelijk of gevaarlijk zijn. Juiste verwijdering is cruciaal om de verspreiding van ziekten te voorkomen en de volksgezondheid te beschermen.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "Klinisch Afval",
+        "Healthcare Waste": "Zorgafval"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "Speciale Containers voor Medisch Afval",
+        "handling": "Behandel met uiterste voorzichtigheid en gebruik geschikte beschermende kleding. Medisch afval moet op het punt van ontstaan worden gescheiden.",
+        "separation": "Scheid scherpe voorwerpen, farmaceutische, pathologische en chemische afvalstoffen, omdat elk type verschillende verwijderingsmethoden vereist.",
+        "whatNotToDo": "Gooi medisch afval niet in gewone afvalcontainers of meng het met algemeen afval. Vermijd behandeling zonder de juiste beschermingsmiddelen.",
+        "safetyPrecautions": "Gebruik altijd handschoenen, maskers en mogelijk gezichtsschermen of jassen bij het hanteren van medisch afval om blootstellingsrisico te minimaliseren."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "Een juiste verwijdering van medisch afval vermindert het risico op overdracht van infecties, beschermt zorgverleners en het publiek, en voldoet aan gezondheidsvoorschriften.",
+        "impact": "Effectief beheer van medisch afval is cruciaal om een veilige en gezonde omgeving te behouden, met name in zorginstellingen."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "Een typisch ziekenhuis genereert ongeveer 33 pond medisch afval per bed per dag, wat het belang van efficiënt afvalbeheer in gezondheidszorginstellingen benadrukt."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "Olieafval",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "Gebruikte Motorolie",
+        "Cooking Oil": "Kookolie",
+        "Lubricating Oil": "Smeermiddelolie",
+        "Hydraulic Oil": "Hydraulische Olie",
+        "Transmission Fluid": "Transmissie Vloeistof",
+        "Machine Oil": "Machineolie",
+        "Grease": "Vet",
+        "Oil Filters": "Olie Filters",
+        "Oil-Soaked Rags": "Olie-Doordrenkte Lappen",
+        "Fuel Oils": "Brandstofoliën",
+        "Vegetable Oils": "Plantaardige Oliën",
+        "Petroleum Products": "Aardolieproducten",
+        "Oil Containers": "Oliecontainers",
+        "Oil-Water Mixtures": "Olie-Water Mengsels",
+        "Synthetic Oils": "Synthetische Oliën",
+        "Oil Sludge": "Olie Slib"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "Olieafval omvat verschillende soorten gebruikte en verontreinigde oliën, die speciale behandeling vereisen voor recycling en verwijdering om milieuverontreiniging en gezondheidsrisico's te voorkomen.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "Gebruikte Olie",
+        "Waste Oil": "Afvalolie"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "Aangewezen Olie Recyclingfaciliteit of Inzamelpunten",
+        "handling": "Bewaar olieafval in lekvrije containers. Vermijd direct contact en inhalatie van dampen.",
+        "separation": "Scheid verschillende soorten oliën en aan olie gerelateerd afval voor juiste recycling en verwijdering.",
+        "whatNotToDo": "Gooi olieafval niet in gewone vuilnisbakken, gootstenen of in waterlichamen. Vermijd het mengen van olieafval met andere gevaarlijke materialen.",
+        "safetyPrecautions": "Gebruik handschoenen en oogbescherming bij het hanteren van olieafval. Zorg voor goede ventilatie in opslagruimtes."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "Het recyclen van olieafval bespaart natuurlijke hulpbronnen, voorkomt vervuiling en ondersteunt milieuduurzaamheid. Correct gerecyclede olie kan worden verfijnd tot nieuwe producten.",
+        "impact": "Effectief beheer van olieafval vermindert het risico op bodem- en waterverontreiniging en draagt bij aan het behouden van een schone en veilige omgeving."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "Één gallon gebruikte motorolie kan één miljoen gallon zoetwater vervuilen."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "Radioactief Afval",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "Gebruikte Kernbrandstof",
+        "Radioactive Medical Waste": "Radioactief Medisch Afval",
+        "Contaminated Lab Equipment": "Verontreinigd Laboratoriummateriaal",
+        "Radioactive Glass": "Radioactief Glas",
+        "Contaminated Metals": "Verontreinigde Metalen",
+        "Americium Smoke Detectors": "Americium Rookmelders",
+        "Uranium Residues": "Uranium Residuen",
+        "Irradiated Tools": "Bestraalde Gereedschappen",
+        "Contaminated Clothing": "Verontreinigde Kleding",
+        "Radioactive Sources": "Radioactieve Bronnen",
+        "Luminous Dials": "Luminiscente Wijzerplaten",
+        "Thorium Lantern Mantles": "Thorium Lantaarnmantels",
+        "Radioactive Ores": "Radioactieve Ertsen"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "Radioactief Afval omvat materialen en objecten met radioactieve stoffen. De gevaarlijke aard vereist strikte protocollen voor behandeling, opslag en verwijdering.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "Kernafval",
+        "Radioactive Material": "Radioactief Materiaal"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "Gespecialiseerde Radioactief Afvalfaciliteiten",
+        "handling": "Strikte veiligheidsprotocollen vereist. Alleen behandeling door getrainde professionals.",
+        "separation": "Op basis van het type en niveau van radioactiviteit voor juiste verwijdering.",
+        "whatNotToDo": "Geen verwijdering in gewone vuilnisbakken. Geen direct contact zonder bescherming.",
+        "safetyPrecautions": "Speciale beschermende kleding en stralingsdetectoren verplicht."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "Beschermt tegen schadelijke straling, voorkomt milieuverontreiniging.",
+        "impact": "Essentieel voor de volksgezondheid en veiligheid, voorkomt langdurige milieuschade."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "Sommig radioactief afval kan millennia lang gevaarlijk blijven."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "Sanitair Afval",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
+        "Used Diapers": "Gebruikte luiers",
+        "Sanitary Napkins": "Sanitaire maandverbanden",
         "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Wet Wipes": "Nat Reinigingsdoekjes",
+        "Incontinence Pads": "Incontinentie Pads",
+        "Disposable Toilet Seat Covers": "Wegwerptoiletzittinghoezen",
+        "Cotton Swabs": "Wattenstaafjes",
+        "Facial Tissues": "Gezichtsweefsels",
+        "Bandages": "Verbanden",
+        "Disposable Razors": "Wegwerpscheermesjes",
+        "Dental Floss": "Tandzijde"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "Sanitair Afval omvat verschillende persoonlijke hygiëneproducten die worden gebruikt en weggegooid. Vanwege mogelijke gezondheidsrisico's, met name in medische of zorginstellingen, is een juiste verwijdering essentieel om besmetting te voorkomen.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "Hygiënisch Afval",
+        "Personal Care Waste": "Persoonlijk Verzorgingsafval"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "Gespecialiseerde Eenheid voor de Verwijdering van Sanitair Afval",
+        "handling": "Behandel met zorg, bij voorkeur met handschoenen, om direct contact en besmetting te voorkomen.",
+        "separation": "Scheid sanitair afval van gewoon afval voor gespecialiseerde verwijdering.",
+        "whatNotToDo": "Spoel geen sanitair afval door het toilet. Vermijd verwijdering in gewone vuilnisbakken zonder de juiste verpakking.",
+        "safetyPrecautions": "Draag handschoenen bij het hanteren en verwijderen van sanitair afval. Zorg voor goede hygiënepraktijken na verwijdering."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "Een juiste verwijdering voorkomt de verspreiding van infecties en handhaaft hygiëne in openbare en privéruimtes.",
+        "impact": "Effectief beheer van sanitair afval is cruciaal voor de volksgezondheid, met name in dichtbevolkte of gevoelige gebieden zoals ziekenhuizen."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "De gemiddelde persoon genereert ongeveer 30 pond sanitair afval per jaar."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "Rioolafval",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "Menselijke Uitscheiding",
+        "Used Water": "Gebruikt Water",
+        "Domestic Wastewater": "Huishoudelijk Afvalwater",
+        "Industrial Effluent": "Industrieel Afvalwater",
+        "Agricultural Runoff": "Landbouwafspoeling",
+        "Storm water Discharge": "Afvoer van Regenwater",
+        "Septic Tank Sludge": "Slib uit Septische Tanks",
+        "Grease Trap Waste": "Afval uit Vetvangers",
+        "Gray Water": "Grijs Water",
+        "Black Water": "Zwart Water",
+        "Sewage Sludge": "Rioolslib",
+        "Soapy Water": "Zeepwater",
+        "Cooking Water Discharge": "Afvoer van Kookwater",
+        "Bathroom Water": "Badkamerwater",
+        "Laundry Wastewater": "Afvalwater van de Was",
+        "Sink Drainage": "Afvoer van Gootsteen",
+        "Toilet Flushing Waste": "Afval van Toiletafspoeling",
+        "Shower Drain Water": "Afvoer van Douche Water",
+        "Sump Pump Discharge": "Afvoer van Kelder Waterpomp",
+        "Urban Runoff": "Stedelijke Afspoeling"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "Rioolafval omvat afvalwater en materialen die worden weggespoeld of afgevoerd uit huishoudens, industriële bedrijven en landbouwgronden. Een juiste behandeling en verwijdering zijn cruciaal voor milieubescherming en het voorkomen van waterverontreiniging.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "Afvalwater",
+        "Sewerage": "Rioolstelsel"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "Gespecialiseerde Rioolwaterzuiveringsinstallaties",
+        "handling": "Vermijd direct contact en volg veiligheidsprotocollen bij het hanteren van rioolafval.",
+        "separation": "Zorg voor scheiding van drinkwaterbronnen en naleving van zuiveringsprocessen voor afvalwater.",
+        "whatNotToDo": "Laat onbehandeld rioolwater niet vrij in natuurlijke wateren of het milieu.",
+        "safetyPrecautions": "Draag beschermende kleding, inclusief handschoenen en maskers, en oefen goede hygiëne uit na het hanteren van rioolafval."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "Een juist beheer van rioolwater voorkomt de verspreiding van ziekten, beschermt waterbronnen en ondersteunt de volksgezondheid.",
+        "impact": "Effectieve behandeling van rioolafval is essentieel voor milieubescherming en duurzame stedelijke ontwikkeling."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "Geavanceerde rioolwaterzuiveringsinstallaties kunnen afval omzetten in energie en herbruikbaar water, wat het potentieel van bronterugwinning uit afval aantoont."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "Stortafval",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "Niet-recyclebaar Plastic",
+        "Contaminated Paper": "Verontreinigd Papier",
+        "Broken Glass": "Gebroken Glas",
+        "Non-Recyclable Packaging": "Niet-recyclebare Verpakking",
+        "Worn Textiles": "Versleten Textiel",
+        "Damaged Furniture": "Beschadigd Meubilair",
+        "Ceramic Items": "Keramische Artikelen",
+        "Construction Debris": "Bouwpuin",
+        "Non-Recyclable Electronics": "Niet-recyclebare Elektronica",
+        "Household Trash": "Huishoudelijk Afval",
+        "Ineligible Food Waste": "Niet-ingeschikt Voedselafval",
+        "Ineligible Garden Waste": "Niet-ingeschikt Tuinafval",
+        "Used Batteries": "Gebruikte Batterijen",
+        "Soiled Clothing": "Vuile Kleding",
+        "Old Carpets": "Oude Tapijten",
+        "Expired Medicines": "Verlopen Medicijnen",
+        "Waste Foam": "Afvalschuim",
+        "Disposable Utensils": "Wegwerpservies",
+        "Waste Oil": "Afvalolie",
+        "Contaminated Soil": "Verontreinigde Grond"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "Stortafval omvat materialen die niet recyclebaar of composteerbaar zijn. Het omvat een reeks niet-recyclebare items die in stortplaatsen belanden en mogelijk milieuproblemen veroorzaken, zoals bodem- en grondwaterverontreiniging.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "Niet-recyclebaar Afval",
+        "General Trash": "Algemeen Afval"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "Algemene Afvalcontainers of Containers voor Niet-recyclebare Items, voorzien van labels",
+        "handling": "Behandel stortafval zorgvuldig en scheid het van recyclebare en gevaarlijke materialen.",
+        "separation": "Het is belangrijk om het te scheiden van recyclebare materialen, organisch afval en gevaarlijk afval om de impact op stortplaatsen te minimaliseren.",
+        "whatNotToDo": "Vermijd het weggooien van recyclebare of composteerbare items als stortafval.",
+        "safetyPrecautions": "Draag handschoenen en gebruik de juiste tiltechnieken bij het hanteren van stortafval om verwondingen te voorkomen en zorg voor goede hygiëne."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "Een juiste verwijdering op stortplaatsen helpt bij het beheer van niet-recyclebaar afval en vermindert milieuproblemen.",
+        "impact": "Het minimaliseren van stortafval is cruciaal voor duurzaam afvalbeheer en het voorkomen van langdurige milieuschade."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "Inspanningen om stortafval te verminderen kunnen de uitstoot van broeikasgassen aanzienlijk verminderen, wat het belang van recycling en afvalvermindering onderstreept."
     }
   },
+  "error": {
+    "invalidImageUrl": "Voer een geldige afbeeldings-URL in.",
+    "emptySearch": "Geef een afbeelding of een URL op.",
+    "searchResponse": "Fout tijdens het zoeken, probeer later opnieuw.",
+    "invalidImageSize": "Geef een afbeeldingsbestand op met een grootte tot 5 MB."
+  },
   "common": {
-    "knowYourWaste": "Ken uw afval",
-    "sustainNatureNest": "Ondersteun het nest van de natuur",
+    "knowYourWaste": "Ken afval",
+    "sustainNatureNest": "Behoud de natuurlijke omgeving",
     "searchPlaceholder": "Zoek item om te recyclen of weg te gooien",
     "whatIsWaste": "Wat is {{value}}",
     "alsoKnownAs": "Ook bekend als",
-    "itemsInsideWaste": "Items binnen {{value}}",
-    "howToHandle": "Hoe om te gaan met {{value}}",
-    "handling": "Hantering",
+    "itemsInsideWaste": "Items in {{value}}",
+    "howToHandle": "Hoe {{value}} te behandelen",
+    "handling": "Behandeling",
     "separation": "Scheiding",
     "whatNotToDo": "Wat niet te doen",
-    "suggestedBin": "Voorgestelde bak",
+    "suggestedBin": "Aanbevolen bak",
     "whyItsImportant": "Waarom het belangrijk is",
     "note": "Opmerking",
     "safetyPrecautions": "Veiligheidsmaatregelen",
     "alsoKnowAbout": "Weet ook over",
     "compostable": "Composteerbaar",
     "recyclable": "Recyclebaar",
-    "nonRecyclable": "Niet recyclebaar",
-    "burnable": "Brandbaar",
+    "nonRecyclable": "Niet-recyclebaar",
+    "burnable": "Gecontroleerd verbrandbaar",
     "nonBurnable": "Niet brandbaar",
-    "caution": "voorzichtig behandelen",
-    "flammable": "brandbaar",
-    "toxic": "toxisch",
-    "biohazardous": "Biogevaarlijk",
+    "caution": "Behandel met voorzichtigheid",
+    "flammable": "Brandbaar",
+    "toxic": "Giftig",
+    "biohazardous": "Biologisch gevaarlijk",
     "radioactive": "Radioactief",
-    "useSafetyGear": "beschermende maatregelen nemen",
-    "washHand": "Handen wassen",
-    "sanitize": "Sanitize",
-    "disclaimer": "De hier verstrekte informatie is algemeen en is mogelijk niet van toepassing op alle regio's of omstandigheden. Raadpleeg lokale regelgeving en richtlijnen voor het beheer van organisch afval.",
+    "useSafetyGear": "Neem beschermende maatregelen",
+    "washHand": "Was je handen",
+    "sanitize": "Desinfecteer",
+    "disclaimer": "De hier verstrekte informatie is algemeen en is mogelijk niet van toepassing op alle regio's of omstandigheden. Raadpleeg de lokale voorschriften en richtlijnen voor de behandeling van {{value}}.",
     "readMore": "Lees meer",
-    "readMoreSearch": "lokale {{value}} beheeroplossingen en hantering",
-    "managementStation": "beheerstation",
-    "credits": "Credits info",
-    "visitToKnowMore": "Bezoek om meer te weten",
-    "sustainNatureNestBy": "Ondersteun het nest van de natuur door"
+    "readMoreSearch": "Lokale oplossingen voor de behandeling van {{value}} en behandeling",
+    "credits": "Credit informatie",
+    "visitToKnowMore": "Bezoek voor meer informatie",
+    "imageSearch": "Afbeelding zoeken",
+    "uploadImage": "Afbeelding uploaden",
+    "changeImage": "Afbeelding wijzigen",
+    "or": "Of",
+    "pasteImageLink": "Plak afbeeldingslink",
+    "reset": "Herstellen",
+    "search": "Zoeken",
+    "searching": "Bezig met zoeken"
   }
 }

@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "有机废物",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "食物残渣",
+        "Fruit Peels": "水果皮",
+        "Vegetable Peels": "蔬菜皮",
+        "Coffee Grounds": "咖啡渣",
+        "Tea Bags": "茶袋",
+        "Eggshells": "蛋壳",
+        "Garden Flowers": "花园花卉",
+        "Houseplants": "室内植物",
+        "Grass Clippings": "草坪修剪",
+        "Weeds": "杂草",
+        "Nut Shells": "坚果壳",
+        "Paper Towels": "纸巾",
+        "Cardboard": "纸板",
+        "Wood Scrap": "木材碎片",
+        "Natural Fibers": "天然纤维"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "有机废物主要来自厨房和花园。它包括可生物降解的材料，如食物残渣、庭院废物和天然纤维。这些材料富含营养，非常适合堆肥，将废物转化为有价值的土壤改良剂。",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "可堆肥废物",
+        "Biodegradable Waste": "可生物降解废物"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "堆肥桶（通风）、金属或耐用塑料，绿色/棕色",
+        "handling": "处理时使用手套，丢弃后洗手。避免与正在腐烂的材料直接接触。",
+        "separation": "将有机材料与无机物品（如塑料、金属、玻璃）分开，以确保有效堆肥。",
+        "whatNotToDo": "不要包括无机材料，如塑料、金属或玻璃。避免处理化学处理过的产品或油脂污染的材料。",
+        "safetyPrecautions": "处理有机废物时使用手套，以避免与正在腐烂的材料和潜在的病原体接触。确保堆肥区通风良好，以防止令人不愉快的气味积聚。处理有机材料后，请彻底洗手，以保持个人卫生。"
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "减少填埋场的使用和甲烷排放，降低化肥需求。促进可持续农业。",
+        "impact": "将废物转化为有价值的堆肥，丰富土壤营养并支持健康的植物生长。鼓励可持续土地利用。"
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "如果进行堆肥处理，全球年度食物浪费可以减少相当于2亿辆汽车的CO2排放，超过了世界上行驶的汽车总数。"
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "农业废物",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "作物残留物",
+        "Manure": "粪便",
+        "Pesticide Containers": "农药容器",
+        "Fertilizer Bags": "化肥袋",
+        "Farm Machinery": "农机设备",
+        "Spoiled Produce": "腐烂农产品",
+        "Agricultural Plastics": "农业塑料",
+        "Diseased Plants": "患病植物",
+        "Greenhouse Films": "温室薄膜",
+        "Seed Sacks": "种子袋",
+        "Pruning Waste": "修剪废料",
+        "Irrigation Equipment": "灌溉设备",
+        "Soil Amendment Packaging": "土壤改良包装",
+        "Animal Feed Bags": "饲料袋",
+        "Silage Wraps": "青贮包装",
+        "Horticultural Pots": "园艺盆",
+        "Waste Pesticides": "废弃农药",
+        "Contaminated Soils": "受污染的土壤",
+        "Old Tools": "旧工具",
+        "Broken Irrigation Pipes": "损坏的灌溉管道",
+        "Discarded Gloves": "丢弃的手套",
+        "Protective Gear": "防护装备",
+        "Unused Veterinary Medicines": "未使用的兽药",
+        "Baler Twine": "捆扎绳",
+        "Netting Material": "网状材料",
+        "Plastic Mulch": "塑料覆盖膜"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "农业废物包括来自农业活动的有机和无机材料。这包括作物残留物和粪便等天然副产品，以及容器、塑料和旧机械等非有机废物。有效管理对于减少环境影响并支持可持续农业至关重要。",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "农场废物",
+        "Agricultural Byproducts": "农业副产品"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "专门用于有机和无机废物的垃圾箱，对危险材料进行分开处理",
+        "handling": "使用防护装备处理危险物品。适用时对有机废物进行堆肥处理。",
+        "separation": "将有机材料与化学和塑料废物分开处理。小心处理危险材料。",
+        "whatNotToDo": "不要燃烧塑料或化学容器。避免混合有机废物与危险材料。",
+        "safetyPrecautions": "在处理化肥或农药等化学品时穿戴手套和防护服。在处理土壤改良剂或温室等封闭空间时确保良好的通风。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "适当处理有助于减少污染，改善土壤健康，并促进可持续实践。",
+        "impact": "有效管理农业废物有助于减少农业的环境足迹，保护资源，同时支持可持续农业实践。"
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "如果妥善管理和堆肥作物残留物，可以显著提高土壤肥力，潜在地减少合成化肥的需求。"
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "动物废物",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "粪便",
+        "Bedding Straw": "垫料稻草",
+        "Livestock Carcasses": "牲畜尸体",
+        "Poultry Waste": "家禽废物",
+        "Feathers": "羽毛",
+        "Fish Waste": "鱼类废物",
+        "Milk Spoilage": "牛奶变质",
+        "Eggshell Waste": "蛋壳废物",
+        "Animal Hair": "动物毛发",
+        "Wool": "羊毛",
+        "Dairy Processing Waste": "乳品加工废物",
+        "Veterinary Supplies": "兽医用品",
+        "Expired Animal Feed": "过期的动物饲料",
+        "Contaminated Animal Products": "受污染的动物产品"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "动物废物指的是从牲畜、家禽和其他养殖活动产生的副产品。它包括粪便和垫料等有机废物，以及尸体和变质的动物制品。妥善处理和处置对于环境健康和防止疾病传播至关重要。",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "牲畜废物",
+        "Poultry Waste": "家禽废物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "专门用于生物危险废物的容器，与普通废物分开处理",
+        "handling": "使用防护装备，尤其是在处理尸体或受污染废物时。遵守严格的卫生协议。",
+        "separation": "将生物危险的动物废物与普通废物分开处理。投放到指定容器中处置。",
+        "whatNotToDo": "不要与普通废物混合处理。未经适当的安全装备，避免直接接触。",
+        "safetyPrecautions": "在处理动物废物时，戴上手套和防护鞋，以防止与潜在有害微生物的直接接触。确保存放或处理动物废物的区域有良好的通风。处理动物废物后，用肥皂和水彻底洗手，以防止人畜共患病的传播。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "妥善处理有助于防止环境污染和对人类和动物的健康风险。",
+        "impact": "负责任地处置动物废物支持公共卫生、环境保护和可持续养殖实践。"
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "一头奶牛的粪便可以产生足够的电力，用于为一个小冰箱供电一天，这说明了将动物废物转化为可再生能源的潜力。"
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "食品废物",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "熟食",
+        "Uncooked Food": "生食",
+        "Meat Scraps": "肉类残渣",
+        "Fish Scraps": "鱼类残渣",
+        "Dairy Products": "乳制品",
+        "Bread": "面包",
+        "Pastries": "糕点",
+        "Leftover Meals": "剩菜剩饭",
+        "Expired Food": "过期食品",
+        "Rice": "米饭",
+        "Pasta": "面食",
+        "Cheese": "奶酪",
+        "Egg Shells": "蛋壳",
+        "Fruit Scraps": "水果残渣",
+        "Vegetable Scraps": "蔬菜残渣",
+        "Coffee Grounds": "咖啡渣",
+        "Tea Bags": "茶包",
+        "Food-Soiled Paper": "食品污渍纸张"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "食品废物桶用于处理各种类型的食品废物，包括剩菜剩饭、过期物品和食物残渣。这类废物适合进行生物分解或堆肥，将有机物转化为有价值的资源。",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "厨房废物",
+        "Leftover Waste": "剩余废物"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "密封式垃圾桶，带除臭功能，深绿色或棕色",
+        "handling": "密封食品废物以减少气味和防止昆虫。处理后务必洗净并消毒双手。及时清理溢出物。",
+        "separation": "将食品废物与可回收物和不可堆肥物分开以增强堆肥和回收效率。",
+        "whatNotToDo": "不要将食品废物与液体、油脂或化学品混合。避免包括塑料或金属等不可生物降解物品。不要让食品废物暴露在外，以防吸引害虫和产生异味。",
+        "safetyPrecautions": "处理食品废物时，特别是大量处理时，戴上手套以防止食品腐烂和细菌。保持食品废物容器的清洁和密封，以防吸引害虫和产生异味。定期清洁双手、工具和与食品废物接触的表面以保持卫生。"
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "有助于防止害虫侵扰，减少堆填场产生的温室气体排放，并促进堆肥或沼气的生产。",
+        "impact": "妥善管理食品废物有助于节约资源，减少环境影响，并促进可持续实践。"
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "如果食品废物是一个国家，它将是全球第三大温室气体排放国，仅次于美国和中国。减少食品浪费对于减小环境影响至关重要。"
     },
     "005": {
-      "name": "Green Waste",
+      "name": "绿色废物",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "草坪修剪",
+        "Leaves": "树叶",
+        "Branches": "树枝",
+        "Weeds": "杂草",
+        "Flowers": "花朵",
+        "Garden Trimmings": "花园修剪物",
+        "Shrubs": "灌木",
+        "Small Twigs": "小树枝",
+        "Hedge Clippings": "篱笆修剪",
+        "Fallen Fruit": "掉落的水果",
+        "Garden Maintenance": "花园维护",
+        "Plant Prunings": "植物修剪"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "绿色废物由植物和花园废弃物组成，在有机回收中发挥着至关重要的作用。堆肥绿色废物有助于制造富含养分的土壤改良剂，对可持续园艺和农业至关重要。",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "院子废物",
+        "Garden Waste": "花园废物"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "开放式垃圾箱，大容量，最好是绿色的",
+        "handling": "处理绿色废物时请戴手套，以防被粗糙的材料划伤或刺激。处理后请洗手。",
+        "separation": "将绿色废物与家庭废物和危险废物分开。不要与食品废物或可回收物混合。",
+        "whatNotToDo": "避免丢弃非生物降解材料，如塑料袋或盆。不包括土壤或岩石。不要添加可能污染堆肥的植物或入侵物种。",
+        "safetyPrecautions": "处理绿色废物时，请戴手套以防止受到锋利材料的伤害，并确保它没有受到有害物质，如处理过的木材。"
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "有助于制造堆肥，改善土壤健康，促进碳封存。减少了填埋空间的使用和温室气体排放。",
+        "impact": "有助于可持续的废物管理，支持土壤中的生物多样性，鼓励环保的园艺和农业实践。"
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "像草坪修剪和树叶这样的绿色废物可以堆肥成为富含养分的土壤，被园艺爱好者称为 '黑金'，可以改善植物生长，无需化学肥料。"
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "可回收废物",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "报纸",
+        "Magazines": "杂志",
+        "Office Paper": "办公用纸",
+        "Cardboard": "纸板",
+        "Plastic Bottles": "塑料瓶",
+        "Plastic Containers": "塑料容器",
+        "Glass Bottles": "玻璃瓶",
+        "Glass Jars": "玻璃罐",
+        "Aluminum Cans": "铝罐",
+        "Steel Cans": "钢罐",
+        "Electronics": "电子产品",
+        "Textiles": "纺织品",
+        "Untreated Wood": "未经处理的木材",
+        "Aerosol Cans": "喷雾罐",
+        "Batteries": "电池",
+        "Non-LED Light Bulbs": "非LED灯泡"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "可回收废物包括各种可以重新加工以供进一步使用的材料。此类别中的关键物品包括纸制品、塑料、玻璃、金属和某些类型的电子产品，所有这些都在资源保护和环境可持续性方面发挥着至关重要的作用。",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "回收箱，金属或耐用塑料制品",
+        "handling": "确保回收物品在回收之前干净和干燥。根据当地的回收指南对它们进行分类。",
+        "separation": "将不同类型的可回收物品分开，以避免与不可回收的材料混合。",
+        "whatNotToDo": "避免包括沾污、受污染或不可回收的材料。遵守特定处理的当地回收规则。",
+        "safetyPrecautions": "在处理可回收物时，如果需要，请佩戴适当的安全装备。要小心可能靠近回收材料的昆虫或动物。"
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "减少了对新原材料的需求，节约能源，并减少了废物对环境的影响。",
+        "impact": "支持可持续资源管理，contributing to environmental conservation and protection efforts."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "回收有助于减少废物对环境的影响，并保护宝贵的资源，为后代保留了宝贵的资源。"
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "汽车废物",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "废机油",
+        "Oil Filters": "机油滤清器",
+        "Batteries": "电池",
+        "Tires": "轮胎",
+        "Brake Pads": "刹车垫",
+        "Brake Fluid": "刹车油",
+        "Transmission Fluid": "变速器油",
+        "Coolants": "冷却液",
+        "Metal Parts": "金属零件",
+        "Rubber Hoses": "橡胶软管",
+        "Belts": "传动带",
+        "Air Filters": "空气过滤器",
+        "Windshield Glass": "挡风玻璃",
+        "Upholstery Materials": "内饰材料",
+        "Automotive Bumpers": "汽车保险杠",
+        "Headlights": "前照灯",
+        "Electrical Components": "电子组件"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "汽车废物包括来自汽车的各种废弃材料和零部件。它包括有害和非有害废物，如油、电池、轮胎和机械零件。妥善处理和回收汽车废物对环境保护和资源保护至关重要。",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "车辆废物",
+        "Car Waste": "汽车废物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "专门用于有害材料的容器，用于较大部件的指定区域",
+        "handling": "小心处理，尤其是处理有害物质时。处理油和化学品时使用安全装备。",
+        "separation": "将有害废物（如油和电池）与非有害物品分开。遵循每种类型处理的当地指南。",
+        "whatNotToDo": "不要将汽车油和化学品丢入常规垃圾或排水口。避免混合不同类型的汽车废物。",
+        "safetyPrecautions": "在处理废机油、电池和轮胎等汽车废物时，戴手套和护目镜，以防接触有害物质。在通风良好的地方工作，以防止吸入废机油等汽车液体的气味。将汽车废物丢弃到指定的回收中心，以防止环境污染。"
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "防止环境污染，节约宝贵材料，支持回收倡议。",
+        "impact": "妥善管理汽车废物可减小车辆使用和维护的生态足迹，有助于创造更清洁、更安全的环境。"
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "回收一辆汽车可以节省超过2,500磅的铁矿石、1,400磅的煤炭和120磅的石灰石。这个过程还显著减少了生产新汽车零件和汽车所需的能源和原材料。"
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "大件废物",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "家具",
+        "Appliances": "家用电器",
+        "Mattresses": "床垫",
+        "Large Toys": "大型玩具",
+        "Carpeting": "地毯",
+        "Bicycles": "自行车",
+        "Large Electronics": "大型电子设备",
+        "BBQ Grills": "烧烤炉",
+        "Exercise Equipment": "健身器材",
+        "Large Household Items": "大型家居物品"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "大件废物包括无法放入常规垃圾箱的大型物品。妥善处理大件废物对于高效的废物管理和环境保护至关重要。回收大件物品可以有助于资源保护。",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "大型废物",
+        "Oversized Items": "超大物品"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "专门收集或投放点",
+        "handling": "查看当地废物管理部门的具体处理说明。某些物品可能需要特殊处理或取件服务。",
+        "separation": "将不同类型的大件物品分开，以便采取适当的回收或处理方法。",
+        "whatNotToDo": "不要将大件物品放在路边而不安排妥善的收集。避免非法倾倒。",
+        "safetyPrecautions": "处理大件废物物品，如家具、家用电器和大型玩具时，请使用正确的提升技巧以避免背部受伤。建议在移动重物时寻求协助或使用手推车。穿戴防护鞋以防止足部受伤，并戴手套以获得更好的握力并保护免受锐利边缘的伤害。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "妥善处理大件废物可减少填埋用地的使用，促进回收，并有助于创造更清洁、更安全的环境。",
+        "impact": "回收大件物品有助于回收宝贵材料，减少环境影响，并支持可持续的废物管理实践。"
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "家具和其他大件物品通常最终被填埋，但如果被重新利用或回收，一张沙发可以节省高达9立方码的填埋空间，说明回收和重复使用大件物品具有重要的影响。"
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "建筑与拆除废弃物",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "混凝土",
+        "Bricks": "砖块",
+        "Wood": "木材",
+        "Gypsum": "石膏",
+        "Metal": "金属",
+        "Glass": "玻璃",
+        "Plastic": "塑料",
+        "Insulation Materials": "隔热材料",
+        "Electrical Wiring": "电线电缆",
+        "Plumbing Fixtures": "水暖设施",
+        "Ceramic Tiles": "陶瓷瓷砖",
+        "Asphalt": "沥青",
+        "Roofing Materials": "屋顶材料",
+        "Windows": "窗户",
+        "Doors": "门",
+        "Piping": "管道",
+        "Reinforced Concrete": "钢筋混凝土",
+        "Drywall": "石膏板",
+        "Flooring Materials": "地板材料",
+        "Wall Coverings": "墙面材料"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "建筑与拆除废弃物包括建筑物和结构的建设、翻新和拆除过程中产生的材料。妥善管理对于回收材料和减少环境影响至关重要。",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "建筑废弃物",
+        "Renovation Debris": "装修废料"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "专门收集或指定倾倒区域",
+        "handling": "查看当地法规以了解处理方法。某些材料需要特殊处理或操作。",
+        "separation": "根据类型分开材料（例如金属、木材、混凝土）以进行有效的回收。",
+        "whatNotToDo": "不要将建筑与拆除废弃物与普通家庭废物混合。避免非法倾倒和不当处理。",
+        "safetyPrecautions": "确保佩戴坚固的手套和安全眼镜，以保护免受建筑与拆除废弃物中的尖锐物体和碎片的伤害，例如木材、金属和混凝土。适当的鞋类非常重要，以防止重物造成的伤害。使用防尘口罩以保护免受尘土和微粒的伤害。对于重物采用正确的提升技巧，以避免背部受伤。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "妥善处理有助于促进材料回收，减少填埋用地的使用，并减少环境污染。",
+        "impact": "回收建筑与拆除废弃物有助于节约资源，支持建筑行业使用回收材料，并促进可持续发展。"
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "回收一吨混凝土可以节省高达1,360加仑的水和900公斤的二氧化碳，突显了重新利用建筑与拆除废弃物而不是将其填埋的重要环保优势。"
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "电子废弃物",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "电脑",
+        "Laptops": "笔记本电脑",
+        "Mobile Phones": "手机",
+        "Printers": "打印机",
+        "Scanners": "扫描仪",
+        "Televisions": "电视机",
+        "Monitors": "显示器",
+        "DVD Players": "DVD 播放器",
+        "Game Consoles": "游戏机",
+        "Small Appliances": "小型家电",
+        "Electronic Tools": "电子工具",
+        "Batteries": "电池",
+        "Circuit Boards": "电路板",
+        "Hard Drives": "硬盘驱动器",
+        "Keyboards": "键盘",
+        "Mice": "鼠标",
+        "Speakers": "音响",
+        "Chargers": "充电器",
+        "Cables": "电缆",
+        "Cameras": "相机",
+        "Electronic Toys": "电子玩具",
+        "CDs": "CD 光盘",
+        "DVDs": "DVD 光盘",
+        "GPS Devices": "GPS 设备"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "电子废弃物或电子废料包括弃置的电子设备和设备。妥善回收和处理对于回收有价值的材料并防止环境污染至关重要。",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE（废弃电气和电子设备）",
+        "E-Waste": "电子废弃物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "专门的电子废弃物收集点或回收中心",
+        "handling": "小心处理电子废弃物，以避免破裂和有害物质泄漏。遵循当地法规进行处理。",
+        "separation": "将电子废弃物与普通废物分开。按类型分类以进行有效回收。",
+        "whatNotToDo": "不要将电子废弃物丢弃在普通垃圾中。避免拆卸或破坏电子设备，以防释放有毒物质。",
+        "safetyPrecautions": "处理电子废弃物时，请使用手套以防止受伤，尤其是处理旧电脑和电视时。要注意电子设备中的有害物质，如铅和汞。避免破坏它们以防止接触。将废弃电子设备回收到指定的中心以安全处理。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "妥善处理电子废弃物可以回收有价值的材料，减少填埋用地的使用，并保护环境免受有毒物质的影响。",
+        "impact": "回收电子废弃物支持循环经济，减少对新原材料的需求，并减小生态足迹。"
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "回收一百万台笔记本电脑可以节省足以为3500个美国家庭供电一年的能源。回收一百万部手机可以回收35,274磅铜、772磅银、75磅黄金和33磅钯。"
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "玻璃废物",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "玻璃瓶",
+        "Glass Jars": "玻璃罐",
+        "Window Glass": "窗玻璃",
+        "Mirror Glass": "镜子玻璃",
+        "Glass Containers": "玻璃容器",
+        "Drinking Glasses": "饮用玻璃杯",
+        "Broken Glassware": "破碎的玻璃器皿",
+        "Automotive Glass": "汽车玻璃",
+        "Glass Tableware": "玻璃餐具",
+        "Light Bulbs": "灯泡（非荧光灯）",
+        "Laboratory Glassware": "实验室玻璃器皿",
+        "Tempered Glass": "钢化玻璃",
+        "Glass Shards": "玻璃碎片"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "玻璃废物包括各种类型的弃置玻璃制品。回收玻璃至关重要，因为它可以加工和重新制成新的玻璃制品，减少对新原材料的需求。",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "破碎玻璃",
+        "Discarded Glassware": "废弃玻璃器皿"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "玻璃回收箱或投放点",
+        "handling": "小心处理玻璃废物以避免受伤。如有必要，请移除任何非玻璃部分。",
+        "separation": "尽可能按颜色和类型分离玻璃，以提高回收效率。",
+        "whatNotToDo": "不要将玻璃丢弃在普通垃圾箱中。避免将玻璃与可能污染它的其他可回收物混合。",
+        "safetyPrecautions": "处理破碎的玻璃时，请戴手套以防止割伤。如果处理大量玻璃废物，建议佩戴眼睛保护，以防潜在的碎片。始终正确提起重的玻璃物品以避免受伤。将玻璃废物放入坚固的容器中以防止破碎并确保安全运输。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "回收玻璃减少了填埋垃圾的废物，节约了自然资源并节省了能源。玻璃可以无限次回收而不会丧失质量。",
+        "impact": "有效的玻璃回收有助于减少环境影响，支持可持续利用资源，并促进循环经济。"
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "回收玻璃非常高效，因为可以无限次回收而不会丧失纯度或质量。事实上，80%的回收玻璃容器被制成新的玻璃瓶，一件玻璃容器可以从回收箱到商店货架上只需30天。"
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "工业废物",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "化学溶剂",
+        "Metal Scraps": "金属废料",
+        "Plastic Offcuts": "塑料余料",
+        "Construction Debris": "建筑废料",
+        "Electronic Components": "电子元件",
+        "Paper and Cardboard": "纸张和纸板",
+        "Textile Scraps": "纺织废料",
+        "Glass Pieces": "玻璃碎片",
+        "Rubber Waste": "橡胶废料",
+        "Biodegradable Waste": "可生物降解废物",
+        "Non-Biodegradable Waste": "不可生物降解废物",
+        "Hazardous Materials": "危险材料",
+        "Non-Hazardous Materials": "非危险材料",
+        "Industrial Sludge": "工业污泥",
+        "Packaging Materials": "包装材料"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "工业废物包括工业和制造过程中产生的各种材料。妥善管理，包括回收和安全处置，对于减少环境影响至关重要。",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "制造废物",
+        "Production Waste": "生产废物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "专用工业废物容器或回收设施",
+        "handling": "在处理危险材料时，使用适当的安全装备。遵循所有法规指南进行处置。",
+        "separation": "按类型（例如，危险与非危险）和材料（例如，金属、塑料）分离废物，以促进回收和处置。",
+        "whatNotToDo": "不要将危险工业废物与非危险废物混合。避免非法倾倒或不当处置工业废物。",
+        "safetyPrecautions": "处理工业废物时，特别是包含危险材料时，始终使用手套、防护眼镜和口罩。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "妥善处理和回收工业废物有助于节约资源，减少污染，并支持可持续的工业实践。",
+        "impact": "有效管理工业废物减轻了垃圾填埋场的压力，减少了环境风险，并有助于循环经济。"
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "回收工业金属可以节省高达生产所需能源的75%。"
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "金属废物",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "铝罐",
+        "Tin Cans": "锡罐",
+        "Steel Scraps": "钢铁废料",
+        "Copper Wire": "铜线",
+        "Metal Pipes": "金属管道",
+        "Metal Tools": "金属工具",
+        "Metal Packaging": "金属包装",
+        "Automotive Parts": "汽车零部件",
+        "Metal Furniture": "金属家具",
+        "Metal Appliances": "金属电器",
+        "Construction Materials": "建筑材料",
+        "Aerosol Cans": "气雾罐",
+        "Electronic Metals": "电子金属",
+        "Metal Caps": "金属瓶盖",
+        "Metal Lids": "金属盖子"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "金属废物包括各种废弃的金属物品和材料。金属高度可回收，可以再加工成新的金属产品，减少对原矿石的开采需求。",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "废金属",
+        "Discarded Metal": "废弃金属"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "金属回收箱或废品回收场",
+        "handling": "按类型分类金属，并尽可能去除非金属部分。小心处理以避免受伤。",
+        "separation": "将铁质金属（如钢铁）与非铁质金属（如铝和铜）分开，以增强回收效率。",
+        "whatNotToDo": "不要将金属废物与普通垃圾混合处理。除非您的当地回收设施有指示，否则避免混合不同类型的金属。",
+        "safetyPrecautions": "处理金属废物时，请佩戴手套和防护鞋，以预防划伤和受伤。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "金属回收可以节省能源，减少温室气体排放，保护自然资源。金属可以多次回收而不降低其性能。",
+        "impact": "有效的金属回收减少了环境影响，降低了对新矿产的需求，并支持可持续资源管理。"
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "回收一罐铝罐可以节省足够的能源来运行一台电视三小时。"
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "纸张废物",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "报纸",
+        "Magazines": "杂志",
+        "Office Paper": "办公纸",
+        "Notebooks": "笔记本",
+        "Envelopes": "信封",
+        "Junk Mail": "垃圾邮件",
+        "Cardboard Boxes": "纸板盒",
+        "Paper Packaging": "纸包装",
+        "Paper Bags": "纸袋",
+        "Phone Books": "电话簿",
+        "Catalogs": "目录",
+        "Shredded Paper": "碎纸",
+        "Paper Cups": "纸杯",
+        "Paper Plates": "纸盘",
+        "Greeting Cards": "贺卡",
+        "Wrapping Paper": "包装纸"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "纸张废物包括各种废弃的纸张和纸制品。回收纸张废物对减少森林砍伐和保护自然资源至关重要。",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "废纸",
+        "Paper Scraps": "纸屑"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "纸张回收箱",
+        "handling": "去除任何非纸制成分，如塑料衬里、订书钉或胶带。保持纸张干燥和清洁以便有效回收。",
+        "separation": "按照类型（如纸板、办公纸）和状态（如干净、污损）分类纸张，以增强回收效率。",
+        "whatNotToDo": "不要将沾污或油腻的纸张废物与干净的纸张混合处理。避免将可回收的纸张废物丢入普通垃圾箱。",
+        "safetyPrecautions": "处理大多数纸张废物无需特别安全预防措施。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "回收纸张减少了新纸张生产的需求，节约了树木，降低了能源和水的消耗。",
+        "impact": "有效的纸张回收减少了填埋用地的使用，减少了温室气体排放，并支持可持续的林业实践。"
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "回收一吨纸张可以节省17棵树木和7,000加仑水。"
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "塑料废物",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "塑料瓶",
+        "Plastic Bags": "塑料袋",
+        "Plastic Packaging": "塑料包装",
+        "Plastic Containers": "塑料容器",
+        "Plastic Utensils": "塑料餐具",
+        "Plastic Wraps": "塑料包装膜",
+        "Plastic Toys": "塑料玩具",
+        "Polystyrene Foam": "聚苯乙烯泡沫",
+        "Plastic Cups": "塑料杯",
+        "Plastic Plates": "塑料盘",
+        "Plastic Film": "塑料薄膜",
+        "Water Bottles": "水瓶",
+        "Detergent Bottles": "洗涤剂瓶",
+        "Shampoo Bottles": "洗发水瓶",
+        "Plastic Caps": "塑料盖",
+        "Plastic Lids": "塑料盖子",
+        "Plastic Furniture": "塑料家具",
+        "Plastic Hangers": "塑料衣架"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "塑料废物包括各种废弃的塑料制品。由于其长时间分解的特性，回收和妥善处理塑料废物对减轻环境影响至关重要。",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "废弃塑料",
+        "Scrap Plastics": "废塑料"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "塑料回收箱或设施",
+        "handling": "在回收前清洁和晾干塑料制品。去除任何非塑料组件，如标签或盖子。",
+        "separation": "按照类型和类别分离塑料，因为不同类型的塑料有不同的回收处理方法。",
+        "whatNotToDo": "不要将塑料废物与其他可回收物或普通垃圾混合处理。避免将大型塑料制品丢入普通垃圾箱。",
+        "safetyPrecautions": "处理大多数塑料废物无需特别安全预防措施。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "回收塑料减少了新塑料生产的需求，节约了资源，减少了污染。它还有助于减少塑料进入填埋场和海洋的数量。",
+        "impact": "有效的塑料回收有助于环境可持续性，减少温室气体排放，并支持废物管理效率。"
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "回收一吨塑料可以节省高达7.4立方码的填埋空间。"
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "橡胶废物",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "废旧轮胎",
+        "Rubber Bands": "橡皮筋",
+        "Rubber Gloves": "橡胶手套",
+        "Rubber Hoses": "橡胶软管",
+        "Rubber Footwear": "橡胶鞋类",
+        "Rubber Mats": "橡胶垫",
+        "Conveyor Belts": "输送带",
+        "Rubber Gaskets": "橡胶垫圈",
+        "Rubber Seals": "橡胶密封件",
+        "Rubber Sheets": "橡胶板",
+        "Rubber Toys": "橡胶玩具",
+        "Automotive Rubber": "汽车橡胶部件",
+        "Rubber Tubing": "橡胶管材",
+        "Elastomeric Materials": "弹性材料",
+        "Synthetic Rubber": "合成橡胶"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "橡胶废物包括各种废弃的橡胶制品。由于橡胶在填埋场中分解需要很长时间，回收橡胶对于资源保护和减少环境影响至关重要。",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "废弃橡胶",
+        "Waste Rubber": "废橡胶"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "专门的橡胶回收设施或收集点",
+        "handling": "处理橡胶废物时要格外小心，特别是在处理大型或重型物品时。确保妥善存放，以防止环境污染。",
+        "separation": "分离不同类型的橡胶废物以实现有效回收。如有可能，去除任何非橡胶组件。",
+        "whatNotToDo": "不要将橡胶废物丢入普通垃圾箱。避免焚烧橡胶废物，因为它会释放有害毒素。",
+        "safetyPrecautions": "处理橡胶废物时应戴手套和防护服，以避免潜在的皮肤刺激。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "回收橡胶有助于减少填埋垃圾和污染。橡胶可以再利用，制成橡胶木屑、垫子和沥青添加剂等各种产品。",
+        "impact": "有效处理橡胶废物支持环境可持续性，有助于保护橡胶生产中使用的不可再生资源。"
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "废旧轮胎的回收橡胶可以用于制造人工草坪、游乐场地面，甚至作为一些工业过程中的燃料源。"
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "纺织品废物",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "服装",
+        "Bed Linens": "床上用品",
+        "Towels": "毛巾",
+        "Curtains": "窗帘",
+        "Fabric Scraps": "织物碎片",
+        "Carpeting": "地毯",
+        "Upholstery": "室内装饰布料",
+        "Footwear": "鞋类",
+        "Handbags": "手提包",
+        "Belts": "腰带",
+        "Hats": "帽子",
+        "Socks": "袜子",
+        "Non-reusable Textiles": "不可再利用的纺织品",
+        "Stuffed Toys": "填充玩具",
+        "Ropes": "绳索",
+        "Thread": "线",
+        "Yarn": "纱线"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "纺织品废物包括废弃的织物和服装材料。它是环境废物的重要组成部分。回收和再利用纺织品废物对减少其对环境的影响至关重要。",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "废弃织物",
+        "Scrap Textiles": "废弃纺织品"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "纺织品回收箱或捐赠中心",
+        "handling": "在回收前清洁和晾干纺织品。损坏或磨损的纺织品可以重新利用或回收成新产品。",
+        "separation": "按类型（如棉、涤纶）和状态（如可穿着、不可穿着）分离纺织品，以提高回收或再利用的效率。",
+        "whatNotToDo": "不要将可穿着的纺织品与普通垃圾一起丢弃。避免在没有经过适当处理的情况下处理严重污染或受污染的纺织品。",
+        "safetyPrecautions": "处理大多数纺织品废物时无需采取特定的安全预防措施。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "回收纺织品有助于节约资源，减少填埋垃圾，降低对新原材料的需求。再利用的纺织品可以在各种应用中找到新生命。",
+        "impact": "有效的纺织品废物管理支持可持续时尚，减少环境污染，并推动纺织业的循环经济。"
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "回收或再利用一吨纺织品可以防止大约7吨二氧化碳的排放。"
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "木材废物",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "木材碎片",
+        "Pallets": "托盘",
+        "Timber Offcuts": "木材余料",
+        "Furniture Pieces": "家具零件",
+        "Branches": "树枝",
+        "Twigs": "树枝细枝",
+        "Sawdust": "锯末",
+        "Plywood": "胶合板",
+        "Particle Board": "刨花板",
+        "Wooden Crates": "木箱",
+        "Wooden Tools": "木制工具",
+        "Construction Debris": "建筑废料",
+        "Floorboards": "地板",
+        "Window Frames": "窗框",
+        "Door Frames": "门框",
+        "Tree Stumps": "树桩",
+        "Wooden Fencing": "木栅栏",
+        "Decking Material": "甲板材料",
+        "Firewood Scraps": "木柴碎片"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "木材废物包括各种废弃的木制品和材料。回收和再利用木材废物对减少森林砍伐和可持续废物管理至关重要。",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "废弃木材",
+        "Used Wood": "已使用木材"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "木材回收设施或专用收集点",
+        "handling": "小心处理木材废物，以避免刺伤和受伤。移除任何非木制的组件，如钉子或螺丝。",
+        "separation": "将经过处理的木材与未经处理的木材分开，因为它们需要不同的回收处理过程。根据类型和尺寸进行分类，以实现高效的回收。",
+        "whatNotToDo": "不要将木材废物与普通垃圾一起丢弃，尤其是经过化学处理的木材。避免燃烧经过处理的木材，因为会释放有毒气体。",
+        "safetyPrecautions": "在处理木材废物时，请戴手套和护目镜，以防止被刺伤或受伤。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "回收木材废物可以减少填埋垃圾的使用，保护自然资源，并支持可持续林业实践。",
+        "impact": "有效的木材废物管理可以减少环境污染，并提供有价值的资源，供再利用于建筑和制造业。"
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "回收仅一吨木材废物就可以节省相当于1000加仑汽油的能源价值。"
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "危险废物",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "有毒化学品",
+        "Solvents": "溶剂",
+        "Pesticides": "农药",
+        "Herbicides": "除草剂",
+        "Medical Sharps": "医疗锐器",
+        "Contaminated Materials": "受污染材料",
+        "Radioactive Substances": "放射性物质",
+        "Contaminated Sanitary Products": "受污染卫生产品",
+        "Sewage Treatment Waste": "污水处理废物",
+        "Automotive Fluids": "汽车液体",
+        "Antifreeze": "防冻液",
+        "Brake Fluid": "刹车油",
+        "Lead-based Paints": "含铅油漆",
+        "Electronic Hazardous Components": "电子危险组件",
+        "Industrial Residues": "工业废渣",
+        "Used Oil": "使用过的油",
+        "Oil-Contaminated Materials": "油污染材料",
+        "Toxic Plastic Additives": "有毒塑料添加剂"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "危险废物包括各种对健康和环境构成重大风险的材料。妥善处理、储存和处置是减轻这些风险的关键。",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "危险废物",
+        "Toxic Waste": "有毒废物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "专用危险废物收集设施",
+        "handling": "使用适当的安全装备极度小心处理。遵守所有地方和联邦法规，以便储存和处置。",
+        "separation": "将不同类型的危险废物分开，因为它们需要独特的处理和处置方法。",
+        "whatNotToDo": "不要将危险废物丢弃在普通垃圾箱或下水道中。避免任何未经授权的倾倒。",
+        "safetyPrecautions": "处理危险材料时，始终佩戴防护装备，包括手套、护目镜和口罩。确保适当通风，避免直接接触。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "妥善处理危险废物可以防止环境污染，保护公共健康，并确保遵守法律标准。",
+        "impact": "谨慎处置危险材料减少了土壤和水体污染的风险，支持更安全、更清洁的环境。"
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "正确处置一夸脱的机油可以防止多达两百万加仑的饮用水受到污染。"
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "化学废物",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "工业化学品",
+        "Laboratory Chemicals": "实验室化学品",
+        "Cleaning Agents": "清洁剂",
+        "Pesticides": "农药",
+        "Herbicides": "除草剂",
+        "Paints": "涂料",
+        "Solvents": "溶剂",
+        "Automotive Fluids": "汽车液体",
+        "Batteries": "电池",
+        "Aerosol Cans": "气雾罐",
+        "Mercury Devices": "汞装置",
+        "Pharmaceuticals": "药品",
+        "Photographic Chemicals": "摄影化学品",
+        "Pool Chemicals": "游泳池化学品",
+        "Flammable Liquids": "易燃液体",
+        "Toxic Metals": "有毒金属",
+        "Acids": "酸",
+        "Bases": "碱",
+        "Reactive Materials": "反应性材料"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "化学废物包括各种对健康和环境构成重大风险的有害和不可生物降解化学品。妥善处理、储存和处置对于减轻这些风险至关重要。",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "危险化学品",
+        "Toxic Chemicals": "有毒化学品"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "专用化学废物收集设施",
+        "handling": "使用适当的安全装备极度小心处理。遵守所有储存、运输和处置的法规指南。",
+        "separation": "分开不相容的化学品，并根据危险类别（如易燃、腐蚀、有毒）分类。",
+        "whatNotToDo": "不要将化学废物丢弃在普通垃圾箱、下水道或自然水体中。避免混合不同的化学品，可能会发生危险反应。",
+        "safetyPrecautions": "处理易挥发或熏蒸化学品时，始终佩戴防护装备，包括手套、护目镜和适当的呼吸保护。确保在处理挥发性或熏蒸性化学品时有适当的通风。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "妥善处理化学废物可以防止环境污染，保护资源，并减少健康风险。",
+        "impact": "负责任地管理化学废物可以最小化土壤和水体污染的风险，并有助于更安全的生态系统。"
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "正确回收一加仑使用过的机油可以产生足够的能源，为一户平均家庭提供一年的电力。"
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "医疗废物",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "使用过的绷带",
+        "Gauze": "纱布",
+        "Expired Medicines": "过期药物",
+        "Medical Gloves": "医用手套",
+        "Sharps": "锐器",
+        "Test Strips": "测试条",
+        "Surgical Instruments": "外科器械",
+        "Disposable Garments": "一次性服装",
+        "Pathological Waste": "病理废物",
+        "Infectious Agents": "传染性物质",
+        "Discarded Vaccines": "废弃疫苗",
+        "Dialysis Waste": "透析废物",
+        "Chemotherapy Agents": "化疗药剂",
+        "Imaging Chemicals": "影像化学品",
+        "Radioactive Waste": "放射性废物",
+        "Biological Specimens": "生物标本"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "医疗废物包括在医疗机构中使用的各种潜在具有传染性或危险性的物品。妥善处理对于防止疾病传播和保护公共健康至关重要。",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "临床废物",
+        "Healthcare Waste": "医疗废物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "专用医疗废物处理容器",
+        "handling": "使用极度小心并佩戴适当的防护装备。医疗废物应在产生点进行分离。",
+        "separation": "将锐器、药物、病理和化学废物分开，因为每种类型需要不同的处理方法。",
+        "whatNotToDo": "不要将医疗废物丢弃在普通垃圾箱中或与一般垃圾混合。在没有适当防护装备的情况下避免处理。",
+        "safetyPrecautions": "在处理医疗废物时，始终使用手套、口罩，可能还需要面罩或隔离服，以降低暴露风险。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "妥善处理医疗废物可以降低感染传播的风险，保护医护人员和公众，并符合卫生法规。",
+        "impact": "有效管理医疗废物对于在医疗机构中维护安全和健康的环境至关重要。"
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "一家典型的医院每张床每天会产生约33磅的医疗废物，突显了医疗机构高效处理废物管理的重要性。"
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "油类废物",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "废弃机油",
+        "Cooking Oil": "食用油",
+        "Lubricating Oil": "润滑油",
+        "Hydraulic Oil": "液压油",
+        "Transmission Fluid": "变速器油",
+        "Machine Oil": "机械油",
+        "Grease": "润滑脂",
+        "Oil Filters": "油过滤器",
+        "Oil-Soaked Rags": "浸油抹布",
+        "Fuel Oils": "燃油",
+        "Vegetable Oils": "植物油",
+        "Petroleum Products": "石油制品",
+        "Oil Containers": "油容器",
+        "Oil-Water Mixtures": "油水混合物",
+        "Synthetic Oils": "合成油",
+        "Oil Sludge": "油泥"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "油类废物包括各种类型的废弃和污染油，需要特殊处理以进行回收和处置，以防止环境污染和健康风险。",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "废弃机油",
+        "Waste Oil": "废油"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "指定的油类回收设施或收集点",
+        "handling": "将废油储存在防漏容器中。避免直接接触和吸入废气。",
+        "separation": "将不同类型的油和与油相关的废物分开，以进行适当的回收和处置。",
+        "whatNotToDo": "不要将废油倾倒在普通垃圾桶中、排入下水道或水体中。避免将废油与其他有害物质混合。",
+        "safetyPrecautions": "处理废油时使用手套和眼睛保护。确保储存区域有良好的通风。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "回收废油有助于节约自然资源、预防污染，并支持环境可持续性。适当回收的废油可以精炼为新产品。",
+        "impact": "有效的废油管理降低了土壤和水体污染的风险，有助于维护清洁和安全的环境。"
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "一加仑的废弃机油可以污染一百万加仑的淡水。"
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "放射性废物",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "用过的核燃料",
+        "Radioactive Medical Waste": "放射性医疗废物",
+        "Contaminated Lab Equipment": "受污染的实验设备",
+        "Radioactive Glass": "放射性玻璃",
+        "Contaminated Metals": "受污染的金属",
+        "Americium Smoke Detectors": "镅烟雾探测器",
+        "Uranium Residues": "铀残留物",
+        "Irradiated Tools": "受辐射的工具",
+        "Contaminated Clothing": "受污染的服装",
+        "Radioactive Sources": "放射性源",
+        "Luminous Dials": "荧光刻度盘",
+        "Thorium Lantern Mantles": "钍灯芯",
+        "Radioactive Ores": "放射性矿石"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "放射性废物包括含有放射性物质的材料和物品。其危险性要求严格的处理、储存和处置协议。",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "核废物",
+        "Radioactive Material": "放射性物质"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "专用放射性废物设施",
+        "handling": "仅由受过培训的专业人员进行，需严格的安全协议。",
+        "separation": "根据放射性类型和水平进行适当的处置。",
+        "whatNotToDo": "不得在普通垃圾中处置，不得在没有保护措施的情况下直接接触。",
+        "safetyPrecautions": "需要使用专用的防护装备和辐射探测器。"
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "保护免受有害辐射，预防环境污染。",
+        "impact": "对公共卫生和安全至关重要，预防长期的环境破坏。"
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "一些放射性废物可能在几千年内仍具有危险性。"
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "卫生废物",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "使用过的尿布",
+        "Sanitary Napkins": "卫生巾",
+        "Tampons": "卫生棉条",
+        "Wet Wipes": "湿巾",
+        "Incontinence Pads": "失禁垫",
+        "Disposable Toilet Seat Covers": "一次性马桶座套",
+        "Cotton Swabs": "棉签",
+        "Facial Tissues": "面纸",
+        "Bandages": "绷带",
+        "Disposable Razors": "一次性剃须刀",
+        "Dental Floss": "牙线"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "卫生废物包括各种个人卫生用品，用后被丢弃。由于潜在的健康风险，特别是在医疗或护理设施中，正确的处理对于防止污染至关重要。",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "卫生废物",
+        "Personal Care Waste": "个人护理废物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "专用卫生废物处理单位",
+        "handling": "小心处理，最好戴上手套，以防止直接接触和污染。",
+        "separation": "将卫生废物与普通垃圾分开以进行专门处理。",
+        "whatNotToDo": "不要将卫生废物冲入马桶。在没有适当封装的情况下，避免将其丢弃在普通垃圾桶中。",
+        "safetyPrecautions": "处理和处置卫生废物时请戴手套。确保在处置后采取适当的卫生措施。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "正确的处理方式可以防止感染的传播，并保持公共和私人场所的卫生。",
+        "impact": "卫生废物的有效管理对于公共卫生至关重要，特别是在人口稠密或敏感区域，如医院。"
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "平均每人每年产生约30磅的卫生废物。"
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "污水废物",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "人类排泄物",
+        "Used Water": "废水",
+        "Domestic Wastewater": "家庭废水",
+        "Industrial Effluent": "工业废水",
+        "Agricultural Runoff": "农业径流",
+        "Storm water Discharge": "雨水排放",
+        "Septic Tank Sludge": "化粪池污泥",
+        "Grease Trap Waste": "油脂截污污物",
+        "Gray Water": "灰水",
+        "Black Water": "黑水",
+        "Sewage Sludge": "污水污泥",
+        "Soapy Water": "肥皂水",
+        "Cooking Water Discharge": "厨房水排放",
+        "Bathroom Water": "浴室水",
+        "Laundry Wastewater": "洗衣废水",
+        "Sink Drainage": "水槽排水",
+        "Toilet Flushing Waste": "马桶冲洗废物",
+        "Shower Drain Water": "淋浴排水",
+        "Sump Pump Discharge": "抽水泵排放",
+        "Urban Runoff": "城市径流"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "污水废物包括从家庭、工业设施和农田排放或排放的废水和材料。正确的处理和处置对于环境保护和防止水污染至关重要。",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "废水",
+        "Sewerage": "污水系统"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "专用污水处理设施",
+        "handling": "避免直接接触并遵守污水处理的安全协议。",
+        "separation": "确保与饮用水源分开，并遵守废水处理流程。",
+        "whatNotToDo": "不要将未经处理的污水排放到自然水体或环境中。",
+        "safetyPrecautions": "处理污水废物时请戴上防护装备，包括手套和口罩，并在处理后采取良好的卫生习惯。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "正确的污水管理可以防止疾病传播，保护水源，并支持公共卫生。",
+        "impact": "有效的污水废物处理对于环境保护和可持续城市发展至关重要。"
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "先进的污水处理厂可以将废物转化为能源和可重复使用的水，展示了从废物中实现资源回收的潜力。"
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "填埋废物",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "不可回收塑料",
+        "Contaminated Paper": "受污染纸张",
+        "Broken Glass": "破碎玻璃",
+        "Non-Recyclable Packaging": "不可回收包装",
+        "Worn Textiles": "磨损纺织品",
+        "Damaged Furniture": "损坏家具",
+        "Ceramic Items": "陶瓷物品",
+        "Construction Debris": "建筑废料",
+        "Non-Recyclable Electronics": "不可回收电子产品",
+        "Household Trash": "家庭垃圾",
+        "Ineligible Food Waste": "不符合要求的食物废物",
+        "Ineligible Garden Waste": "不符合要求的园艺废料",
+        "Used Batteries": "已使用电池",
+        "Soiled Clothing": "污染的衣物",
+        "Old Carpets": "旧地毯",
+        "Expired Medicines": "过期药物",
+        "Waste Foam": "废泡沫",
+        "Disposable Utensils": "一次性餐具",
+        "Waste Oil": "废油",
+        "Contaminated Soil": "受污染土壤"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "填埋废物包括不可回收或堆肥的材料。它涵盖了一系列无法回收的物品，最终进入垃圾填埋场，可能引发潜在的环境问题，如土壤和地下水污染。",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "不可回收废物",
+        "General Trash": "一般垃圾"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "一般垃圾桶或垃圾箱，标明不可回收物品",
+        "handling": "小心处理填埋废物，将其与可回收和危险物质分开。",
+        "separation": "将其与可回收物、有机物和危险废物分开以最小化对垃圾填埋场的影响。",
+        "whatNotToDo": "避免将可回收或堆肥的物品作为填埋废物处置。",
+        "safetyPrecautions": "处理填埋废物时请戴上手套，并使用适当的搬运技巧，以避免受伤并确保良好的卫生条件。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "在垃圾填埋场中进行适当的处置有助于管理不可回收废物，减少环境污染。",
+        "impact": "最小化填埋废物对于可持续的废物管理至关重要，有助于防止长期的环境损害。"
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "减少垃圾填埋废物的努力可以显著降低温室气体排放，强调了回收和减少废物的重要性。"
     }
   },
+  "error": {
+    "invalidImageUrl": "请输入有效的图片链接。",
+    "emptySearch": "请提供图片或链接。",
+    "searchResponse": "搜索期间出现错误，请稍后重试。",
+    "invalidImageSize": "请提供大小不超过5MB的图片文件。"
+  },
   "common": {
-    "knowYourWaste": "了解您的废物",
-    "sustainNatureNest": "维持自然巢穴",
+    "knowYourWaste": "了解废物",
+    "sustainNatureNest": "维护自然巢",
     "searchPlaceholder": "搜索要回收或处理的物品",
     "whatIsWaste": "{{value}}是什么",
-    "alsoKnownAs": "也称为",
-    "itemsInsideWaste": "{{value}}内的物品",
+    "alsoKnownAs": "又称为",
+    "itemsInsideWaste": "{{value}}中的物品",
     "howToHandle": "如何处理{{value}}",
     "handling": "处理",
     "separation": "分离",
-    "whatNotToDo": "不应做什么",
+    "whatNotToDo": "不要这样做",
     "suggestedBin": "建议的垃圾桶",
     "whyItsImportant": "为什么这很重要",
-    "note": "注释",
+    "note": "注意",
     "safetyPrecautions": "安全预防措施",
-    "alsoKnowAbout": "也了解关于",
-    "compostable": "可堆肥的",
-    "recyclable": "可回收的",
-    "nonRecyclable": "不可回收的",
-    "burnable": "可燃烧的",
-    "nonBurnable": "不可燃烧的",
-    "caution": "小心处理",
+    "alsoKnowAbout": "还了解关于",
+    "compostable": "可堆肥",
+    "recyclable": "可回收",
+    "nonRecyclable": "不可回收",
+    "burnable": "可控制燃烧",
+    "nonBurnable": "不可燃烧",
+    "caution": "谨慎处理",
     "flammable": "易燃的",
     "toxic": "有毒的",
-    "biohazardous": "生物危害的",
+    "biohazardous": "生物危险的",
     "radioactive": "放射性的",
     "useSafetyGear": "采取保护措施",
     "washHand": "洗手",
     "sanitize": "消毒",
-    "disclaimer": "此处提供的信息是一般性的，可能不适用于所有地区或情况。应咨询当地有关有机废物管理的规定和指南。",
+    "disclaimer": "这里提供的信息是一般性的，可能不适用于所有地区或情况。应咨询{{value}}管理的本地法规和指南。",
     "readMore": "阅读更多",
-    "readMoreSearch": "当地{{value}}管理解决方案及处理",
-    "managementStation": "管理站",
+    "readMoreSearch": "本地{{value}}管理解决方案和处理",
     "credits": "信用信息",
-    "visitToKnowMore": "访问以了解更多",
-    "sustainNatureNestBy": "通过以下方式维持自然巢穴"
+    "visitToKnowMore": "访问以了解更多信息",
+    "imageSearch": "图像搜索",
+    "uploadImage": "上传图片",
+    "changeImage": "更改图片",
+    "or": "或",
+    "pasteImageLink": "粘贴图片链接",
+    "reset": "重置",
+    "search": "搜索",
+    "searching": "搜索中"
   }
 }

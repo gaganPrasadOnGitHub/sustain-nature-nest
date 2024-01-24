@@ -1,1060 +1,1054 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "প্রাকৃতিক অপব্যবহার",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "খাবারের অবশিষ্ট",
+        "Fruit Peels": "ফলের ছিলা",
+        "Vegetable Peels": "সবজির ছিলা",
+        "Coffee Grounds": "কফি গ্রাউন্ড",
+        "Tea Bags": "চা ব্যাগ",
+        "Eggshells": "ডিমের কোচি",
+        "Garden Flowers": "গার্ডেন ফুল",
+        "Houseplants": "বাড়ির উদ্ভিদ",
+        "Grass Clippings": "ঘাসের কাটা",
+        "Weeds": "ঘাসফড়িং",
+        "Nut Shells": "বাদামের ছিলা",
+        "Paper Towels": "কাগজের টিস্যু",
+        "Cardboard": "কার্ডবোর্ড",
+        "Wood Scrap": "কাঠের অবশিষ্ট",
+        "Natural Fibers": "প্রাকৃতিক ফাইবার"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "প্রাকৃতিক অপব্যবহার প্রধানভাবে রান্নাঘর এবং গার্ডেন থেকে আসে। এটি খাবারের অবশিষ্ট, গার্ডেনের অপব্যবহার এবং প্রাকৃতিক ফাইবারের মত বায়োডিগ্রেডেবল উপাদানগুলি সম্মিলিত করে। পুষ্টির দ্রব্যমূলগুলি যারা মূলত কম্পোস্টিং এ উপযুক্ত, যা অপব্যবহারটি মূল্যবান মাটি সংশোধকে পরিণত করে।",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "কম্পোস্টযোগ্য অপব্যবহার",
+        "Biodegradable Waste": "বায়োডিগ্রেডেবল অপব্যবহার"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "কম্পোস্ট বিন (সান্নিদ্ধ), ধাতু বা দ্রুতগতি সান্নিদ্ধ প্লাস্টিক, সবুজ/বাদাম",
+        "handling": "পরিস্কার সামগ্রী নিয়ন্ত্রণে ব্যবহার করুন, পরিস্কার প্রাপ্তির পর হাত ধোয়ান। পরিস্কার বিষয়টির সরাসরি যোগাযোগ করার এড়াই নেওয়া হোক না।",
+        "separation": "প্রাকৃতিক উপাদানগুলি অনাবাদিক উপাদানগুলি (যেমন প্লাস্টিক, ধাতু, গ্লাস) থেকে আলাদা করুন যাতে দ্রুতগতি কম্পোস্টিং সম্ভব হয়।",
+        "whatNotToDo": "প্লাস্টিক, ধাতু বা গ্লাসের মত অনাবাদিক উপাদানগুলি সংযুক্ত করবেন না। রাসায়নিকভাবে চিকিত্সা করা পণ্য বা তেল/তেলের সংক্রামিত সামগ্রী নিয়মিত না ফেলুন।",
+        "safetyPrecautions": "প্রাকৃতিক অপব্যবহার নিয়ন্ত্রণে ব্যবহার করতে সরাসরি যোগাযোগ করার এবং সম্ভাব্য প্যাথোজেনের সরাসরি যোগাযোগ বাতিল করতে প্রাকৃতিক অপব্যবহার নিয়ন্ত্রণে ব্যবহার করুন। কম্পোস্টিং এর এলাকাটি সমৃদ্ধ দ্বারদ্বার যোগাযোগ করতে ভাল হাওয়া নিশ্চিত করতে যাতে অপ্রিয় গন্ধের সংগ্রহ না হয়। প্রাকৃতিক সামগ্রী নিয়ন্ত্রণে ব্যবহার করার পর হাত ভাল করে ধোয়ান যাতে ব্যক্তিগত স্বাস্থ্য বজায় রাখা যায়।"
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "স্মৃতিগারের ব্যবহার এবং মেথেন এমিশন হ্রাস করে এবং রাসায়নিক সারের প্রয়োজনীয়তা কমায়। এটি সাস্ত্যসম্পন্ন কৃষি সাপোর্ট করে।",
+        "impact": "পরিস্কার থেকে মূল্যবান কম্পোস্টে পরিণত হয়, যা মাটিকে পুষ্টির দ্রব্যমূলে সমৃদ্ধ করে এবং স্বাস্থ্যকর উদ্ভিদ গ্রোথ সাপোর্ট করে। এটি সাস্ত্যসম্পন্ন ভূমি ব্যবহার উত্সাহিত করে।"
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "যদি কম্পোস্ট করা হয়, বৈশ্বিক বার্ষিক খাবার পরিস্কার পুরো বিশ্বে চালনা হওয়া 2 বিলিয়ন গাড়ির সময় একটি সমতুল্য CO2 উত্স হার হ্রাস করতে পারে, যা বিশ্বে চালানো গাড়ির মোট সংখ্যাটির চেয়ে বেশি।"
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "কৃষি অপব্যবহার",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "ফসলের অবশিষ্ট",
+        "Manure": "মানুর",
+        "Pesticide Containers": "পেস্টিসাইড ধারক",
+        "Fertilizer Bags": "সারের ব্যাগ",
+        "Farm Machinery": "কৃষি যন্ত্রপাতি",
+        "Spoiled Produce": "কচ্ছম পণ্য",
+        "Agricultural Plastics": "কৃষি প্লাস্টিক",
+        "Diseased Plants": "অসুস্থ উদ্ভিদ",
+        "Greenhouse Films": "গ্রীনহাউস ছাদ",
+        "Seed Sacks": "বীজের ব্যাগ",
+        "Pruning Waste": "উদ্ভিদ মূত্রণ",
+        "Irrigation Equipment": "সেচ যন্ত্রপাতি",
+        "Soil Amendment Packaging": "মাটি সংশোধন প্যাকেজিং",
+        "Animal Feed Bags": "প্রাণী খাবারের ব্যাগ",
+        "Silage Wraps": "সাইলেজ পাকেট",
+        "Horticultural Pots": "শস্য উদ্ভিদের পট",
+        "Waste Pesticides": "বর্জ্য পেস্টিসাইড",
+        "Contaminated Soils": "দূষিত মাটি",
+        "Old Tools": "পুরাতন সরঞ্জাম",
+        "Broken Irrigation Pipes": "ভাঙ্গা সেচ পাইপ",
+        "Discarded Gloves": "প্রত্যাখ্যাত পাত্র",
+        "Protective Gear": "রক্ষামূলক উপায়",
+        "Unused Veterinary Medicines": "অব্যবহৃত প্রাণীচিকিৎসাসমূহ",
+        "Baler Twine": "বেইলার টোয়াইন",
+        "Netting Material": "নেটিং উপাদান",
+        "Plastic Mulch": "প্লাস্টিক মালচ"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "কৃষি অপব্যবহার কৃষি কার্যক্রম থেকে প্রাকৃতিক এবং অপ্রাকৃতিক উপাদানের দুটি অংশ সম্মিলিত করে। এটি ফসলের অবশিষ্ট এবং মানুরের মত প্রাকৃতিক উপজাতির সাথে যেমন প্রাকৃতিক উপজাতি, সেগুলির মাঝে ধাতু প্রস্তুতি, প্লাস্টিক, এবং পুরাতন যন্ত্রপাতি সহ অপ্রাকৃতিক অপব্যবহার সম্মিলিত আছে। পরিচালনার ক্ষমতা পরিবেশ প্রভাব সম্মিলিত করতে এবং সাস্ত্যসম্পন্ন কৃষি সাপোর্ট করতে গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "কৃষি অপব্যবহার",
+        "Agricultural Byproducts": "কৃষি উপজাতি"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "প্রাকৃতিক এবং অপ্রাকৃতিক অপব্যবহারের জন্য বিশেষ ডাম্বো, বিপদক সামগ্রী সাথে আলাদা প্রবেশের জন্য",
+        "handling": "বিপদক জিনিসের জন্য রক্ষামূলক উপায় ব্যবহার করুন। প্রাকৃতিক অপব্যবহার যেখানে প্রযোজ্য তাতে কম্পোস্ট করুন।",
+        "separation": "প্রাকৃতিক উপাদানগুলি রাসায়নিক এবং প্লাস্টিক অপব্যবহার থেকে আলাদা করুন। বিপদক সামগ্রী সাথে সাবধানে পরিচালনা করুন।",
+        "whatNotToDo": "প্লাস্টিক বা রাসায়নিক ধারণাগুলি সুটিয়ে দিন না। প্রাকৃতিক অপব্যবহার বিপদক সামগ্রী সাথে মিশানো না।",
+        "safetyPrecautions": "স্যারানো বা পেস্টিসাইড প্রযুক্তি করার সময় বিশেষভাবে পোশাক এবং রক্ষামূলক পরিধান পরিধান করুন। মাটি সংশোধন বা গ্রীনহাউসের মত বন্ধ স্থানে কাজ করার সময় ভাল বাতাস নিশ্চিত করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "সঠিক নিস্কাশন দূষণ হ্রাস করে, মাটি স্বাস্থ্য দ্বারা দ্বারা সমৃদ্ধ হয় এবং দ্বারা সাস্ত্যসম্পন্ন অভিজাতি সমর্থন করে।",
+        "impact": "কৃষি অপব্যবহার সঠিকভাবে পরিচালনা করা প্রভাবশালী ভাবে কৃষিতে পরিবেশ প্রভাব হ্রাস করে এবং সম্পদ সংরক্ষণ করে, সমৃদ্ধ কৃষিতে সমর্থন করে।"
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "ফসলের অবশিষ্ট যদি সঠিকভাবে পরিচালিত এবং কম্পোস্ট করা হয়, তা সমৃদ্ধ মাটি উর্বরতা প্রাপ্ত করতে পারে, সাংশ্লিষ্ট সিনথেটিক সারের প্রয়োজন সীমাবদ্ধ করতে পারে।"
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "পশু অপব্যবহার",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "মানুর",
+        "Bedding Straw": "বিছানা খোসা",
+        "Livestock Carcasses": "প্রাণীর মৃতদেহ",
+        "Poultry Waste": "পোল্ট্রি অপব্যবহার",
+        "Feathers": "পাখির পাখা",
+        "Fish Waste": "মাছের অপব্যবহার",
+        "Milk Spoilage": "দুধের দুর্গন্ধ",
+        "Eggshell Waste": "ডিমের চুলা অপব্যবহার",
+        "Animal Hair": "প্রাণীর চুল",
+        "Wool": "উন",
+        "Dairy Processing Waste": "দুগ্ধ প্রস্তুতি অপব্যবহার",
+        "Veterinary Supplies": "ভেটেরিনারি সরঞ্জাম",
+        "Expired Animal Feed": "মেয়াদ উত্তীর্ণ প্রাণী খাবার",
+        "Contaminated Animal Products": "দূষিত প্রাণী প্রস্তুতি"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "পশু অপব্যবহার লাইভস্টক, মুরগি এবং অন্যান্য প্রাণী চাষের কার্যক্রম থেকে উৎপন্ন উপজাতিগুলি সেসব প্রাকৃতিক অপব্যবহার সহ এটি মানুর এবং বিছানা সম্মিলিত এবং মৃতদেহ এবং বিদ্বেষী প্রাণী উত্তীর্ণ পণ্য সম্মিলিত সহ ব্যাবস্থান এবং নষ্ট প্রাণী উৎপন্ন প্রস্তুতিসহ। পরিবেশ স্বাস্থ্য এবং রোগ প্রসারণ রোধের জন্য উচিত পরিচালনা এবং নিস্কাশন গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "প্রাণী অপব্যবহার",
+        "Poultry Waste": "পোল্ট্রি অপব্যবহার"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "বায়োহাজার্ডাস অপব্যবহারের জন্য বিশেষ ডাম্বো, সাধারণ অপব্যবহার থেকে আলাদা",
+        "handling": "মৃতদেহ বা দূষিত অপব্যবহার পরিচালনার সময় প্রোটেক্টিভ গিয়ার ব্যবহার করুন। কঠিন স্বাস্থ্য প্রোটোকল অনুসরণ করুন।",
+        "separation": "বায়োহাজার্ডাস পশু অপব্যবহার সাধারণ অপব্যবহার থেকে আলাদা করুন। নির্ধারিত ডাম্বোগুলিতে নিস্কাশন করুন।",
+        "whatNotToDo": "সাধারণ অপব্যবহারের সাথে মেশানো না। উচিত সুরক্ষা উপায়ন ছাড়া সরাসরি যোগাযোগ করার চেষ্টা করবেন না।",
+        "safetyPrecautions": "পশু অপব্যবহার পরিচালনা করার সময় সঠিক সংগঠনের সাথে সরোট এবং সুরক্ষামূলক বস্ত্র পরিধান করুন যাতে সম্ভাব্য ক্ষতিকর জীবাণুদের সরাসরি যোগাযোগ না হয়। পশু অপব্যবহার সংরক্ষণ বা প্রস্তুতি করা এলাকা ভাল বায়ুমণ্ডলয় নিশ্চিত করুন। পশু অপব্যবহার পরিচালনা করার পর হাত সাবান এবং পানি দিয়ে ভাল করে ধোয়া করুন যাতে প্রাণীগত রোগ প্রসারণ রোধে সাহায্য করা যায়।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "সঠিক পরিচালনা পরিবেশ দূষণ প্রতিরোধ এবং মানুষ এবং প্রাণীদের স্বাস্থ্যের ঝুঁকি ন্যায় করে।",
+        "impact": "পশু অপব্যবহার দ্বারা দ্রুত নির্মাণ প্রদান প্রকৃতি, পরিবেশ সংরক্ষণ এবং সমর্থন করা কৃষি প্রথাগত প্রকৃতি প্রয়োজন সমর্থন করে।"
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "একটি দুগ্ধ গাভী থেকে মানুর একটি ছোট রেফ্রিজারেটরের জন্য এক দিনের জন্য যথেষ্ট বৈদ্যুতিন শক্তি উৎপন্ন করতে পারে, প্রাণী অপব্যবহারকে পুনর্নবাদী শক্তিতে রূপান্তর করার সম্ভাবনা প্রদর্শন করে।"
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "খাবারের অপব্যবহার",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "পাকা খাবার",
+        "Uncooked Food": "অপাকা খাবার",
+        "Meat Scraps": "মাংসের টুকরা",
+        "Fish Scraps": "মাছের টুকরা",
+        "Dairy Products": "ডেয়ারি প্রোডাক্ট",
+        "Bread": "পাউরুটি",
+        "Pastries": "পাস্ট্রি",
+        "Leftover Meals": "অবশিষ্ট খাবার",
+        "Expired Food": "মেয়াদোত্তীর্ণ খাবার",
+        "Rice": "চাল",
+        "Pasta": "পাস্তা",
+        "Cheese": "চিজ",
+        "Egg Shells": "ডিমের গুটি",
+        "Fruit Scraps": "ফলের টুকরা",
+        "Vegetable Scraps": "সবজির টুকরা",
+        "Coffee Grounds": "কফি গ্রাউন্ড",
+        "Tea Bags": "চা ব্যাগ",
+        "Food-Soiled Paper": "খাবার মলিন কাগজ"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "খাবার অপব্যবহারের ডিব্বা বিভিন্ন প্রকারের খাবার অপব্যবহার, অবশিষ্ট, মেয়াদোত্তীর্ণ আইটেম এবং খাবারের টুকরা সম্মিলিত করার জন্য। এই অপব্যবহারের বিভাগটি বায়ো-ডাইজেস্টিয়ন বা কম্পোস্টিং এর জন্য উপযোগী, যা প্রাকৃতিক উপাদানকে মূল্যবান সম্পদে পরিণত করে।",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "কিচেন অপব্যবহার",
+        "Leftover Waste": "অবশিষ্ট অপব্যবহার"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "সিল ডিব্বা, গন্ধ নিয়ন্ত্রণ, ডার্ক গ্রীন অথবা বাদামি",
+        "handling": "গন্ধ কমানো এবং পোকার প্রতিরোধের জন্য খাবার অপব্যবহার সিল করুন। অপব্যবহার পর সর্বদা হাত ধুয়ে এবং স্যানিটাইজ করুন। শীঘ্রই ছবি সাফ করুন।",
+        "separation": "কম্পোস্টিং এবং পুনঃচাকরীকরণ দক্ষতা বাড়াতে খাবার অপব্যবহারকে পুনরায় চাকরীকরণ এবং পুনর্চক্রণ থেকে আলাদা করুন।",
+        "whatNotToDo": "খাবার অপব্যবহার শুষ্কণ, তেল বা রাসায়নিক দ্রব্য দিয়ে মিশানো না। প্লাস্টিক বা ধাতু সম্মিলিত না করা যাক। পেষ্ট আকর্ষণ এবং গন্ধ উৎপন্ন না করার জন্য খাবার অপব্যবহার খোলার পরিহার করা যাক না।",
+        "safetyPrecautions": "খাবার অপব্যবহার নিয়মিতভাবে বড় পরিমাণে সংগ্রহ করার সময় সঠিক সংরক্ষণ এবং ব্যাকটেরিয়ার প্রতিরোধে সরোট পরিধান করুন। খাবার অপব্যবহারের সংরক্ষণ সাবান এবং পানি দিয়ে হাত, সরঞ্জাম এবং সাথে যোগাযোগ করে আসা সুরক্ষা বজায় রাখার জন্য।"
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "পেষ্ট আকর্ষণ প্রতিরোধ করে, মানববসতির সংগ্রহে গ্রীনহাউস গ্যাস সেঞ্চালন করে এবং কম্পোস্ট বা বায়োগ্যাস উৎপন্ন করার সুযোগ প্রদান করে।",
+        "impact": "খাবারের অপব্যবহার সঠিকভাবে প্রবন্ধন করা সম্পদ সংরক্ষণ করে, পরিবেশের প্রভাব হ্রাস করে এবং সাস্থ্যপ্রদ প্রথা সমর্থন করে।"
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "যদি খাবার অপব্যবহার একটি দেশ হত, তাহলে এটি বিশ্বের তৃতীয় বৃহত্তর গ্রীনহাউস গ্যাস সেঞ্চালক হত, মার্কিন যুক্তরাষ্ট্র এবং চীনের পরে। খাবার অপব্যবহার হ্রাস করতে পরিবেশের প্রভাব হ্রাসের জন্য গুরুত্বপূর্ণ।"
     },
     "005": {
-      "name": "Green Waste",
+      "name": "সবুজ অপব্যবহার",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "ঘাসের কাটা",
+        "Leaves": "পাতা",
+        "Branches": "শাখা",
+        "Weeds": "কাণ্ডমূল",
+        "Flowers": "ফুল",
+        "Garden Trimmings": "বাগান ছাঁচ",
+        "Shrubs": "ছোট গাছ",
+        "Small Twigs": "ছোট টুড়ি",
+        "Hedge Clippings": "হেজ কাটা",
+        "Fallen Fruit": "পড়া ফল",
+        "Garden Maintenance": "বাগান সংরক্ষণ",
+        "Plant Prunings": "উদ্ভিদ কাটা"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "সবুজ অপব্যবহার, উদ্ভিদ এবং বাগানের বর্ণবর্গ থেকে গঠিত, প্রাকৃতিক পুনর্চক্রণে গুরুত্বপূর্ণ ভূমিকা পালন করে। সবুজ অপব্যবহারের কম্পোস্টিং সমৃদ্ধ মাটি সংশোধক তৈরি করার সাথে যোগ দেয়, যা বাস্তবায়ন কর্ণীয় বাগান এবং কৃষির জন্য গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "ইয়ার্ড অপব্যবহার",
+        "Garden Waste": "গার্ডেন অপব্যবহার"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "খোলা ডিব্বা, বড় ধারণা, সম্ভাব্যতঃ সবুজ",
+        "handling": "সবুজ অপব্যবহার সহজে কাটা বা কাঠের কারণে কাটা বা অস্থিতি থেকে যে কোনও ব্যথা থেকে বাঁচানোর জন্য পোকার ব্যবহার করুন। ব্যবহার শেষে হাত ধোয়া করুন।",
+        "separation": "সবুজ অপব্যবহার বাসা এবং বিপদ্বিপত্তিজনিত অপব্যবহার থেকে আলাদা করুন। খাবার অপব্যবহার বা পুনর্চক্রণের পোকার সঙ্গে মিশিয়ে রাখবেন না।",
+        "whatNotToDo": "প্লাস্টিক ব্যাগ বা পাটগোড়ার মত অপ্রাকৃতিক উপাদান ব্যবহার করবেন না। মাটি বা পাথর সংযোগ করতে বলা হবে না। কৃষি সামগ্রী দিয়ে প্রশ্নবিন্দু উপস্থাপন যেগুলি কম্পোস্ট দূষিত করতে পারে তা সংযোগ দিয়ে না করবেন।",
+        "safetyPrecautions": "সবুজ অপব্যবহার সংগ্রহ করতে সরোট পরিধান করলে স্থূল উপাদানের কাটার বিরুদ্ধ সুরক্ষা প্রাপ্ত করতে এবং এটি বিষাদ বাহিত না হয় নিশ্চিত করতে হবে।"
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "কম্পোস্ট উৎপন্ন করার সুযোগ প্রদান করে, মাটি স্বাস্থ্য সংশোধক সঙ্গী এবং কার্বন সেকেস্ট্রেশনে সাহায্য করে। ল্যান্ডফিল স্পেস ব্যবহার এবং গ্রীনহাউস গ্যাস সেঞ্চালন করার লঘু হলে।",
+        "impact": "সাস্থ্যকর অপব্যবহার ব্যবস্থাপনা, মাটির বৈশিষ্ট্য সংরক্ষণ এবং পারিস্থিতিক সজীবতা সমর্থন করে। ইকো-বন্ধুত্বপূর্ণ বাগান এবং কৃষি অভ্যন্তরীণ প্রথা উৎসাহিত করে।"
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "সবুজ অপব্যবহার যেমন ঘাসের কাটা এবং পাতা কম্পোস্ট তৈরি করতে ব্যবহার করা যেতে পারে, যা বাগান উদ্ভিদের উন্নত বৃদ্ধি সাধারণ সার উপকরণ ছাড়াই। 'ব্ল্যাক গোল্ড' নামে পরিচিত মাটির মধ্যে সমৃদ্ধি করে।"
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "পুনঃচক্রণ যোগ্য অপব্যবহার",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "সংবাদপত্র",
+        "Magazines": "ম্যাগাজিন",
+        "Office Paper": "অফিস কাগজ",
+        "Cardboard": "কার্ডবোর্ড",
+        "Plastic Bottles": "প্লাস্টিক বোতল",
+        "Plastic Containers": "প্লাস্টিক সাঁদের",
+        "Glass Bottles": "গ্লাস বোতল",
+        "Glass Jars": "গ্লাস জার",
+        "Aluminum Cans": "আলুমিনিয়াম ক্যান",
+        "Steel Cans": "ইস্পাত ক্যান",
+        "Electronics": "ইলেকট্রনিক্স",
+        "Textiles": "টেক্সটাইল",
+        "Untreated Wood": "আমাচা কাঠ",
+        "Aerosol Cans": "এরোসোল ক্যান",
+        "Batteries": "ব্যাটারি",
+        "Non-LED Light Bulbs": "নন-এলইডি বাল্ব"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "পুনঃচক্রণ যোগ্য অপব্যবহার বিভিন্ন ধরণের উপাদান শামিল করে, যা পরবর্তী ব্যবহারের জন্য পুনঃপ্রক্রিয়াকরণ করা যেতে পারে। এই বিভাগের মুখ্য আইটেমগুলি কাগজের প্রোডাক্ট, প্লাস্টিক, গ্লাস, ধাতু, এবং নির্দিষ্ট ধরণের ইলেকট্রনিক্স সমস্তটি সম্পদ সংরক্ষণ এবং পরিবেশ সুস্থিরতায় গুরুত্বপূর্ণ ভূমিকা পালন করে।",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "পুনঃচক্রণ ডিব্বা, ধাতু বা টেকসই প্লাস্টিক",
+        "handling": "পুনঃচক্রণ প্রক্রিয়া শুরু হওয়ার আগে নিশ্চিত হন যে আইটেমগুলি পরিষ্কার এবং শুষ্ক হয়েছে। তাদের স্থানীয় পুনঃচক্রণ নির্দেশিকা মত বিভাগ করুন।",
+        "separation": "অপুনঃচক্রণ করার বিভিন্ন ধরণের উপাদানগুলি আলাদা করুন, অপুনঃচক্রণ না করার বাইরের উপাদানের সাথে মিশে যাওয়ার সাথে।",
+        "whatNotToDo": "মড়ানো, দূষিত বা অপুনঃচক্রণ সামগ্রী সংযোগ করা থেকে বিরত থাকুন। বিশেষ ডিস্পোজালের জন্য স্থানীয় পুনঃচক্রণ নিয়মগুলি মেনে চলুন।",
+        "safetyPrecautions": "পুনঃচক্রণ সামগ্রী নিয়ে কাজ করার সময়, প্রয়োজন হলে যথায়থ সুরক্ষা সামগ্রী পরিধান করুন। পুনঃচক্রণ সামগ্রীর পাশে থাকতে পারে কীটনাশক বা প্রাণি সতর্ক হন।"
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "নতুন উপাদানের প্রয়োজন কমিয়ে তোলে, শক্তি সংরক্ষণ করে এবং পুনঃচক্রণ সামগ্রীর পরিবেশাদি প্রভাব কমায়।",
+        "impact": "পর্যাবরণ সংরক্ষণ এবং সুরক্ষা প্রচেষ্টার সাথে যোগাযোগ করে স্থায়ী সংসাধন সমর্থন করে সুস্থির স্তরের সংসাধন সাধন করে।"
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "পুনঃচক্রণ পুনঃচক্রণ সামগ্রীর পরিবেশাদি প্রভাব কমিয়ে তোলে এবং ভবিষ্যতের প্রজন্মের জন্য মূল্যবান সম্পদ সংরক্ষণ করে।"
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "যানবাহন অপব্যবহার",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "ব্যবহৃত মোটর তেল",
+        "Oil Filters": "তেল ফিল্টার",
+        "Batteries": "ব্যাটারি",
+        "Tires": "টায়ার",
+        "Brake Pads": "ব্রেক প্যাড",
+        "Brake Fluid": "ব্রেক ফ্লুইড",
+        "Transmission Fluid": "ট্রান্সমিশন ফ্লুইড",
+        "Coolants": "কুল্যান্ট",
+        "Metal Parts": "ধাতু পার্ট",
+        "Rubber Hoses": "রাবার হোজ",
+        "Belts": "বেল্ট",
+        "Air Filters": "এয়ার ফিল্টার",
+        "Windshield Glass": "উইন্ডশিল্ড গ্লাস",
+        "Upholstery Materials": "আপহোলস্টারি মেটেরিয়াল",
+        "Automotive Bumpers": "যানবাহন বাম্পার",
+        "Headlights": "হেডলাইট",
+        "Electrical Components": "ইলেকট্রিক্যাল কম্পোনেন্ট"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "যানবাহন অপব্যবহার বাহ্যিক থেকে বাহ্যিক সম্পন্ন বিভিন্ন উপাদান এবং উপাদানের সাথে একত্রিত মালামাল প্রজ্ঞাপন করে। এটি তেল, ব্যাটারি, টায়ার এবং যান্ত্রিক পার্টস সহ উপাদানের উপাদান এবং অপ্রাণীত প্রকারের উপাদানের সম্মিলিত অপব্যবহার, যেগুলি পরিবেশ সুরক্ষা এবং সম্পদ সংরক্ষণের জন্য গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "যানবাহন অপব্যবহার",
+        "Car Waste": "গাড়ি অপব্যবহার"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "বিশেষজ্ঞ খাতা সুরক্ষিত সামগ্রীর জন্য, বড় পার্টসের নির্দিষ্ট এলাকা",
+        "handling": "সাবধানভাবে হ্যান্ডল করুন, সম্ভবত জোখান ধাতু এবং রাসায়নিকের সাথে ডিলিং করা হয়। তেল এবং রাসায়নিক সামগ্রী সাথে কাজ করার সময় সুরক্ষা সামগ্রী ব্যবহার করুন।",
+        "separation": "তেল এবং ব্যাটারির মত সংকটমুক্ত অপব্যবহার আইটেম অপ্যার্ট করুন। প্রতিটি প্রকারের নির্দেশিকা মত স্থানীয় প্রত্যায়ন অনুসরণ করুন।",
+        "whatNotToDo": "যানবাহন তেল এবং রাসায়নিক সামগ্রী স্থানীয় ট্র্যাশ বা ড্রেনে প্রাবল্য না ফেলুন। বিভিন্ন ধরণের যানবাহন অপব্যবহার মিশ্রণ করা উচিত নয়।",
+        "safetyPrecautions": "যানবাহন অপব্যবহার ব্যবহার করার সময়, ব্যবহার করার সাথে সতর্ক হন, সম্ভবত ব্যাটারি, তেল এবং টায়ারের সাথে যোগাযোগ বিহীনভাবে সংযোগ না হওয়া সাতর্কতা সামগ্রী ব্যবহার করুন। সম্পদ ব্যবহার স্থানগুলি সার্থক সার্থক সতর্কতা নিশ্চিত করতে ব্যবহার করুন, প্রধানতঃ যানবাহন তেল, ব্যাটারি এবং টায়ার নিয়ে সরাসরি সংযোগ না করতে সাতর্কতা সামগ্রী পরিধান করুন। সম্পদ ব্যবহার সামগ্রী পরিবেশ দূষণ প্রতিরোধ করতে নির্দিষ্ট পুনঃচক্রণ কেন্দ্রে প্রতিষ্ঠিত করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "পরিবেশ দূষণ প্রতিরোধ করে, মূল্যবান সামগ্রী সংরক্ষণ করে এবং পুনঃচক্রণ প্রচেষ্টা সাপোর্ট করে।",
+        "impact": "যানবাহন অপব্যবহার সঠিকভাবে ব্যবস্থাপনা করলে যানবাহন ব্যবহার এবং রক্ষণাবেক্ষণের প্রকৃতি প্রভাব স্থায়ীভাবে কমায়, একটি পরিষ্কার এবং নিরাপদ পরিবেশের সাথে অবদান রেখে।"
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "একটি গাড়ি পুনঃচক্রণ করলে প্রায় ২,৫০০ পাউন্ড আয়রন ওয়ার, ১,৪০০ পাউন্ড কোয়াল, এবং ১২০ পাউন্ড লাইমস্টোন সংরক্ষিত হয়। এই প্রক্রিয়াও নতুন যানবাহনের প্রয়োজন শক্তি এবং উপাদানের সাথে সংম্পদ নির্মাণের জন্য প্রয়োজনীয় শক্তি এবং প্রাথমিক উপাদানের প্রয়োজনীয়তা অত্যন্ত হ্যাস্থা করে।"
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "দাঁড়ালি প্রবর্তন",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "ফার্নিচার",
+        "Appliances": "বাস্তবায়ন",
+        "Mattresses": "ম্যাট্রেস",
+        "Large Toys": "বড় খেলনা",
+        "Carpeting": "কার্পেটিং",
+        "Bicycles": "চাকা",
+        "Large Electronics": "বড় ইলেকট্রনিক্স",
+        "BBQ Grills": "বারবিকিউ গ্রিল",
+        "Exercise Equipment": "ব্যায়াম উপাদান",
+        "Large Household Items": "বড় পরিবারের জিনিস"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "দাঁড়ালি প্রবর্তনে স্বাভাবিক ট্র্যাশ বিনে ফিট হতে পারে না বড় জিনিসগুলি অন্তর্ভুক্ত আছে। দাঁড়ালি প্রবর্তনের যথাযথ বিনির্মাণ দ্বারা দাঁড়ালি প্রবর্তন এবং পরিবেশ সংরক্ষণের জন্য গুরুত্বপূর্ণ। দাঁড়ালি জিনিসগুলি পুনঃচক্রণ করা মূল্যবান সামগ্রী সংরক্ষণে অবদান রেখে যেতে পারে।",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "বড় প্রবর্তন",
+        "Oversized Items": "বড় আইটেম"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "বিশেষ সংগ্রহ বা প্রিয় বিন",
+        "handling": "নির্দিষ্ট প্রবর্তন নির্দেশনা জন্য স্থানীয় বর্তমান যাচাই করুন। কিছু জিনিসগুলি বিশেষ ব্যবস্থাপনা বা পিকআপ সেবা প্রয়োজন করতে পারে।",
+        "separation": "পুনঃচক্রণ বা প্রবর্তন পদ্ধতিগুলির জন্য বিভিন্ন প্রবর্তন পদ্ধতি জন্য বিভিন্ন ধরণের বড় আইটেমগুলি আলাদা করুন।",
+        "whatNotToDo": "যথাযথ সংগ্রহের জন্য প্রয়োজনে প্রবর্তন চয়ন করার আগে কাঁচা ছেড়ে প্রবর্তনের জন্য প্রয়োজনীয় প্রয়োজন স্থানীয় বর্তমান প্রবর্তনের জন্য বিন্যাস করুন। বিগত প্রবর্তন করতে প্রয়োজনীয় সাহায্য অথবা ভারী আইটেমগুলি সরাসরি সংযোগ করার জন্য ট্রলি ব্যবহার করার সামগ্রী হয়। পিছনে চুলে প্রতিরক্ষা পাওয়ার জন্য পাদুকা পরিধান করুন এবং দরিদ্র সীর্ষক এবং সোজা এবং নিপীড়নকর সীর্ষক পরিধান করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "দাঁড়ালি প্রবর্তন যথাযথ সংগ্রহের মাধ্যমে ল্যান্ডফিল ব্যবহার নিম্ন করে, পুনঃচক্রণ সাপোর্ট করে এবং একটি পরিষ্কার এবং নিরাপদ পরিবেশের সাথে অবদান রেখে।",
+        "impact": "দাঁড়ালি জিনিসগুলির পুনঃচক্রণে মূল্যবান সামগ্রী উদ্ধারণে পরিযাপ্ত সামগ্রী বিনির্মাণে সাহায্য করে, পরিবেশ প্রভাব নির্মূল করে এবং ট্রান্সবাদী পদ্ধতিতে সাপোর্ট করে।"
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "ফার্নিচার এবং অন্যান্য দাঁড়ালি জিনিসগুলি সাধারণভাবে ল্যান্ডফিলে চলে যায়, কিন্তু যদি পুনঃচক্রণ বা পুনঃব্যবহার করা হয়, তাতে একটি সিঙ্গেল সোফা সরকার্যাবরণ স্থানের প্রায় ৯ ঘন গড়া ল্যান্ডফিল স্পেস সংরক্ষণে সাহায্য করতে পারে, এটি দাঁড়ালি জিনিসগুলি পুনঃচক্রণ এবং পুনঃব্যবহারের দ্বারা প্রভাব স্পষ্ট করে।"
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "নির্মাণ এবং প্রবর্তন প্রবর্তন",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "কনক্রিট",
+        "Bricks": "ইট",
+        "Wood": "কাঠ",
+        "Gypsum": "গিপসাম",
+        "Metal": "ধাতু",
+        "Glass": "গ্লাস",
+        "Plastic": "প্লাস্টিক",
+        "Insulation Materials": "ইনসুলেশন সামগ্রী",
+        "Electrical Wiring": "বৈদ্যুতিন তারকো",
+        "Plumbing Fixtures": "প্লাম্বিং ফিক্সচার",
+        "Ceramic Tiles": "সেরামিক টাইল",
+        "Asphalt": "আসফাল্ট",
+        "Roofing Materials": "রুফিং সামগ্রী",
+        "Windows": "উইন্ডো",
+        "Doors": "দরজা",
+        "Piping": "পাইপিং",
+        "Reinforced Concrete": "পুনর্নির্মাণ কনক্রিট",
+        "Drywall": "ড্রাইওয়াল",
+        "Flooring Materials": "মেঝারি সামগ্রী",
+        "Wall Coverings": "দেওয়াল সুরকরণ"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "নির্মাণ এবং প্রবর্তন প্রবর্তনের সাথে সাথে নির্মাণ এবং স্ট্রাকচারের নির্মাণ এবং পুনর্নির্মাণ থেকে উত্পন্ন সামগ্রী অন্তর্ভুক্ত আছে। সামগ্রী পুনঃচক্রণ এবং পরিবেশ প্রভাব ন্যূনতম করতে সঠিক ব্যবস্থা গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "বিল্ডিং ওয়েস্ট",
+        "Renovation Debris": "রেনোভেশন ডিব্রিস"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "বিশেষ সংগ্রহ বা নির্দিষ্ট আবর্জনা এলাকা",
+        "handling": "সরকারি বিধিনির্দেশনা দেখুন আবর্জনা স্থানে নিস্কাশনের জন্য। কিছু সামগ্রী বিশেষ প্রক্রিয়ায় বা হ্যান্ডলিং প্রয়োজন করতে পারে।",
+        "separation": "প্রভাবশীল পুনঃচক্রণের জন্য সামগ্রী ধরণের উপর ভিত্তি করে পৃথক করুন (উদাঃ ধাতু, কাঠ, কনক্রিট)।",
+        "whatNotToDo": "নির্মাণ এবং প্রবর্তন সামগ্রীগুলি স্বাভাবিক পরিবারের আবর্জনা সাথে মিশিয়ে দিবেন না। অব্যবহারিত ফেলা এবং অযথায় নিস্কাশন থেকে দূর থাকুন।",
+        "safetyPrecautions": "নির্মাণ এবং প্রবর্তন সামগ্রী সাথে ধাতু, কাঠ এবং কনক্রিট উপকরণের তরুণ প্রতিরক্ষা করতে স্টার্ডি দস্তান এবং নিরাপদ চশমা পরিধান করুন। ভারী উপাদানের কারণে আঘাত রোখার জন্য যথায়তন পা পরিধান গুরুত্বপূর্ণ। ধূলোকে ধুলো এবং সুক্ষ্ম কণিকার প্রতিরক্ষা করতে ডাস্ট মাস্ক ব্যবহার করুন। ভারী আইটেমগুলি উঠানোর জন্য প্রশিক্ষিত প্রয়োজন না হলে সাহায্য প্রদান করা হতে পারে বা ভারী উপাদানের চোট থেকে আঘাত রোখার জন্য ট্রলি ব্যবহার করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "যথাযথ নিস্কাশন উপকরণের পুনঃচক্রণ সাপোর্ট করে, ল্যান্ডফিল ব্যবহার নিম্ন করে এবং পরিবেশ দূষণ ন্যূনতম করে।",
+        "impact": "নির্মাণ এবং প্রবর্তন সামগ্রী পুনঃচক্রণ সাধারণ সামগ্রী সাথে সম্পদ সংরক্ষণ করে, পুনঃচক্রণ উপকরণ সাথে নির্মাণ উদ্যোগ সাপোর্ট করে এবং সাস্থ্যসম্পন্ন উন্নত করে।"
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "এক টন কনক্রিট পুনঃচক্রণ করলে প্রায় ১,৩৬০ গ্যালন পানি এবং ৯০০ কেজি সিও 2 সংরক্ষণ করা যায়, যা একটি ল্যান্ডফিলে নিস্কাশনের সংজ্ঞানযোগ্য পরিবেশ সুরক্ষা করার দ্বারা তাদের নির্মাণের জন্য ব্যবহার না করে পুনঃচক্রণ করার গুরুত্বপূর্ণ পরিবেশ সুরক্ষা উপকরণের গুরুত্ব প্রদান করে।"
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "ইলেকট্রনিক প্রবর্তন",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "কম্পিউটার",
+        "Laptops": "ল্যাপটপ",
+        "Mobile Phones": "মোবাইল ফোন",
+        "Printers": "প্রিন্টার",
+        "Scanners": "স্ক্যানার",
+        "Televisions": "টেলিভিশন",
+        "Monitors": "মনিটর",
+        "DVD Players": "ডিভিডি প্লেয়ার",
+        "Game Consoles": "গেম কনসোল",
+        "Small Appliances": "ছোট উপকরণ",
+        "Electronic Tools": "ইলেকট্রনিক টুল",
+        "Batteries": "ব্যাটারি",
+        "Circuit Boards": "সার্কিট বোর্ড",
+        "Hard Drives": "হার্ড ড্রাইভ",
+        "Keyboards": "কীবোর্ড",
+        "Mice": "মাউস",
+        "Speakers": "স্পিকার",
+        "Chargers": "চার্জার",
+        "Cables": "কেবিল",
+        "Cameras": "ক্যামেরা",
+        "Electronic Toys": "ইলেকট্রনিক খেলনা",
+        "CDs": "সিডি",
+        "DVDs": "ডিভিডি",
+        "GPS Devices": "জিপিএস ডিভাইস"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "ইলেকট্রনিক প্রবর্তন, বা ই-ওয়েস্ট, ফেলা ইলেকট্রনিক ডিভাইস এবং সরঞ্জাম অন্তর্ভুক্ত করে। মূলভুত সামগ্রী পুনর্চক্রণ করতে এবং পরিবেশ দূষণ প্রতিরোধ করতে সঠিক পুনর্চক্রণ এবং নিস্কাশন গুরুত্বপূর্ণ।",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE (ইলেকট্রনিক বৈদ্যুতিক এবং ইলেকট্রনিক উপাদান সামগ্রী)",
+        "E-Waste": "ই-ওয়েস্ট"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "বিশেষ ই-ওয়েস্ট সংগ্রহ পয়েন্ট বা পুনঃচক্রণ কেন্দ্র",
+        "handling": "আপাতত পুনর্চক্রণের জন্য ই-ওয়েস্ট সাবধানভাবে নিস্কাশন এবং বিষাক্ত পদার্থের লিকেজ না হওয়ার জন্য সাবধানভাবে হ্যান্ডল করুন। নিস্কাশনের স্থানীয় বিধিনির্দেশনাগুলি অনুসরণ করুন।",
+        "separation": "ই-ওয়েস্ট স্বাভাবিক আবর্জনা থেকে পৃথক করুন। পুনঃচক্রণের জন্য প্রকারভিত্তিক সাজানোর জন্য বিভিন্ন সামগ্রী পৃথক করুন।",
+        "whatNotToDo": "ই-ওয়েস্ট স্বাভাবিক আবর্জনা মধ্যে ফেলবেন না। ইলেকট্রনিক ডিভাইস ডিসম্বল বা বিচ্ছিন্ন করা হবে না, যা জীবনি পদার্থ মুক্ত করতে পারে।",
+        "safetyPrecautions": "ই-ওয়েস্ট হ্যান্ডল করতে স্বর্ণাক্ষ এবং ধারাল শ্রবণ থেকে বাচানোর জন্য হ্যান্ডগ্লোভ ব্যবহার করুন, যেমন পুরানো কম্পিউটার এবং টেলিভিশন। ইলেকট্রনিক্সে লিড এবং মার্কুরি সম্মিলিত বিষাক্ত পদার্থ সম্মিলিত হওয়ার সম্ভাবনা রয়েছে। তাদের প্রদাহ এড়িয়ে দিতে না হলে। নির্ধারিত কেন্দ্রে নিরাপত্তার জন্য পুনঃচক্রণ করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "ই-ওয়েস্টের সঠিক নিস্কাশন মূলগুলি পুনর্চক্রণ করে, ল্যান্ডফিল ব্যবহার নিম্ন করে এবং পরিবেশকে বিষাক্ত পদার্থ থেকে রক্ষা করে।",
+        "impact": "ই-ওয়েস্টের পুনঃচক্রণ সার্কুলার অর্থনীতি সাপোর্ট করে, নতুন মৌলিক সামগ্রীর প্রয়োজন নিম্ন করে এবং বায়োলম্বী পদচর্যা ন্যূনতম করে।"
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "এক মিলিয়ন ল্যাপটপ পুনর্চক্রণ করলে এক বছর ধরে ৩,৫০০টি মার্কিন বাড়ির জন্য শক্তি সরবরাহ করতে যথার্থ শক্তি সংরক্ষণ হয়। এক মিলিয়ন সেল ফোন পুনর্চক্রণ করলে ৩৫,২৭৪ পাউন্ড তামা, ৭৭২ পাউন্ড সিলভার, ৭৫ পাউন্ড সোনা এবং ৩৩ পাউন্ড প্যালাডিয়াম পুনরুত্পাদন করা যায়।"
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "গ্লাস পুরানো জিনিস",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "গ্লাস বোতল",
+        "Glass Jars": "গ্লাস জার",
+        "Window Glass": "উইন্ডো গ্লাস",
+        "Mirror Glass": "আয়না গ্লাস",
+        "Glass Containers": "গ্লাস কন্টেনার",
+        "Drinking Glasses": "পান কাচ",
+        "Broken Glassware": "ভাঙ্গা গ্লাসওয়্যার",
+        "Automotive Glass": "গাড়ি গ্লাস",
+        "Glass Tableware": "গ্লাস টেবিলওয়্যার",
+        "Light Bulbs": "লাইট বাল্ব (ফ্লোরেসেন্ট নয়)",
+        "Laboratory Glassware": "প্রয়েক্ষালয় গ্লাসওয়্যার",
+        "Tempered Glass": "টেমপার্ড গ্লাস",
+        "Glass Shards": "গ্লাস শার্ড"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "গ্লাস পুরানো জিনিসের মধ্যে বিভিন্ন ধরনের বাতিল গ্লাস প্রোডাক্ট অন্তর্ভুক্ত আছে। গ্লাস পুনঃচক্রণ করা গুরুত্বপূর্ণ কারণ যেন এটি প্রক্রিয়া করা এবং নতুন গ্লাস প্রোডাক্টে পরিণত করা যায়, নতুন উপাদানের প্রয়োজন হয় না।",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "ভাঙ্গা গ্লাস",
+        "Discarded Glassware": "পুরানো গ্লাসওয়্যার"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "গ্লাস পুনঃচক্রণ বিন বা ড্রপ-অফ স্থান",
+        "handling": "আপত্তিকর চেষ্টা থেকে গ্লাস পুরানো জিনিস ধরতে সাবধান থাকুন। প্রয়োজন হলে কোনও গ্লাসের নন-গ্লাস উপাদান সরিয়ে ফেলুন।",
+        "separation": "সম্ভাব্যতঃ গ্লাস রঙ এবং প্রকারের অনুপাতে গ্লাস আলাগ করুন যাতে পুনঃচক্রণ দক্ষতা বাড়াতে পারে।",
+        "whatNotToDo": "রেগুলার পুনঃচক্রণ বিনে গ্লাস ফেলবেন না। অন্য পুনঃচক্রণযোগ্য জিনিস সহ গ্লাস মিশানো না করবেন যা গ্লাসকে দূষিত করতে পারে।",
+        "safetyPrecautions": "ভাঙা গ্লাস হ্যান্ডল করার সময় কাটা প্রতিরোধ করতে হাতে হাঁড়ি ব্যবহার করুন। যদি বেশি পরিমাণে গ্লাস পুরানো জিনিস দিতে হয়, তবে স্পলিন্টার বা শার্ড দ্বারা সম্ভাব্য আঘাত প্রতিরোধ করার জন্য চোখের সুরক্ষা পরামর্শ দেওয়া হয়। গ্লাস পুরানো জিনিস ধারণ করতে একটি কঠিন পাত্রে রেখে ফেলুন যাতে ভাঙা না হয় এবং সুরক্ষিত পরিবহন নিশ্চিত হয়।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "গ্লাস পুনঃচক্রণ করা প্রভুত্ব মেটায় ভূমিগত শয্যাগারের একটি অমূল্য উপযোগ এবং শক্তি সংরক্ষণ করে। গ্লাস কোনও গুণমান হারাই না গিয়ে যত্ন করা যায়।",
+        "impact": "দক্ষ গ্লাস পুনঃচক্রণ পরিচালনা বাড়াতে পারে পরিবেশ প্রভাব কমাতে, সাস্থ্যসঙ্কল্প উপযোগ করতে এবং একটি বৃত্তাকার অর্থনীতিতে অবদান রাখতে।"
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "গ্লাস পুনঃচক্রণ অত্যন্ত দক্ষ কারণ এটি যেন শুদ্ধতা বা গুণমানে কোনও ক্ষয় ছাড়াই অসীমভাবে পুনঃচক্রণ করা যায়। বাস্তবে, পুনঃচক্রণ করা গ্লাস কন্টেনারের 80% নতুন গ্লাস বোতলে তৈরি হয়, এবং একটি গ্লাস কন্টেনার পুনঃচক্রণ বিন থেকে মাত্র 30 দিনে একটি দোকানে পৌঁছাতে পারে।"
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "শিল্প বর্জ্য",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "রাসায়নিক রাগ",
+        "Metal Scraps": "মেটাল ছাড়া",
+        "Plastic Offcuts": "প্লাস্টিক অফকাট",
+        "Construction Debris": "নির্মাণ ধ্বংস",
+        "Electronic Components": "ইলেকট্রনিক কম্পোনেন্ট",
+        "Paper and Cardboard": "কাগজ এবং কার্ডবোর্ড",
+        "Textile Scraps": "টেক্সটাইল ছাড়া",
+        "Glass Pieces": "গ্লাস টুকরো",
+        "Rubber Waste": "রাবার বর্জ্য",
+        "Biodegradable Waste": "জীবনুক্ষম বর্জ্য",
+        "Non-Biodegradable Waste": "অজীবনুক্ষম বর্জ্য",
+        "Hazardous Materials": "বিপজ্জনক পদার্থ",
+        "Non-Hazardous Materials": "অবিপজ্জনক পদার্থ",
+        "Industrial Sludge": "শিল্প ঘনবহন",
+        "Packaging Materials": "প্যাকেজিং পদার্থ"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "শিল্প বর্জ্য শিল্প এবং উদ্যোগের প্রক্রিয়ার ফলে উৎপন্ন হওয়া বিশাল বর্গীয় উপাদানের সম্মিলিত রূপ। পরিযাপন, সম্পূর্ণ পুনর্চক্রণ এবং নিরাপত্তা সহীত উচিত ব্যবস্থাপনা পরিবেশ প্রভাব সম্মিন্নভাবে সীমানা করতে গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "উৎপাদন বর্জ্য",
+        "Production Waste": "প্রস্তুতি বর্জ্য"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "বিশেষ শিল্প বর্জ্য ধারণ কারী ড্রাম বা পুনর্চক্রণ সুযোগ",
+        "handling": "উচিত সুরক্ষা সরঞ্জামে পরিচালনা করুন, সবচেয়ে বিপজ্জনক পদার্থ দিতে সম্পর্কিত সমস্ত নিয়ম-কানুনী মার্গদর্শন অনুসরণ করুন।",
+        "separation": "পুনর্চক্রণ এবং নিরাপত্তা সুযোগ করার জন্য প্রকার (উদাহরণস্বরূপ, বিপজ্জনক বনাম অবিপজ্জনক) এবং উপাদান (উদাহরণস্বরূপ, মেটাল, প্লাস্টিক) অনুপাতে বর্জ্য আলাগ করুন।",
+        "whatNotToDo": "বিপজ্জনক শিল্প বর্জ্য অবিপজ্জনক বর্জ্য সাথে মিশানো না। শিল্প বর্জ্য বেয়াদব হওয়া অথবা বেয়াদব নিষ্কাশন থেকে দূর থাকুন।",
+        "safetyPrecautions": "শিল্প বর্জ্য পরিচালনা করার সময় বিশেষ সারঞ্জাম, সবচেয়ে বিপজ্জনক পদার্থ থাকলে সবসময় হাতে হাঁড়ি, রক্ষাবস্ত্র, এবং মাস্ক ব্যবহার করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "শিল্প বর্জ্য সঠিক পরিচালনা এবং পুনর্চক্রণ রূপান্তর সম্প্রসারণ, সম্পদ সংরক্ষণ, দূষণ সংক্ষিপ্ত করে, এবং টেকসই শিল্প অনুসরণ সাপোর্ট করে।",
+        "impact": "শিল্প বর্জ্য দক্ষ ব্যবস্থাপনা স্থানীয় ল্যান্ডফিলের জন্য চাপ কমিয়ে আনে, পরিবেশিক ঝুঁকি সম্মিন্ন করে, এবং বৃত্তাকার অর্থনীতিতে অবদান রাখে।"
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "শিল্প ধাতুগুলির পুনর্চক্রণ করার মাধ্যমে যে সম্পূর্ণ উর্জা প্রয়োজন তা উত্পাদনের জন্য প্রয়োজন সম্পূর্ণ উর্জা থেকে প্রায় 75% সেভ করতে পারে।"
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "মেটাল বর্জ্য",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "আলুমিনিয়াম ক্যান",
+        "Tin Cans": "টিন ক্যান",
+        "Steel Scraps": "ইস্পাত ছাড়া",
+        "Copper Wire": "তামা তার",
+        "Metal Pipes": "মেটাল পাইপ",
+        "Metal Tools": "মেটাল সরঞ্জাম",
+        "Metal Packaging": "মেটাল প্যাকেজিং",
+        "Automotive Parts": "অটোমোটিভ পার্টস",
+        "Metal Furniture": "মেটাল ফার্নিচার",
+        "Metal Appliances": "মেটাল প্রয়োগকারী",
+        "Construction Materials": "নির্মাণ উপাদান",
+        "Aerosol Cans": "এরোসোল ক্যান",
+        "Electronic Metals": "ইলেকট্রনিক মেটাল",
+        "Metal Caps": "মেটাল ক্যাপ",
+        "Metal Lids": "মেটাল লিড"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "মেটাল বর্জ্য বিভিন্ন ফেলা মেটাল আইটেম এবং উপাদান সম্মিলিত করে। এটি খুব পুনর্চক্রণযোগ্য এবং নতুন মেটাল পণ্যে পুনর্চক্রণ করা যেতে সম্ভব, যাতে জীবনুক্ষম ওয়ার খনিজ চিড়ে প্রয়োজন না হয়।",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "স্ক্র্যাপ মেটাল",
+        "Discarded Metal": "ফেলা মেটাল"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "মেটাল পুনর্চক্রণ বিন বা স্ক্র্যাপ ইয়ার্ড",
+        "handling": "যদি সম্ভব হয়, প্রকার অনুসারে মেটাল ছাড়া আলাগ করুন এবং যেকোনো গেরুয়া উপাদান সরান। আঘাত প্রতিরোধের জন্য সাবধানে পরিচালনা করুন।",
+        "separation": "পুনর্চক্রণ দক্ষতা বাড়াতে আইয়ারন মেটাল (যেমন ইস্পাত এবং লোহা) অইয়ারন মেটাল থেকে (যেমন আলুমিনিয়াম এবং তামা) আলাগ করুন।",
+        "whatNotToDo": "মেটাল বর্জ্য সাধারণ আবর্জনার সাথে না ফেলুন। স্থানীয় পুনর্চক্রণ সুযোগ দেওয়া না হলে বিভিন্ন প্রকারের মেটাল মেলানো না করা যেতে পারে।",
+        "safetyPrecautions": "মেটাল বর্জ্য পরিচালনা করার সময় কাটা এবং আঘাত প্রতিরোধ করতে হাতে হাঁড়ি এবং সুরক্ষাবস্ত্র পরেন।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "মেটাল পুনর্চক্রণ করা জীবনুক্ষম, গ্রীনহাউস গ্যাস সাঁকোল, এবং প্রাকৃতিক সম্পদ সংরক্ষণ করে। মেটালগুলি সম্পত্তি নষ্ট না করে একাধিক সময় পুনঃচক্রণ করা যায়।",
+        "impact": "দক্ষ মেটাল পুনর্চক্রণ পরিচালনা পরিবেশ প্রভাব কমিয়ে আনে, নতুন খনি চাপ কমিয়ে আনে এবং টেকসই সম্পদ পরিচালনা সাপোর্ট করে।"
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "একটি আলুমিনিয়াম ক্যান পুনর্চক্রণ করলে যত্ন তিন ঘণ্টা ধরে টেলিভিশন চালিত করতে যায়।"
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "কাগজের বর্জ্য",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "নিউজপেপার",
+        "Magazines": "ম্যাগাজিন",
+        "Office Paper": "অফিস কাগজ",
+        "Notebooks": "নোটবই",
+        "Envelopes": "মোড়ানো",
+        "Junk Mail": "বর্জিত মেইল",
+        "Cardboard Boxes": "কার্ডবোর্ড বাক্স",
+        "Paper Packaging": "পেপার প্যাকেজিং",
+        "Paper Bags": "পেপার ব্যাগ",
+        "Phone Books": "ফোন বই",
+        "Catalogs": "ক্যাটালগ",
+        "Shredded Paper": "কাটা কাগজ",
+        "Paper Cups": "পেপার কাপ",
+        "Paper Plates": "পেপার প্লেট",
+        "Greeting Cards": "অভিষেক কার্ড",
+        "Wrapping Paper": "মোড়ানো কাগজ"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "কাগজের বর্জ্য বিভিন্ন ধরনের বর্জিত কাগজ এবং কাগজের প্রোডাক্ট সম্মিলিত করে। কাগজের বর্জ্য পুনর্চক্রণ করা গুরুত্বপূর্ণ যাতে অকাট্য উদ্যান কাটাচ্ছে এবং প্রাকৃতিক সম্পদ সংরক্ষণ করা যায়।",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "বর্জিত কাগজ",
+        "Paper Scraps": "কাগজের খনি"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "কাগজের পুনর্চক্রণ বিন",
+        "handling": "প্লাস্টিক লাইনার, স্টেপল, বা টেপের মতো কাগজের বাইরের অংশ সরানো। প্রভাবশালী পুনর্চক্রণের জন্য কাগজ শুকনো এবং শুদ্ধ রাখুন।",
+        "separation": "কাগজ প্রকার (উদাহরণস্বরূপ, কার্ডবোর্ড, অফিস কাগজ) এবং অবস্থা (উদাহরণস্বরূপ, শুদ্ধ, ময়লা) অনুসারে আলাগ করুন যাতে পুনর্চক্রণ দক্ষতা বাড়ানো যায়।",
+        "whatNotToDo": "ময়লা বা চর্বী কাগজ বর্জ্য শুদ্ধ কাগজ সাথে মিশিয়ে ফেলবেন না। সাধারণ আবর্জনা বিনে পুনর্চক্রণযোগ্য কাগজ না ফেলা যাবে না।",
+        "safetyPrecautions": "সর্বাধিক কাগজের বর্জ্য হ্যান্ডলিং এর জন্য কোনও বিশেষ নিরাপত্তা প্রয়োজন নেই।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "কাগজ পুনর্চক্রণ করা নতুন কাগজ উৎপাদনের প্রয়োজন কমিয়ে আয়ত্ন বড়াতে সাহায্য করে, গাছগুলি সংরক্ষণ করে এবং শক্তি এবং পানি ব্যবহার কমিয়ে আনে।",
+        "impact": "দক্ষ কাগজের পুনর্চক্রণ স্থানীয় আবর্জনার ব্যবহার কমিয়ে আনে, গ্রীনহাউস গ্যাস সাঁকোল করে, এবং টেকসই বন্যাস অনুসরণ সাপোর্ট করে।"
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "একটি একক টন কাগজ পুনর্চক্রণ করলে 17 গাছ এবং 7,000 গ্যালন পানি সাপোর্ট করতে পারে।"
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "প্লাস্টিক বর্জ্য",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "প্লাস্টিক বোতল",
+        "Plastic Bags": "প্লাস্টিক ব্যাগ",
+        "Plastic Packaging": "প্লাস্টিক প্যাকেজিং",
+        "Plastic Containers": "প্লাস্টিক সংগ্রহণস্থল",
+        "Plastic Utensils": "প্লাস্টিক উপাদান",
+        "Plastic Wraps": "প্লাস্টিক রেপ",
+        "Plastic Toys": "প্লাস্টিক খেলনা",
+        "Polystyrene Foam": "পলিস্টাইরেন ফোম",
+        "Plastic Cups": "প্লাস্টিক কাপ",
+        "Plastic Plates": "প্লাস্টিক প্লেট",
+        "Plastic Film": "প্লাস্টিক ফিল্ম",
+        "Water Bottles": "পানির বোতল",
+        "Detergent Bottles": "ডিটারজেন্ট বোতল",
+        "Shampoo Bottles": "শ্যাম্পু বোতল",
+        "Plastic Caps": "প্লাস্টিক ক্যাপ",
+        "Plastic Lids": "প্লাস্টিক লিড",
+        "Plastic Furniture": "প্লাস্টিক ফার্নিচার",
+        "Plastic Hangers": "প্লাস্টিক হ্যাঙ্গার"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "প্লাস্টিক বর্জ্য বিভিন্ন প্লাস্টিক আইটেম সম্মিলিত করে। দীর্ঘ বিঘটন সময়ে তার অবস্থান, প্লাস্টিক বর্জ্যর পুনর্চক্রণ এবং সঠিক বিপন্ন পরিচালনা পরিবেশ প্রভাব নিরসনের জন্য গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "প্লাস্টিক বর্জিত",
+        "Scrap Plastics": "প্লাস্টিক স্ক্র্যাপ"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "প্লাস্টিক পুনর্চক্রণ বিন বা সুযোগ",
+        "handling": "পুনর্চক্রণ এবং প্লাস্টিক স্বচ্ছ এবং শুকনো করুন। লেবেল বা ক্যাপস এমন প্লাস্টিক বাইরের অংশ সরান।",
+        "separation": "প্লাস্টিক প্রকার এবং বিভাগ অনুসারে আলাগ করুন, কারণ প্লাস্টিকের বিভিন্ন প্রকারের পুনর্চক্রণ প্রক্রিয়া আছে।",
+        "whatNotToDo": "প্লাস্টিক বর্জ্য অন্যান্য পুনর্চক্রণযোগ্য বা সাধারণ আবর্জনা দিয়ে মিশানো বা প্রচলিত আবর্জনার বিনে বিস্তারিত বাউন্স দেয়নি।",
+        "safetyPrecautions": "সর্বাধিক প্লাস্টিক বর্জ্য হ্যান্ডলিং এর জন্য কোনও বিশেষ নিরাপত্তা প্রয়োজন নেই।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "প্লাস্টিক পুনর্চক্রণ করা নতুন প্লাস্টিক উৎপাদনের প্রয়োজন কমিয়ে আয়ত্ন বড়াতে সাহায্য করে, সম্পদ সংরক্ষণ করে এবং দূষণ কমিয়ে আনে। এটি এই সাথে সাথে বান্ডের ব্যাপারে বা সমুদ্রে প্লাস্টিকের পরিমাণ কমিয়ে আনতে সাহায্য করে।",
+        "impact": "প্রভাবশালী প্লাস্টিক পুনর্চক্রণ পরিবেশ টেকসই সাপোর্ট করে, গ্রীনহাউস গ্যাস সাঁকোল করে, এবং আবর্জনা ব্যবস্থাপনা দক্ষতা সাপোর্ট করে।"
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "এক টন প্লাস্টিক পুনর্চক্রণ করলে একটি ডিপোজিট স্পেসে 7.4 ঘন্টা মুক্তি সাপোর্ট করতে পারে।"
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "রাবার বর্জ্য",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "ব্যবহৃত গাড়ির টায়ার",
+        "Rubber Bands": "রাবার ব্যান্ড",
+        "Rubber Gloves": "রাবার দস্ত handশি",
+        "Rubber Hoses": "রাবার হোস",
+        "Rubber Footwear": "রাবার ফুটওয়্যায়ার",
+        "Rubber Mats": "রাবার ম্যাট",
+        "Conveyor Belts": "কনভেয়ার বেল্ট",
+        "Rubber Gaskets": "রাবার গ্যাসকেট",
+        "Rubber Seals": "রাবার সীল",
+        "Rubber Sheets": "রাবার শিট",
+        "Rubber Toys": "রাবার খেলনা",
+        "Automotive Rubber": "অটোমোটিভ রাবার",
+        "Rubber Tubing": "রাবার টিউবিং",
+        "Elastomeric Materials": "ইলাস্টোমেরিক মেটেরিয়াল",
+        "Synthetic Rubber": "সিন্থেটিক রাবার"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "রাবার বর্জ্য বিভিন্ন প্রকারের প্রাকৃতিক রাবার প্রোডাক্ট সম্মিলিত করে। রাবার পুনর্চক্রণ প্রাকৃতিক সম্পদ সংরক্ষণ এবং পরিবেশের প্রভাব কমাতে গুরুত্বপূর্ণ, কারণ রাবার ল্যান্ডফিলে দ্রব্যীভুত হওয়ার জন্য সময় নেয়।",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "রাবার স্ক্র্যাপ",
+        "Waste Rubber": "রাবার বর্জ্য"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "বিশেষজ্ঞ রাবার পুনর্চক্রণ সুযোগ বা সংগ্রহ পয়েন্ট",
+        "handling": "রাবার বর্জ্য সতর্কভাবে নিয়ন্ত্রণ করুন, সাধারণভাবে বড় বা ভারী জিনিসগুলি নিয়ন্ত্রণ করার সময়। পরিবেশ দূষণ প্রতিরোধ করতে সঠিক সংরক্ষণ নিশ্চিত করুন।",
+        "separation": "প্রভাবশালী পুনর্চক্রণের জন্য বিভিন্ন ধরনের রাবার বর্জ্য আলাগ করুন। সম্ভাবমতো কোনও গৈর-রাবার উপাদানগুলি সরান।",
+        "whatNotToDo": "রাবার বর্জ্য সাধারণ আবর্জনা বাইনে ফেলবেন না। দুর্ভাগ্যক্রমে, এটি ক্ষতিকর জীবনবাদ্য মুক্তি দেয় যেহেতু এটি ক্ষতিকর টকসিন মুক্তি দেয়।",
+        "safetyPrecautions": "রাবার বর্জ্য নিয়ন্ত্রণ করার সময় সম্ভাব্য ত্বক ব্যাথা এড়িয়ে যাওয়ার জন্য দস্ত handশি এবং রক্ষাকারী পোশাক পরিধান করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "রাবার পুনর্চক্রণ বর্জ্য এবং দূষণ কমাতে সাহায্য করে। এটি রাবার মালচ, ম্যাট এবং আসফাল্ট যোগ সহ বিভিন্ন প্রোডাক্টে পুনর্চক্রণ করতে পারে।",
+        "impact": "রাবার বর্জ্য সঠিকভাবে পরিচালিত করা পরিবেশ টেকসই সাপোর্ট করে এবং রাবার উৎপাদনে ব্যবহৃত অনন্যর্নূপ সম্পদ সংরক্ষণে সাহায্য করে।"
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "টায়ার থেকে পুনর্চক্রণ করা রাবার বানিজ্যিক গাছ, খেলার মাধ্যমে সারণি সারণি এবং কিছু শিল্প প্রক্রিয়াত্মক প্রক্রিয়াত্মক উপাদান হিসেবে ব্যবহার করা যেতে পারে।"
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "টেক্সটাইল বর্জ্য",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "পোষাক",
+        "Bed Linens": "শয্যাচাদর",
+        "Towels": "টাওয়েল",
+        "Curtains": "পর্দা",
+        "Fabric Scraps": "ফ্যাব্রিক স্ক্র্যাপ",
+        "Carpeting": "কার্পেটিং",
+        "Upholstery": "আপহোল্স্টারি",
+        "Footwear": "পা-জুতা",
+        "Handbags": "হ্যান্ডব্যাগ",
+        "Belts": "বেল্ট",
+        "Hats": "টুপি",
+        "Socks": "মোজা",
+        "Non-reusable Textiles": "অব্যবহার্য টেক্সটাইল",
+        "Stuffed Toys": "ভর্তি খেলনা",
+        "Ropes": "রজ়",
+        "Thread": "থ্রেড",
+        "Yarn": "সুত"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "টেক্সটাইল বর্জ্য বর্জ্য ফ্যাব্রিক এবং পোষাক উপাদানের বাদ দেওয়া ব্যাপক সামগ্রী। এটি পরিবেশ বর্জ্যের গুরুত্বপূর্ণ অংশ। টেক্সটাইল বর্জ্য পুনর্চক্রণ এবং পুনর্ব্যবহার করা পরিবেশের উপর তার প্রভাব কমাতে গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "বাদ দেওয়া ফ্যাব্রিক",
+        "Scrap Textiles": "বাজে পণ্য"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "টেক্সটাইল পুনর্চক্রণ বাইন বা দান কেন্দ্র",
+        "handling": "টেক্সটাইল পুনর্চক্রণের আগে টেক্সটাইল পরিষ্কার এবং শুষ্ক করুন। ক্ষতিগ্রস্ত বা পুরানো টেক্সটাইলগুলি নতুন প্রোডাক্টে পুনর্চক্রণ বা পুনর্ব্যবহার করা যেতে পারে।",
+        "separation": "প্রভাবশালী টেক্সটাইল পুনর্চক্রণের বা পুনর্ব্যবহারের জন্য টেক্সটাইল ধরণ (উদাহরণস্বরূপ, কটন, পলিএস্টার) এবং অবস্থা (উদাহরণস্বরূপ, পরে পরে নয়) অলগ করুন।",
+        "whatNotToDo": "পোষাক পুনর্চক্রণ করতে সাধারণ আবর্জনা বাইনে ফেলবেন না। সঠিক সম্প্রতি সম্প্রতি দখলিত বা দূষিত টেক্সটাইলগুলি সঠিক পরিচিতি ছাড়া ফেলবেন না।",
+        "safetyPrecautions": "প্রায়শই টেক্সটাইল বর্জ্য নিয়ন্ত্রণ করতে কোনও নির্দিষ্ট সুরক্ষা প্রতিষেধন প্রয়োজন নেই।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "টেক্সটাইল পুনর্চক্রণ সম্পদ সংরক্ষণ করে, স্থলভূমি বর্জ্য কমায়, নতুন কাচের উপাদানের প্রয়োজন কমিয়ে দেয়। পুনর্চক্রণ টেক্সটাইল বিভিন্ন কাজে নতুন জীবন পেতে পারে।",
+        "impact": "প্রভাবশালী টেক্সটাইল বর্জ্য ব্যবসায়ে পুনর্চক্রণ পোষাক সান্ন্যাস্য ফ্যাশন সহানুভব করে, পরিবেশ দূষণ কমায় এবং টেক্সটাইল শিল্পে একটি বৃত্তকার অর্থনীতি সুন্দর করে।"
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "শুধু একটি টন টেক্সটাইল পুনর্চক্রণ বা পুনর্ব্যবহার করা যেতে পারে প্রায় 7 টন সিও2 এর বিক্ষিপ্তি প্রতিরোধ করতে।"
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "কাঠের বর্জ্য",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "লাম্বার স্ক্র্যাপ",
+        "Pallets": "প্যালেট",
+        "Timber Offcuts": "কাঠের অফকাট",
+        "Furniture Pieces": "ফার্নিচার প্রান্ত",
+        "Branches": "শাখা",
+        "Twigs": "টুইগ",
+        "Sawdust": "সরডাস্ট",
+        "Plywood": "প্লাইওড",
+        "Particle Board": "পার্টিকেল বোর্ড",
+        "Wooden Crates": "কাঠের ক্রেট",
+        "Wooden Tools": "কাঠের সরঞ্জাম",
+        "Construction Debris": "নির্মাণ বর্জ্য",
+        "Floorboards": "মেঝের বোর্ড",
+        "Window Frames": "জানালার ফ্রেম",
+        "Door Frames": "দরজার ফ্রেম",
+        "Tree Stumps": "গাছের পায়ে",
+        "Wooden Fencing": "কাঠের বেড়া",
+        "Decking Material": "ডেকিং উপাদান",
+        "Firewood Scraps": "আগুনের কাঠের স্ক্র্যাপ"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "কাঠের বর্জ্য বিভিন্ন বাদ দেওয়া কাঠের প্রোডাক্ট এবং উপাদান অধিবেশন করে। বনকাটা কমাতে এবং বর্জ্য সুস্থভাবে পরিচালিত করতে কাঠের বর্জ্যপুনর্চক্রণ এবং পুনর্ব্যবহার গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "বাজে কাঠ",
+        "Used Wood": "ব্যবহৃত কাঠ"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "কাঠ পুনর্চক্রণ সুযোগ বা বিশেষজ্ঞ সংগ্রহ পোয়েন্ট",
+        "handling": "কাঠের বর্জ্য স্ক্র্যাপের সাথে স্প্লিন্টার এবং আঘাতের সাহায্যে নির্দেশ মেলে। যদি স্ক্রু বা পাকা পাকা সহিত কোনও অকাঠামো উপাদান থাকে, তা সরিয়ে ফেলুন।",
+        "separation": "বিভিন্ন প্রক্রিয়ার জন্য অমিলিত কাঠ থেকে প্রতিশ্রুত কাঠ আলাদা করুন, কারণ এদের বিভিন্ন পুনর্চক্রণ প্রক্রিয়ার প্রয়োজন। দ্রুত পুনর্চক্রণের জন্য প্রক্রিয়ার আধারে ধরা ব্যবস্থা করুন।",
+        "whatNotToDo": "সাধারণ আবর্জনা বাইন দিয়ে কাঠের বর্জ্য প্রাত্যক্ষ দিন না, সবচেয়ে কার্যকর যদি এটি রাসায়নিক দ্বারা প্রয়োজ্য হয়। ব্যার্ন করতে সর্বোচ্চ স্বাস্থ্যক্ষয়ত্র বাজে দিন, কারণ এটি নাসক ধুপ ছাড়ায়।",
+        "safetyPrecautions": "কাঠের বর্জ্য হ্যান্ডল করার সময় স্প্লিন্টার এবং কাঠের তীব্র গোফন থেকে আঘাত বাধানোর জন্য হাতপাদুকা এবং প্রতিরক্ষা চোশমা পরিধান করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "কাঠের বর্জ্য পুনর্চক্রণ জমা কমিয়ে, প্রাকৃতিক সম্পদ সংরক্ষণ এবং টেক্সটাইল উৎপাদনে পুনর্চক্রণ সমর্থন করে।",
+        "impact": "কাঠের বর্জ্য সমর্থন পরিচালনা পরিবেশ দূষণ কমিয়ে এবং নির্মাণ এবং উৎপাদনে পুনর্চক্রণ জন্য মূল্যবান সম্পদ সরবরাহ করে।"
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "শুধু একটি টন কাঠের বর্জ্য পুনর্চক্রণ করতে প্রাকৃতিক গ্যাসোলিনের 1,000 গ্যালন সমপর্কে বাঁচাতে পারে।"
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "বিপজ্জন্য বর্জ্য",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "ক্ষারক রাসায়নিক",
+        "Solvents": "সলভেন্ট",
+        "Pesticides": "কীটনাশক",
+        "Herbicides": "উদ্ভিদনাশক",
+        "Medical Sharps": "চিকিৎসা শার্প",
+        "Contaminated Materials": "দূষিত উপাদান",
+        "Radioactive Substances": "পরমাণবিক পদার্থ",
+        "Contaminated Sanitary Products": "দূষিত স্বাস্থ্য প্রোডাক্ট",
+        "Sewage Treatment Waste": "সেউজ পরিষ্কার বর্জ্য",
+        "Automotive Fluids": "অটোমোটিভ দ্রব্য",
+        "Antifreeze": "এন্টিফ্রিজ",
+        "Brake Fluid": "ব্রেক ফ্লুইড",
+        "Lead-based Paints": "লেড-ভিত্তিক রং",
+        "Electronic Hazardous Components": "ইলেকট্রনিক বিপজ্জন্য উপাদান",
+        "Industrial Residues": "শিল্প অবশেষ",
+        "Used Oil": "ব্যবহৃত তেল",
+        "Oil-Contaminated Materials": "তেল-দূষিত উপাদান",
+        "Toxic Plastic Additives": "ক্ষারক প্লাস্টিক যোগক"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "বিপজ্জন্য বর্জ্য স্বাস্থ্য এবং পরিবেশে গুরুত্বপূর্ণ ঝুঁকি সৃষ্টি করতে পারে বিভিন্ন উপাদান শামিল করে। এই ঝুঁকিগুলি হ্রাস করতে সঠিক হ্যান্ডলিং, স্টোরেজ এবং নিষ্ক্রিয়করণ গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "আপত্তিকর বর্জ্য",
+        "Toxic Waste": "ক্ষারক বর্জ্য"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "বিশেষজ্ঞ বিপজ্জন্য বর্জ্য সংগ্রহ কেন্দ্র",
+        "handling": "সঠিক সুরক্ষা সরঞ্জাম ব্যবহার করে খুব সতর্কভাবে ব্যবস্থাপনা করুন। সংরক্ষণ এবং নিষ্ক্রিয়করণের জন্য সমস্ত স্থানীয় এবং ফেডারেল বিধি অনুসরণ করুন।",
+        "separation": "বিভিন্ন প্রকারের বিপজ্জন্য বর্জ্য আলাদা আলাদা হ্যান্ডলিং এবং নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন তাদের অল্প অল্প হ্যান্ডলিং এবং নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন কারণ তাদের নিষ্ক্রিয়করণ এবং নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন তাদের নিষ্ক্রিয়করণ এবং নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন তাদের নিষ্ক্রিয়করণ এবং নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন তাদের নিষ্ক্রিয়করণ এবং নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন।",
+        "whatNotToDo": "বিপজ্জন্য বর্জ্য সাধারণ ট্র্যাশ বিন বা সেওয়ারে নিষ্ক্রিয় করবেন না। অননুমোদিত ডাম্পিং থেকে বিরত থাকুন।",
+        "safetyPrecautions": "বিপজ্জন্য উপাদান হ্যান্ডল করতে সবসময় সুরক্ষা সরঞ্জাম, যেমন হাতপাদুকা, গগল এবং মাস্ক ব্যবহার করুন। সঠিক বায়ুপাস সরঞ্জাম সাবধানভাবে ব্যবহার করুন এবং সরাসরি যোগাযোগ এড্রেন করবেন না।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "বিপজ্জন্য বর্জ্য সঠিক ব্যবস্থাপনা পরিবেশ দূষণ প্রতিরোধ করে, জনগণের স্বাস্থ্য সুরক্ষা করে এবং আইনিক মান মেনে চলার নিশ্চিত করে।",
+        "impact": "বিপজ্জন্য উপাদানগুলির সাবধান নিষ্ক্রিয়করণ মাটি এবং জল দূষণের ঝুঁকি কমিয়ে এবং একটি নিরাপদ, পরিষ্কার পরিবেশ সাপোর্ট করে।"
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "একটি কোয়ার্ট মোটর তেলের সঠিক নিষ্ক্রিয়করণ দ্বারা প্রায় ২ মিলিয়ন গ্যালন পানির দূষণ হতে পারে না।"
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "রাসায়নিক বর্জ্য",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "শিল্প রাসায়নিক",
+        "Laboratory Chemicals": "প্রয়োগশালা রাসায়নিক",
+        "Cleaning Agents": "পরিষ্কারক প্রকৃতি",
+        "Pesticides": "কীটনাশক",
+        "Herbicides": "উদ্ভিদনাশক",
+        "Paints": "রং",
+        "Solvents": "সলভেন্ট",
+        "Automotive Fluids": "অটোমোটিভ দ্রব্য",
+        "Batteries": "ব্যাটারি",
+        "Aerosol Cans": "এয়রোসোল ক্যান",
+        "Mercury Devices": "পারমাণবিক ডিভাইস",
+        "Pharmaceuticals": "ঔষধ",
+        "Photographic Chemicals": "ফটোগ্রাফিক রাসায়নিক",
+        "Pool Chemicals": "পুল রাসায়নিক",
+        "Flammable Liquids": "দাহ্য তরল",
+        "Toxic Metals": "ক্ষারক ধাতু",
+        "Acids": "অ্যাসিড",
+        "Bases": "বেস",
+        "Reactive Materials": "প্রতিক্রিয়াশী উপাদান"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "রাসায়নিক বর্জ্য ব্যবহার এবং পরিবেশে বড় ঝুঁকি সৃষ্টি করতে পারে বিভিন্ন বিপজ্জন্য এবং অব্যবস্থ্য রাসায়নিক, যা স্বাস্থ্য এবং পরিবেশে গুরুত্বপূর্ণ ঝুঁকি সৃষ্টি করতে পারে। এই ঝুঁকিগুলি হ্রাস করতে সঠিক হ্যান্ডলিং, স্টোরেজ এবং নিষ্ক্রিয়করণ গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "বিপজ্জন্য রাসায়নিক",
+        "Toxic Chemicals": "ক্ষারক রাসায়নিক"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "বিশেষজ্ঞ রাসায়নিক বর্জ্য সংগ্রহ কেন্দ্র",
+        "handling": "সঠিক সাবধানতা অবলম্বন করে উপযুক্ত সুরক্ষা সরঞ্জাম ব্যবহার করুন। সংরক্ষণ, পরিবহন এবং নিষ্ক্রিয়করণের সমস্ত নিয়ম-নীতি অনুসরণ করুন।",
+        "separation": "অসামঞ্জস্যক্রিয় রাসায়নিক বিভিন্ন রাসায়নিক থেকে আলাদা থাকতে হবে এবং ঝুঁকি শ্রেণী (উদাঃ দাহ্য, ঘাতক) ভিত্তিকভাবে শ্রেণীবদ্ধ করুন।",
+        "whatNotToDo": "রাসায়নিক বর্জ্য সাধারণ ট্র্যাশ বিন, ড্রেন বা প্রাকৃতিক জলস্রোতে নিষ্ক্রিয় করবেন না। বিভিন্ন রাসায়নিক মিশানো যায় না, যা জীবন্তভাবে প্রতিক্রিয়া করতে পারে।",
+        "safetyPrecautions": "সবসময় সুরক্ষা সরঞ্জাম, যেমন হাতপাদুকা, গগল এবং উপযুক্ত শ্বাসপ্রাপ্তি, ব্যবহার করুন। স্থিতিস্থাপন সময় ভাপীয় বা ফিউমিগ্যান্ট রাসায়নিক হ্যান্ডল করার সময় উপযুক্ত বায়ুপাস নিশ্চিত করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "রাসায়নিক বর্জ্যের সঠিক নিষ্ক্রিয়করণ পরিবেশ দূষণ প্রতিরোধ করে, সংস্থান সংরক্ষণ করে এবং স্বাস্থ্য ঝুঁকি হ্রাস করে।",
+        "impact": "রাসায়নিক বর্জ্য দ্বারা যত্তবার দ্বারা সবসময় পাথর এবং জল দূষণের ঝুঁকি ন্যূনাত্তম হতে পারে তা দ্বারা দায়িত্বপূর্ণ প্রবৃদ্ধি করা হয় এবং একটি নিরাপদ বায়ুবাণিক প্রণালীতে অবদান রয়েছে।"
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "সঠিকভাবে এক গ্যালন ব্যবহৃত মোটর তেল পুনর্চক্রিয়া করতে যত্তবার যত্তবার প্রয়োজন তা দ্বারা প্রোডাক্ট সাধারণ বাড়ির জন্য শক্তি প্রদান করতে পারে এক বছর।"
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "চিকিৎসা বর্জ্য",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "ব্যবহৃত ব্যান্ডেজ",
+        "Gauze": "গজ",
+        "Expired Medicines": "মেয়াদ উত্তীর্ণ ওষুধ",
+        "Medical Gloves": "চিকিৎসাগুলির দস্তান্তর",
+        "Sharps": "স্থূলকর্ণ",
+        "Test Strips": "টেস্ট স্ট্রিপ",
+        "Surgical Instruments": "শাস্ত্রীয় যন্ত্র",
+        "Disposable Garments": "ডিসপোজেবল বস্ত্র",
+        "Pathological Waste": "প্যাথোলজিক্যাল বর্জ্য",
+        "Infectious Agents": "সংক্রামক প্রতিক্রিয়াবাদী",
+        "Discarded Vaccines": "ফেলা টিকা",
+        "Dialysis Waste": "ডায়ালাইসিস বর্জ্য",
+        "Chemotherapy Agents": "কেমোথেরাপি প্রতিক্রিয়াবাদী",
+        "Imaging Chemicals": "ইমেজিং রাসায়নিক",
+        "Radioactive Waste": "রেডিওয়েটিভ বর্জ্য",
+        "Biological Specimens": "জৈবিক নমুনা"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "চিকিৎসা বর্জ্য তথ্যপ্রদানকারী বা বিপজ্জন্য বা বিপজ্জন্য হতে পারে বেশিরভাগ চিকিৎসা সুবিধার অংশগুলি অন্তর্ভুক্ত করে। সঠিক নিষ্ক্রিয়করণ রোগের ছড়ানো এবং জনগণের স্বাস্থ্য সুরক্ষা করতে গুরুত্বপূর্ণ।",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "ক্লিনিক্যাল বর্জ্য",
+        "Healthcare Waste": "হেলথকেয়ার বর্জ্য"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "বিশেষ চিকিৎসা বর্জ্য নিষ্ক্রিয়করণ কন্টেনার",
+        "handling": "সতর্কতা সাবধানে নিয়ে আসুন এবং যেসময় প্রোটেক্টিভ গিয়ার ব্যবহার করুন। চিকিৎসা বর্জ্য উৎপাদনের সময় এগুলি আলাদা রাখা উচিত।",
+        "separation": "স্থূলকর্ণ, ঔষধি, প্যাথোলজিক্যাল এবং রাসায়নিক বর্জ্য বিভিন্ন নিষ্ক্রিয়করণ পদ্ধতি প্রয়োজন তাই এগুলি আলাদা করুন।",
+        "whatNotToDo": "চিকিৎসা বর্জ্যগুলি নিষ্ক্রিয়করণ না করবেন সাধারণ ট্র্যাশ বানোয় বা সাধারণ বর্জ্য দিয়ে মিশ্রণ করবেন না। যথাসাময়িক প্রোটেক্টিভ সরঞ্জাম ছাড়া নিষ্ক্রিয়করণ করবেন না।",
+        "safetyPrecautions": "চিকিৎসা বর্জ্য নিষ্ক্রিয়করণ করার সময় প্রস্তুতকরণের ঝুঁকি হ্রাস করতে সর্বদা হাতদেওয়া, মাস্ক এবং সম্ভাবনা মুখের ঢাল বা পোশাক ব্যবহার করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "চিকিৎসা বর্জ্যের সঠিক নিষ্ক্রিয়করণ সংক্রামণের ঝুঁকি ন্যূনত্তম করে, চিকিৎসার কর্মীদের এবং জনগণের স্বাস্থ্য সুরক্ষা করে এবং স্বাস্থ্য বিধিনিষ্ঠ সামগ্রী মেনে চলে।",
+        "impact": "চিকিৎসা বর্জ্যের কার্যক্ষেপটি সুরক্ষিত এবং সুস্থ পরিবেশ বজায় রাখার জন্য গুরুত্বপূর্ণ, সত্যি চিকিৎসা সুবিধা স্থাপনা উপসর্গ করতে হলো, সবচেয়ে জরুরি হলো স্বাস্থ্য সেটিংসে।"
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "সাধারণ হাসপাতাল প্রতি বিছানা প্রতি দিন প্রায় 33 পাউন্ড চিকিৎসা বর্জ্য উৎপন্ন করে, যা চিকিৎসা সুবিধা মেনে চলার গুরুত্ব প্রদর্শন করে।"
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "তেল বর্জ্য",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "ব্যবহৃত মোটর তেল",
+        "Cooking Oil": "কুকিং তেল",
+        "Lubricating Oil": "লুব্রিকেটিং তেল",
+        "Hydraulic Oil": "হাইড্রোলিক তেল",
+        "Transmission Fluid": "ট্রান্সমিশন ফ্লুইড",
+        "Machine Oil": "মেশিন তেল",
+        "Grease": "গ্রিস",
+        "Oil Filters": "তেল ফিল্টার",
+        "Oil-Soaked Rags": "তেলে ভিগানো কাপড়",
+        "Fuel Oils": "জ্বালানি তেল",
+        "Vegetable Oils": "সবজি তেল",
+        "Petroleum Products": "পেট্রোলিয়াম প্রোডাক্ট",
+        "Oil Containers": "তেল সংযোজন",
+        "Oil-Water Mixtures": "তেল-পানি মিশ্রণ",
+        "Synthetic Oils": "সিনথেটিক তেল",
+        "Oil Sludge": "তেল স্লাজ"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "তেল বর্জ্য ব্যবহৃত এবং দূষিত তেলের বিভিন্ন ধরণ যা পরিবেশ দূষণ এবং স্বাস্থ্যের ঝুঁকি প্রতিরোধ করতে বিশেষ হ্যান্ডলিং প্রয়োজন করে।",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "ব্যবহৃত তেল",
+        "Waste Oil": "বর্জ্য তেল"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "ডিজাইনটেড তেল রিসাইক্লিং সুবিধা বা সংগ্রহণ পয়েন্ট",
+        "handling": "তেল বর্জ্য সুরক্ষিত কন্টেনারে সংরক্ষণ করুন। সরাসরি যোগাযোগ এবং ধূমপানের উপর এবং উপযুক্ত ভাবে যোগাযোগ না করুন।",
+        "separation": "বিভিন্ন ধরণের তেল এবং তেলের সংশ্লিষ্ট বর্জ্য সঠিক রিসাইক্লিং এবং বর্জ্য করার জন্য আলাদা করুন।",
+        "whatNotToDo": "তেল বর্জ্য সাধারণ ট্র্যাশে, নালিতে বা জল দেওয়া যাবে না। অন্যান্য বিপজ্জন্য সামগ্রীর সাথে তেল বর্জ্য মিশিয়ে নেবেন না।",
+        "safetyPrecautions": "তেল বর্জ্য হ্যান্ডলিং করার সময় হ্যান্ডগ্লাভ এবং চোখের সুরক্ষা ব্যবহার করুন। সংরক্ষণ এলাকায় উচ্চ নিক্ষেপণ নিশ্চিত করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "তেল বর্জ্য রিসাইক্লিং প্রাকৃতিক সম্পদ সংরক্ষণ করে, দূষণ প্রতিরোধ করে এবং পরিবেশ টেনে নেওয়া সমর্থন করে। সঠিকভাবে রিসাইক্ল করা তেল নতুন প্রোডাক্টে পরিপ্রেষণ করা যায়।",
+        "impact": "তেল বর্জ্যের সঠিক ব্যবস্থাপনা মাটি এবং জল দূষণের ঝুঁকিটি হ্রাস করে এবং একটি পরিষ্কার এবং নিরাপদ পরিবেশ বজায় রাখতে সাহায্য করে।"
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "এক গ্যালন ব্যবহৃত মোটর তেল এক মিলিয়ন গ্যালন প্রশাদ পানি দূষিত করতে পারে।"
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "রেডিওয়েভ বর্জ্য",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "ব্যয়িত নিউক্লিয়ার জ্বালানি",
+        "Radioactive Medical Waste": "রেডিওয়েভ চিকিৎসা বর্জ্য",
+        "Contaminated Lab Equipment": "দূষিত প্রযুক্তি প্রযুক্তি",
+        "Radioactive Glass": "রেডিওয়েভ গ্লাস",
+        "Contaminated Metals": "দূষিত ধাতু",
+        "Americium Smoke Detectors": "আমেরিশিয়াম ধোয়ান নির্ধারক",
+        "Uranium Residues": "ইউরেনিয়াম মিশ্রাবস্থা",
+        "Irradiated Tools": "বিকিরণিত সরঞ্জাম",
+        "Contaminated Clothing": "দূষিত বস্ত্র",
+        "Radioactive Sources": "রেডিওয়েভ উৎস",
+        "Luminous Dials": "ব্যালুমিনাস ডায়াল",
+        "Thorium Lantern Mantles": "থোরিয়াম লান্টার ম্যান্টেল",
+        "Radioactive Ores": "রেডিওয়েভ খনিজ"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "রেডিওয়েভ বর্জ্য ব্যবসায় এবং বস্তু দিয়ে এসেছে যার রেডিওয়েভ গুলি আছে। এর বিপজ্জন্য স্বাভাব প্রয়োজন করে সঠিক হ্যান্ডলিং, সংরক্ষণ এবং বর্জ্য করার প্রোটোকল।",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "নিউক্লিয়ার বর্জ্য",
+        "Radioactive Material": "রেডিওয়েভ পদার্থ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "বিশেষ রেডিওয়েভ বর্জ্য সুবিধা",
+        "handling": "একাধিক নির্দেশনানুসারে নিরাপদ সুরক্ষা প্রয়োজন। শিক্ষিত পেশাদার কাউকেই হ্যান্ডল করতে হবে।",
+        "separation": "সঠিক বর্জ্য করার জন্য রেডিওয়েভ প্রকার এবং স্তরের উপর ভিত্তি করে।",
+        "whatNotToDo": "সাধারণ ট্র্যাশে বর্জ্য প্রাপ্তি না করা হয় না। সুরক্ষা বিহীন কোনও সরাসরি যোগাযোগ নেওয়া যাবে না।",
+        "safetyPrecautions": "বিশেষায় সুরক্ষার পোশাক এবং রেডিয়েশন ডিটেক্টর ব্যবহার করতে হবে।"
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "ক্ষতিকর বেগমনে থাকার জন্য অসুরক্ষা প্রতিরোধ করে, পরিবেশ দূষণ প্রতিরোধ করে।",
+        "impact": "জনগণের স্বাস্থ্য এবং সুরক্ষা জন্য গুরুত্বপূর্ণ, দীর্ঘমেয়াদী পরিবেশ ক্ষতি প্রতিরোধে সাহায্য করে।"
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "কিছু রেডিওয়েভ বর্জ্য হতে পারে সহস্রকাল ধরে বিপজ্জন্য থাকতে।"
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "স্যানিটারি বর্জ্য",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "ব্যবহৃত ডায়াপার",
+        "Sanitary Napkins": "স্যানিটারি ন্যাপকিন",
+        "Tampons": "ট্যাম্পন",
+        "Wet Wipes": "ভিজা ওয়াইপ",
+        "Incontinence Pads": "ইনকন্টিনেন্স প্যাড",
+        "Disposable Toilet Seat Covers": "ডিসপোজেবল টয়লেট সিট কভার",
+        "Cotton Swabs": "কটন স্বব",
+        "Facial Tissues": "ফেসিয়াল টিস্যু",
+        "Bandages": "ব্যান্ডেজ",
+        "Disposable Razors": "ডিসপোজেবল রেজার",
+        "Dental Floss": "ডেন্টাল ফ্লস"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "স্যানিটারি বর্জ্য ব্যবহৃত এবং বর্জ্য প্রোডাক্টগুলি সম্মিলিত করে। স্বাস্থ্যের প্রাথমিক আপাতত চিকিৎসা বা যত্ন প্রতিষ্ঠানে, নিরাপত্তা বিক্ষোভ করতে সঠিক বর্জ্য প্রস্তুতকরণ প্রয়োজন।",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "স্বাস্থ্য বর্জ্য",
+        "Personal Care Waste": "ব্যক্তিগত যত্ন বর্জ্য"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "বিশেষ স্যানিটারি বর্জ্য বর্জ্য ইউনিট",
+        "handling": "নিষ্কৃতি এবং দূষণের সরাসরি যোগাযোগ প্রতিরোধ করতে হাতের দিকে যত্ন নিতে হবে, যদি সম্ভব হয় তাদের হাতে নেওয়া হয়।",
+        "separation": "বিশেষ বর্জ্যের জন্য স্যানিটারি বর্জ্য সাধারণ বর্জ্য থেকে আলাদা করুন।",
+        "whatNotToDo": "স্যানিটারি বর্জ্য শৌচালয়ের নাল দিয়ে না ফেলেন। সঠিক সংরক্ষণ বিহীন সাধারণ ট্র্যাশ বিনে বর্জ্য না ফেলেন।",
+        "safetyPrecautions": "স্যানিটারি বর্জ্য নিতে এবং বিসর্জন করতে হাতের দিকে যত্ন নিতে হবে। বিসর্জনের পরে সঠিক স্বাস্থ্য প্রথা অনুসরণ করা উচিত।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "সঠিক বর্জ্য প্রস্তুতকরণ সংক্রামণের ছড়ানোর প্রতিরোধ করে এবং পাবলিক এবং ব্যক্তিগত স্থানে স্বাস্থ্য বজায় রাখে।",
+        "impact": "স্যানিটারি বর্জ্য সঠিকভাবে পরিচালনা করা জনগণের স্বাস্থ্যের জন্য গুরুত্বপূর্ণ, সর্বাধিক জনবসতি বা সহায়ক এলাকায় সম্ভাব্য স্থানে, সর্বাধিক গুরুত্বপূর্ণ।"
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "গড় মানুষ প্রতি বছর প্রায় 30 পাউন্ড স্যানিটারি বর্জ্য তৈরি করে।"
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "গন্দগী বর্জ্য",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "মানব পুই",
+        "Used Water": "ব্যবহৃত পানি",
+        "Domestic Wastewater": "ঘরোয়ারি গন্দগী পানি",
+        "Industrial Effluent": "শিল্প বিসর্জনী",
+        "Agricultural Runoff": "কৃষি পানির দ্রাবণ",
+        "Storm water Discharge": "ঝড়পাত পানির নির্গমন",
+        "Septic Tank Sludge": "সেপ্টিক ট্যাঙ্ক শ্লাজ",
+        "Grease Trap Waste": "গ্রীস ট্র্যাপ বর্জ্য",
+        "Gray Water": "গ্রে পানি",
+        "Black Water": "কালো পানি",
+        "Sewage Sludge": "গন্দগী শ্লাজ",
+        "Soapy Water": "সোয়াপি পানি",
+        "Cooking Water Discharge": "রান্না পানির নির্গমন",
+        "Bathroom Water": "বাথরুম পানি",
+        "Laundry Wastewater": "ধোবাধোবি গন্দগী পানি",
+        "Sink Drainage": "সিংক ড্রেনেজ",
+        "Toilet Flushing Waste": "শৌচালয় ফ্লাশ বর্জ্য",
+        "Shower Drain Water": "শাওয়ার ড্রেন পানি",
+        "Sump Pump Discharge": "সাম্প পাম্প ডিসচার্জ",
+        "Urban Runoff": "শহরের দ্রাবণ"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "গন্দগী বর্জ্য ঘরোয়ারি, শিল্প স্থান, এবং কৃষি জমি থেকে ফ্লাশ বা নিষ্ক্রিয় করা বর্জ্য এবং উপাদানগুলির জন্য ব্যবহার হয়। পরিবেশ সুরক্ষা এবং পানি দূষণ প্রতিরোধের জন্য সঠিক শহরের বিকাশের জন্য প্রয়োজন।",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "পানির বর্জ্য",
+        "Sewerage": "সিউয়ারেজ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "বিশেষ গন্দগী পানি প্রস্তুতকরণ সুযোগ",
+        "handling": "গন্দগী সংস্পর্শ থেকে বিরত থাকুন এবং গন্দগী নিয়মাবলী অনুসরণ করুন।",
+        "separation": "পিয়াবল পানি উৎপাদনের বিনিয়োগ এবং পানির প্রস্তুতকরণ প্রক্রিয়া মেনে চলার জন্য প্রতিরোধ করুন।",
+        "whatNotToDo": "অপরিচ্ছন্ন গন্দগী পানি স্বাভাবিক জলমালা বা পরিবেশে মুক্ত করা যাবে না।",
+        "safetyPrecautions": "গন্দগী বর্জ্য সংস্পর্শ এবং নিয়মানুসারে নিয়মানুসারে গন্দগী বর্জ্য সংস্পর্শ করার পরে সুরক্ষা পর্যাপ্ত হওয়ার সাথে অংশগ্রহণ করুন।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "সঠিক গন্দগী পরিচালনা রোগ প্রসারণ প্রতিরোধ করে, জল সূত্রগুলি সুরক্ষিত রাখে এবং জনগণের স্বাস্থ্য সমর্থন করে।",
+        "impact": "গন্দগী পরিচালনা করার প্রভাব পরিবেশ সংরক্ষণ এবং টেকনোলজি বিকাশে গ্রামীণ বিকাশে প্রয়োজনীয়।"
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "উন্নত গন্দগী পরিচালনা প্ল্যান্ট বর্জ্য থেকে উর্জা এবং পুনর্চলন জন্য সম্ভাবনা দেখায়, যা বর্জ্য থেকে সম্পদ পুনঃচক্রণ সূচনা করে।"
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "ল্যান্ডফিল বর্জ্য",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "পুনর্চক্রণ যোগ্য নয় প্লাস্টিক",
+        "Contaminated Paper": "দূষিত কাগজ",
+        "Broken Glass": "ভাঙ্গা গ্লাস",
+        "Non-Recyclable Packaging": "পুনর্চক্রণ যোগ্য নয় প্যাকেজিং",
+        "Worn Textiles": "পুরানো টেক্সটাইল",
+        "Damaged Furniture": "আঘাতপ্রাপ্ত আবদ্ধ",
+        "Ceramic Items": "চিনি জিনিস",
+        "Construction Debris": "নির্মাণ ধ্বংস",
+        "Non-Recyclable Electronics": "পুনর্চক্রণ যোগ্য নয় ইলেকট্রনিক্স",
+        "Household Trash": "পরিবারিক আবর্জনা",
+        "Ineligible Food Waste": "অযোগ্য খাবার বর্জ্য",
+        "Ineligible Garden Waste": "অযোগ্য গার্ডেন বর্জ্য",
+        "Used Batteries": "ব্যবহৃত ব্যাটারি",
+        "Soiled Clothing": "মড়া পোশাক",
+        "Old Carpets": "পুরানো কার্পেট",
+        "Expired Medicines": "মেয়াদোত্তীর্ণ ঔষধ",
+        "Waste Foam": "বর্জ্য ফোম",
+        "Disposable Utensils": "ডিসপোজেবল পাত্র",
+        "Waste Oil": "বর্জ্য তেল",
+        "Contaminated Soil": "দূষিত মাটি"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "ল্যান্ডফিল বর্জ্য সাধারণভাবে পুনর্চক্রণ বা কম্পোস্টে যোগ্য নয় উপাদান শামিল করে। এটি পুনর্চক্রণ যোগ্য নয় জিনিসগুলির এক ধরণের বর্জ্য শ্রেণি নিয়ে আসে, যা মাটি এবং পানি দূষণের সম্ভাব্য পরিবেশ চিন্তা হতে পারে।",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "পুনর্চক্রণ যোগ্য নয় বর্জ্য",
+        "General Trash": "সাধারণ আবর্জনা"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "সাধারণ বর্জ্য বিন বা ডাম্পস্টার, যা পুনর্চক্রণ যোগ্য নয় জিনিসগুলির জন্য চিহ্নিত করা আছে",
+        "handling": "দ্বিগুন সাবধানভাবে ল্যান্ডফিল বর্জ্য নিয়ে কাজ করুন, এটি পুনর্চক্রণ যোগ্য এবং বিপণন বর্জ্য থেকে আলাদা করুন।",
+        "separation": "পুনর্চক্রণযোগ্য, জীবাশ্ম এবং বিপণন বর্জ্য থেকে আলাদা করতে গুরুত্বপূর্ণ। ল্যান্ডফিল প্রভাব ন্যূনতম করার জন্য।",
+        "whatNotToDo": "পুনর্চক্রণ বা কম্পোস্টে যোগ্য আইটেমগুলি ল্যান্ডফিল বর্জ্য হিসেবে ব্যবহার করা থেকে বিরত থাকুন।",
+        "safetyPrecautions": "ল্যান্ডফিল বর্জ্য নিয়ে কাজ করার সময় আপনার হাত দাঁত পরিপৃক্ত থাকতে হবে এবং উচিত তান ব্যবহার করতে হবে যাতে আপনি আঘাত না পান এবং সঠিক স্বাস্থ্য ব্যবস্থা নিশ্চিত করা যায়।"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "ল্যান্ডফিলে উপাদান সঠিকভাবে প্রবেশ করানো পুনর্চক্রণ যোগ্য বর্জ্য পরিচালনা করে, পরিবেশ দূষণ কমায়।",
+        "impact": "ল্যান্ডফিল বর্জ্য ন্যূনতম করার জন্য কৃত্রিম বর্জ্য পরিচালনা সাস্তি পরিবেশ ক্ষতি প্রতিরোধ করার জন্য গুরুত্বপূর্ণ।"
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "ল্যান্ডফিল বর্জ্য সংক্ষিপ্ত গ্রীনহাউস গ্যাস ইমিশন সম্পর্কে সাক্ষরক গ্যাস ইমিশন কমানোর প্রয়াস দ্বারা সাক্ষরকভাবে কমানো যেতে পারে, পুনর্চক্রণ এবং বর্জ্য সম্প্রেষণের গুরুত্ব নির্ধারণ করে।"
     }
   },
+  "error": {
+    "invalidImageUrl": "দয়া করে একটি বৈধ চিত্র URL দিন।",
+    "emptySearch": "দয়া করে একটি চিত্র বা URL সরবরাহ করুন।",
+    "searchResponse": "অনুসন্ধানের সময় ত্রুটি, দয়া করে পরে চেষ্টা করুন।",
+    "invalidImageSize": "দয়া করে 5MB এর আকারের মধ্যে চিত্র ফাইল সরবরাহ করুন।"
+  },
   "common": {
-    "knowYourWaste": "আপনার বর্জ্য সম্পর্কে জানুন",
-    "sustainNatureNest": "প্রকৃতির বাসস্থান টিকিয়ে রাখুন",
-    "searchPlaceholder": "রিসাইকেল বা নিষ্পত্তির জন্য আইটেম অনুসন্ধান করুন",
+    "knowYourWaste": "আপনার ফাঁক জানুন",
+    "sustainNatureNest": "প্রকৃতি গুহা সংরক্ষণ করুন",
+    "searchPlaceholder": "রিসাইকেল বা নির্মূলে প্রতিষ্ঠিত আইটেম খুঁজে পেতে আইটেম খুঁজে পেতে",
     "whatIsWaste": "{{value}} কি",
-    "alsoKnownAs": "অন্যভাবে পরিচিত",
-    "itemsInsideWaste": "{{value}}-এর মধ্যে থাকা আইটেমসমূহ",
-    "howToHandle": "{{value}} কিভাবে সামলাবেন",
-    "handling": "সামলানো",
-    "separation": "পৃথকীকরণ",
-    "whatNotToDo": "কি করা উচিত নয়",
-    "suggestedBin": "প্রস্তাবিত বিন",
-    "whyItsImportant": "এটা কেন গুরুত্বপূর্ণ",
+    "alsoKnownAs": "অতএব {{value}}",
+    "itemsInsideWaste": "{{value}} এর মধ্যে আইটেমগুলি",
+    "howToHandle": "{{value}} কীভাবে হ্যান্ডল করবেন",
+    "handling": "হ্যান্ডলিং",
+    "separation": "আলাদা করার উপায়",
+    "whatNotToDo": "কি না করতে হবে না",
+    "suggestedBin": "সুপারিশ বিন",
+    "whyItsImportant": "এটি কেন গুরুত্বপূর্ণ",
     "note": "নোট",
-    "safetyPrecautions": "নিরাপত্তা সতর্কতা",
-    "alsoKnowAbout": "সম্পর্কেও জানুন",
-    "compostable": "কম্পোস্টযোগ্য",
-    "recyclable": "রিসাইক্লেবল",
-    "nonRecyclable": "অ-রিসাইক্লেবল",
-    "burnable": "নিয়ন্ত্রিত পোড়ানো যায় এমন",
-    "nonBurnable": "পোড়ানো যায় না",
-    "caution": "সতর্কতার সাথে আচরণ করুন",
-    "flammable": "দাহ্য",
-    "toxic": "বিষাক্ত",
-    "biohazardous": "জৈব-ঝুঁকির",
-    "radioactive": "রেডিওঅ্যাক্টিভ",
-    "useSafetyGear": "রক্ষাকবচ ব্যবহার করুন",
-    "washHand": "হাত ধোওয়া",
-    "sanitize": "স্যানিটাইজ",
-    "disclaimer": "এখানে প্রদত্ত তথ্য সাধারণ এবং সব অঞ্চল বা পরিস্থিতিতে প্রযোজ্য নাও হতে পারে। জৈব বর্জ্য পরিচালনার জন্য স্থানীয় বিধি এবং নির্দেশিকা পরামর্শ করা উচিত।",
-    "readMore": "আরো পড়ুন",
+    "safetyPrecautions": "নিরাপত্তা মেরামত",
+    "alsoKnowAbout": "এটিও জানুন",
+    "compostable": "কম্পোস্টেবল",
+    "recyclable": "রিসাইকেল করতে যোগ্য",
+    "nonRecyclable": "রিসাইকেল করতে অযোগ্য",
+    "burnable": "নির্দেশিত দহনযোগ্য",
+    "nonBurnable": "নির্দেশিত অদহনযোগ্য",
+    "caution": "সাবধানে হ্যান্ডেল করুন",
+    "flammable": "উত্তেজক",
+    "toxic": "জীবাণুনাশক",
+    "biohazardous": "জৈব আপত্তিকর",
+    "radioactive": "রেডিওয়েটিভ",
+    "useSafetyGear": "রক্ষামূলক সরঞ্জাম ব্যবহার করুন",
+    "washHand": "হাত ধোয়া",
+    "sanitize": "শোধন করা",
+    "disclaimer": "এখানে প্রদান করা তথ্য সাধারণ এবং সব অঞ্চলে বা পরিস্থিতিতে প্রযোজ্য হতে পারে না। {{value}} পরিচালনার জন্য স্থানীয় বিধিমালা এবং নির্দেশিকা দেখতে হবে।",
+    "readMore": "আরও পড়ুন",
     "readMoreSearch": "স্থানীয় {{value}} পরিচালনা সমাধান এবং হ্যান্ডলিং",
-    "managementStation": "পরিচালনা স্টেশন",
-    "credits": "ক্রেডিট তথ্য",
+    "credits": "শ্রেয়ঃ তথ্য",
     "visitToKnowMore": "আরও জানতে দেখুন",
-    "sustainNatureNestBy": "প্রকৃতির বাসস্থান টিকিয়ে রাখুন এর দ্বারা"
+    "imageSearch": "চিত্র অনুসন্ধান",
+    "uploadImage": "চিত্র আপলোড করুন",
+    "changeImage": "চিত্র পরিবর্তন করুন",
+    "or": "অথবা",
+    "pasteImageLink": "চিত্র লিংক পেস্ট করুন",
+    "reset": "রিসেট",
+    "search": "অনুসন্ধান",
+    "searching": "অনুসন্ধান করা হচ্ছে"
   }
 }

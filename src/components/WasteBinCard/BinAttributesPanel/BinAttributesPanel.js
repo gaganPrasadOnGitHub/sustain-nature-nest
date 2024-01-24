@@ -1,9 +1,8 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './BinAttributesPanel.css';
 import burnableIcon from '../../../assets/burnable.svg';
 import nonBurnableIcon from '../../../assets/nonBurnable.svg';
 import compostableIcon from '../../../assets/compostable.svg';
-import compostableWasteImage from '../../../assets/compostWaste.png';
 import recyclableIcon from '../../../assets/recyclable.svg';
 import nonRecyclableIcon from '../../../assets/nonRecyclable.svg';
 import cautionIcon from '../../../assets/caution.svg';
@@ -16,10 +15,17 @@ import washHandIcon from '../../../assets/washHand.svg';
 import sanitizeIcon from '../../../assets/sanitize.svg';
 import {useTranslation} from 'react-i18next';
 import useSelectedLanguage from '../../../hooks/useSelectedLanguage';
+import {validateImageUrl} from '../../../utils/helpers/validateImageUrl';
+import useNightMode from '../../../hooks/useNightMode';
+import imageSearchDay from '../../../assets/imageSearchDay.svg';
+import imageSearchNight from '../../../assets/imageSearchNight.svg';
 
 const BinAttributesPanel = ({selectedBin, scrollToDescription}) => {
+  const {isNight} = useNightMode();
   const {t} = useTranslation();
   useSelectedLanguage();
+
+  const [imageLoaded, setImageLoaded] = useState(false);
 
   const infoAttributes = [
     {
@@ -90,21 +96,37 @@ const BinAttributesPanel = ({selectedBin, scrollToDescription}) => {
     },
   ];
 
+  const handleImageLoad = () => {
+    setImageLoaded(true);
+  };
+
   return (
     <section id="attributes-section" className="py-100">
       <div className="attributes-wrapper">
+        {/* main image */}
         <img
-          className="bin-image"
+          loading="lazy"
+          className={`bin-image ${imageLoaded ? '' : 'hide'}`}
           onClick={scrollToDescription}
-          src={selectedBin?.imageUrl || compostableWasteImage}
-          alt={`${selectedBin?.name} bin`}
+          src={
+            validateImageUrl(selectedBin?.descriptionImage)
+              ? selectedBin?.descriptionImage
+              : isNight
+                ? imageSearchNight
+                : imageSearchDay
+          }
+          alt={selectedBin?.name}
+          onLoad={handleImageLoad}
         />
+        {!imageLoaded && <p className="searching"></p>}
 
+        {/* attributes */}
         {infoAttributes.map(
           (badge, index) =>
             badge.condition && (
               <div key={index} id={badge.id} className="attribute-badge">
                 <img
+                  loading="lazy"
                   className="badge-icon"
                   src={badge.icon}
                   alt={badge.label}

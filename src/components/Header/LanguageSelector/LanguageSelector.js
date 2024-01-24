@@ -5,7 +5,6 @@ import languageNight from '../../../assets/langNight.svg';
 import {useDispatch, useSelector} from 'react-redux';
 import {useTranslation} from 'react-i18next';
 import {
-  setFocusScroll,
   setIsLanguageMenuVisible,
   setLanguage,
 } from '../../../utils/redux/appSlice';
@@ -25,50 +24,46 @@ const LanguageSelector = () => {
   const languages = [
     {code: 'ar', name: 'العربية'}, // Arabic
     {code: 'bn', name: 'বাংলা'}, // Bengali
-    {code: 'bg', name: 'български'}, // bulgarian
-    {code: 'zh', name: '中文'}, // chinies
-    {code: 'nl', name: 'Nederlands'}, // german
-    {code: 'en', name: 'English'}, // english
-    {code: 'fr', name: 'Français'}, // french
-    {code: 'de', name: 'Deutsch'}, // dutch
-    {code: 'hi', name: 'हिन्दी'}, // hindi
+    {code: 'bg', name: 'български'}, // Bulgarian
+    {code: 'zh', name: '中文'}, // Chinese
+    {code: 'nl', name: 'Dutch'}, // Dutch
+    {code: 'en', name: 'English'}, // English
+    {code: 'fr', name: 'Français'}, // French
+    {code: 'de', name: 'German'}, // German
+    {code: 'hi', name: 'हिन्दी'}, // Hindi
     {code: 'id', name: 'Bahasa Indonesia'}, // Indonesia
-    {code: 'it', name: 'Italiano'}, // italian
+    {code: 'it', name: 'Italiano'}, // Italian
     {code: 'ja', name: '日本語'}, // Japanese
     {code: 'kn', name: 'ಕನ್ನಡ'}, // Kannada
-    {code: 'ko', name: '한국어'}, // Korian
-    {code: 'pt', name: 'Português'}, // Portugues
+    {code: 'ko', name: '한국어'}, // Korean
+    {code: 'pt', name: 'Português'}, // Portuguese
     {code: 'ru', name: 'Русский'}, // Russian
     {code: 'es', name: 'Español'}, // Spanish
     {code: 'tr', name: 'Türkçe'}, // Turkish
-    {code: 'ur', name: 'اردو'}, // urdu
-    {code: 'vi', name: 'Tiếng Việt'}, // vietnamies
+    {code: 'uk', name: 'Українська'}, // Ukrainian
+    {code: 'vi', name: 'Tiếng Việt'}, // Vietnamese
   ];
+
+  useOutsideOrScrollHide(languageOptionsRef, () => {
+    if (isLanguageMenuVisible) {
+      dispatch(setIsLanguageMenuVisible(false));
+    }
+  });
 
   const handleLanguageChange = (newLanguage) => {
     dispatch(setLanguage(newLanguage));
     i18n.changeLanguage(newLanguage);
     dispatch(setIsLanguageMenuVisible(false));
-    dispatch(setFocusScroll(false));
-    console.log('newLanguage', newLanguage);
   };
 
-  const toggleOptionsVisibility = () => {
+  const toggleOptionsVisibility = (event) => {
+    event.stopPropagation();
     dispatch(setIsLanguageMenuVisible(!isLanguageMenuVisible));
-    dispatch(setFocusScroll(!isLanguageMenuVisible));
   };
-
-  useOutsideOrScrollHide(languageOptionsRef, () => {
-    if (isLanguageMenuVisible) {
-      dispatch(setIsLanguageMenuVisible(false));
-      dispatch(setFocusScroll(false));
-    }
-  });
 
   return (
-    <>
+    <div className="flex-default" ref={languageOptionsRef}>
       <img
-        ref={languageOptionsRef}
         className="nav-icon"
         src={isNight ? languageNight : languageDay}
         alt="Select language"
@@ -90,7 +85,7 @@ const LanguageSelector = () => {
           ))}
         </div>
       )}
-    </>
+    </div>
   );
 };
 

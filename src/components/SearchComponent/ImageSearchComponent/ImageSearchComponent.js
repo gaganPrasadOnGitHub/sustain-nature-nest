@@ -1,10 +1,7 @@
 import React, {useState, useCallback, useRef, useEffect} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
 import './ImageSearchComponent.css';
-import {
-  setIsImageSearchMenuVisible,
-  setFocusScroll,
-} from '../../../utils/redux/appSlice';
+import {setIsImageSearchMenuVisible} from '../../../utils/redux/appSlice';
 import closeDay from '../../../assets/closeDay.svg';
 import closeNight from '../../../assets/closeNight.svg';
 import daySearch from '../../../assets/searchIconDay.svg';
@@ -52,10 +49,19 @@ const ImageSearchComponent = () => {
     }
   }, [selectedImage]);
 
-  const togglePopup = useCallback(() => {
-    dispatch(setIsImageSearchMenuVisible(!isImageSearchMenuVisible));
-    dispatch(setFocusScroll(!isImageSearchMenuVisible));
-  }, [isImageSearchMenuVisible, dispatch]);
+  useOutsideOrScrollHide(imageSearchMenuRef, () => {
+    if (isImageSearchMenuVisible) {
+      dispatch(setIsImageSearchMenuVisible(false));
+    }
+  });
+
+  const togglePopup = useCallback(
+    (event) => {
+      event.stopPropagation();
+      dispatch(setIsImageSearchMenuVisible(!isImageSearchMenuVisible));
+    },
+    [isImageSearchMenuVisible, dispatch]
+  );
 
   const handleReset = useCallback(() => {
     setImageUrl('');
@@ -63,13 +69,6 @@ const ImageSearchComponent = () => {
     dispatch(setError(''));
     setSelectedImage(null);
   }, [setSelectedImage, setImageUrl, dispatch]);
-
-  useOutsideOrScrollHide(imageSearchMenuRef, () => {
-    if (isImageSearchMenuVisible) {
-      dispatch(setIsImageSearchMenuVisible(false));
-      dispatch(setFocusScroll(false));
-    }
-  });
 
   return (
     <div ref={imageSearchMenuRef} className="flex-default">
@@ -94,6 +93,7 @@ const ImageSearchComponent = () => {
 
           <div className="image-preview-wrapper">
             <img
+              loading="lazy"
               src={
                 imageUrl ||
                 imagePreview ||
@@ -111,8 +111,7 @@ const ImageSearchComponent = () => {
             />
             <label
               htmlFor="image-upload-input"
-              className="cursor-pointer"
-              disabled={isLoading}
+              className={`cursor-pointer ${isLoading ? 'disabled' : ''}`}
             >
               {selectedImage
                 ? t('common.changeImage')

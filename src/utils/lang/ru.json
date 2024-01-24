@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "Органические отходы",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "Остатки еды",
+        "Fruit Peels": "Кожура фруктов",
+        "Vegetable Peels": "Кожура овощей",
+        "Coffee Grounds": "Кофейная гуща",
+        "Tea Bags": "Чайные пакетики",
+        "Eggshells": "Яичные скорлупы",
+        "Garden Flowers": "Цветы из сада",
+        "Houseplants": "Комнатные растения",
+        "Grass Clippings": "Скошенная трава",
+        "Weeds": "Сорняки",
+        "Nut Shells": "Ореховая скорлупа",
+        "Paper Towels": "Бумажные полотенца",
+        "Cardboard": "Картон",
+        "Wood Scrap": "Древесные отходы",
+        "Natural Fibers": "Натуральные волокна"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "Органические отходы в основном происходят из кухни и садов. Они включают в себя биоразлагаемые материалы, такие как остатки еды, садовые отходы и натуральные волокна. Богатые питательными веществами, эти материалы идеально подходят для компостирования, которое превращает отходы в ценные улучшители почвы.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "Компостируемые отходы",
+        "Biodegradable Waste": "Биоразлагаемые отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "Компостный бак (вентилируемый), металлический или прочный пластик, зеленый/коричневый",
+        "handling": "Используйте перчатки при обращении, мойте руки после утилизации. Избегайте прямого контакта с разлагающимися материалами.",
+        "separation": "Разделяйте органические материалы от неорганических (пластик, металл, стекло), чтобы обеспечить эффективное компостирование.",
+        "whatNotToDo": "Не включайте неорганические материалы, такие как пластик, металл или стекло. Избегайте утилизации химически обработанных продуктов или материалов, загрязненных маслами и жирами.",
+        "safetyPrecautions": "Используйте перчатки при обращении с органическими отходами, чтобы избежать прямого контакта с разлагающимися материалами и потенциальными патогенами. Обеспечьте хорошую вентиляцию в месте компостирования, чтобы предотвратить неприятные запахи. Тщательно мойте руки после обращения с органическими материалами для поддержания личной гигиены."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "Снижает использование свалок и выбросы метана, а также снижает потребность в химических удобрениях. Поддерживает устойчивое сельское хозяйство.",
+        "impact": "Превращает отходы в ценный компост, обогащая почву питательными веществами и способствуя здоровому росту растений. Способствует устойчивому использованию земли."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "Если компостируются, годовые мировые отходы от пищи могут сократить выбросы CO2 эквивалентно 2 миллиардам автомобилей с дорог, что больше, чем общее число автомобилей, которые ездят по всему миру."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "Сельскохозяйственные отходы",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "Остатки урожая",
+        "Manure": "Навоз",
+        "Pesticide Containers": "Контейнеры для пестицидов",
+        "Fertilizer Bags": "Мешки для удобрений",
+        "Farm Machinery": "Сельскохозяйственная техника",
+        "Spoiled Produce": "Испорченные продукты",
+        "Agricultural Plastics": "Сельскохозяйственные пластиковые материалы",
+        "Diseased Plants": "Заболевшие растения",
+        "Greenhouse Films": "Пленка для теплиц",
+        "Seed Sacks": "Мешки для семян",
+        "Pruning Waste": "Отходы от обрезки",
+        "Irrigation Equipment": "Оборудование для полива",
+        "Soil Amendment Packaging": "Упаковка для почвенных добавок",
+        "Animal Feed Bags": "Мешки для корма животных",
+        "Silage Wraps": "Обертывание силоса",
+        "Horticultural Pots": "Горшки для садоводства",
+        "Waste Pesticides": "Отходы от пестицидов",
+        "Contaminated Soils": "Загрязненные почвы",
+        "Old Tools": "Старые инструменты",
+        "Broken Irrigation Pipes": "Сломанные трубы для полива",
+        "Discarded Gloves": "Выброшенные перчатки",
+        "Protective Gear": "Средства защиты",
+        "Unused Veterinary Medicines": "Неиспользованные ветеринарные препараты",
+        "Baler Twine": "Прядильный шнур для балера",
+        "Netting Material": "Сетчатые материалы",
+        "Plastic Mulch": "Пластиковая мульча"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "Сельскохозяйственные отходы включают в себя как органические, так и неорганические материалы, происходящие из сельскохозяйственных деятельностей. Сюда входят природные побочные продукты, такие как остатки урожая и навоз, а также неорганические отходы, такие как контейнеры, пластик и старая техника. Эффективное управление важно для минимизации воздействия на окружающую среду и поддержания устойчивого сельского хозяйства.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "Сельскохозяйственные отходы",
+        "Agricultural Byproducts": "Сельскохозяйственные побочные продукты"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "Специализированные контейнеры как для органических, так и для неорганических отходов, с отдельной обработкой для опасных материалов",
+        "handling": "Используйте средства защиты при работе с опасными материалами. Компостируйте органические отходы, где это возможно.",
+        "separation": "Разделяйте органические материалы от химических и пластиковых отходов. Берегите опасные материалы.",
+        "whatNotToDo": "Не сжигайте пластик и химические контейнеры. Избегайте смешивания органических отходов с опасными материалами.",
+        "safetyPrecautions": "Используйте перчатки и защитную одежду, особенно при работе с химическими удобрениями или пестицидами. Обеспечьте хорошую вентиляцию при работе с почвенными добавками или в закрытых помещениях, таких как теплицы."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "Правильная утилизация сельскохозяйственных отходов снижает загрязнение, улучшает здоровье почвы и способствует устойчивым практикам.",
+        "impact": "Эффективное управление сельскохозяйственными отходами снижает экологическую нагрузку сельского хозяйства и способствует сохранению ресурсов, поддерживая устойчивые практики в сельском хозяйстве."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "Остатки урожая, если их правильно управлять и компостируть, могут значительно обогатить плодородие почвы и, возможно, снизить необходимость в синтетических удобрениях."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "Отходы животных",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "Навоз",
+        "Bedding Straw": "Солома для подстилки",
+        "Livestock Carcasses": "Трупы скота",
+        "Poultry Waste": "Отходы птицеводства",
+        "Feathers": "Перья",
+        "Fish Waste": "Отходы рыбной продукции",
+        "Milk Spoilage": "Испорченное молоко",
+        "Eggshell Waste": "Отходы яичной скорлупы",
+        "Animal Hair": "Шерсть животных",
+        "Wool": "Шерсть",
+        "Dairy Processing Waste": "Отходы молочной переработки",
+        "Veterinary Supplies": "Ветеринарные препараты",
+        "Expired Animal Feed": "Истекшие сроки годности кормов для животных",
+        "Contaminated Animal Products": "Загрязненная животная продукция"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "Отходы животных относятся к побочным продуктам, получаемым при разведении скота, птицы и других видов животных. Сюда входят органические отходы, такие как навоз и подстилка, а также трупы и испорченные продукты животного происхождения. Правильная обработка и утилизация играют важную роль в охране окружающей среды и предотвращении распространения болезней.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "Отходы скотоводства",
+        "Poultry Waste": "Отходы птицеводства"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "Специализированные контейнеры для биоопасных отходов, отдельно от обычных отходов",
+        "handling": "Используйте средства защиты, особенно при обработке трупов или загрязненных отходов. Соблюдайте строгие гигиенические протоколы.",
+        "separation": "Разделяйте биоопасные животные отходы от обычных отходов. Утилизируйте их в специальных контейнерах.",
+        "whatNotToDo": "Не смешивайте с обычными отходами. Избегайте прямого контакта без соответствующего средства защиты.",
+        "safetyPrecautions": "Используйте перчатки и защитную обувь при обработке отходов животных, чтобы предотвратить прямой контакт с потенциально опасными микроорганизмами. Обеспечьте хорошую вентиляцию в местах, где хранятся или обрабатываются отходы животных. После работы с отходами животных тщательно мойте руки с мылом и водой, чтобы предотвратить распространение зоонозных заболеваний."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "Правильное управление предотвращает загрязнение окружающей среды и риски для здоровья людей и животных.",
+        "impact": "Ответственная утилизация отходов животных поддерживает здоровье общества, защиту окружающей среды и устойчивые практики в сельском хозяйстве."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "Навоз от одной молочной коровы может произвести достаточно электроэнергии, чтобы питать маленький холодильник в течение дня, что иллюстрирует потенциал преобразования отходов животных в возобновляемую энергию."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "Пищевые отходы",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "Приготовленная еда",
+        "Uncooked Food": "Сырая еда",
+        "Meat Scraps": "Остатки мяса",
+        "Fish Scraps": "Остатки рыбы",
+        "Dairy Products": "Молочные продукты",
+        "Bread": "Хлеб",
+        "Pastries": "Пирожные",
+        "Leftover Meals": "Остатки блюд",
+        "Expired Food": "Истекший срок годности продуктов",
+        "Rice": "Рис",
+        "Pasta": "Макароны",
+        "Cheese": "Сыр",
+        "Egg Shells": "Яичные скорлупы",
+        "Fruit Scraps": "Остатки фруктов",
+        "Vegetable Scraps": "Остатки овощей",
+        "Coffee Grounds": "Кофейная гуща",
+        "Tea Bags": "Чайные пакетики",
+        "Food-Soiled Paper": "Бумага, загрязненная пищей"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "Контейнеры для пищевых отходов предназначены для утилизации различных видов пищевых отходов, включая остатки, продукты, и остатки пищи. Эта категория отходов подходит для биодеградации или компостирования, превращая органические вещества в ценные ресурсы.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "Кухонные отходы",
+        "Leftover Waste": "Отходы от остатков"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "Плотно закрываемый контейнер с контролем запаха, темно-зеленого или коричневого цвета",
+        "handling": "Запечатывайте пищевые отходы, чтобы уменьшить запахи и отпугнуть насекомых. Всегда мойте и дезинфицируйте руки после обращения. Немедленно убирайте разливы.",
+        "separation": "Разделяйте пищевые отходы от материалов, подлежащих переработке и неподлежащих компостированию, чтобы повысить эффективность компостирования и переработки.",
+        "whatNotToDo": "Не смешивайте пищевые отходы с жидкостями, маслами или химикатами. Избегайте включения неразлагаемых предметов, таких как пластик или металлы. Не оставляйте пищевые отходы открытыми, чтобы избежать привлечения вредителей и образования запахов.",
+        "safetyPrecautions": "При обработке пищевых отходов, особенно в больших количествах, используйте перчатки, чтобы предотвратить порчу и бактерии. Держите контейнеры для пищевых отходов чистыми и плотно закрытыми, чтобы избежать привлечения вредителей и образования запахов. Регулярно мойте руки, инструменты и поверхности, которые приходят в контакт с пищевыми отходами, чтобы поддерживать гигиеничность."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "Помогает предотвратить привлечение вредителей, уменьшает выбросы парниковых газов с мусоросжигательных полигонов и способствует производству компоста или биогаза.",
+        "impact": "Правильное управление пищевыми отходами экономит ресурсы, снижает воздействие на окружающую среду и способствует устойчивым практикам."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "Если бы пищевые отходы были страной, то они были бы третьим по величине источником выбросов парниковых газов в мире после США и Китая. Сокращение пищевых отходов критично для снижения экологического воздействия."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "Зеленые отходы",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "Скошенная трава",
+        "Leaves": "Листья",
+        "Branches": "Ветви",
+        "Weeds": "Сорняки",
+        "Flowers": "Цветы",
+        "Garden Trimmings": "Обрезки из сада",
+        "Shrubs": "Кустарники",
+        "Small Twigs": "Мелкие ветки",
+        "Hedge Clippings": "Обрезки живой изгороди",
+        "Fallen Fruit": "Падающие плоды",
+        "Garden Maintenance": "Садовая обработка",
+        "Plant Prunings": "Обрезка растений"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "Зеленые отходы, состоящие из растительных и садовых остатков, играют важную роль в органической переработке. Компостирование зеленых отходов способствует созданию питательных почвенных добавок, необходимых для устойчивого садоводства и сельского хозяйства.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "Отходы с двора",
+        "Garden Waste": "Садовые отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "Открытый контейнер большой вместимости, предпочтительно зеленого цвета",
+        "handling": "Используйте перчатки при обработке зеленых отходов, чтобы избежать порезов или раздражения от грубых материалов. Мойте руки после утилизации.",
+        "separation": "Отделяйте зеленые отходы от бытовых и опасных отходов. Не смешивайте с пищевыми отходами или материалами для переработки.",
+        "whatNotToDo": "Избегайте утилизации неразлагаемых материалов, таких как пластиковые мешки или горшки. Не добавляйте почву или камни. Воздерживайтесь от добавления больных растений или инвазивных видов, которые могут заразить компост.",
+        "safetyPrecautions": "При обработке зеленых отходов носите перчатки, чтобы защититься от острых материалов, и убедитесь, что они не содержат вредных веществ, таких как обработанное дерево."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "Облегчает производство компоста, обогащает здоровье почвы и способствует углеродному удержанию. Снижает использование места на свалках и выбросы парниковых газов.",
+        "impact": "Способствует устойчивому управлению отходами, поддерживает биоразнообразие в почве и содействует экологически чистым садоводческим и сельскохозяйственным практикам."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "Зеленые отходы, такие как скошенная трава и листья, могут быть компостированы для создания плодородной почвы, известной среди садоводов как 'черное золото', улучшая рост растений без использования химических удобрений."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "Отходы на переработку",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "Газеты",
+        "Magazines": "Журналы",
+        "Office Paper": "Офисная бумага",
+        "Cardboard": "Картон",
+        "Plastic Bottles": "Пластиковые бутылки",
+        "Plastic Containers": "Пластиковые контейнеры",
+        "Glass Bottles": "Стеклянные бутылки",
+        "Glass Jars": "Стеклянные банки",
+        "Aluminum Cans": "Алюминиевые банки",
+        "Steel Cans": "Стальные банки",
+        "Electronics": "Электроника",
+        "Textiles": "Текстиль",
+        "Untreated Wood": "Необработанное дерево",
+        "Aerosol Cans": "Баллончики с аэрозолями",
+        "Batteries": "Батарейки",
+        "Non-LED Light Bulbs": "Лампы не на светодиодах"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "Отходы на переработку включают в себя разнообразные материалы, которые могут быть повторно переработаны для последующего использования. Основные элементы в этой категории включают в себя бумажные продукты, пластик, стекло, металлы и определенные виды электроники, которые играют важную роль в сохранении ресурсов и экологической устойчивости.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "Контейнер для переработки, металл или прочный пластик",
+        "handling": "Убедитесь, что предметы чистые и сухие перед переработкой. Сортируйте их согласно местным рекомендациям по переработке.",
+        "separation": "Разделяйте разные типы материалов на переработку, чтобы избежать загрязнения не подлежащими переработке материалами.",
+        "whatNotToDo": "Избегайте включения грязных, загрязненных или не подлежащих переработке материалов. Соблюдайте местные правила переработки для конкретных видов утилизации.",
+        "safetyPrecautions": "При обработке материалов на переработку носите соответствующие средства защиты, если это необходимо. Будьте осторожны с насекомыми или животными, которые могут находиться рядом с материалами на переработку."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "Снижает необходимость в новых сырьевых материалах, экономит энергию и уменьшает экологическое воздействие отходов.",
+        "impact": "Поддерживает устойчивое управление ресурсами, способствуя охране окружающей среды и защите усилий."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Переработка помогает снизить экологическое воздействие отходов и сохранить ценные ресурсы для будущих поколений."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "Автомобильные отходы",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "Использованное моторное масло",
+        "Oil Filters": "Масляные фильтры",
+        "Batteries": "Аккумуляторы",
+        "Tires": "Шины",
+        "Brake Pads": "Тормозные колодки",
+        "Brake Fluid": "Тормозная жидкость",
+        "Transmission Fluid": "Трансмиссионное масло",
+        "Coolants": "Охлаждающие жидкости",
+        "Metal Parts": "Металлические детали",
+        "Rubber Hoses": "Резиновые шланги",
+        "Belts": "Ремни",
+        "Air Filters": "Воздушные фильтры",
+        "Windshield Glass": "Ветровые стекла",
+        "Upholstery Materials": "Материалы для обивки",
+        "Automotive Bumpers": "Автомобильные бамперы",
+        "Headlights": "Фары",
+        "Electrical Components": "Электрические компоненты"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "Автомобильные отходы включают в себя различные материалы и компоненты, выбрасываемые из автотранспортных средств. Сюда входят как опасные, так и нетоксичные виды отходов, такие как масла, аккумуляторы, шины и механические части. Правильная утилизация и переработка автомобильных отходов критически важны для охраны окружающей среды и сохранения ресурсов.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "Отходы от автотранспорта",
+        "Car Waste": "Отходы от автомобилей"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "Специализированные контейнеры для опасных материалов, отдельные зоны для крупных деталей",
+        "handling": "Обращайтесь бережно, особенно с опасными веществами. Используйте средства защиты при работе с маслами и химическими веществами.",
+        "separation": "Разделяйте опасные отходы, такие как масла и аккумуляторы, от нетоксичных предметов. Следуйте местным рекомендациям по утилизации каждого типа.",
+        "whatNotToDo": "Не выбрасывайте автомобильные масла и химические вещества в обычный мусор или канализацию. Избегайте смешивания различных видов автомобильных отходов.",
+        "safetyPrecautions": "Носите перчатки и защитные очки при обращении с автомобильными отходами, такими как использованное масло, аккумуляторы и шины, чтобы избежать контакта с опасными материалами. Всегда работайте в хорошо проветриваемых помещениях, чтобы избежать вдыхания паров, особенно при работе с автомобильными жидкостями. Утилизируйте автомобильные отходы на специальных пунктах переработки, чтобы предотвратить загрязнение окружающей среды."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "Предотвращает загрязнение окружающей среды, сохраняет ценные материалы и поддерживает инициативы по переработке.",
+        "impact": "Правильное управление автомобильными отходами минимизирует экологический след использования и обслуживания автотранспортных средств, способствуя более чистой и безопасной окружающей среде."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "Переработка всего одного автомобиля позволяет сэкономить более 2 500 фунтов железной руды, 1 400 фунтов угля и 120 фунтов известняка. Этот процесс также существенно снижает потребность в энергии и сырье для производства новых автозапчастей и автомобилей."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "Крупные отходы",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "Мебель",
+        "Appliances": "Бытовая техника",
+        "Mattresses": "Матрасы",
+        "Large Toys": "Крупные игрушки",
+        "Carpeting": "Ковры",
+        "Bicycles": "Велосипеды",
+        "Large Electronics": "Большая электроника",
+        "BBQ Grills": "Грили для барбекю",
+        "Exercise Equipment": "Спортивные тренажеры",
+        "Large Household Items": "Крупные предметы быта"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "Крупные отходы включают в себя крупные предметы, которые не помещаются в обычные мусорные баки. Правильная утилизация крупных отходов необходима для эффективного управления отходами и охраны окружающей среды. Переработка крупных предметов может способствовать сохранению ресурсов.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "Крупные отходы",
+        "Oversized Items": "Крупные предметы"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "Специальная коллекция или пункт сдачи",
+        "handling": "Уточните у местных служб управления отходами конкретные инструкции по утилизации. Некоторые предметы могут требовать особой обработки или услуг по вывозу.",
+        "separation": "Разделяйте различные типы крупных предметов для соответствующих методов переработки или утилизации.",
+        "whatNotToDo": "Не оставляйте крупные предметы на обочине дороги без предварительной организации правильной вывозки. Избегайте незаконной выгрузки мусора.",
+        "safetyPrecautions": "При обращении с крупными предметами, такими как мебель, бытовая техника и крупные игрушки, используйте правильные техники поднятия, чтобы избежать травм спины. Рекомендуется иметь помощника или использовать тележку для перемещения тяжелых предметов. Носите защитную обувь, чтобы предотвратить травмы ног, и перчатки для защиты от острых краев."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "Правильная утилизация крупных отходов сокращает использование свалок, способствует переработке и способствует созданию более чистой и безопасной окружающей среды.",
+        "impact": "Переработка крупных предметов помогает восстановлению ценных материалов, снижает экологическое воздействие и поддерживает практики устойчивого управления отходами."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "Мебель и другие крупные предметы часто оканчиваются на свалках, но если их переиспользовать или переработать, один только диван может сэкономить до 9 кубических ярдов места на свалке, что иллюстрирует значительное воздействие переработки и повторного использования крупных предметов."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "Строительные и сносные отходы",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "Бетон",
+        "Bricks": "Кирпичи",
+        "Wood": "Дерево",
+        "Gypsum": "Гипс",
+        "Metal": "Металл",
+        "Glass": "Стекло",
+        "Plastic": "Пластик",
+        "Insulation Materials": "Материалы для утепления",
+        "Electrical Wiring": "Электропроводка",
+        "Plumbing Fixtures": "Сантехническое оборудование",
+        "Ceramic Tiles": "Керамическая плитка",
+        "Asphalt": "Асфальт",
+        "Roofing Materials": "Кровельные материалы",
+        "Windows": "Окна",
+        "Doors": "Двери",
+        "Piping": "Трубы",
+        "Reinforced Concrete": "Армированный бетон",
+        "Drywall": "Гипсокартон",
+        "Flooring Materials": "Материалы для пола",
+        "Wall Coverings": "Отделочные материалы для стен"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "Строительные и сносные отходы включают материалы, полученные в результате строительства, ремонта и сноса зданий и сооружений. Правильное управление отходами имеет важное значение для переработки материалов и снижения воздействия на окружающую среду.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "Строительные отходы",
+        "Renovation Debris": "Отходы от ремонта"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "Специальные места сбора или определенные зоны вывоза",
+        "handling": "Уточните местные нормы и правила для утилизации. Некоторые материалы требуют специальной обработки или ухода.",
+        "separation": "Разделяйте материалы по типу (например, металл, дерево, бетон) для эффективной переработки.",
+        "whatNotToDo": "Не смешивайте строительные и сносные отходы с обычными бытовыми отходами. Избегайте незаконной выгрузки и неправильной утилизации.",
+        "safetyPrecautions": "Обязательно носите прочные перчатки и защитные очки, чтобы предотвратить травмы от острых предметов и мусора в строительных и сносных отходах, таких как дерево, металл и бетон. Подходящая обувь необходима для предотвращения травм от тяжелых материалов. Используйте маски для защиты от пыли и мелких частиц. При поднятии тяжелых предметов используйте правильные техники, чтобы избежать травм спины."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "Правильная утилизация способствует переработке материалов, снижает использование свалок и минимизирует загрязнение окружающей среды.",
+        "impact": "Переработка строительных и сносных материалов способствует сохранению ресурсов, поддерживает строительную индустрию в использовании вторичных материалов и способствует устойчивому развитию."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "Переработка одной тонны бетона может сэкономить до 1360 галлонов воды и 900 кг CO2, что подчеркивает значительные экологические преимущества повторного использования строительных и сносных материалов вместо их утилизации на свалках."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "Электронные отходы",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "Компьютеры",
+        "Laptops": "Ноутбуки",
+        "Mobile Phones": "Мобильные телефоны",
+        "Printers": "Принтеры",
+        "Scanners": "Сканеры",
+        "Televisions": "Телевизоры",
+        "Monitors": "Мониторы",
+        "DVD Players": "DVD-плееры",
+        "Game Consoles": "Игровые консоли",
+        "Small Appliances": "Мелкая бытовая техника",
+        "Electronic Tools": "Электронные инструменты",
+        "Batteries": "Батарейки",
+        "Circuit Boards": "Платы",
+        "Hard Drives": "Жесткие диски",
+        "Keyboards": "Клавиатуры",
+        "Mice": "Мыши",
+        "Speakers": "Колонки",
+        "Chargers": "Зарядные устройства",
+        "Cables": "Кабели",
+        "Cameras": "Камеры",
+        "Electronic Toys": "Электронные игрушки",
+        "CDs": "CD-диски",
+        "DVDs": "DVD-диски",
+        "GPS Devices": "Устройства GPS"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "Электронные отходы, или электронные отходы (E-Waste), включают в себя выбрасываемые электронные устройства и оборудование. Правильная переработка и утилизация необходимы для извлечения ценных материалов и предотвращения загрязнения окружающей среды.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE (отходы от электро- и электронного оборудования)",
+        "E-Waste": "Электронные отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "Специализированные пункты сбора электронных отходов или центры переработки",
+        "handling": "Осторожно обращайтесь с электронными отходами, чтобы избежать их повреждения и утечки опасных веществ. Следуйте местным правилам утилизации.",
+        "separation": "Разделяйте электронные отходы от обычных отходов. Сортируйте их по типу для эффективной переработки.",
+        "whatNotToDo": "Не выбрасывайте электронные отходы в обычный мусор. Избегайте разборки или разрушения электронных устройств, что может вызвать выброс токсичных веществ.",
+        "safetyPrecautions": "Используйте перчатки для защиты от острых краев при обработке электронных отходов, таких как старые компьютеры и телевизоры. Будьте внимательны к опасным материалам, таким как свинец и ртуть в электронике. Избегайте их разрушения, чтобы предотвратить возможное воздействие. Утилизируйте их в специальных центрах для безопасной утилизации."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "Правильная утилизация электронных отходов позволяет восстанавливать ценные материалы, сокращает использование свалок и защищает окружающую среду от токсичных веществ.",
+        "impact": "Переработка электронных отходов поддерживает круговую экономику, сокращает потребность в новых сырьевых материалах и минимизирует экологический след."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "Переработка одного миллиона ноутбуков позволяет сэкономить достаточно энергии для питания более 3500 домов в США в течение года. Переработка миллиона мобильных телефонов позволяет восстановить 35 274 фунта меди, 772 фунта серебра, 75 фунтов золота и 33 фунта палладия."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "Стеклянные отходы",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "Стеклянные бутылки",
+        "Glass Jars": "Стеклянные банки",
+        "Window Glass": "Оконное стекло",
+        "Mirror Glass": "Зеркальное стекло",
+        "Glass Containers": "Стеклянные контейнеры",
+        "Drinking Glasses": "Стеклянные посуды для напитков",
+        "Broken Glassware": "Разбитая посуда из стекла",
+        "Automotive Glass": "Автомобильное стекло",
+        "Glass Tableware": "Стеклянная посуда",
+        "Light Bulbs": "Лампы (нетулесцентные)",
+        "Laboratory Glassware": "Лабораторная посуда из стекла",
+        "Tempered Glass": "Закаленное стекло",
+        "Glass Shards": "Осколки стекла"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "Стеклянные отходы включают в себя различные виды отбрасываемых стеклянных изделий. Переработка стекла критически важна, поскольку его можно обработать и превратить в новые стеклянные изделия, что сокращает потребность в новых сырьевых материалах.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "Разбитое стекло",
+        "Discarded Glassware": "Изношенная посуда из стекла"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "Контейнер для переработки стекла или места для сдачи стеклотары",
+        "handling": "Осторожно обращайтесь со стеклянными отходами, чтобы избежать травм. По необходимости удалите негруппирующиеся компоненты.",
+        "separation": "Разделяйте стекло по цвету и типу, когда это возможно, чтобы повысить эффективность переработки.",
+        "whatNotToDo": "Не выбрасывайте стекло в обычные мусорные баки. Избегайте смешивания стекла с другими материалами для переработки, которые могут его загрязнить.",
+        "safetyPrecautions": "Используйте перчатки при обработке разбитого стекла, чтобы избежать порезов. Если вы имеете дело с большим количеством стеклянных отходов, рекомендуется использовать защитные очки, чтобы предотвратить возможные занозы или осколки. Всегда правильно поднимайте тяжелые стеклянные предметы, чтобы избежать травм. Держите стеклянные отходы в прочном контейнере, чтобы предотвратить разбитие и обеспечить безопасную транспортировку."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "Переработка стекла сокращает объем отходов на свалках, сохраняет природные ресурсы и экономит энергию. Стекло может быть переработано бесконечное количество раз без потери качества.",
+        "impact": "Эффективная переработка стекла помогает снизить экологический след, поддерживает устойчивое использование ресурсов и способствует развитию круговой экономики."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "Переработка стекла чрезвычайно эффективна, поскольку его можно бесконечно перерабатывать без потери чистоты или качества. Фактически, 80% извлеченных стеклянных контейнеров превращаются в новые стеклянные бутылки, и стеклянный контейнер может попасть из мусорного бака на прилавок магазина всего за 30 дней."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "Промышленные отходы",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "Химические растворители",
+        "Metal Scraps": "Металлические осколки",
+        "Plastic Offcuts": "Пластиковые обрезки",
+        "Construction Debris": "Строительные остатки",
+        "Electronic Components": "Электронные компоненты",
+        "Paper and Cardboard": "Бумага и картона",
+        "Textile Scraps": "Текстильные остатки",
+        "Glass Pieces": "Стеклянные осколки",
+        "Rubber Waste": "Резиновые отходы",
+        "Biodegradable Waste": "Биоразлагаемые отходы",
+        "Non-Biodegradable Waste": "Небиоразлагаемые отходы",
+        "Hazardous Materials": "Опасные материалы",
+        "Non-Hazardous Materials": "Неопасные материалы",
+        "Industrial Sludge": "Промышленные осадки",
+        "Packaging Materials": "Упаковочные материалы"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "Промышленные отходы включают в себя широкий спектр материалов, возникающих в результате промышленных и производственных процессов. Надлежащее управление, включая переработку и безопасную утилизацию, имеет важное значение для минимизации экологического воздействия.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "Промышленные отходы",
+        "Production Waste": "Производственные отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "Специализированные контейнеры для промышленных отходов или утилизационные площадки",
+        "handling": "Обращайтесь с отходами с использованием соответствующей защитной экипировки, особенно при работе с опасными материалами. Соблюдайте все регулирующие указания по утилизации.",
+        "separation": "Разделяйте отходы по типу (например, опасные и неопасные) и материалу (например, металл, пластик) для упрощения переработки и утилизации.",
+        "whatNotToDo": "Не смешивайте опасные промышленные отходы с неопасными. Избегайте незаконного сброса или неправильной утилизации промышленных отходов.",
+        "safetyPrecautions": "Всегда используйте перчатки, защитные очки и маски при обращении с промышленными отходами, особенно если они содержат опасные материалы."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "Надлежащее обращение и переработка промышленных отходов экономит ресурсы, снижает загрязнение и поддерживает устойчивые промышленные практики.",
+        "impact": "Эффективное управление промышленными отходами снижает нагрузку на свалки, уменьшает экологические риски и способствует развитию круговой экономики."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "Переработка промышленных металлов может сэкономить до 75% энергии, необходимой для их производства из сырья."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "Металлические отходы",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "Алюминиевые банки",
+        "Tin Cans": "Оловянные банки",
+        "Steel Scraps": "Стальные остатки",
+        "Copper Wire": "Медные провода",
+        "Metal Pipes": "Металлические трубы",
+        "Metal Tools": "Металлические инструменты",
+        "Metal Packaging": "Металлическая упаковка",
+        "Automotive Parts": "Автомобильные детали",
+        "Metal Furniture": "Металлическая мебель",
+        "Metal Appliances": "Металлические бытовые приборы",
+        "Construction Materials": "Строительные материалы",
+        "Aerosol Cans": "Баллончики с аэрозолями",
+        "Electronic Metals": "Металлы из электроники",
+        "Metal Caps": "Металлические колпачки",
+        "Metal Lids": "Металлические крышки"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "Металлические отходы охватывают различные отброшенные металлические предметы и материалы. Они подлежат высокой переработке и могут быть воспроизведены в новые металлические изделия, что уменьшает необходимость в добыче природной руды.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "Металлолом",
+        "Discarded Metal": "Отброшенный металл"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "Контейнер для металлического переработки или металлолома",
+        "handling": "Сортируйте металлы по типу и, по возможности, удалите любые не металлические компоненты. Обращайтесь с осторожностью, чтобы избежать травм.",
+        "separation": "Разделяйте железные металлы (такие как сталь и железо) от нежелезных металлов (таких как алюминий и медь), чтобы повысить эффективность переработки.",
+        "whatNotToDo": "Не выбрасывайте металлические отходы в обычные мусорные баки. Избегайте смешивания различных типов металлов, если вас не просят обратного местные учреждения по утилизации.",
+        "safetyPrecautions": "Используйте перчатки и защитную обувь при обращении с металлическими отходами, чтобы избежать порезов и травм."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "Переработка металла экономит энергию, снижает выбросы парниковых газов и сохраняет природные ресурсы. Металлы могут быть переработаны несколько раз без ухудшения их свойств.",
+        "impact": "Эффективная переработка металла снижает экологическое воздействие, уменьшает спрос на новую добычу и поддерживает устойчивое управление ресурсами."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "Переработка одной алюминиевой банки экономит достаточно энергии для работы телевизора в течение трех часов."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "Отходы бумаги",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "Газеты",
+        "Magazines": "Журналы",
+        "Office Paper": "Офисная бумага",
+        "Notebooks": "Тетради",
+        "Envelopes": "Конверты",
+        "Junk Mail": "Рекламная почта",
+        "Cardboard Boxes": "Картонные коробки",
+        "Paper Packaging": "Бумажная упаковка",
+        "Paper Bags": "Бумажные сумки",
+        "Phone Books": "Телефонные книги",
+        "Catalogs": "Каталоги",
+        "Shredded Paper": "Измельченная бумага",
+        "Paper Cups": "Бумажные стаканы",
+        "Paper Plates": "Бумажные тарелки",
+        "Greeting Cards": "Поздравительные открытки",
+        "Wrapping Paper": "Упаковочная бумага"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "Отходы бумаги охватывают различные виды отбрасываемой бумаги и бумажных изделий. Переработка бумажных отходов имеет важное значение для сокращения вырубки лесов и сохранения природных ресурсов.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "Отброшенная бумага",
+        "Paper Scraps": "Осколки бумаги"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "Контейнер для переработки бумаги",
+        "handling": "Удалите любые не бумажные компоненты, такие как пластиковые вкладыши, скобы или скотч. Сохраняйте бумагу сухой и чистой для эффективной переработки.",
+        "separation": "Разделяйте бумагу по типу (например, картон, офисная бумага) и состоянию (например, чистая, загрязненная), чтобы повысить эффективность переработки.",
+        "whatNotToDo": "Не смешивайте загрязненные или жирные бумажные отходы с чистой бумагой. Избегайте выбрасывания перерабатываемой бумаги в обычные мусорные баки.",
+        "safetyPrecautions": "Для обработки большинства бумажных отходов не требуется специальных мер предосторожности."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "Переработка бумаги сокращает необходимость в производстве новой бумаги, спасая деревья и уменьшая энергопотребление и потребление воды.",
+        "impact": "Эффективная переработка бумаги минимизирует использование свалок, снижает выбросы парниковых газов и поддерживает устойчивые лесные практики."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "Переработка одной тонны бумаги может спасти 17 деревьев и 7 000 галлонов воды."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "Пластиковые отходы",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "Пластиковые бутылки",
+        "Plastic Bags": "Пластиковые мешки",
+        "Plastic Packaging": "Пластиковая упаковка",
+        "Plastic Containers": "Пластиковые контейнеры",
+        "Plastic Utensils": "Пластиковые столовые приборы",
+        "Plastic Wraps": "Пластиковая пленка",
+        "Plastic Toys": "Пластиковые игрушки",
+        "Polystyrene Foam": "Пенопласт (полистирол)",
+        "Plastic Cups": "Пластиковые стаканы",
+        "Plastic Plates": "Пластиковые тарелки",
+        "Plastic Film": "Пластиковая пленка",
+        "Water Bottles": "Бутылки для воды",
+        "Detergent Bottles": "Бутылки для моющих средств",
+        "Shampoo Bottles": "Бутылки для шампуня",
+        "Plastic Caps": "Пластиковые крышки",
+        "Plastic Lids": "Пластиковые крышки",
+        "Plastic Furniture": "Пластиковая мебель",
+        "Plastic Hangers": "Пластиковые вешалки"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "Пластиковые отходы включают в себя разнообразные пластиковые предметы. Учитывая длительное время разложения, переработка и правильная утилизация пластиковых отходов являются важными мерами для смягчения воздействия на окружающую среду.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "Отброшенные пластмассы",
+        "Scrap Plastics": "Пластмассовые отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "Бак для переработки пластика или специализированный контейнер",
+        "handling": "Перед утилизацией тщательно моите и высушивайте пластик. Удаляйте все не-пластиковые компоненты, такие как этикетки или крышки.",
+        "separation": "Разделяйте пластик по типу и категории, так как разные виды пластика имеют разные процессы переработки.",
+        "whatNotToDo": "Не смешивайте пластиковые отходы с другими материалами для переработки или общим мусором. Избегайте выбрасывания больших пластиковых предметов в обычные мусорные баки.",
+        "safetyPrecautions": "Для обработки большинства пластиковых отходов не требуется специальных мер предосторожности."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "Переработка пластика снижает потребность в производстве нового пластика, экономит ресурсы и уменьшает загрязнение окружающей среды. Также помогает уменьшить количество пластика, попадающего на свалки и в океаны.",
+        "impact": "Эффективная переработка пластика способствует экологической устойчивости, снижает выбросы парниковых газов и поддерживает эффективное управление отходами."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "Переработка одной тонны пластика может сэкономить до 7,4 кубических ярдов места на свалке."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "Резиновые отходы",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "Использованные шины",
+        "Rubber Bands": "Резиновые резинки",
+        "Rubber Gloves": "Резиновые перчатки",
+        "Rubber Hoses": "Резиновые шланги",
+        "Rubber Footwear": "Резиновая обувь",
+        "Rubber Mats": "Резиновые коврики",
+        "Conveyor Belts": "Конвейерные ленты из резины",
+        "Rubber Gaskets": "Резиновые уплотнительные кольца",
+        "Rubber Seals": "Резиновые уплотнения",
+        "Rubber Sheets": "Резиновые листы",
+        "Rubber Toys": "Резиновые игрушки",
+        "Automotive Rubber": "Автомобильная резина",
+        "Rubber Tubing": "Резиновые трубки",
+        "Elastomeric Materials": "Эластомерные материалы",
+        "Synthetic Rubber": "Синтетическая резина"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "Резиновые отходы представляют собой различные отбрасываемые резиновые изделия. Переработка резины важна для сохранения ресурсов и снижения воздействия на окружающую среду, так как резина может долго разлагаться на свалках.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "Отброшенная резина",
+        "Waste Rubber": "Отходы из резины"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "Специализированный пункт переработки резины или места сбора",
+        "handling": "Осторожно обращайтесь с резиновыми отходами, особенно при работе с крупными или тяжелыми предметами. Обеспечивайте правильное хранение, чтобы предотвратить загрязнение окружающей среды.",
+        "separation": "Разделяйте разные типы резиновых отходов для эффективной переработки. Удаляйте все не-резиновые компоненты, если это возможно.",
+        "whatNotToDo": "Не выбрасывайте резиновые отходы в обычные мусорные баки. Избегайте сжигания резиновых отходов, так как при этом выделяются вредные вещества.",
+        "safetyPrecautions": "Используйте перчатки и средства защиты при работе с резиновыми отходами, чтобы избежать возможной раздраженности кожи."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "Переработка резины помогает сокращать количество мусора на свалках и загрязнение окружающей среды. Из нее можно изготовить различные продукты, такие как резиновая мульча, коврики и добавки для асфальта.",
+        "impact": "Эффективное управление резиновыми отходами поддерживает экологическую устойчивость и способствует сохранению неразрушимых ресурсов, используемых в производстве резины."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "Переработанная резина из шин может использоваться для создания искусственных травяных покрытий, покрытий для детских площадок и даже как источник топлива в некоторых промышленных процессах."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "Текстильные отходы",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "Одежда",
+        "Bed Linens": "Постельное белье",
+        "Towels": "Полотенца",
+        "Curtains": "Занавески",
+        "Fabric Scraps": "Обрезки ткани",
+        "Carpeting": "Ковровое покрытие",
+        "Upholstery": "Обивка мебели",
+        "Footwear": "Обувь",
+        "Handbags": "Сумки",
+        "Belts": "Ремни",
+        "Hats": "Шляпы",
+        "Socks": "Носки",
+        "Non-reusable Textiles": "Неподходящие для повторного использования текстильные изделия",
+        "Stuffed Toys": "Мягкие игрушки",
+        "Ropes": "Веревки",
+        "Thread": "Нитки",
+        "Yarn": "Пряжа"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "Текстильные отходы состоят из выброшенных материалов из ткани и одежды. Это значительная часть экологических отходов. Переработка и повторное использование текстильных отходов важны для снижения их воздействия на окружающую среду.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "Выброшенные ткани",
+        "Scrap Textiles": "Лоскутные текстильные материалы"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "Мусорное ведро для текстиля или центры приема в дар",
+        "handling": "Перед переработкой текстильные материалы следует очищать и сушить. Поврежденные или изношенные текстильные изделия можно перерабатывать в новые продукты.",
+        "separation": "Разделяйте текстильные материалы по типу (например, хлопок, полиэстер) и состоянию (например, носимые, непригодные) для более эффективной переработки или повторного использования.",
+        "whatNotToDo": "Носимые текстильные изделия не следует выбрасывать в обычные мусорные баки. Избегайте выбрасывать сильно загрязненные или контаминированные текстильные материалы без их правильной обработки.",
+        "safetyPrecautions": "Для обработки большинства текстильных отходов не требуется особых мер предосторожности."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "Переработка текстильных материалов позволяет экономить ресурсы, снижать объем мусора на свалках и уменьшать потребность в новых сырьевых материалах. Переработанные текстильные изделия могут найти новое применение в различных областях.",
+        "impact": "Эффективное управление текстильными отходами поддерживает устойчивую моду и снижает загрязнение окружающей среды, способствуя развитию замкнутой экономики в текстильной индустрии."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "Переработка или повторное использование всего одной тонны текстильных материалов может предотвратить выброс около 7 тонн CO2."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "Древесные отходы",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "Обрезки древесины",
+        "Pallets": "Поддоны",
+        "Timber Offcuts": "Обрезки древесины",
+        "Furniture Pieces": "Мебельные изделия",
+        "Branches": "Ветви",
+        "Twigs": "Прутики",
+        "Sawdust": "Древесная стружка",
+        "Plywood": "Фанера",
+        "Particle Board": "Древесностружечная плита",
+        "Wooden Crates": "Деревянные ящики",
+        "Wooden Tools": "Деревянные инструменты",
+        "Construction Debris": "Строительные отходы",
+        "Floorboards": "Полы",
+        "Window Frames": "Оконные рамы",
+        "Door Frames": "Дверные рамы",
+        "Tree Stumps": "Пеньки деревьев",
+        "Wooden Fencing": "Деревянные заборы",
+        "Decking Material": "Декинг",
+        "Firewood Scraps": "Обрезки дров"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "Древесные отходы включают в себя различные отбрасываемые древесные продукты и материалы. Важно перерабатывать и повторно использовать древесные отходы для снижения вырубки лесов и устойчивого управления отходами.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "Древесные остатки",
+        "Used Wood": "Использованное дерево"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "Центр переработки древесины или специализированные пункты приема",
+        "handling": "Осторожно обращайтесь с древесными отходами, чтобы избежать заносов и травм. Удаляйте все не деревянные компоненты, такие как гвозди или винты.",
+        "separation": "Отделяйте обработанное дерево от необработанного, так как они требуют разных процессов переработки. Сортируйте по типу и размеру для более эффективной переработки.",
+        "whatNotToDo": "Не выбрасывайте древесные отходы в обычные мусорные баки, особенно если они обработаны химическими веществами. Избегайте сжигания обработанной древесины из-за выброса токсичных газов.",
+        "safetyPrecautions": "Используйте перчатки и защитные очки при обращении с древесными отходами, чтобы избежать травм от заносов и острых краев."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "Переработка древесных отходов снижает использование свалок, сохраняет природные ресурсы и поддерживает устойчивые лесные практики.",
+        "impact": "Эффективное управление древесными отходами снижает загрязнение окружающей среды и предоставляет ценные ресурсы для повторного использования в строительстве и производстве."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "Переработка всего одной тонны древесных отходов может сэкономить эквивалент 1 000 галлонов бензина в энергетическом эквиваленте."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "Опасные отходы",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "Токсичные химические вещества",
+        "Solvents": "Растворители",
+        "Pesticides": "Пестициды",
+        "Herbicides": "Гербициды",
+        "Medical Sharps": "Медицинские острые предметы",
+        "Contaminated Materials": "Загрязненные материалы",
+        "Radioactive Substances": "Радиоактивные вещества",
+        "Contaminated Sanitary Products": "Загрязненные санитарные изделия",
+        "Sewage Treatment Waste": "Отходы очистки сточных вод",
+        "Automotive Fluids": "Автомобильные жидкости",
+        "Antifreeze": "Антифриз",
+        "Brake Fluid": "Тормозная жидкость",
+        "Lead-based Paints": "Краски на основе свинца",
+        "Electronic Hazardous Components": "Электронные опасные компоненты",
+        "Industrial Residues": "Промышленные остатки",
+        "Used Oil": "Использованное масло",
+        "Oil-Contaminated Materials": "Материалы, загрязненные маслом",
+        "Toxic Plastic Additives": "Токсичные пластмассовые добавки"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "Опасные отходы включают в себя разнообразные материалы, которые представляют серьезные угрозы для здоровья и окружающей среды. Правильное обращение, хранение и утилизация необходимы для снижения этих рисков.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "Опасные отходы",
+        "Toxic Waste": "Токсичные отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "Специализированные объекты по сбору опасных отходов",
+        "handling": "Обращайтесь с особым вниманием, используя соответствующие средства индивидуальной защиты. Соблюдайте все местные и федеральные нормативы по хранению и утилизации.",
+        "separation": "Отделяйте различные типы опасных отходов, так как они требуют уникальных методов обращения и утилизации.",
+        "whatNotToDo": "Не выбрасывайте опасные отходы в обычные мусорные баки или канализацию. Избегайте незаконной выгрузки.",
+        "safetyPrecautions": "Всегда используйте средства индивидуальной защиты, включая перчатки, защитные очки и маски, при обращении с опасными материалами. Обеспечьте правильную вентиляцию и избегайте прямого контакта."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "Правильное управление опасными отходами предотвращает загрязнение окружающей среды, защищает здоровье населения и обеспечивает соблюдение законодательных норм.",
+        "impact": "Осмотрительная утилизация опасных материалов снижает риск загрязнения почвы и воды и способствует созданию безопасной и чистой среды."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "Правильная утилизация всего одного кварта моторного масла может предотвратить загрязнение до двух миллионов галлонов питьевой воды."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "Химические отходы",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "Промышленные химикаты",
+        "Laboratory Chemicals": "Лабораторные химикаты",
+        "Cleaning Agents": "Чистящие средства",
+        "Pesticides": "Пестициды",
+        "Herbicides": "Гербициды",
+        "Paints": "Краски",
+        "Solvents": "Растворители",
+        "Automotive Fluids": "Автомобильные жидкости",
+        "Batteries": "Батарейки",
+        "Aerosol Cans": "Баллончики с аэрозолями",
+        "Mercury Devices": "Устройства с ртутью",
+        "Pharmaceuticals": "Фармацевтические препараты",
+        "Photographic Chemicals": "Фотохимикаты",
+        "Pool Chemicals": "Химикаты для бассейнов",
+        "Flammable Liquids": "Легковоспламеняющиеся жидкости",
+        "Toxic Metals": "Токсичные металлы",
+        "Acids": "Кислоты",
+        "Bases": "Щелочи",
+        "Reactive Materials": "Реактивные материалы"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "Химические отходы включают в себя разнообразные опасные и не поддающиеся биодеградации химические вещества, которые могут представлять серьезные угрозы для здоровья и окружающей среды. Правильное обращение, хранение и утилизация играют ключевую роль в минимизации этих рисков.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "Опасные химикаты",
+        "Toxic Chemicals": "Токсичные химикаты"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "Специализированные объекты по сбору химических отходов",
+        "handling": "Обращайтесь с крайней осторожностью, используя соответствующие средства индивидуальной защиты. Следуйте всем регуляторным указаниям по хранению, транспортировке и утилизации.",
+        "separation": "Разделяйте несовместимые химикаты и классифицируйте их по классу опасности (например, легковоспламеняющиеся, коррозийные, токсичные).",
+        "whatNotToDo": "Не выбрасывайте химические отходы в обычные мусорные баки, канализацию или естественные водоемы. Избегайте смешивания различных химикатов, что может вызвать опасную реакцию.",
+        "safetyPrecautions": "Всегда используйте средства индивидуальной защиты, включая перчатки, защитные очки и подходящие средства для защиты дыхания. Обеспечьте правильную вентиляцию при работе с летучими или ядовитыми химикатами."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "Правильная утилизация химических отходов предотвращает загрязнение окружающей среды, сохраняет ресурсы и снижает риск для здоровья.",
+        "impact": "Ответственное управление химическими отходами минимизирует риск загрязнения почвы и воды и способствует созданию более безопасной экологической системы."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "Правильная утилизация всего одного галлона использованного моторного масла может произвести достаточно энергии для обеспечения среднего дома электроэнергией в течение года."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "Медицинские отходы",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "Использованные бинты",
+        "Gauze": "Марля",
+        "Expired Medicines": "Истекшие сроки медикаменты",
+        "Medical Gloves": "Медицинские перчатки",
+        "Sharps": "Острые предметы",
+        "Test Strips": "Тест-полоски",
+        "Surgical Instruments": "Хирургические инструменты",
+        "Disposable Garments": "Одноразовые одежды",
+        "Pathological Waste": "Патологические отходы",
+        "Infectious Agents": "Инфекционные агенты",
+        "Discarded Vaccines": "Выброшенные вакцины",
+        "Dialysis Waste": "Отходы диализа",
+        "Chemotherapy Agents": "Препараты химиотерапии",
+        "Imaging Chemicals": "Химические реагенты для изображений",
+        "Radioactive Waste": "Радиоактивные отходы",
+        "Biological Specimens": "Биологические образцы"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "Медицинские отходы включают в себя различные предметы, используемые в медицинских учреждениях и потенциально инфекционные или опасные. Правильная утилизация критически важна для предотвращения распространения заболеваний и защиты здоровья населения.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "Клинические отходы",
+        "Healthcare Waste": "Медицинские отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "Специализированные контейнеры для утилизации медицинских отходов",
+        "handling": "Обращайтесь с крайней осторожностью и используйте соответствующие средства индивидуальной защиты. Медицинские отходы следует разделять на этапе их образования.",
+        "separation": "Разделяйте острые предметы, фармацевтические, патологические и химические отходы, так как каждый тип требует различных методов утилизации.",
+        "whatNotToDo": "Не выбрасывайте медицинские отходы в обычные мусорные баки или смешивайте их с общими отходами. Избегайте обращения без соответствующей защитной экипировки.",
+        "safetyPrecautions": "Всегда используйте перчатки, маски и, возможно, защитные щитки или халаты при обращении с медицинскими отходами, чтобы минимизировать риск воздействия."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "Правильная утилизация медицинских отходов снижает риск передачи инфекций, защищает медицинский персонал и население и соответствует медицинским нормативам.",
+        "impact": "Эффективное управление медицинскими отходами является ключевым для поддержания безопасной и здоровой среды, особенно в медицинских учреждениях."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "Обычная больница генерирует примерно 33 фунта медицинских отходов на одну койку в день, что подчеркивает важность эффективного управления отходами в медицинских учреждениях."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "Масляные отходы",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "Использованное моторное масло",
+        "Cooking Oil": "Растительное масло для жарки",
+        "Lubricating Oil": "Смазочное масло",
+        "Hydraulic Oil": "Гидравлическое масло",
+        "Transmission Fluid": "Трансмиссионное масло",
+        "Machine Oil": "Машинное масло",
+        "Grease": "Смазка",
+        "Oil Filters": "Масляные фильтры",
+        "Oil-Soaked Rags": "Пропитанные маслом тряпки",
+        "Fuel Oils": "Топливные масла",
+        "Vegetable Oils": "Растительные масла",
+        "Petroleum Products": "Нефтепродукты",
+        "Oil Containers": "Масляные контейнеры",
+        "Oil-Water Mixtures": "Масло-водные смеси",
+        "Synthetic Oils": "Синтетические масла",
+        "Oil Sludge": "Масляная шлам"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "Масляные отходы включают в себя различные типы использованных и загрязненных масел, которые требуют особой обработки для утилизации и предотвращения загрязнения окружающей среды и рисков для здоровья.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "Использованное масло",
+        "Waste Oil": "Масляные отходы"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "Специализированный пункт по утилизации масел или места сбора",
+        "handling": "Храните масляные отходы в герметичных контейнерах. Избегайте прямого контакта и вдыхания паров.",
+        "separation": "Разделяйте разные виды масел и масляных отходов для правильной утилизации и утилизации.",
+        "whatNotToDo": "Не выбрасывайте масляные отходы в обычные мусорные баки, в канализацию или в водоемы. Избегайте смешивания масляных отходов с другими опасными материалами.",
+        "safetyPrecautions": "Используйте перчатки и защиту для глаз при обращении с масляными отходами. Обеспечьте правильную вентиляцию на складских площадях."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "Утилизация масляных отходов способствует сохранению природных ресурсов, предотвращает загрязнение и поддерживает экологическую устойчивость. Правильно утилизированные масла могут быть подвергнуты переработке в новые продукты.",
+        "impact": "Эффективное управление масляными отходами снижает риск загрязнения почвы и воды и способствует поддержанию чистой и безопасной среды."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "Один галлон использованного моторного масла может загрязнить один миллион галлонов пресной воды."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "Радиоактивные отходы",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "Отработавшие ядерное топливо",
+        "Radioactive Medical Waste": "Радиоактивные медицинские отходы",
+        "Contaminated Lab Equipment": "Загрязненное лабораторное оборудование",
+        "Radioactive Glass": "Радиоактивное стекло",
+        "Contaminated Metals": "Загрязненные металлы",
+        "Americium Smoke Detectors": "Датчики дыма с америцием",
+        "Uranium Residues": "Остатки урана",
+        "Irradiated Tools": "Облученные инструменты",
+        "Contaminated Clothing": "Загрязненная одежда",
+        "Radioactive Sources": "Радиоактивные источники",
+        "Luminous Dials": "Светящиеся циферблаты",
+        "Thorium Lantern Mantles": "Мантии для фонарей с торием",
+        "Radioactive Ores": "Радиоактивные руды"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "Радиоактивные отходы включают в себя материалы и объекты с радиоактивными веществами. Их опасная природа требует строгих протоколов обращения, хранения и утилизации.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "Ядерные отходы",
+        "Radioactive Material": "Радиоактивные материалы"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "Специализированные объекты для радиоактивных отходов",
+        "handling": "Требуются строгие протоколы безопасности. Обращение только обученными специалистами.",
+        "separation": "На основе типа и уровня радиоактивности для правильной утилизации.",
+        "whatNotToDo": "Нельзя выбрасывать в обычные мусорные баки. Нельзя контактировать без защиты.",
+        "safetyPrecautions": "Обязательны специализированные средства защиты и радиационные детекторы."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "Защищает от вредного излучения, предотвращает загрязнение окружающей среды.",
+        "impact": "Необходимо для общественного здоровья и безопасности, предотвращает долгосрочное окружающее загрязнение."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "Некоторые радиоактивные отходы могут оставаться опасными на протяжении тысячелетий."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "Санитарные отходы",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "Использованные подгузники",
+        "Sanitary Napkins": "Гигиенические прокладки",
+        "Tampons": "Тампоны",
+        "Wet Wipes": "Влажные салфетки",
+        "Incontinence Pads": "Прокладки для недержания мочи",
+        "Disposable Toilet Seat Covers": "Одноразовые сиденья для унитазов",
+        "Cotton Swabs": "Ватные палочки",
+        "Facial Tissues": "Бумажные салфетки для лица",
+        "Bandages": "Бинты",
+        "Disposable Razors": "Одноразовые бритвы",
+        "Dental Floss": "Зубная нить"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "Санитарные отходы включают в себя различные продукты личной гигиении, которые используются и выбрасываются. Из-за потенциальных рисков для здоровья, особенно в медицинских или уходовых учреждениях, правильная утилизация является важной для предотвращения загрязнения.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "Отходы гигиенического ухода",
+        "Personal Care Waste": "Отходы средств личной гигиении"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "Специализированные контейнеры для утилизации санитарных отходов",
+        "handling": "Обращайтесь бережно, желательно с использованием перчаток, чтобы избежать прямого контакта и загрязнения.",
+        "separation": "Отделяйте санитарные отходы от обычных отходов для специализированной утилизации.",
+        "whatNotToDo": "Не сливайте санитарные отходы в унитазы. Избегайте выбрасывания их в обычные мусорные баки без должной упаковки.",
+        "safetyPrecautions": "Используйте перчатки при обращении и утилизации санитарных отходов. Обеспечивайте должную гигиению после утилизации."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "Правильная утилизация предотвращает распространение инфекций и поддерживает гигиену в общественных и частных местах.",
+        "impact": "Эффективное управление санитарными отходами необходимо для общественного здоровья, особенно в населенных или чувствительных зонах, таких как больницы."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "Средний человек генерирует примерно 30 фунтов санитарных отходов в год."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "Отходы сточных вод",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "Человеческие испражнения",
+        "Used Water": "Использованная вода",
+        "Domestic Wastewater": "Бытовые сточные воды",
+        "Industrial Effluent": "Промышленные сточные воды",
+        "Agricultural Runoff": "Сельскохозяйственный сток",
+        "Storm water Discharge": "Сток дождевых вод",
+        "Septic Tank Sludge": "Шлам из септиков",
+        "Grease Trap Waste": "Отходы из ловушек для жира",
+        "Gray Water": "Серая вода",
+        "Black Water": "Черная вода",
+        "Sewage Sludge": "Осадок сточных вод",
+        "Soapy Water": "Мыльная вода",
+        "Cooking Water Discharge": "Слив воды после приготовления пищи",
+        "Bathroom Water": "Вода из ванных комнат",
+        "Laundry Wastewater": "Стиральные сточные воды",
+        "Sink Drainage": "Водосток из раковин",
+        "Toilet Flushing Waste": "Отходы от смыва унитазов",
+        "Shower Drain Water": "Водосток из душа",
+        "Sump Pump Discharge": "Слив откачной помпы",
+        "Urban Runoff": "Урбанистический сток"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "Отходы сточных вод включают в себя воду и материалы, которые сливаются или сливаются из домов, промышленных предприятий и сельскохозяйственных угодий. Правильная обработка и утилизация необходимы для защиты окружающей среды и предотвращения загрязнения воды.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "Стоки",
+        "Sewerage": "Канализация"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "Специализированные станции очистки сточных вод",
+        "handling": "Избегайте прямого контакта и соблюдайте протоколы безопасности при обращении с сточными водами.",
+        "separation": "Обеспечивайте разделение от потребительских источников питьевой воды и соблюдайте процессы очистки сточных вод.",
+        "whatNotToDo": "Не выпускайте неочищенные сточные воды в природные водоемы или окружающую среду.",
+        "safetyPrecautions": "Используйте средства защиты, включая перчатки и маски, и соблюдайте гигиеничные правила после обработки сточных вод."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "Правильное управление сточными водами предотвращает передачу инфекций, защищает источники воды и поддерживает общественное здоровье.",
+        "impact": "Эффективная очистка сточных вод является необходимой для сохранения окружающей среды и устойчивого городского развития."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "Современные станции очистки сточных вод могут превращать отходы в энергию и повторно используемую воду, что демонстрирует потенциал для восстановления ресурсов из отходов."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "Отходы на свалке",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "Не подлежащие переработке пластик",
+        "Contaminated Paper": "Загрязненная бумага",
+        "Broken Glass": "Разбитое стекло",
+        "Non-Recyclable Packaging": "Упаковка, не подлежащая переработке",
+        "Worn Textiles": "Изношенные текстильные изделия",
+        "Damaged Furniture": "Поврежденная мебель",
+        "Ceramic Items": "Керамические изделия",
+        "Construction Debris": "Строительные остатки",
+        "Non-Recyclable Electronics": "Электроника, не подлежащая переработке",
+        "Household Trash": "Бытовой мусор",
+        "Ineligible Food Waste": "Не подходящие продукты в пищевых отходах",
+        "Ineligible Garden Waste": "Не подлежащие переработке садовые отходы",
+        "Used Batteries": "Использованные батарейки",
+        "Soiled Clothing": "Грязная одежда",
+        "Old Carpets": "Старые ковры",
+        "Expired Medicines": "Истекшие сроки медикаменты",
+        "Waste Foam": "Пеноматериалы, не подлежащие переработке",
+        "Disposable Utensils": "Одноразовые приборы",
+        "Waste Oil": "Нефтяные отходы",
+        "Contaminated Soil": "Загрязненная почва"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "Отходы на свалке включают материалы, которые не подлежат переработке или компостированию. Сюда входит ряд неподлежащих переработке предметов, которые попадают на свалки, что может вызвать проблемы, связанные с загрязнением почвы и грунтовых вод.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "Отходы, не подлежащие переработке",
+        "General Trash": "Общий мусор"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "Мусорные контейнеры или контейнеры для общего мусора, помеченные как неподлежащие переработке",
+        "handling": "Осторожно обращайтесь с отходами на свалке, разделяя их от перерабатываемых и опасных материалов.",
+        "separation": "Важно отделять от перерабатываемых, органических и опасных отходов, чтобы минимизировать воздействие на свалку.",
+        "whatNotToDo": "Избегайте выбрасывания перерабатываемых или компостируемых предметов как отходов на свалке.",
+        "safetyPrecautions": "Носите перчатки и используйте правильные методы поднятия при обращении с отходами на свалке, чтобы избежать травм и обеспечить гигиеничность."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "Правильная утилизация на свалке помогает управлять неперерабатываемыми отходами и уменьшать загрязнение окружающей среды.",
+        "impact": "Минимизация отходов на свалке является ключевой для устойчивого управления отходами и предотвращения долгосрочного вреда окружающей среде."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "Усилия по снижению отходов на свалке могут значительно снизить выбросы парниковых газов, подчеркивая важность переработки и сокращения отходов."
     }
   },
+  "error": {
+    "invalidImageUrl": "Пожалуйста, введите действительный URL изображения.",
+    "emptySearch": "Пожалуйста, предоставьте изображение или URL.",
+    "searchResponse": "Ошибка во время поиска, попробуйте позже.",
+    "invalidImageSize": "Пожалуйста, предоставьте изображение размером до 5 МБ."
+  },
   "common": {
-    "knowYourWaste": "Узнайте свои отходы",
-    "sustainNatureNest": "Поддерживайте гнездо природы",
-    "searchPlaceholder": "Поиск предметов для переработки или утилизации",
+    "knowYourWaste": "Познайте отходы",
+    "sustainNatureNest": "Сохраняйте природное гнездо",
+    "searchPlaceholder": "Поиск предмета для переработки или утилизации",
     "whatIsWaste": "Что такое {{value}}",
-    "alsoKnownAs": "Также известен как",
+    "alsoKnownAs": "Также известно как",
     "itemsInsideWaste": "Предметы внутри {{value}}",
     "howToHandle": "Как обращаться с {{value}}",
-    "handling": "Обработка",
-    "separation": "Сепарация",
-    "whatNotToDo": "Что не следует делать",
+    "handling": "Обращение",
+    "separation": "Разделение",
+    "whatNotToDo": "Что не делать",
     "suggestedBin": "Рекомендуемый контейнер",
     "whyItsImportant": "Почему это важно",
     "note": "Примечание",
     "safetyPrecautions": "Меры безопасности",
     "alsoKnowAbout": "Также узнайте о",
-    "compostable": "Компостируемый",
-    "recyclable": "Перерабатываемый",
+    "compostable": "Подлежит компостированию",
+    "recyclable": "Подлежит переработке",
     "nonRecyclable": "Не подлежит переработке",
-    "burnable": "Сжигаемый",
-    "nonBurnable": "Не сжигаемый",
-    "caution": "обращайтесь с осторожностью",
-    "flammable": "горючий",
-    "toxic": "токсичный",
-    "biohazardous": "Биологически опасный",
+    "burnable": "Может сжигаться контролируемо",
+    "nonBurnable": "Не может сжигаться",
+    "caution": "Обращаться с осторожностью",
+    "flammable": "Легковоспламеняющийся",
+    "toxic": "Токсичный",
+    "biohazardous": "Биоопасный",
     "radioactive": "Радиоактивный",
-    "useSafetyGear": "принимайте защитные меры",
+    "useSafetyGear": "Используйте средства защиты",
     "washHand": "Мойте руки",
-    "sanitize": "Санитарная обработка",
-    "disclaimer": "Предоставленная здесь информация является общей и может не применяться ко всем регионам или обстоятельствам. Следует проконсультироваться с местными правилами и руководствами по управлению органическими отходами.",
+    "sanitize": "Дезинфицируйте",
+    "disclaimer": "Предоставленная информация является общей и может не применяться ко всем регионам или обстоятельствам. Местные законы и рекомендации по управлению {{value}} следует проконсультироваться.",
     "readMore": "Читать далее",
-    "readMoreSearch": "местные решения и методы управления {{value}}",
-    "managementStation": "станция управления",
+    "readMoreSearch": "Местные решения и обработка {{value}}",
     "credits": "Информация о кредитах",
     "visitToKnowMore": "Посетите, чтобы узнать больше",
-    "sustainNatureNestBy": "Поддерживайте гнездо природы с помощью"
+    "imageSearch": "Поиск изображения",
+    "uploadImage": "Загрузить изображение",
+    "changeImage": "Изменить изображение",
+    "or": "Или",
+    "pasteImageLink": "Вставить ссылку на изображение",
+    "reset": "Сброс",
+    "search": "Поиск",
+    "searching": "Поиск"
   }
 }

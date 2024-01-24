@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "Chất thải hữu cơ",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "Thức ăn thải",
+        "Fruit Peels": "Vỏ hoa quả",
+        "Vegetable Peels": "Vỏ rau củ",
+        "Coffee Grounds": "Bã cà phê",
+        "Tea Bags": "Túi trà",
+        "Eggshells": "Vỏ trứng",
+        "Garden Flowers": "Hoa vườn",
+        "Houseplants": "Cây trong nhà",
+        "Grass Clippings": "Cỏ cắt tỉa",
+        "Weeds": "Cỏ dại",
+        "Nut Shells": "Vỏ hạt",
+        "Paper Towels": "Giấy ăn",
+        "Cardboard": "Giấy bìa cứng",
+        "Wood Scrap": "Các mảng gỗ thải",
+        "Natural Fibers": "Sợi tự nhiên"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "Chất thải hữu cơ chủ yếu xuất phát từ nhà bếp và vườn. Nó bao gồm các vật liệu phân hủy tự nhiên như thức ăn thải, chất thải từ vườn và sợi tự nhiên. Chất thải này giàu dinh dưỡng, thích hợp để làm phân hữu cơ, giúp biến chất thải thành phân bón giá trị cho đất.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "Chất thải phân hủy tự nhiên",
+        "Biodegradable Waste": "Chất thải phân hủy sinh học"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "Thùng phân hủy tự nhiên (có thông gió), kim loại hoặc nhựa chịu lực, màu xanh/nâu",
+        "handling": "Sử dụng găng tay khi xử lý, rửa tay sau khi vứt đi. Tránh tiếp xúc trực tiếp với vật liệu phân hủy.",
+        "separation": "Phân tách vật liệu hữu cơ khỏi các vật phẩm phi hữu cơ (như nhựa, kim loại, kính) để đảm bảo quá trình làm phân hữu ích.",
+        "whatNotToDo": "Không nên bỏ các vật liệu phi hữu cơ như nhựa, kim loại, hoặc kính. Tránh vứt các sản phẩm đã qua xử lý hóa học hoặc bị nhiễm dầu/mỡ.",
+        "safetyPrecautions": "Sử dụng găng tay khi xử lý chất thải hữu cơ để tránh tiếp xúc trực tiếp với vật liệu phân hủy và các mầm bệnh tiềm ẩn. Đảm bảo không gian phân hủy có thông gió tốt để tránh mùi không mong muốn. Rửa tay kỹ sau khi xử lý chất thải hữu cơ để bảo vệ vệ sinh cá nhân."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "Giảm sử dụng đất chôn và khí methane, và giảm nhu cầu phân bón hóa học. Thúc đẩy nông nghiệp bền vững.",
+        "impact": "Biến chất thải thành phân bón giá trị, bổ sung dinh dưỡng cho đất và thúc đẩy sự phát triển lành mạnh của cây trồng. Khuyến khích việc sử dụng đất bền vững."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "Nếu được làm phân hữu cơ, lượng chất thải thực phẩm hàng năm trên toàn cầu có thể giảm lượng khí CO2 tương đương của 2 tỷ chiếc xe hơi trên đường, nhiều hơn tổng số xe hơi trên thế giới."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "Chất thải nông nghiệp",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "Các mảng còn lại sau thu hoạch",
+        "Manure": "Phân bón",
+        "Pesticide Containers": "Bao bì thuốc trừ sâu",
+        "Fertilizer Bags": "Túi phân bón",
+        "Farm Machinery": "Máy móc nông nghiệp",
+        "Spoiled Produce": "Sản phẩm nông nghiệp bị hỏng",
+        "Agricultural Plastics": "Nhựa nông nghiệp",
+        "Diseased Plants": "Cây trồng bị bệnh",
+        "Greenhouse Films": "Bạt nuôi trồng trong nhà kính",
+        "Seed Sacks": "Túi hạt giống",
+        "Pruning Waste": "Chất thải sau khi tỉa cây",
+        "Irrigation Equipment": "Thiết bị tưới tiêu",
+        "Soil Amendment Packaging": "Bao bì phân chất cải tiến đất",
+        "Animal Feed Bags": "Túi thức ăn cho động vật",
+        "Silage Wraps": "Bao bì silage",
+        "Horticultural Pots": "Chậu cây cảnh quan",
+        "Waste Pesticides": "Chất thải thuốc trừ sâu",
+        "Contaminated Soils": "Đất bị nhiễm độc",
+        "Old Tools": "Các dụng cụ cũ",
+        "Broken Irrigation Pipes": "Ống tưới bị gãy",
+        "Discarded Gloves": "Găng tay bị bỏ đi",
+        "Protective Gear": "Trang thiết bị bảo vệ",
+        "Unused Veterinary Medicines": "Thuốc thú y không sử dụng",
+        "Baler Twine": "Dây đóng bó",
+        "Netting Material": "Vật liệu lưới",
+        "Plastic Mulch": "Vật liệu mulch nhựa"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "Chất thải nông nghiệp bao gồm cả các vật liệu hữu cơ và phi hữu cơ từ các hoạt động nông nghiệp. Điều này bao gồm các sản phẩm tự nhiên như mảng còn lại sau thu hoạch và phân bón, cũng như chất thải phi hữu cơ như bao bì, nhựa và máy móc cũ. Quản lý hiệu quả là quan trọng để giảm thiểu tác động đến môi trường và ủng hộ nông nghiệp bền vững.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "Chất thải nông trại",
+        "Agricultural Byproducts": "Sản phẩm phụ nông nghiệp"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "Thùng chuyên dụng cho cả chất thải hữu cơ và phi hữu cơ, với việc xử lý riêng cho các vật liệu nguy hiểm",
+        "handling": "Sử dụng trang thiết bị bảo vệ khi xử lý các vật phẩm nguy hiểm. Làm phân hữu cơ nếu phù hợp.",
+        "separation": "Tách các vật liệu hữu cơ khỏi chất thải hóa chất và nhựa. Xử lý các vật liệu nguy hiểm cẩn thận.",
+        "whatNotToDo": "Không đốt chất thải nhựa hoặc bao bì hóa chất. Tránh trộn chất thải hữu cơ với các vật liệu nguy hiểm.",
+        "safetyPrecautions": "Đội găng tay và trang phục bảo vệ, đặc biệt khi xử lý phân bón hoặc thuốc trừ sâu. Đảm bảo có đủ không khí trong quá trình làm việc với các chất cải tiến đất hoặc trong không gian kín như nhà kính."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "Việc xử lý đúng cách giúp giảm ô nhiễm, cải thiện sức kháng đất và thúc đẩy các thực hành bền vững.",
+        "impact": "Quản lý chất thải nông nghiệp một cách hiệu quả giúp giảm tác động môi trường từ hoạt động nông nghiệp và bảo tồn tài nguyên, đồng thời ủng hộ các phương pháp nông nghiệp bền vững."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "Nếu được quản lý và làm phân hữu cơ một cách đúng đắn, các mảng còn lại sau thu hoạch có thể làm phong phú sự trùn quanh của đất đáng kể, có thể giảm cần sử dụng phân bón tổng hợp."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "Chất thải động vật",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "Phân động vật",
+        "Bedding Straw": "Rơm lót chuồng",
+        "Livestock Carcasses": "Xác thú cưng",
+        "Poultry Waste": "Chất thải gia cầm",
+        "Feathers": "Lông vật",
+        "Fish Waste": "Chất thải cá",
+        "Milk Spoilage": "Sữa bị hỏng",
+        "Eggshell Waste": "Chất thải vỏ trứng",
+        "Animal Hair": "Lông động vật",
+        "Wool": "Lông cừu",
+        "Dairy Processing Waste": "Chất thải xử lý sản phẩm sữa",
+        "Veterinary Supplies": "Dụng cụ thú y",
+        "Expired Animal Feed": "Thức ăn động vật hết hạn",
+        "Contaminated Animal Products": "Sản phẩm động vật bị nhiễm độc"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "Chất thải động vật đề cập đến các sản phẩm phụ sinh ra từ việc nuôi thú cưng, gia cầm và các hoạt động nuôi dưỡng động vật khác. Điều này bao gồm chất thải hữu cơ như phân động vật và rơm lót chuồng, cũng như các xác thú cưng và sản phẩm có nguồn gốc từ động vật bị hỏng. Quy trình xử lý và xử lý đúng cách là quan trọng đối với sức kháng và ngăn ngừa tác động đến môi trường.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "Chất thải thú cưng",
+        "Poultry Waste": "Chất thải gia cầm"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "Thùng chuyên dụng cho chất thải sinh học, riêng biệt với chất thải thông thường",
+        "handling": "Sử dụng trang thiết bị bảo vệ, đặc biệt khi xử lý các xác thú cưng hoặc chất thải bị nhiễm độc. Tuân thủ nghiêm ngặt các giao thức vệ sinh.",
+        "separation": "Tách chất thải động vật sinh học khỏi chất thải thông thường. Xử lý trong các thùng chứa được chỉ định.",
+        "whatNotToDo": "Không trộn lẫn với chất thải thông thường. Tránh tiếp xúc trực tiếp mà không có trang thiết bị an toàn đúng cách.",
+        "safetyPrecautions": "Đội găng tay và giày bảo hộ khi xử lý chất thải động vật để ngăn tiếp xúc trực tiếp với vi khuẩn có thể gây hại. Đảm bảo không gian nơi chất thải động vật được lưu trữ hoặc xử lý có đủ thông thoáng. Sau khi xử lý chất thải động vật, rửa tay kỹ bằng xà phòng và nước để ngăn ngừa việc lây lan các bệnh truyền từ động vật sang người."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "Quản lý đúng cách giúp ngăn ngừa ô nhiễm môi trường và nguy cơ sức kháng cho con người và động vật.",
+        "impact": "Việc xử lý chất thải động vật một cách có trách nhiệm hỗ trợ sức kháng công cộng, bảo vệ môi trường và các phương pháp nuôi trồng bền vững."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "Phân động vật từ một con bò sữa có thể tạo ra đủ điện để nạp năng lượng cho một tủ lạnh nhỏ trong một ngày, minh họa tiềm năng của việc chuyển đổi chất thải động vật thành năng lượng tái tạo."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "Chất thải thực phẩm",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "Thức ăn đã nấu",
+        "Uncooked Food": "Thức ăn chưa nấu",
+        "Meat Scraps": "Thịt thải",
+        "Fish Scraps": "Thức ăn thải từ cá",
+        "Dairy Products": "Sản phẩm từ sữa",
+        "Bread": "Bánh mì",
+        "Pastries": "Bánh ngọt",
+        "Leftover Meals": "Thức ăn thừa",
+        "Expired Food": "Thực phẩm hết hạn",
+        "Rice": "Gạo",
+        "Pasta": "Mì ống",
+        "Cheese": "Phô mai",
+        "Egg Shells": "Vỏ trứng",
+        "Fruit Scraps": "Thức ăn thải từ trái cây",
+        "Vegetable Scraps": "Thức ăn thải từ rau cải",
+        "Coffee Grounds": "Bã cà phê",
+        "Tea Bags": "Túi trà",
+        "Food-Soiled Paper": "Giấy thải thức ăn"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "Thùng chứa chất thải thực phẩm được sử dụng để tiêu hủy nhiều loại chất thải thực phẩm khác nhau, bao gồm thức ăn thừa, sản phẩm hết hạn và thức ăn thải. Loại chất thải này thích hợp cho quá trình sinh học hoặc ủ phân, biến chất liệu hữu cơ thành tài nguyên có giá trị.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "Chất thải nhà bếp",
+        "Leftover Waste": "Chất thải thức ăn thừa"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "Thùng kín, với khả năng kiểm soát mùi, màu Xanh Lá Cây hoặc Nâu Đậm",
+        "handling": "Niêm phong chất thải thực phẩm để giảm mùi và ngăn côn trùng. Luôn luôn rửa và sát khuẩn tay sau khi xử lý. Làm sạch các vết tràn ngay lập tức.",
+        "separation": "Tách chất thải thực phẩm khỏi vật liệu có thể tái chế và không phân hủy để tăng cường hiệu suất ủ phân và tái chế.",
+        "whatNotToDo": "Không trộn chất thải thực phẩm với chất lỏng, dầu hoặc hóa chất. Tránh bao gồm các vật phẩm không phân hủy được như nhựa hoặc kim loại. Không để chất thải thực phẩm bị trống lộn để ngăn côn trùng và mùi tanh tưởi.",
+        "safetyPrecautions": "Khi xử lý chất thải thực phẩm, đặc biệt là khi có số lượng lớn, đội găng tay để bảo vệ khỏi sự hủy hoại và vi khuẩn có thể gây hại. Giữ cho các thùng chứa chất thải thực phẩm sạch sẽ và niêm phong để tránh côn trùng và mùi tanh tưởi. Thường xuyên rửa tay, công cụ và bề mặt tiếp xúc với chất thải thực phẩm để duy trì vệ sinh cá nhân."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "Giúp ngăn côn trùng xâm nhập, giảm lượng khí nhà kính từ các khu vực chôn cất rác thải và hỗ trợ sản xuất phân hoặc khí sinh học.",
+        "impact": "Quản lý đúng chất thải thực phẩm giúp tiết kiệm tài nguyên, giảm tác động đến môi trường và thúc đẩy các phương pháp bền vững."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "Nếu chất thải thực phẩm là một quốc gia, nó sẽ là nguồn phát thải khí nhà kính lớn thứ ba trên toàn cầu, sau Hoa Kỳ và Trung Quốc. Giảm chất thải thực phẩm là điều quan trọng để giảm thiểu tác động đến môi trường."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "Chất thải xanh",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "Cắt cỏ",
+        "Leaves": "Lá cây",
+        "Branches": "Cành cây",
+        "Weeds": "Cỏ dại",
+        "Flowers": "Hoa",
+        "Garden Trimmings": "Những phần cây cắt tỉa trong vườn",
+        "Shrubs": "Cây bụi",
+        "Small Twigs": "Cành cây nhỏ",
+        "Hedge Clippings": "Cắt tỉa hàng rào cây",
+        "Fallen Fruit": "Trái cây rơi",
+        "Garden Maintenance": "Việc duy trì vườn",
+        "Plant Prunings": "Cắt tỉa cây cối"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "Chất thải xanh, bao gồm các vụn cây cối và vườn ươm, đóng một vai trò quan trọng trong việc tái chế hữu cơ. Việc ủ phân chất thải xanh đóng góp vào việc tạo ra các phụ gia đất giàu dinh dưỡng, cần thiết cho việc làm vườn và nông nghiệp bền vững.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "Chất thải sân vườn",
+        "Garden Waste": "Chất thải vườn ươm"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "Thùng chứa mở, dung tích lớn, ưu tiên màu Xanh lá cây",
+        "handling": "Sử dụng găng tay khi xử lý chất thải xanh để tránh bị cắt hoặc kích ứng từ các vật liệu sần sùi. Rửa tay sau khi tiêu hủy.",
+        "separation": "Tách chất thải xanh ra khỏi chất thải gia đình và chất thải nguy hại. Không trộn lẫn với chất thải thực phẩm hoặc vật liệu có thể tái chế.",
+        "whatNotToDo": "Tránh tiêu hủy các vật liệu không hữu cơ như túi nhựa hoặc chậu cây. Không bao gồm đất hoặc đá. Hạn chế việc thêm các cây bị bệnh hoặc loài xâm lấn có thể làm nhiễm khuẩn phân phối.",
+        "safetyPrecautions": "Khi xử lý chất thải xanh, đội găng tay để bảo vệ khỏi vật liệu sắc nhọn và đảm bảo nó không chứa các chất có hại như gỗ được xử lý."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "Hỗ trợ việc sản xuất phân, làm giàu sức kháng của đất và giúp khóa cacbon. Giảm việc sử dụng không gian chôn cất rác thải và khí nhà kính phát thải.",
+        "impact": "Đóng góp vào quản lý chất thải bền vững, hỗ trợ đa dạng sinh học trong đất và khuyến khích các phương pháp làm vườn và nông nghiệp thân thiện với môi trường."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "Chất thải xanh như cỏ cắt và lá cây có thể được ủ phân để tạo ra đất giàu dinh dưỡng, được người làm vườn gọi là 'vàng đen,' giúp cải thiện sự phát triển của cây mà không cần sử dụng phân bón hóa học."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "Chất thải có thể tái chế",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "Báo",
+        "Magazines": "Tạp chí",
+        "Office Paper": "Giấy văn phòng",
+        "Cardboard": "Giấy bìa cứng",
+        "Plastic Bottles": "Chai nhựa",
+        "Plastic Containers": "Đồ đựng nhựa",
+        "Glass Bottles": "Chai thủy tinh",
+        "Glass Jars": "Lọ thủy tinh",
+        "Aluminum Cans": "Lon nhôm",
+        "Steel Cans": "Lon thép",
+        "Electronics": "Thiết bị điện tử",
+        "Textiles": "Vải dệt",
+        "Untreated Wood": "Gỗ chưa được xử lý",
+        "Aerosol Cans": "Lon phun xịt",
+        "Batteries": "Pin",
+        "Non-LED Light Bulbs": "Bóng đèn không sử dụng công nghệ LED"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "Chất thải có thể tái chế bao gồm nhiều loại vật liệu có thể được xử lý lại để sử dụng tiếp. Các mặt hàng quan trọng trong danh mục này bao gồm sản phẩm giấy, nhựa, thủy tinh, kim loại và một số loại thiết bị điện tử, tất cả đều đóng vai trò quan trọng trong việc bảo vệ tài nguyên và bảo vệ môi trường.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "Thùng tái chế, Kim loại hoặc Nhựa chất lượng cao",
+        "handling": "Đảm bảo sản phẩm sạch sẽ và khô ráo trước khi tái chế. Sắp xếp chúng theo hướng dẫn tái chế địa phương.",
+        "separation": "Tách các loại vật liệu tái chế khác nhau để tránh nhiễm độc với vật liệu không thể tái chế.",
+        "whatNotToDo": "Tránh đưa vào các vật liệu bị dơ bẩn, bị nhiễm độc hoặc không thể tái chế. Tuân theo quy tắc tái chế địa phương cho từng loại chất thải cụ thể.",
+        "safetyPrecautions": "Khi xử lý chất thải tái chế, đội quần áo bảo hộ phù hợp nếu cần. Hãy cẩn thận với côn trùng hoặc động vật có thể ở gần vật liệu tái chế."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "Giúp giảm nhu cầu về nguyên liệu tự nhiên mới, tiết kiệm năng lượng và giảm thiểu tác động môi trường từ chất thải.",
+        "impact": "Hỗ trợ quản lý tài nguyên bền vững, đóng góp cho công cuộc bảo vệ và bảo tồn môi trường."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Tái chế giúp giảm tác động môi trường từ chất thải và bảo tồn các nguồn tài nguyên quý báu cho các thế hệ tương lai."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "Chất thải xe hơi",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "Dầu máy đã qua sử dụng",
+        "Oil Filters": "Bộ lọc dầu",
+        "Batteries": "Bình điện",
+        "Tires": "Lốp xe",
+        "Brake Pads": "Gạt phanh",
+        "Brake Fluid": "Dầu phanh",
+        "Transmission Fluid": "Dầu hộp số",
+        "Coolants": "Chất làm mát",
+        "Metal Parts": "Các bộ phận kim loại",
+        "Rubber Hoses": "Ống cao su",
+        "Belts": "Dây đai",
+        "Air Filters": "Bộ lọc không khí",
+        "Windshield Glass": "Kính cửa trước",
+        "Upholstery Materials": "Vật liệu nội thất",
+        "Automotive Bumpers": "Ống bảo vệ xe hơi",
+        "Headlights": "Đèn pha",
+        "Electrical Components": "Các bộ phận điện"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "Chất thải xe hơi bao gồm nhiều loại vật liệu và bộ phận bị loại bỏ từ các phương tiện. Điều này bao gồm cả loại chất thải có hại và không có hại, chẳng hạn như dầu, pin, lốp xe và các bộ phận cơ khí. Việc tiêu hủy và tái chế chất thải xe hơi đóng vai trò quan trọng trong việc bảo vệ môi trường và bảo tồn tài nguyên.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "Chất thải phương tiện",
+        "Car Waste": "Chất thải ô tô"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "Thùng chứa đặc biệt cho chất thải có hại, khu vực chỉ định cho các bộ phận lớn hơn",
+        "handling": "Xử lý cẩn thận, đặc biệt đối với các chất thải có hại. Sử dụng trang thiết bị bảo hộ khi làm việc với dầu và hóa chất.",
+        "separation": "Tách riêng chất thải có hại như dầu và pin khỏi các mục không có hại. Tuân theo hướng dẫn địa phương về việc tiêu hủy từng loại.",
+        "whatNotToDo": "Không tiêu hủy dầu xe hơi và hóa chất trong thùng rác thông thường hoặc cống. Tránh trộn các loại chất thải xe hơi khác nhau.",
+        "safetyPrecautions": "Mang găng tay và bảo vệ mắt khi xử lý chất thải xe hơi như dầu đã qua sử dụng, pin và lốp xe để tránh tiếp xúc với các chất có hại. Luôn làm việc trong khu vực có thông gió tốt để tránh hít phải khí độc, đặc biệt khi làm việc với các chất lỏng xe hơi. Tiêu hủy chất thải xe hơi tại các trung tâm tái chế chỉ định để ngăn chất thải gây ô nhiễm môi trường."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "Ngăn ngừng ô nhiễm môi trường, bảo tồn các vật liệu quý báu và hỗ trợ các sáng kiến tái chế.",
+        "impact": "Quản lý chất thải xe hơi một cách hiệu quả giúp giảm thiểu dấu chân sinh thái của việc sử dụng và bảo dưỡng phương tiện, góp phần làm cho môi trường trở nên sạch sẽ và an toàn hơn."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "Tái chế chỉ một chiếc xe đã tiết kiệm hơn 2.500 pound quặng sắt, 1.400 pound than đá và 120 pound đá vôi. Quá trình này cũng giảm đáng kể năng lượng và nguyên liệu cần thiết để sản xuất các bộ phận xe hơi và phương tiện mới."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "Chất thải cồng kềnh",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "Đồ nội thất",
+        "Appliances": "Thiết bị gia đình",
+        "Mattresses": "Nệm",
+        "Large Toys": "Đồ chơi lớn",
+        "Carpeting": "Thảm trải sàn",
+        "Bicycles": "Xe đạp",
+        "Large Electronics": "Thiết bị điện tử lớn",
+        "BBQ Grills": "Lò nướng than hoa",
+        "Exercise Equipment": "Thiết bị tập thể dục",
+        "Large Household Items": "Các vật dụng lớn trong gia đình"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "Chất thải cồng kềnh bao gồm các vật phẩm lớn không thể đặt vào thùng rác thông thường. Việc tiêu hủy chất thải cồng kềnh một cách đúng đắn là quan trọng để quản lý chất thải hiệu quả và bảo tồn môi trường. Tái chế các vật phẩm cồng kềnh có thể đóng góp vào việc bảo tồn tài nguyên.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "Chất thải lớn",
+        "Oversized Items": "Vật phẩm quá kích thước"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "Nơi thu gom đặc biệt hoặc Điểm giao nhận",
+        "handling": "Kiểm tra hướng dẫn tiêu hủy cụ thể từ cơ quan quản lý chất thải địa phương. Một số vật phẩm có thể yêu cầu xử lý đặc biệt hoặc dịch vụ đón hàng.",
+        "separation": "Tách riêng các loại vật phẩm cồng kềnh để thực hiện các phương pháp tái chế hoặc tiêu hủy phù hợp.",
+        "whatNotToDo": "Không để các vật phẩm cồng kềnh trên lề đường mà không sắp xếp việc thu gom đúng cách. Tránh việc xả rác trái phép.",
+        "safetyPrecautions": "Khi xử lý các vật phẩm cồng kềnh như đồ nội thất, thiết bị gia đình và đồ chơi lớn, sử dụng kỹ thuật nâng đúng cách để tránh chấn thương lưng. Nên có sự hỗ trợ hoặc sử dụng xe đẩy để di chuyển các vật phẩm nặng. Để đảm bảo an toàn, mang giày bảo hộ để tránh chấn thương chân và găng tay để bám và bảo vệ khỏi các cạnh sắc."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "Việc tiêu hủy đúng đắn chất thải cồng kềnh giúp giảm sự sử dụng đất làm mỏ và thúc đẩy tái chế, đóng góp vào môi trường sạch sẽ và an toàn hơn.",
+        "impact": "Tái chế các vật phẩm cồng kềnh giúp khôi phục lại các tài nguyên quý báu, giảm tác động đến môi trường và hỗ trợ các sáng kiến quản lý chất thải bền vững."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "Đồ nội thất và các vật phẩm cồng kềnh khác thường kết thúc tại các mỏ đất, nhưng nếu được tái sử dụng hoặc tái chế, một chiếc ghế sofa có thể tiết kiệm đến 9 yard khối không gian mỏ đất, là minh chứng cho tác động đáng kể của việc tái chế và sử dụng lại các vật phẩm cồng kềnh."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "Chất thải Xây dựng và Phá hủy",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "Bê tông",
+        "Bricks": "Gạch",
+        "Wood": "Gỗ",
+        "Gypsum": "Thạch cao",
+        "Metal": "Kim loại",
+        "Glass": "Kính",
+        "Plastic": "Nhựa",
+        "Insulation Materials": "Vật liệu cách nhiệt",
+        "Electrical Wiring": "Dây điện",
+        "Plumbing Fixtures": "Vật liệu thiết bị nước",
+        "Ceramic Tiles": "Gạch men",
+        "Asphalt": "Nhựa đường",
+        "Roofing Materials": "Vật liệu làm mái",
+        "Windows": "Cửa sổ",
+        "Doors": "Cửa",
+        "Piping": "Ống nước",
+        "Reinforced Concrete": "Bê tông cốt thép",
+        "Drywall": "Tường gắn khung xương",
+        "Flooring Materials": "Vật liệu lát sàn",
+        "Wall Coverings": "Vật liệu trang trí tường"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "Chất thải Xây dựng và Phá hủy bao gồm các vật liệu từ quá trình xây dựng, tu sửa và phá hủy các công trình và công trình xây dựng. Quản lý đúng đắn là quan trọng để tái chế các vật liệu và giảm tác động đến môi trường.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "Chất thải Xây dựng",
+        "Renovation Debris": "Vật liệu xây dựng từ tu sửa"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "Nơi thu gom đặc biệt hoặc Khu vực xử lý chất thải được chỉ định",
+        "handling": "Kiểm tra quy định địa phương về việc tiêu hủy. Một số vật liệu có thể yêu cầu xử lý hoặc xử lý đặc biệt.",
+        "separation": "Tách các vật liệu dựa trên loại (ví dụ: kim loại, gỗ, bê tông) để tái chế hiệu quả.",
+        "whatNotToDo": "Không trộn chất thải Xây dựng và Phá hủy với chất thải hộ gia đình thông thường. Tránh xả rác trái phép và việc tiêu hủy không đúng cách.",
+        "safetyPrecautions": "Đảm bảo đội ngũ mặc găng tay và kính bảo hộ chắc chắn để bảo vệ khỏi các vật sắc nhọn và mảnh vụn trong chất thải Xây dựng và Phá hủy như gỗ, kim loại và bê tông. Đầy đủ giày bảo hộ là quan trọng để tránh chấn thương do vật liệu nặng. Sử dụng khẩu trang chống bụi để bảo vệ khỏi bụi và hạt mịn. Áp dụng kỹ thuật nâng hợp lý để xử lý các vật phẩm nặng và tránh chấn thương lưng."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "Việc tiêu hủy đúng đắn thúc đẩy tái chế vật liệu, giảm sử dụng đất làm mỏ và giảm thiểu ô nhiễm môi trường.",
+        "impact": "Tái chế các vật liệu Xây dựng và Phá hủy bảo tồn tài nguyên, hỗ trợ ngành công nghiệp xây dựng với các vật liệu tái chế và đóng góp vào phát triển bền vững."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "Tái chế một tấn bê tông có thể tiết kiệm đến 1.360 gallon nước và 900 kg CO2, làm nổi bật những lợi ích môi trường đáng kể của việc tái sử dụng các vật liệu Xây dựng và Phá hủy thay vì tiêu hủy chúng tại mỏ đất."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "Chất thải Điện tử",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "Máy tính",
+        "Laptops": "Máy tính xách tay",
+        "Mobile Phones": "Điện thoại di động",
+        "Printers": "Máy in",
+        "Scanners": "Máy quét",
+        "Televisions": "Máy truyền hình",
+        "Monitors": "Màn hình máy tính",
+        "DVD Players": "Máy đọc đĩa DVD",
+        "Game Consoles": "Máy chơi game",
+        "Small Appliances": "Thiết bị điện nhỏ",
+        "Electronic Tools": "Dụng cụ điện tử",
+        "Batteries": "Pin",
+        "Circuit Boards": "Bo mạch điện tử",
+        "Hard Drives": "Ổ cứng",
+        "Keyboards": "Bàn phím",
+        "Mice": "Chuột máy tính",
+        "Speakers": "Loa",
+        "Chargers": "Sạc",
+        "Cables": "Dây cáp",
+        "Cameras": "Máy ảnh",
+        "Electronic Toys": "Đồ chơi điện tử",
+        "CDs": "Đĩa CD",
+        "DVDs": "Đĩa DVD",
+        "GPS Devices": "Thiết bị GPS"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "Chất thải Điện tử, hay còn gọi là E-Waste, bao gồm các thiết bị và trang thiết bị điện tử đã bị loại bỏ. Việc tái chế và tiêu hủy đúng cách là rất quan trọng để khôi phục lại các nguyên liệu quý báu và ngăn chặn ô nhiễm môi trường.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE (Thiết bị điện tử và điện tử cũ)",
+        "E-Waste": "Chất thải Điện tử"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "Điểm Thu gom Chất thải Điện tử Đặc biệt hoặc Trung tâm Tái chế",
+        "handling": "Xử lý Chất thải Điện tử cẩn thận để tránh vỡ và rò rỉ các chất độc hại. Tuân thủ quy định địa phương về tiêu hủy.",
+        "separation": "Tách Chất thải Điện tử ra khỏi chất thải thông thường. Sắp xếp theo loại để tái chế hiệu quả.",
+        "whatNotToDo": "Không tiêu hủy Chất thải Điện tử trong rác thông thường. Tránh tháo rời hoặc làm vỡ các thiết bị điện tử, điều này có thể gây ra chất độc hại.",
+        "safetyPrecautions": "Sử dụng găng tay để bảo vệ khỏi các cạnh sắc khi xử lý Chất thải Điện tử như máy tính cũ và TV. Hãy nhận thức về các chất độc hại như chì và thủy ngân trong các thiết bị điện tử. Tránh làm vỡ chúng để ngăn ngừa tiếp xúc. Tái chế tại các trung tâm đã chỉ định để tiêu hủy an toàn."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "Việc tiêu hủy đúng đắn của Chất thải Điện tử tái chế các nguyên liệu quý báu, giảm sử dụng đất làm mỏ và bảo vệ môi trường khỏi các chất độc hại.",
+        "impact": "Tái chế Chất thải Điện tử hỗ trợ nền kinh tế vòng tròn, giảm nhu cầu về nguyên liệu thô mới và giảm thiểu tác động sinh thái."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "Tái chế một triệu laptop tiết kiệm đủ năng lượng để cung cấp điện cho hơn 3.500 gia đình ở Hoa Kỳ trong một năm. Tái chế một triệu điện thoại di động có thể khôi phục được 35.274 pounds đồng, 772 pounds bạc, 75 pounds vàng và 33 pounds paladi."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "Chất thải Thủy tinh",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "Bình thủy tinh",
+        "Glass Jars": "Lọ thủy tinh",
+        "Window Glass": "Kính cửa sổ",
+        "Mirror Glass": "Gương thủy tinh",
+        "Glass Containers": "Bao bì thủy tinh",
+        "Drinking Glasses": "Ly thủy tinh",
+        "Broken Glassware": "Đồ dùng thủy tinh bị vỡ",
+        "Automotive Glass": "Kính ô tô",
+        "Glass Tableware": "Bát đĩa thủy tinh",
+        "Light Bulbs": "Bóng đèn thủy tinh (không phát quang)",
+        "Laboratory Glassware": "Bình thủy tinh phòng thí nghiệm",
+        "Tempered Glass": "Kính cường lực",
+        "Glass Shards": "Mảnh thủy tinh"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "Chất thải Thủy tinh bao gồm nhiều loại sản phẩm thủy tinh đã bị loại bỏ. Tái chế thủy tinh rất quan trọng vì nó có thể được chế biến và sản xuất lại thành sản phẩm thủy tinh mới, giảm thiểu nhu cầu về nguyên liệu thô mới.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "Thủy tinh vỡ",
+        "Discarded Glassware": "Đồ dùng thủy tinh bị loại bỏ"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "Thùng tái chế Thủy tinh hoặc Điểm thu gom",
+        "handling": "Xử lý chất thải thủy tinh cẩn thận để tránh bị thương. Loại bỏ bất kỳ thành phần không phải thủy tinh nếu cần.",
+        "separation": "Tách thủy tinh theo màu sắc và loại nếu có thể để tăng hiệu suất tái chế.",
+        "whatNotToDo": "Không tiêu hủy thủy tinh trong thùng rác thông thường. Tránh trộn thủy tinh với các vật liệu tái chế khác có thể làm bị nhiễm.",
+        "safetyPrecautions": "Sử dụng găng tay khi xử lý thủy tinh bị vỡ để tránh bị cắt. Nếu phải xử lý một lượng lớn chất thải thủy tinh, nên đeo bảo hộ mắt để bảo vệ khỏi các mảnh hoặc mảnh vụn có thể gây thương tích. Luôn nâng sản phẩm thủy tinh nặng một cách đúng cách để tránh chấn thương. Giữ chất thải thủy tinh trong một hộp cứng để tránh vỡ và đảm bảo vận chuyển an toàn."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "Tái chế thủy tinh giảm thiểu chất thải đất đốn, bảo vệ tài nguyên tự nhiên và tiết kiệm năng lượng. Thủy tinh có thể tái chế mà không làm giảm chất lượng.",
+        "impact": "Tái chế thủy tinh hiệu quả giúp giảm tác động môi trường, hỗ trợ việc sử dụng tài nguyên bền vững và góp phần vào nền kinh tế tuần hoàn."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "Tái chế thủy tinh rất hiệu quả vì nó có thể tái chế mà không làm mất tính nguyên bản hoặc chất lượng. Thực tế, 80% bình thủy tinh tái chế được chế tạo thành bình thủy tinh mới, và một bình thủy tinh có thể từ thùng tái chế đến quầy hàng cửa hàng chỉ trong vòng 30 ngày."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "Chất thải Công nghiệp",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "Dung môi hóa học",
+        "Metal Scraps": "Mảnh kim loại",
+        "Plastic Offcuts": "Mảnh nhựa",
+        "Construction Debris": "Rác xây dựng",
+        "Electronic Components": "Bộ phận điện tử",
+        "Paper and Cardboard": "Giấy và bìa cứng",
+        "Textile Scraps": "Mảnh vải",
+        "Glass Pieces": "Mảnh thủy tinh",
+        "Rubber Waste": "Chất thải cao su",
+        "Biodegradable Waste": "Chất thải sinh học",
+        "Non-Biodegradable Waste": "Chất thải không sinh học",
+        "Hazardous Materials": "Chất nguy hiểm",
+        "Non-Hazardous Materials": "Chất không nguy hiểm",
+        "Industrial Sludge": "Bãi bùn công nghiệp",
+        "Packaging Materials": "Vật liệu đóng gói"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "Chất thải Công nghiệp bao gồm một loạt các vật liệu phát sinh từ quá trình công nghiệp và sản xuất. Quản lý đúng đắn, bao gồm tái chế và xử lý an toàn, là rất quan trọng để giảm thiểu tác động môi trường.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "Chất thải Sản xuất",
+        "Production Waste": "Chất thải Sản xuất"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "Thùng chứa Chất thải Công nghiệp đặc biệt hoặc Cơ sở tái chế",
+        "handling": "Xử lý với thiết bị bảo hộ phù hợp, đặc biệt là khi xử lý chất nguy hiểm. Tuân theo tất cả các hướng dẫn quy định về xử lý chất thải.",
+        "separation": "Tách chất thải theo loại (ví dụ: chất thải nguy hiểm và không nguy hiểm) và vật liệu (ví dụ: kim loại, nhựa) để thuận tiện cho việc tái chế và xử lý.",
+        "whatNotToDo": "Không pha trộn chất thải công nghiệp nguy hiểm với chất thải không nguy hiểm. Tránh việc xả rác trái phép hoặc xử lý chất thải công nghiệp một cách không đúng quy định.",
+        "safetyPrecautions": "Luôn đeo găng tay, kính bảo hộ và khẩu trang khi xử lý chất thải công nghiệp, đặc biệt là nếu nó chứa chất nguy hiểm."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "Xử lý và tái chế chất thải công nghiệp đúng cách giúp bảo vệ tài nguyên, giảm ô nhiễm và hỗ trợ các thực hành công nghiệp bền vững.",
+        "impact": "Quản lý hiệu quả chất thải công nghiệp giúp giảm áp lực lên các khu đất đốn, giảm thiểu các nguy cơ môi trường và đóng góp vào nền kinh tế tuần hoàn."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "Tái chế các kim loại công nghiệp có thể tiết kiệm lên đến 75% năng lượng cần thiết để sản xuất chúng từ nguyên liệu thô."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "Chất thải Kim loại",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "Hộp nhôm",
+        "Tin Cans": "Hộp thiếc",
+        "Steel Scraps": "Mảnh sắt thép",
+        "Copper Wire": "Dây đồng",
+        "Metal Pipes": "Ống kim loại",
+        "Metal Tools": "Dụng cụ kim loại",
+        "Metal Packaging": "Đóng gói kim loại",
+        "Automotive Parts": "Phụ tùng ô tô kim loại",
+        "Metal Furniture": "Nội thất kim loại",
+        "Metal Appliances": "Thiết bị gia dụng kim loại",
+        "Construction Materials": "Vật liệu xây dựng kim loại",
+        "Aerosol Cans": "Hộp phun xịt kim loại",
+        "Electronic Metals": "Kim loại điện tử",
+        "Metal Caps": "Nắp chai kim loại",
+        "Metal Lids": "Nắp chai kim loại"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "Chất thải Kim loại bao gồm các vật phẩm và vật liệu kim loại đã qua sử dụng. Chúng có khả năng tái chế cao và có thể chế biến lại thành sản phẩm kim loại mới, giảm nhu cầu khai thác quặng mới.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "Kim loại phế thải",
+        "Discarded Metal": "Kim loại đã loại bỏ"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "Thùng chứa tái chế Kim loại hoặc Sân tái chế Kim loại",
+        "handling": "Phân loại kim loại theo loại và loại bỏ bất kỳ thành phần không phải kim loại nào nếu có thể. Xử lý cẩn thận để tránh bị thương.",
+        "separation": "Tách các kim loại có từ tính (như thép và sắt) khỏi các kim loại không từ tính (như nhôm và đồng) để tăng hiệu suất tái chế.",
+        "whatNotToDo": "Không nên vứt chất thải kim loại vào thùng rác thông thường. Tránh pha trộn các loại kim loại khác nhau trừ khi được hướng dẫn bởi cơ sở tái chế địa phương.",
+        "safetyPrecautions": "Đeo găng tay và giày bảo hộ khi xử lý chất thải kim loại để tránh bị cắt và thương tích."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "Tái chế kim loại giúp tiết kiệm năng lượng, giảm lượng khí nhà kính và bảo vệ tài nguyên thiên nhiên. Kim loại có thể tái chế nhiều lần mà không làm giảm chất lượng của chúng.",
+        "impact": "Quá trình tái chế kim loại hiệu quả giúp giảm tác động môi trường, giảm nhu cầu về khai thác mới và hỗ trợ quản lý tài nguyên bền vững."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "Tái chế một hộp nhôm có thể tiết kiệm đủ năng lượng để chạy một chiếc TV trong ba giờ."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "Chất thải Giấy",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "Báo",
+        "Magazines": "Tạp chí",
+        "Office Paper": "Giấy văn phòng",
+        "Notebooks": "Sổ tay",
+        "Envelopes": "Phong bì",
+        "Junk Mail": "Thư rác",
+        "Cardboard Boxes": "Thùng carton",
+        "Paper Packaging": "Đóng gói giấy",
+        "Paper Bags": "Túi giấy",
+        "Phone Books": "Sách điện thoại",
+        "Catalogs": "Sách mục",
+        "Shredded Paper": "Giấy hủy",
+        "Paper Cups": "Ly giấy",
+        "Paper Plates": "Đĩa giấy",
+        "Greeting Cards": "Thiệp chúc mừng",
+        "Wrapping Paper": "Giấy bọc quà"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "Chất thải Giấy bao gồm nhiều loại giấy đã qua sử dụng và sản phẩm từ giấy. Tái chế chất thải giấy rất quan trọng để giảm thiểu phá rừng và bảo vệ tài nguyên thiên nhiên.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "Giấy đã loại bỏ",
+        "Paper Scraps": "Mảnh giấy"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "Thùng tái chế Giấy",
+        "handling": "Loại bỏ bất kỳ thành phần không phải là giấy như lớp nhựa, đinh ghim hoặc băng dính. Giữ cho giấy khô ráo và sạch sẽ để tái chế hiệu quả.",
+        "separation": "Tách giấy theo loại (ví dụ: thùng carton, giấy văn phòng) và tình trạng (ví dụ: sạch, bẩn) để tăng hiệu suất tái chế.",
+        "whatNotToDo": "Không nên pha trộn chất thải giấy bẩn hoặc dầu mỡ với giấy sạch. Tránh vứt chất thải giấy có thể tái chế vào thùng rác thông thường.",
+        "safetyPrecautions": "Không cần có biện pháp an toàn cụ thể khi xử lý hầu hết chất thải giấy."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "Tái chế giấy giúp giảm nhu cầu sản xuất giấy mới, bảo vệ cây rừng và giảm tiêu thụ năng lượng và nước.",
+        "impact": "Quá trình tái chế giấy hiệu quả giúp giảm việc sử dụng đất rừng, giảm phát thải khí nhà kính và ủng hộ các phương pháp lâm nghiệp bền vững."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "Tái chế một tấn giấy có thể tiết kiệm 17 cây rừng và 7.000 gallon nước."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "Chất thải Nhựa",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "Chai Nhựa",
+        "Plastic Bags": "Túi Nhựa",
+        "Plastic Packaging": "Bao bì Nhựa",
+        "Plastic Containers": "Đồ đựng Nhựa",
+        "Plastic Utensils": "Dụng cụ Nhựa",
+        "Plastic Wraps": "Bọc thực phẩm Nhựa",
+        "Plastic Toys": "Đồ chơi Nhựa",
+        "Polystyrene Foam": "Bọt biển Polystyrene",
+        "Plastic Cups": "Ly Nhựa",
+        "Plastic Plates": "Đĩa Nhựa",
+        "Plastic Film": "Màng Nhựa",
+        "Water Bottles": "Chai Nước Nhựa",
+        "Detergent Bottles": "Chai Detergent Nhựa",
+        "Shampoo Bottles": "Chai Shampoo Nhựa",
+        "Plastic Caps": "Nắp Nhựa",
+        "Plastic Lids": "Nắp đậy Nhựa",
+        "Plastic Furniture": "Đồ nội thất Nhựa",
+        "Plastic Hangers": "Móc treo áo Nhựa"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "Chất thải Nhựa bao gồm nhiều loại sản phẩm nhựa đã qua sử dụng. Vì thời gian phân hủy dài, việc tái chế và xử lý chất thải nhựa một cách đúng đắn là cần thiết để giảm thiểu tác động môi trường.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "Nhựa đã loại bỏ",
+        "Scrap Plastics": "Nhựa thải"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "Thùng tái chế Nhựa hoặc Cơ sở tái chế",
+        "handling": "Làm sạch và làm khô nhựa trước khi tái chế. Gỡ bỏ bất kỳ thành phần không phải là nhựa, như nhãn hoặc nắp đậy.",
+        "separation": "Tách riêng các loại nhựa theo loại và danh mục, vì các loại nhựa khác nhau có quy trình tái chế khác nhau.",
+        "whatNotToDo": "Không pha trộn chất thải nhựa với các chất thải tái chế khác hoặc chất thải thông thường. Tránh vứt các sản phẩm nhựa lớn vào thùng rác thông thường.",
+        "safetyPrecautions": "Không cần biện pháp an toàn cụ thể khi xử lý hầu hết chất thải nhựa."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "Tái chế nhựa giúp giảm nhu cầu sản xuất nhựa mới, bảo tồn tài nguyên và giảm thiểu ô nhiễm. Nó cũng giúp giảm lượng nhựa nhập vào nơi chôn cất và biển cả.",
+        "impact": "Quá trình tái chế nhựa hiệu quả góp phần vào sự bền vững môi trường, giảm phát thải khí nhà kính và ủng hộ hiệu suất quản lý chất thải."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "Tái chế một tấn nhựa có thể tiết kiệm được tới 7.4 thùng chất thải trong sân chôn."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "Chất thải Cao su",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "Lốp xe đã qua sử dụng",
+        "Rubber Bands": "Dây thun",
+        "Rubber Gloves": "Găng tay cao su",
+        "Rubber Hoses": "Ống cao su",
+        "Rubber Footwear": "Giày dép cao su",
+        "Rubber Mats": "Thảm cao su",
+        "Conveyor Belts": "Băng tải",
+        "Rubber Gaskets": "Mặt kín cao su",
+        "Rubber Seals": "Phớt cao su",
+        "Rubber Sheets": "Tấm cao su",
+        "Rubber Toys": "Đồ chơi cao su",
+        "Automotive Rubber": "Cao su ô tô",
+        "Rubber Tubing": "Ống cao su",
+        "Elastomeric Materials": "Vật liệu elastomeric",
+        "Synthetic Rubber": "Cao su tổng hợp"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "Chất thải Cao su bao gồm nhiều loại sản phẩm cao su đã qua sử dụng. Tái chế cao su là quan trọng để bảo tồn tài nguyên và giảm tác động môi trường, vì cao su có thể mất thời gian lâu để phân hủy tại các sân chôn cất.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "Cao su thải",
+        "Waste Rubber": "Cao su thải"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "Cơ sở tái chế Cao su chuyên dụng hoặc điểm thu gom",
+        "handling": "Xử lý chất thải cao su cẩn thận, đặc biệt khi đối diện với các sản phẩm lớn hoặc nặng. Đảm bảo lưu trữ đúng cách để tránh ô nhiễm môi trường.",
+        "separation": "Tách riêng các loại chất thải cao su khác nhau để tái chế hiệu quả. Gỡ bỏ bất kỳ thành phần không phải là cao su nếu có thể.",
+        "whatNotToDo": "Không vứt chất thải cao su vào thùng rác thông thường. Tránh đốt chất thải cao su, vì nó sẽ phát ra các hạt độc hại.",
+        "safetyPrecautions": "Mang găng tay và đồ bảo hộ cá nhân khi xử lý chất thải cao su để tránh kích ứng da tiềm ẩn."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "Tái chế cao su giúp giảm thiểu chất thải và ô nhiễm tại các sân chôn. Cao su tái chế có thể tái sử dụng để tạo ra nhiều sản phẩm như gỗ cao su, thảm và phụ gia nhựa đường.",
+        "impact": "Quản lý hiệu quả chất thải cao su hỗ trợ sự bền vững môi trường và giúp bảo tồn tài nguyên không phải là nguồn tái tạo sử dụng trong sản xuất cao su."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "Cao su tái chế từ lốp xe có thể được sử dụng để tạo ra cỏ nhân tạo, bề mặt sân chơi và thậm chí là nguồn nhiên liệu trong một số quy trình công nghiệp."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "Chất thải Vải dệt",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "Quần áo",
+        "Bed Linens": "Trải giường",
+        "Towels": "Khăn",
+        "Curtains": "Rèm cửa",
+        "Fabric Scraps": "Mảnh vải",
+        "Carpeting": "Thảm trải sàn",
+        "Upholstery": "Nệm ghế",
+        "Footwear": "Giày dép",
+        "Handbags": "Túi xách",
+        "Belts": "Dây đeo",
+        "Hats": "Mũ",
+        "Socks": "Vớ",
+        "Non-reusable Textiles": "Vải không thể tái sử dụng",
+        "Stuffed Toys": "Đồ chơi nhồi bông",
+        "Ropes": "Dây thừng",
+        "Thread": "Chỉ",
+        "Yarn": "Sợi len"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "Chất thải Vải dệt bao gồm các vật liệu vải và quần áo đã qua sử dụng. Đó là một phần quan trọng của chất thải môi trường. Tái chế và tái sử dụng chất thải vải dệt là quan trọng để giảm tác động của nó đối với môi trường.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "Vải thải",
+        "Scrap Textiles": "Vải thải"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "Thùng tái chế Vải dệt hoặc Trung tâm quyên góp",
+        "handling": "Làm sạch và làm khô vật liệu vải trước khi tái chế. Vải dệt hỏng hoặc đã qua sử dụng có thể được tái sử dụng hoặc tái chế thành sản phẩm mới.",
+        "separation": "Tách riêng các loại vải dệt theo loại (ví dụ: cotton, polyester) và tình trạng (ví dụ: có thể mặc, không thể mặc) để tái chế hoặc tái sử dụng hiệu quả hơn.",
+        "whatNotToDo": "Không vứt quần áo có thể mặc vào thùng rác thông thường. Tránh vứt các vật liệu vải nặng nề bị bẩn hoặc nhiễm độc mà không qua xử lý đúng cách.",
+        "safetyPrecautions": "Không cần các biện pháp an toàn cụ thể cho việc xử lý hầu hết chất thải vải dệt."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "Tái chế vải dệt bảo tồn tài nguyên, giảm chất thải sân chôn và giảm nhu cầu về nguyên liệu thô mới. Vải dệt tái sử dụng có thể tìm thấy một cuộc sống mới trong nhiều ứng dụng khác nhau.",
+        "impact": "Quản lý chất thải vải dệt hiệu quả hỗ trợ thời trang bền vững, giảm ô nhiễm môi trường và thúc đẩy nền kinh tế tuần hoàn trong ngành công nghiệp dệt may."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "Tái chế hoặc tái sử dụng chỉ một tấn vải dệt có thể ngăn chặn sự phát thải của khoảng 7 tấn CO2."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "Chất thải Gỗ",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "Mảnh gỗ xây dựng",
+        "Pallets": "Pallet",
+        "Timber Offcuts": "Mảnh gỗ cắt bỏ",
+        "Furniture Pieces": "Mảnh nội thất",
+        "Branches": "Cành cây",
+        "Twigs": "Cành nhỏ",
+        "Sawdust": "Bụi gỗ",
+        "Plywood": "Gỗ ép",
+        "Particle Board": "Gỗ bán kín",
+        "Wooden Crates": "Thùng gỗ",
+        "Wooden Tools": "Dụng cụ gỗ",
+        "Construction Debris": "Các mảnh vụn xây dựng",
+        "Floorboards": "Nền nhà gỗ",
+        "Window Frames": "Khung cửa sổ",
+        "Door Frames": "Khung cửa",
+        "Tree Stumps": "Gốc cây",
+        "Wooden Fencing": "Hàng rào gỗ",
+        "Decking Material": "Vật liệu sàn ngoài trời",
+        "Firewood Scraps": "Mảnh củi đốt"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "Chất thải gỗ bao gồm nhiều sản phẩm và vật liệu gỗ đã bị loại bỏ. Việc tái chế và sử dụng lại chất thải gỗ là rất quan trọng để giảm thiểu tình trạng chặt phá rừng và quản lý chất thải một cách bền vững.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "Gỗ thải",
+        "Used Wood": "Gỗ đã sử dụng"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "Cơ sở tái chế gỗ hoặc điểm thu gom chuyên dụng",
+        "handling": "Xử lý chất thải gỗ một cách cẩn thận để tránh bị gãi và bị thương. Loại bỏ bất kỳ thành phần không phải là gỗ như đinh hoặc ốc.",
+        "separation": "Tách gỗ đã được xử lý khỏi gỗ chưa được xử lý vì chúng yêu cầu quy trình tái chế khác nhau. Sắp xếp theo loại và kích thước để tái chế một cách hiệu quả.",
+        "whatNotToDo": "Không nên vứt chất thải gỗ vào thùng rác thông thường, đặc biệt là nếu chúng đã được xử lý bằng hóa chất. Tránh đốt chất thải gỗ đã được xử lý vì nó có thể phát ra khí độc hại.",
+        "safetyPrecautions": "Mang găng tay và kính bảo hộ khi xử lý chất thải gỗ để tránh bị gãi và bị thương bởi các mảnh vụn và cạnh sắc."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "Tái chế chất thải gỗ giúp giảm sự sử dụng đất rừng, bảo tồn tài nguyên thiên nhiên và ủng hộ các phương pháp trồng cây bền vững.",
+        "impact": "Quản lý chất thải gỗ hiệu quả giảm ô nhiễm môi trường và cung cấp tài nguyên quý báu để tái sử dụng trong xây dựng và sản xuất."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "Tái chế chỉ một tấn chất thải gỗ có thể tiết kiệm lượng năng lượng tương đương với 1.000 gallon xăng dầu."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "Chất thải Nguy hiểm",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "Hóa chất độc hại",
+        "Solvents": "Chất làm mềm",
+        "Pesticides": "Thuốc trừ sâu",
+        "Herbicides": "Thuốc diệt cỏ",
+        "Medical Sharps": "Đồ sắc nhọn y tế",
+        "Contaminated Materials": "Vật liệu bị nhiễm độc",
+        "Radioactive Substances": "Chất phóng xạ",
+        "Contaminated Sanitary Products": "Sản phẩm vệ sinh bị nhiễm độc",
+        "Sewage Treatment Waste": "Chất thải xử lý nước thải",
+        "Automotive Fluids": "Chất lỏng ô tô",
+        "Antifreeze": "Chất chống đông",
+        "Brake Fluid": "Chất lỏng phanh",
+        "Lead-based Paints": "Sơn chứa chì",
+        "Electronic Hazardous Components": "Các thành phần điện tử độc hại",
+        "Industrial Residues": "Các chất thải công nghiệp",
+        "Used Oil": "Dầu đã sử dụng",
+        "Oil-Contaminated Materials": "Vật liệu bị nhiễm dầu",
+        "Toxic Plastic Additives": "Các chất phụ gia nhựa độc hại"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "Chất thải nguy hiểm bao gồm nhiều loại vật liệu mang rủi ro đáng kể đối với sức khỏe và môi trường. Việc xử lý, lưu trữ và tiêu hủy đúng cách là rất quan trọng để giảm thiểu các rủi ro này.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "Chất thải nguy hiểm",
+        "Toxic Waste": "Chất thải độc hại"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "Cơ sở thu gom chất thải nguy hiểm chuyên dụng",
+        "handling": "Xử lý một cách cẩn thận bằng cách sử dụng trang thiết bị bảo hộ phù hợp. Tuân thủ tất cả các quy định địa phương và liên bang về lưu trữ và tiêu hủy.",
+        "separation": "Tách riêng các loại chất thải nguy hiểm vì chúng yêu cầu phương pháp xử lý và tiêu hủy riêng biệt.",
+        "whatNotToDo": "Không nên tiêu hủy chất thải nguy hiểm vào thùng rác thông thường hoặc cống thoát nước. Tránh việc xả rác trái phép.",
+        "safetyPrecautions": "Luôn đội đồ bảo hộ, bao gồm găng tay, kính bảo hộ và khẩu trang khi xử lý các chất thải nguy hiểm. Đảm bảo thông gió đúng cách và tránh tiếp xúc trực tiếp."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "Quản lý đúng cách chất thải nguy hiểm ngăn chặn ô nhiễm môi trường, bảo vệ sức khỏe cộng đồng và đảm bảo tuân thủ các tiêu chuẩn pháp luật.",
+        "impact": "Tiêu hủy thận trọng các chất thải nguy hiểm giúp giảm nguy cơ ô nhiễm đất và nước và ủng hộ môi trường sạch sẽ và an toàn hơn."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "Việc tiêu hủy đúng cách chỉ một lít dầu động cơ có thể ngăn ngừng đến 2 triệu gallon nước uống bị nhiễm độc."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "Chất thải Hóa học",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "Hóa chất công nghiệp",
+        "Laboratory Chemicals": "Hóa chất phòng thí nghiệm",
+        "Cleaning Agents": "Chất làm sạch",
+        "Pesticides": "Thuốc trừ sâu",
+        "Herbicides": "Thuốc diệt cỏ",
+        "Paints": "Sơn",
+        "Solvents": "Chất làm mềm",
+        "Automotive Fluids": "Chất lỏng ô tô",
+        "Batteries": "Pin",
+        "Aerosol Cans": "Lon dạng phun",
+        "Mercury Devices": "Thiết bị chứa thủy ngân",
+        "Pharmaceuticals": "Thuốc dược phẩm",
+        "Photographic Chemicals": "Hóa chất nhiếp ảnh",
+        "Pool Chemicals": "Hóa chất xử lý hồ bơi",
+        "Flammable Liquids": "Chất lỏng dễ cháy",
+        "Toxic Metals": "Kim loại độc hại",
+        "Acids": "Axit",
+        "Bases": "Bazơ",
+        "Reactive Materials": "Vật liệu phản ứng"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "Chất thải hóa học bao gồm nhiều loại hóa chất độc hại và không phân hủy sinh học có thể gây nguy cơ đáng kể đối với sức khỏe và môi trường. Việc xử lý, lưu trữ và tiêu hủy đúng cách là rất quan trọng để giảm thiểu các nguy cơ này.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "Hóa chất độc hại",
+        "Toxic Chemicals": "Hóa chất độc hại"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "Cơ sở thu gom chất thải hóa học chuyên dụng",
+        "handling": "Xử lý với cực kỳ cẩn thận bằng cách sử dụng trang thiết bị bảo hộ phù hợp. Tuân thủ tất cả các hướng dẫn quản lý về lưu trữ, vận chuyển và tiêu hủy.",
+        "separation": "Tách riêng các hóa chất không tương thích và phân loại chúng dựa trên lớp nguy hiểm (ví dụ: dễ cháy, ăn mòn, độc hại).",
+        "whatNotToDo": "Không nên tiêu hủy chất thải hóa học vào thùng rác thông thường, đổ xuống bồn cống hoặc các nguồn nước tự nhiên. Tránh trộn các loại hóa chất khác nhau có thể gây phản ứng nguy hiểm.",
+        "safetyPrecautions": "Luôn đội đồ bảo hộ, bao gồm găng tay, kính bảo hộ và thiết bị bảo vệ hô hấp phù hợp. Đảm bảo thông gió đúng cách khi xử lý các hóa chất bay hơi hoặc khử trùng."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "Việc tiêu hủy đúng cách chất thải hóa học ngăn chặn ô nhiễm môi trường, bảo vệ tài nguyên và giảm thiểu các nguy cơ đối với sức khỏe.",
+        "impact": "Quản lý chất thải hóa học một cách có trách nhiệm giúp giảm nguy cơ ô nhiễm đất và nước và đóng góp vào hệ sinh thái an toàn hơn."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "Việc tiêu hủy đúng cách chỉ một gallon dầu động cơ đã sử dụng có thể tạo ra đủ năng lượng để cung cấp điện cho một ngôi nhà trung bình trong một năm."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "Chất thải Y tế",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "Băng bó đã sử dụng",
+        "Gauze": "Bông",
+        "Expired Medicines": "Thuốc hết hạn",
+        "Medical Gloves": "Găng tay y tế",
+        "Sharps": "Vật sắc nhọn",
+        "Test Strips": "Bộ que thử",
+        "Surgical Instruments": "Dụng cụ phẫu thuật",
+        "Disposable Garments": "Áo qu throw-away",
+        "Pathological Waste": "Chất thải bệnh lý",
+        "Infectious Agents": "Chất gây nhiễm trùng",
+        "Discarded Vaccines": "Vắc xin bị loại bỏ",
+        "Dialysis Waste": "Chất thải lọc máu",
+        "Chemotherapy Agents": "Chất trị ung thư",
+        "Imaging Chemicals": "Chất hình ảnh",
+        "Radioactive Waste": "Chất thải phóng xạ",
+        "Biological Specimens": "Mẫu sinh học"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "Chất thải y tế bao gồm nhiều vật phẩm được sử dụng tại các cơ sở chăm sóc sức khỏe có khả năng gây nhiễm trùng hoặc nguy hiểm. Việc tiêu hủy đúng cách là rất quan trọng để ngăn chặn sự lây lan của các bệnh và bảo vệ sức khỏe công chúng.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "Chất thải lâm sàng",
+        "Healthcare Waste": "Chất thải chăm sóc sức khỏe"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "Thùng chứa chất thải y tế chuyên dụng",
+        "handling": "Xử lý với cực kỳ cẩn thận và sử dụng thiết bị bảo hộ phù hợp. Chất thải y tế nên được phân loại tại điểm phát sinh.",
+        "separation": "Tách riêng vật sắc nhọn, chất thải dược phẩm, chất thải bệnh lý và hóa chất vì mỗi loại đòi hỏi phương pháp tiêu hủy khác nhau.",
+        "whatNotToDo": "Không nên tiêu hủy chất thải y tế vào thùng rác thông thường hoặc trộn lẫn với chất thải tổng hợp. Tránh xử lý mà không đủ trang bị bảo hộ.",
+        "safetyPrecautions": "Luôn sử dụng găng tay, khẩu trang và có thể cả mặt nạ hoặc áo choàng khi xử lý chất thải y tế để giảm thiểu nguy cơ tiếp xúc."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "Việc tiêu hủy đúng cách chất thải y tế giúp giảm nguy cơ lây truyền nhiễm trùng, bảo vệ người làm trong lĩnh vực y tế và công chúng, và tuân thủ các quy định về sức khỏe.",
+        "impact": "Quản lý hiệu quả chất thải y tế rất quan trọng để duy trì một môi trường an toàn và lành mạnh, đặc biệt là trong các cơ sở chăm sóc sức khỏe."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "Bệnh viện điển hình tạo ra khoảng 33 pound chất thải y tế mỗi giường mỗi ngày, nhấn mạnh sự quan trọng của quản lý chất thải hiệu quả trong các cơ sở chăm sóc sức khỏe."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "Chất thải dầu",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "Dầu động cơ đã sử dụng",
+        "Cooking Oil": "Dầu nấu ăn",
+        "Lubricating Oil": "Dầu bôi trơn",
+        "Hydraulic Oil": "Dầu thủy lực",
+        "Transmission Fluid": "Dầu truyền động",
+        "Machine Oil": "Dầu máy móc",
+        "Grease": "Dầu mỡ",
+        "Oil Filters": "Bộ lọc dầu",
+        "Oil-Soaked Rags": "Khăn thấm dầu",
+        "Fuel Oils": "Dầu nhiên liệu",
+        "Vegetable Oils": "Dầu thực phẩm",
+        "Petroleum Products": "Sản phẩm dầu mỏ",
+        "Oil Containers": "Bình chứa dầu",
+        "Oil-Water Mixtures": "Hỗn hợp dầu-nước",
+        "Synthetic Oils": "Dầu tổng hợp",
+        "Oil Sludge": "Bã dầu"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "Chất thải dầu bao gồm nhiều loại dầu đã sử dụng và bị nhiễm độc, đòi hỏi xử lý đặc biệt để tái chế và tiêu hủy đúng cách để ngăn chặn ô nhiễm môi trường và nguy cơ cho sức khỏe.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "Dầu đã sử dụng",
+        "Waste Oil": "Chất thải dầu"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "Cơ sở tái chế dầu hoặc điểm thu gom dầu chuyên dụng",
+        "handling": "Lưu trữ chất thải dầu trong các bình không rò rỉ. Tránh tiếp xúc trực tiếp và hít phải hơi dầu.",
+        "separation": "Tách riêng các loại dầu và chất thải liên quan đến dầu để tái chế và tiêu hủy đúng cách.",
+        "whatNotToDo": "Không nên tiêu hủy chất thải dầu vào thùng rác thông thường, đổ xuống cống hoặc trong các nguồn nước. Tránh trộn chất thải dầu với các chất nguy hiểm khác.",
+        "safetyPrecautions": "Sử dụng găng tay và bảo vệ mắt khi xử lý chất thải dầu. Đảm bảo có thông gió đúng cách trong khu vực lưu trữ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "Tái chế chất thải dầu giúp bảo vệ tài nguyên thiên nhiên, ngăn ô nhiễm và ủng hộ sự bền vững môi trường. Dầu được tái chế đúng cách có thể được tinh chế thành các sản phẩm mới.",
+        "impact": "Quản lý hiệu quả chất thải dầu giảm nguy cơ ô nhiễm đất và nước, giúp duy trì môi trường sạch sẽ và an toàn."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "Một gallon dầu động cơ đã sử dụng có thể làm ô nhiễm một triệu gallon nước sạch."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "Chất thải phóng xạ",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "Nhiên liệu hạt nhân đã tiêu hao",
+        "Radioactive Medical Waste": "Chất thải y tế phóng xạ",
+        "Contaminated Lab Equipment": "Thiết bị thí nghiệm bị nhiễm phóng xạ",
+        "Radioactive Glass": "Kính phóng xạ",
+        "Contaminated Metals": "Kim loại bị nhiễm phóng xạ",
+        "Americium Smoke Detectors": "Bộ báo khói americium",
+        "Uranium Residues": "Các chất thải urani",
+        "Irradiated Tools": "Các công cụ bị chiếu xạ",
+        "Contaminated Clothing": "Quần áo bị nhiễm phóng xạ",
+        "Radioactive Sources": "Nguồn phóng xạ",
+        "Luminous Dials": "Đồng hồ phát quang",
+        "Thorium Lantern Mantles": "Áo choàng đèn thorium",
+        "Radioactive Ores": "Khoáng sản phóng xạ"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "Chất thải phóng xạ bao gồm các vật liệu và đối tượng chứa chất phóng xạ. Tính nguy hiểm của nó đòi hỏi việc xử lý, lưu trữ và tiêu hủy chặt chẽ.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "Chất thải hạt nhân",
+        "Radioactive Material": "Vật liệu phóng xạ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "Cơ sở xử lý chất thải phóng xạ chuyên dụng",
+        "handling": "Yêu cầu gắt gao về các quy định an toàn. Chỉ được xử lý bởi những người được đào tạo.",
+        "separation": "Dựa trên loại và mức độ phóng xạ để tiêu hủy đúng cách.",
+        "whatNotToDo": "Không tiêu hủy vào thùng rác thông thường. Không tiếp xúc trực tiếp mà không có bảo vệ.",
+        "safetyPrecautions": "Bắt buộc sử dụng thiết bị bảo vệ chuyên dụng và các thiết bị đo phóng xạ."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "Bảo vệ khỏi tác động phóng xạ có hại, ngăn chặn ô nhiễm môi trường.",
+        "impact": "Quan trọng cho sức khỏe và an toàn của công chúng, ngăn chặn thiệt hại môi trường dài hạn."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "Một số loại chất thải phóng xạ có thể còn nguy hiểm trong hàng ngàn năm."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "Chất thải vệ sinh",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "Tã sử dụng",
+        "Sanitary Napkins": "Băng vệ sinh",
+        "Tampons": "Bông vệ sinh",
+        "Wet Wipes": "Khăn ướt",
+        "Incontinence Pads": "Bảo vệ chống tràn",
+        "Disposable Toilet Seat Covers": "Nắp bồn cầu dùng một lần",
+        "Cotton Swabs": "Bông tăm",
+        "Facial Tissues": "Khăn giấy mặt",
+        "Bandages": "Băng bít miết",
+        "Disposable Razors": "Dao cạo dùng một lần",
+        "Dental Floss": "Chỉ nha khoa"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "Chất thải vệ sinh bao gồm nhiều sản phẩm vệ sinh cá nhân được sử dụng và bị loại bỏ. Do tiềm ẩn rủi ro về sức khỏe, đặc biệt là tại các cơ sở y tế hoặc chăm sóc, việc tiêu hủy đúng cách là cực kỳ quan trọng để ngăn chặn sự nhiễm trùng.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "Chất thải vệ sinh",
+        "Personal Care Waste": "Chất thải chăm sóc cá nhân"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "Các đơn vị tiêu hủy chất thải vệ sinh chuyên dụng",
+        "handling": "Xử lý cẩn thận, lý tưởng là với găng tay, để ngăn chặn tiếp xúc trực tiếp và sự nhiễm trùng.",
+        "separation": "Tách chất thải vệ sinh ra khỏi chất thải thông thường để tiêu hủy chuyên dụng.",
+        "whatNotToDo": "Không nên xả chất thải vệ sinh xuống bồn cầu. Tránh việc vứt bỏ vào thùng rác thông thường mà không đựng đúng cách.",
+        "safetyPrecautions": "Đội găng tay khi xử lý và tiêu hủy chất thải vệ sinh. Đảm bảo thực hiện các biện pháp vệ sinh đúng sau khi tiêu hủy."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "Việc tiêu hủy đúng cách ngăn chặn sự lây lan của các bệnh nhiễm trùng và duy trì vệ sinh trong không gian công cộng và riêng tư.",
+        "impact": "Quản lý hiệu quả chất thải vệ sinh cực kỳ quan trọng cho sức khỏe công cộng, đặc biệt là trong các khu vực có mật độ dân số cao hoặc nhạy cảm như bệnh viện."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "Trung bình, mỗi người tạo ra khoảng 30 pounds (khoảng 13.6 kg) chất thải vệ sinh mỗi năm."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "Chất thải nước thải",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "Phân người",
+        "Used Water": "Nước đã sử dụng",
+        "Domestic Wastewater": "Nước thải gia đình",
+        "Industrial Effluent": "Nước thải công nghiệp",
+        "Agricultural Runoff": "Nước chảy từ nông nghiệp",
+        "Storm water Discharge": "Xả nước mưa",
+        "Septic Tank Sludge": "Bùn hố phốt",
+        "Grease Trap Waste": "Chất thải hố nước dầu mỡ",
+        "Gray Water": "Nước xám",
+        "Black Water": "Nước thải đen",
+        "Sewage Sludge": "Bùn nước thải",
+        "Soapy Water": "Nước có xà phòng",
+        "Cooking Water Discharge": "Xả nước nấu ăn",
+        "Bathroom Water": "Nước phòng tắm",
+        "Laundry Wastewater": "Nước thải giặt ủi",
+        "Sink Drainage": "Xả nước từ bồn rửa chén",
+        "Toilet Flushing Waste": "Nước thải xả toilet",
+        "Shower Drain Water": "Nước xả vòi sen",
+        "Sump Pump Discharge": "Xả nước bơm hố sump",
+        "Urban Runoff": "Nước chảy từ đô thị"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "Chất thải nước thải bao gồm nước thải và các vật liệu được xả hoặc thoát ra từ hộ gia đình, cơ sở công nghiệp và ruộng đất nông nghiệp. Việc xử lý và tiêu hủy đúng cách là rất quan trọng để bảo vệ môi trường và ngăn chặn sự nhiễm trùng nước.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "Nước thải",
+        "Sewerage": "Hệ thống thoát nước"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "Các cơ sở xử lý nước thải chuyên dụng",
+        "handling": "Tránh tiếp xúc trực tiếp và tuân theo các giao thức an toàn khi xử lý nước thải.",
+        "separation": "Đảm bảo tách biệt với nguồn nước uống và tuân thủ quy trình xử lý nước thải.",
+        "whatNotToDo": "Không nên xả nước thải chưa qua xử lý vào nguồn nước tự nhiên hoặc môi trường.",
+        "safetyPrecautions": "Đội găng tay bảo hộ, kèm theo khẩu trang và thực hiện vệ sinh cá nhân sau khi xử lý chất thải nước thải."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "Quản lý đúng đắn của nước thải ngăn chặn sự lây lan bệnh tật, bảo vệ nguồn nước và hỗ trợ sức khỏe công cộng.",
+        "impact": "Việc xử lý chất thải nước thải hiệu quả là cực kỳ quan trọng đối với bảo tồn môi trường và phát triển đô thị bền vững."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "Các nhà máy xử lý nước thải tiên tiến có thể chuyển đổi chất thải thành năng lượng và nước có thể tái sử dụng, thể hiện tiềm năng khôi phục tài nguyên từ chất thải."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "Chất thải bãi rác",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "Nhựa không thể tái chế",
+        "Contaminated Paper": "Giấy bị nhiễm độc",
+        "Broken Glass": "Kính bể nát",
+        "Non-Recyclable Packaging": "Bao bì không thể tái chế",
+        "Worn Textiles": "Vải không thể tái chế đã mặc cũ",
+        "Damaged Furniture": "Đồ nội thất bị hỏng",
+        "Ceramic Items": "Vật liệu gốm sứ",
+        "Construction Debris": "Rác xây dựng",
+        "Non-Recyclable Electronics": "Thiết bị điện tử không thể tái chế",
+        "Household Trash": "Rác gia đình",
+        "Ineligible Food Waste": "Chất thải thực phẩm không đủ điều kiện",
+        "Ineligible Garden Waste": "Chất thải từ vườn không đủ điều kiện",
+        "Used Batteries": "Pin đã sử dụng",
+        "Soiled Clothing": "Quần áo bị dơ",
+        "Old Carpets": "Thảm cũ",
+        "Expired Medicines": "Thuốc đã hết hạn sử dụng",
+        "Waste Foam": "Gọng bọt biển thải",
+        "Disposable Utensils": "Dụng cụ dùng một lần",
+        "Waste Oil": "Dầu thải",
+        "Contaminated Soil": "Đất bị nhiễm độc"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "Chất thải bãi rác bao gồm các vật liệu không thể tái chế hoặc ủ phân. Nó bao gồm nhiều loại vật phẩm không thể tái chế và cuối cùng bị đặt vào bãi rác, gây ra các vấn đề tiềm năng về môi trường như ô nhiễm đất và nước dưới đất.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "Chất thải không thể tái chế",
+        "General Trash": "Rác tổng hợp"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "Thùng rác tổng hợp hoặc bãi rác, ghi chú cho các vật phẩm không thể tái chế",
+        "handling": "Xử lý chất thải bãi rác cẩn thận, tách riêng nó khỏi các vật liệu tái chế và chất thải độc hại.",
+        "separation": "Quan trọng để tách biệt với chất thải tái chế, hữu cơ và chất thải độc hại để giảm thiểu tác động đến bãi rác.",
+        "whatNotToDo": "Tránh việc vứt các vật phẩm tái chế hoặc ủ phân vào bãi rác.",
+        "safetyPrecautions": "Đội găng tay và sử dụng kỹ thuật nâng phù hợp khi xử lý chất thải bãi rác để tránh bị thương và đảm bảo vệ sinh đúng cách."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "Việc tiêu hủy đúng đắn trong bãi rác giúp quản lý chất thải không thể tái chế, giảm ô nhiễm môi trường.",
+        "impact": "Giảm thiểu chất thải bãi rác là điều quan trọng đối với quản lý chất thải bền vững, ngăn ngừa thiệt hại môi trường dài hạn."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "Các nỗ lực để giảm thiểu chất thải bãi rác có thể làm giảm đáng kể lượng khí nhà kính phát thải, làm nổi bật tầm quan trọng của việc tái chế và giảm chất thải."
     }
   },
+  "error": {
+    "invalidImageUrl": "Vui lòng nhập URL hình ảnh hợp lệ.",
+    "emptySearch": "Vui lòng cung cấp một hình ảnh hoặc URL.",
+    "searchResponse": "Lỗi trong quá trình tìm kiếm, vui lòng thử lại sau.",
+    "invalidImageSize": "Vui lòng cung cấp tệp hình ảnh có kích thước tối đa 5MB."
+  },
   "common": {
-    "knowYourWaste": "Biết rác thải của bạn",
-    "sustainNatureNest": "Duy trì tổ tự nhiên",
-    "searchPlaceholder": "Tìm kiếm mục để tái chế hoặc xử lý",
-    "whatIsWaste": "{{value}} là gì",
-    "alsoKnownAs": "Còn được biết đến như",
+    "knowYourWaste": "Hiểu về chất thải",
+    "sustainNatureNest": "Bảo vệ tự nhiên",
+    "searchPlaceholder": "Tìm kiếm mục để tái chế hoặc tiêu hủy",
+    "whatIsWaste": "Chất thải là gì {{value}}",
+    "alsoKnownAs": "Còn được gọi là",
     "itemsInsideWaste": "Các mục bên trong {{value}}",
     "howToHandle": "Cách xử lý {{value}}",
     "handling": "Xử lý",
-    "separation": "Phân loại",
-    "whatNotToDo": "Những điều không nên làm",
+    "separation": "Tách rời",
+    "whatNotToDo": "Cần tránh làm gì",
     "suggestedBin": "Thùng đề xuất",
-    "whyItsImportant": "Tại sao nó quan trọng",
+    "whyItsImportant": "Tại sao điều này quan trọng",
     "note": "Ghi chú",
-    "safetyPrecautions": "Biện pháp phòng ngừa an toàn",
-    "alsoKnowAbout": "Cũng biết về",
-    "compostable": "Có thể phân hủy",
+    "safetyPrecautions": "Biện pháp an toàn",
+    "alsoKnowAbout": "Cũng tìm hiểu về",
+    "compostable": "Có thể ủ phân",
     "recyclable": "Có thể tái chế",
-    "nonRecyclable": "Không tái chế được",
-    "burnable": "Có thể đốt cháy được",
-    "nonBurnable": "Không cháy được",
-    "caution": "xử lý cẩn thận",
-    "flammable": "dễ cháy",
-    "toxic": "độc hại",
+    "nonRecyclable": "Không thể tái chế",
+    "burnable": "Đốt cháy kiểm soát",
+    "nonBurnable": "Không thể đốt cháy",
+    "caution": "Xử lý cẩn thận",
+    "flammable": "Cháy dễ",
+    "toxic": "Độc hại",
     "biohazardous": "Nguy hiểm sinh học",
     "radioactive": "Phóng xạ",
-    "useSafetyGear": "lấy các biện pháp bảo vệ",
+    "useSafetyGear": "Sử dụng thiết bị bảo hộ",
     "washHand": "Rửa tay",
     "sanitize": "Khử trùng",
-    "disclaimer": "Thông tin được cung cấp ở đây là chung chung và có thể không áp dụng cho tất cả các khu vực hoặc hoàn cảnh. Nên tham khảo quy định và hướng dẫn địa phương về quản lý chất thải hữu cơ.",
+    "disclaimer": "Thông tin được cung cấp ở đây là thông tin tổng quan và có thể không áp dụng cho tất cả các khu vực hoặc tình huống. Nên tham khảo quy định và hướng dẫn địa phương về quản lý {{value}}.",
     "readMore": "Đọc thêm",
-    "readMoreSearch": "giải pháp và cách xử lý {{value}} địa phương",
-    "managementStation": "trạm quản lý",
-    "credits": "Thông tin tín dụng",
-    "visitToKnowMore": "Ghé thăm để biết thêm",
-    "sustainNatureNestBy": "Duy trì tổ tự nhiên bởi"
+    "readMoreSearch": "Giải pháp và xử lý quản lý {{value}} địa phương",
+    "credits": "Thông tin về tín dụng",
+    "visitToKnowMore": "Truy cập để biết thêm",
+    "imageSearch": "Tìm kiếm hình ảnh",
+    "uploadImage": "Tải hình ảnh lên",
+    "changeImage": "Thay đổi hình ảnh",
+    "or": "Hoặc",
+    "pasteImageLink": "Dán liên kết hình ảnh",
+    "reset": "Đặt lại",
+    "search": "Tìm kiếm",
+    "searching": "Đang tìm kiếm"
   }
 }

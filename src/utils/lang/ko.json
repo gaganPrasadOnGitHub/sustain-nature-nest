@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "유기 폐기물",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "음식물 찌꺼기",
+        "Fruit Peels": "과일 껍질",
+        "Vegetable Peels": "야채 껍질",
+        "Coffee Grounds": "커피 찌꺼기",
+        "Tea Bags": "차 봉지",
+        "Eggshells": "계란 껍질",
+        "Garden Flowers": "정원 꽃",
+        "Houseplants": "실내 식물",
+        "Grass Clippings": "잔디 깍임",
+        "Weeds": "잡초",
+        "Nut Shells": "견과류 껍질",
+        "Paper Towels": "페이퍼 타올",
+        "Cardboard": "다용도 판지",
+        "Wood Scrap": "나무 조각",
+        "Natural Fibers": "자연 섬유"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "유기 폐기물은 주로 부엌과 정원에서 발생합니다. 음식물 찌꺼기, 정원 폐기물 및 자연 섬유와 같은 생분해성 재료를 포함하며, 영양소가 풍부하여 가치 있는 토양 개량제로 전환하는 퇴비로 사용하기에 이상적입니다.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "퇴비 가능한 폐기물",
+        "Biodegradable Waste": "생분해성 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "퇴비통 (통풍이 잘 되는 금속 또는 내구성 있는 플라스틱), 녹색/갈색",
+        "handling": "처리 시 장갑을 착용하고 처분 후 손을 씻으세요. 부패하는 물질과 직접 접촉을 피하세요.",
+        "separation": "유기 폐기물을 비생체 물질 (플라스틱, 금속, 유리와 같은)로부터 분리하여 효율적인 퇴비화를 보장하세요.",
+        "whatNotToDo": "플라스틱, 금속 또는 유리와 같은 비생체 물질을 포함하지 마세요. 화학 처리 제품 또는 오일/기름 오염 물질을 처분하지 마세요.",
+        "safetyPrecautions": "유기 폐기물을 다룰 때 장갑을 사용하여 부패 물질 및 잠재적인 병원체와의 직접 접촉을 피하세요. 불쾌한 냄새가 누적되는 것을 방지하기 위해 퇴비화 지역을 잘 환기시키세요. 유기 물질을 다룬 후 손을 깨끗이 씻어 개인 위생을 유지하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "매립지 사용량 및 메탄 배출량을 줄이며 화학 비료 필요성을 낮춥니다. 지속 가능한 농업을 촉진합니다.",
+        "impact": "폐기물을 가치 있는 퇴비로 전환하여 토양을 영양분으로 무장시키고 건강한 식물 성장을 지원합니다. 지속 가능한 토지 이용을 촉진합니다."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "만약 퇴비화한다면, 세계 연간 음식 폐기물은 20억 대의 자동차가 도로에서 운전되는 총 대수를 초과하는 CO2 배출을 줄일 수 있습니다."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "농업 폐기물",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "작물 잔해",
+        "Manure": "가축 배설물",
+        "Pesticide Containers": "농약 용기",
+        "Fertilizer Bags": "비료 봉지",
+        "Farm Machinery": "농기계",
+        "Spoiled Produce": "상한 농산물",
+        "Agricultural Plastics": "농업용 플라스틱",
+        "Diseased Plants": "병든 식물",
+        "Greenhouse Films": "온실 필름",
+        "Seed Sacks": "종자 자루",
+        "Pruning Waste": "가지치기 폐기물",
+        "Irrigation Equipment": "관개 장비",
+        "Soil Amendment Packaging": "토양 개량 물질 포장재",
+        "Animal Feed Bags": "동물 사료 봉지",
+        "Silage Wraps": "사일리지 포장재",
+        "Horticultural Pots": "원예용 화분",
+        "Waste Pesticides": "폐기 농약",
+        "Contaminated Soils": "오염된 토양",
+        "Old Tools": "오래된 도구",
+        "Broken Irrigation Pipes": "고장난 관개 파이프",
+        "Discarded Gloves": "폐기 장갑",
+        "Protective Gear": "보호장구",
+        "Unused Veterinary Medicines": "사용하지 않은 수의학 약품",
+        "Baler Twine": "묶는 줄",
+        "Netting Material": "그물 재질",
+        "Plastic Mulch": "플라스틱 마루"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "농업 폐기물은 농업 활동에서 발생하는 유기 및 무기 물질을 포함합니다. 작물 잔해 및 가축 배설물과 같은 자연 생성물 뿐만 아니라 농약 용기, 플라스틱, 오래된 기계와 같은 비유기 폐기물도 포함됩니다. 효과적인 관리는 환경 영향을 최소화하고 지속 가능한 농업을 지원하기 위해 중요합니다.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "농장 폐기물",
+        "Agricultural Byproducts": "농업 부생물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "유기 및 비유기 폐기물을 분리하여 처리하는 전문 용기 사용, 유해 물질을 처리할 때 별도로 처리",
+        "handling": "유해 물질을 다룰 때 보호 장구를 사용하세요. 적용 가능한 경우 유기 폐기물을 퇴비화하세요.",
+        "separation": "화학 및 플라스틱 폐기물과 유기 폐기물을 분리하세요. 유해 물질을 조심히 다뤄야 합니다.",
+        "whatNotToDo": "플라스틱이나 화학용기를 태우지 마세요. 유기 폐기물을 유해 물질과 혼합하지 마세요.",
+        "safetyPrecautions": "유해한 화학 비료나 농약을 다룰 때 특히 장갑과 보호복을 착용하세요. 토양 개량 물질이나 온실과 같은 밀폐된 공간에서 작업할 때는 충분한 환기를 유지하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "적절한 처분은 오염을 줄이고 토양 건강을 향상시키며 지속 가능한 농업을 촉진합니다.",
+        "impact": "농업 폐기물을 효과적으로 처리하면 농업의 환경적 영향을 줄이고 자원을 보전하며 지속 가능한 농업 실천을 지원합니다."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "작물 잔해는 적절하게 관리되고 퇴비화된 경우 토양의 비옥도를 크게 향상시킬 수 있으며, 합성 비료의 필요성을 줄일 수 있습니다."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "동물 폐기물",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "가축 배설물",
+        "Bedding Straw": "침채",
+        "Livestock Carcasses": "가축 시체",
+        "Poultry Waste": "가금류 폐기물",
+        "Feathers": "깃털",
+        "Fish Waste": "어류 폐기물",
+        "Milk Spoilage": "우유 파손",
+        "Eggshell Waste": "알껍질 폐기물",
+        "Animal Hair": "동물 털",
+        "Wool": "양털",
+        "Dairy Processing Waste": "유제품 가공 폐기물",
+        "Veterinary Supplies": "수의 공급품",
+        "Expired Animal Feed": "만료된 동물 사료",
+        "Contaminated Animal Products": "오염된 동물 제품"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "동물 폐기물은 가축, 가금류 및 기타 동물 농업 활동에서 생성된 부산물을 가리킵니다. 이는 가축 배설물 및 침채와 같은 유기 폐기물뿐만 아니라 시체와 파손된 동물 유래 제품과 같은 것을 포함합니다. 환경 건강과 질병 전파 방지를 위해 적절한 처리와 처분이 중요합니다.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "가축 폐기물",
+        "Poultry Waste": "가금류 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "생물학적 위험 폐기물을 위한 전문용기 사용, 일반 폐기물과 분리",
+        "handling": "시체나 오염된 폐기물을 다룰 때 보호 장구를 사용하세요. 엄격한 위생 프로토콜을 준수하세요.",
+        "separation": "생물학적 위험 동물 폐기물을 일반 폐기물과 분리하세요. 지정된 용기에 처분하세요.",
+        "whatNotToDo": "일반 폐기물과 혼합하지 마세요. 적절한 안전 장비 없이 직접 접촉하지 마세요.",
+        "safetyPrecautions": "동물 폐기물을 다룰 때 장갑과 보호 신발을 착용하여 잠재적으로 유해한 미생물과 직접 접촉을 방지하세요. 동물 폐기물을 보관하거나 처리하는 공간이 잘 환기되도록 하세요. 동물 폐기물을 다룬 후에는 비옥한 질병 전파를 방지하기 위해 비누와 물로 손을 깨끗하게 씻으세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "적절한 관리는 환경 오염 및 인간과 동물에 대한 건강 위험을 예방합니다.",
+        "impact": "동물 폐기물의 책임있는 처분은 공중 보건, 환경 보호 및 지속 가능한 농업 실천을 지원합니다."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "한 마리의 가축이 배설물을 적절하게 처리하면 하루 동안 작은 냉장고를 가동하는 데 충분한 전기를 생산할 수 있으며, 동물 폐기물을 재생 에너지로 전환하는 잠재력을 보여줍니다."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "음식 폐기물",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "조리 음식",
+        "Uncooked Food": "미조리 음식",
+        "Meat Scraps": "고기 조각",
+        "Fish Scraps": "생선 조각",
+        "Dairy Products": "유제품",
+        "Bread": "빵",
+        "Pastries": "과자",
+        "Leftover Meals": "남은 음식",
+        "Expired Food": "만료된 식품",
+        "Rice": "쌀",
+        "Pasta": "파스타",
+        "Cheese": "치즈",
+        "Egg Shells": "계란껍질",
+        "Fruit Scraps": "과일 조각",
+        "Vegetable Scraps": "야채 조각",
+        "Coffee Grounds": "커피 찌꺼기",
+        "Tea Bags": "차 가방",
+        "Food-Soiled Paper": "음식에 더러워진 종이"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "음식 폐기물 함은 남은 음식, 만료된 항목 및 음식 조각과 같은 다양한 종류의 음식 폐기물을 처분하는 데 사용됩니다. 이 폐기물 범주는 유기 물질을 가치 있는 자원으로 변환하는 생물 소화 또는 퇴비화에 적합합니다.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "주방 폐기물",
+        "Leftover Waste": "남은 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "냄새 제어가 가능한 밀봉 용기, 어두운 녹색 또는 갈색",
+        "handling": "냄새를 줄이고 곤충을 막기 위해 음식 폐기물을 밀봉하세요. 항상 다룬 후 손을 씻고 소독하세요. 즉시 유출물을 청소하세요.",
+        "separation": "음식 폐기물을 재활용품 및 비퇴비화 불가능한 항목과 분리하여 퇴비화 및 재활용 효율성을 향상시키세요.",
+        "whatNotToDo": "음식 폐기물을 액체, 오일 또는 화학 물질과 혼합하지 마세요. 플라스틱 또는 금속과 같은 비생분해 불가능한 항목을 포함하지 마세요. 음식 폐기물을 덮지 않고 방치하지 마세요. 곤충을 유인하고 냄새를 발생시킬 수 있습니다.",
+        "safetyPrecautions": "음식 폐기물을 다룰 때, 특히 대량으로 다룰 때 잠재적인 상해와 세균으로부터 보호하기 위해 장갑을 착용하세요. 음식 폐기물 용기를 깨끗하게 하고 덮어서 곤충을 유인하고 냄새를 발생하지 않도록 하세요. 음식 폐기물과 접촉하는 손, 도구 및 표면을 깨끗이 청소하여 위생을 유지하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "곤충 유인 방지, 폐기물 매립지에서의 온실 가스 배출 감소 및 퇴비 또는 바이오가스 생산을 용이하게 합니다.",
+        "impact": "음식 폐기물의 적절한 관리는 자원을 절약하고 환경 영향을 줄이며 지속 가능한 실천을 촉진합니다."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "음식 폐기물이 국가라면 세계에서 미국과 중국에 이어 세 번째로 큰 온실 가스 배출원이 될 것입니다. 음식 폐기물을 줄이는 것은 환경 영향을 최소화하기 위한 중요한 과제입니다."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "녹색 폐기물",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "잔디 자르기",
+        "Leaves": "나뭇잎",
+        "Branches": "가지",
+        "Weeds": "잡초",
+        "Flowers": "꽃",
+        "Garden Trimmings": "정원 다듬기",
+        "Shrubs": "관목",
+        "Small Twigs": "작은 가지",
+        "Hedge Clippings": "가지가위 자르기",
+        "Fallen Fruit": "떨어진 과일",
+        "Garden Maintenance": "정원 유지보수",
+        "Plant Prunings": "식물 가지치기"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "식물 및 정원 폐기물로 이루어진 녹색 폐기물은 유기 재활용에 중요한 역할을 합니다. 녹색 폐기물을 퇴비화하면 지속 가능한 정원과 농업을 위한 영양이 풍부한 토양 개량물을 생산하는 데 기여합니다.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "마당 폐기물",
+        "Garden Waste": "정원 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "대용량 개봉형 용기, 가능하면 녹색",
+        "handling": "녹색 폐기물을 다룰 때는 거친 물질로 인한 상처나 자극을 피하기 위해 장갑을 사용하세요. 처분 후 손을 깨끗이 씻으세요.",
+        "separation": "녹색 폐기물을 가정 폐기물 및 유해 폐기물로부터 분리하세요. 음식 폐기물이나 재활용품과 혼합하지 마세요.",
+        "whatNotToDo": "비생분해 물질인 플라스틱 봉지나 화분과 같은 비유기 물질의 처분을 피하세요. 토양이나 돌을 추가하지 마세요. 퇴비를 오염시킬 수 있는 질병이 있는 식물이나 침략종을 추가하지 마세요.",
+        "safetyPrecautions": "녹색 폐기물을 다룰 때는 날카로운 물질로부터 보호하기 위해 장갑을 착용하고, 처리된 나무와 같은 유해 물질을 포함하지 않도록 확인하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "퇴비 생산을 용이하게 하고 토양 건강을 풍부하게 하며 탄소 포집에 도움을 줍니다. 매립지 공간 사용량을 줄이고 온실 가스 배출을 감소시킵니다.",
+        "impact": "녹색 폐기물은 지속 가능한 폐기물 관리에 기여하며 토양에서 생물 다양성을 지원하고 환경 친화적인 정원과 농업 실천을 촉진합니다."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "잔디 자르기와 나뭇잎과 같은 녹색 폐기물은 '정원사들 사이에서 '검은 금'으로 알려진 풍부한 토양을 만들기 위해 퇴비화할 수 있으며 화학 비료 없이 식물 성장을 향상시킵니다."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "재활용 폐기물",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "신문",
+        "Magazines": "잡지",
+        "Office Paper": "사무용지",
+        "Cardboard": "다발지",
+        "Plastic Bottles": "플라스틱 병",
+        "Plastic Containers": "플라스틱 용기",
+        "Glass Bottles": "유리 병",
+        "Glass Jars": "유리 병자리",
+        "Aluminum Cans": "알루미늄 캔",
+        "Steel Cans": "철 캔",
+        "Electronics": "전자제품",
+        "Textiles": "직물",
+        "Untreated Wood": "처리되지 않은 나무",
+        "Aerosol Cans": "에어로졸 캔",
+        "Batteries": "배터리",
+        "Non-LED Light Bulbs": "LED가 아닌 전구"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "재활용 가능한 폐기물에는 추가 사용을 위해 재처리할 수 있는 다양한 재료가 포함됩니다. 이 범주의 주요 항목으로는 종이 제품, 플라스틱, 유리, 금속 및 특정 종류의 전자제품이 포함되며 모두 자원 보전과 환경 지속 가능성에 중요한 역할을 합니다.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "재활용통, 금속 또는 내구성 있는 플라스틱",
+        "handling": "재활용하기 전에 물건이 깨끗하고 건조한지 확인하세요. 지역 재활용 지침에 따라 분리하세요.",
+        "separation": "재활용 가능한 다양한 종류의 물질을 분리하여 비재활용물질과 혼합되지 않도록 합니다.",
+        "whatNotToDo": "더러운, 오염된 또는 비재활용 가능한 물질을 포함하지 않도록 합니다. 구체적인 처분 방법은 지역 재활용 규정을 준수하세요.",
+        "safetyPrecautions": "재활용물을 다룰 때 필요한 경우 적절한 안전 장비를 착용하세요. 재활용 재료 근처에 있는 곤충이나 동물에 주의하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "신규 원료 필요성을 줄이며 에너지를 절약하며 폐기물의 환경적 영향을 줄입니다.",
+        "impact": "지속 가능한 자원 관리를 지원하여 환경 보전 및 보호 노력에 기여합니다."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "재활용은 폐기물의 환경적 영향을 줄이고 미래 세대를 위한 귀중한 자원을 보존하는 데 도움이 됩니다."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "자동차 폐기물",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "사용된 엔진 오일",
+        "Oil Filters": "오일 필터",
+        "Batteries": "배터리",
+        "Tires": "타이어",
+        "Brake Pads": "브레이크 패드",
+        "Brake Fluid": "브레이크 유체",
+        "Transmission Fluid": "변속기 유체",
+        "Coolants": "냉각수",
+        "Metal Parts": "금속 부품",
+        "Rubber Hoses": "고무 호스",
+        "Belts": "벨트",
+        "Air Filters": "공기 필터",
+        "Windshield Glass": "앞유리",
+        "Upholstery Materials": "시트 소재",
+        "Automotive Bumpers": "자동차 범퍼",
+        "Headlights": "헤드라이트",
+        "Electrical Components": "전기 부품"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "자동차 폐기물은 차량에서 폐기된 다양한 재료와 부품을 포함합니다. 엔진 오일, 배터리, 타이어 및 기계 부품과 같은 유해 및 비유해 폐기물 유형을 모두 포함하며, 자동차 폐기물의 적절한 처분과 재활용은 환경 보호와 자원 보전에 중요합니다.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "차량 폐기물",
+        "Car Waste": "자동차 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "유해 물질에 대한 특수 용기 및 큰 부품을 위한 지정 영역",
+        "handling": "특히 유해 물질을 다룰 때 주의하세요. 엔진 오일 및 화학 물질을 다룰 때 안전 장비를 사용하세요.",
+        "separation": "오일 및 배터리와 같은 유해 폐기물을 비유해 항목과 분리하세요. 각 유형의 처분에 대한 지역 규정을 따르세요.",
+        "whatNotToDo": "자동차 오일 및 화학 물질을 일반 쓰레기나 배수구에 버리지 마세요. 다른 유형의 자동차 폐기물을 혼합하지 않도록 하세요.",
+        "safetyPrecautions": "사용된 오일, 배터리 및 타이어와 같은 자동차 폐기물을 다룰 때 유해 물질과의 접촉을 피하려면 장갑과 안전 안경을 착용하세요. 특히 자동차 유체를 다룰 때 환기가 잘 되는 장소에서 작업하세요. 환경 오염을 방지하기 위해 자동차 폐기물을 지정된 재활용 센터에서 처분하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "환경 오염을 방지하고 귀중한 자원을 보존하며 재활용 계획을 지원합니다.",
+        "impact": "자동차 사용 및 유지 관리의 생태학적 피 footprint를 최소화하고 더 깨끗하고 안전한 환경을 위해 기여합니다."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "한 대의 자동차를 재활용하면 철 광석 2,500 파운드, 석탄 1,400 파운드 및 석회암 120 파운드를 절약할 수 있습니다. 이 프로세스는 또한 새로운 자동차 부품과 차량을 생산하는 데 필요한 에너지 및 원자재를 크게 줄입니다."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "대형 폐기물",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "가구",
+        "Appliances": "가전제품",
+        "Mattresses": "매트리스",
+        "Large Toys": "대형 장난감",
+        "Carpeting": "카펫",
+        "Bicycles": "자전거",
+        "Large Electronics": "대형 전자제품",
+        "BBQ Grills": "바베큐 그릴",
+        "Exercise Equipment": "운동 기구",
+        "Large Household Items": "대형 가정용품"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "대형 폐기물에는 일반 쓰레기통에 들어가지 않는 큰 물품들이 포함됩니다. 대형 폐기물의 적절한 처분은 효율적인 폐기물 관리와 환경 보전에 중요합니다. 대형 물품을 재활용하면 자원 보전에 기여할 수 있습니다.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "대형 폐기물",
+        "Oversized Items": "대형 아이템"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "특수 수거 또는 드롭오프 지점",
+        "handling": "구체적인 처분 지침을 위해 지역 폐기물 관리 기관에 문의하세요. 일부 물품은 특별한 처리나 픽업 서비스가 필요할 수 있습니다.",
+        "separation": "다른 종류의 대형 물품을 적절한 재활용 또는 처분 방법을 위해 분리하세요.",
+        "whatNotToDo": "적절한 수거를 위해 큰 물품을 도로에 놓아두지 마세요. 불법 폐기를 피하세요.",
+        "safetyPrecautions": "가구, 가전제품 및 대형 장난감과 같은 대형 폐기물을 다룰 때 등 부상을 피하기 위해 적절한 들기 기술을 사용하세요. 무거운 물건을 옮길 때는 도움을 받거나 트롤리를 사용하는 것이 좋습니다. 날카로운 가장자리로부터 보호 및 그립을 위해 장갑을 착용하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "대형 폐기물의 적절한 처분은 매립지 사용량을 줄이고 재활용을 촉진하며 더 깨끗하고 안전한 환경을 조성합니다.",
+        "impact": "대형 물품의 재활용은 귀중한 자원 회수, 환경 영향 감소 및 지속 가능한 폐기물 관리를 지원합니다."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "가구 및 다른 대형 물품은 종종 매립지에 버려지지만 재목적화 또는 재활용된다면 단 하나의 소파로도 매립지 공간을 최대 9 큐빅 야드 절약할 수 있으며, 대형 물품의 재활용 및 재사용의 중요한 영향을 보여줍니다."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "건설 및 해체 폐기물",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "콘크리트",
+        "Bricks": "벽돌",
+        "Wood": "나무",
+        "Gypsum": "석고",
+        "Metal": "금속",
+        "Glass": "유리",
+        "Plastic": "플라스틱",
+        "Insulation Materials": "단열재",
+        "Electrical Wiring": "전기 배선",
+        "Plumbing Fixtures": "배관 고정장치",
+        "Ceramic Tiles": "도기 타일",
+        "Asphalt": "아스팔트",
+        "Roofing Materials": "지붕 재료",
+        "Windows": "창문",
+        "Doors": "문",
+        "Piping": "파이프",
+        "Reinforced Concrete": "강화 콘크리트",
+        "Drywall": "건식 벽체",
+        "Flooring Materials": "바닥재료",
+        "Wall Coverings": "벽 장식재"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "건설 및 해체 폐기물은 건물과 구조물의 건설, 개보수 및 해체 작업에서 나온 재료를 포함합니다. 적절한 관리는 재료를 재활용하고 환경 영향을 최소화하는 데 중요합니다.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "건물 폐기물",
+        "Renovation Debris": "개보수 잔해물"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "특수 수거 또는 지정된 폐기 지역",
+        "handling": "폐기에 대한 지역 규정을 확인하세요. 일부 재료는 특수 처리나 취급이 필요할 수 있습니다.",
+        "separation": "재활용을 위해 재료를 유형별로 분리하세요(예: 금속, 나무, 콘크리트).",
+        "whatNotToDo": "건설 및 해체 폐기물을 일반 가정용 폐기물과 섞지 마세요. 불법 폐기와 부적절한 처분을 피하세요.",
+        "safetyPrecautions": "나무, 금속, 콘크리트와 같은 건설 및 해체 폐기물의 날카로운 물체와 잔해로부터 보호하기 위해 튼튼한 장갑과 안전 안경을 착용하세요. 무거운 물품으로부터의 부상을 피하기 위해 적절한 신발이 필요합니다. 미세 입자와 먼지로부터 보호하기 위해 먼지 마스크를 사용하세요. 무거운 물품을 다룰 때는 적절한 들기 기술을 사용하여 등 부상을 피하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "적절한 폐기는 재료 재활용을 촉진하고 매립지 사용을 줄이며 환경 오염을 최소화합니다.",
+        "impact": "건설 및 해체 폐기물의 재활용은 자원 보전을 지원하고 재활용 재료로 건설 산업을 지원하며 지속 가능한 발전에 기여합니다."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "1톤의 콘크리트 재활용은 최대 1,360 갤런의 물과 900kg의 이산화탄소를 절약할 수 있으며, 매립지에 폐기하는 대신 건설 및 해체 폐기물을 재활용하는 중요한 환경적 이점을 강조합니다."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "전자 폐기물",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "컴퓨터",
+        "Laptops": "노트북",
+        "Mobile Phones": "휴대전화",
+        "Printers": "프린터",
+        "Scanners": "스캐너",
+        "Televisions": "텔레비전",
+        "Monitors": "모니터",
+        "DVD Players": "DVD 플레이어",
+        "Game Consoles": "게임 콘솔",
+        "Small Appliances": "소형 가전제품",
+        "Electronic Tools": "전자 도구",
+        "Batteries": "배터리",
+        "Circuit Boards": "회로 기판",
+        "Hard Drives": "하드 드라이브",
+        "Keyboards": "키보드",
+        "Mice": "마우스",
+        "Speakers": "스피커",
+        "Chargers": "충전기",
+        "Cables": "케이블",
+        "Cameras": "카메라",
+        "Electronic Toys": "전자 장난감",
+        "CDs": "CD",
+        "DVDs": "DVD",
+        "GPS Devices": "GPS 장치"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "전자 폐기물 또는 E-폐기물은 폐기된 전자 장치와 장비를 포함합니다. 가치 있는 재료 회수와 환경 오염 방지를 위해 적절한 재활용과 폐기가 필요합니다.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE (폐전기전자 장비)",
+        "E-Waste": "E-폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "전용 E-폐기물 수거 지점 또는 재활용 센터",
+        "handling": "E-폐기물을 부러지거나 유해 물질 유출을 피하려면 주의해서 다뤄야 합니다. 지역 규정을 따라 폐기하세요.",
+        "separation": "일반 가정용 폐기물과 E-폐기물을 분리하세요. 효율적인 재활용을 위해 유형별로 분류하세요.",
+        "whatNotToDo": "E-폐기물을 일반 휴지통에 버리지 마세요. 전자 장치를 분해하거나 부수는 것을 피하세요. 이로 인해 유독물질이 방출될 수 있습니다.",
+        "safetyPrecautions": "오래된 컴퓨터와 TV와 같은 E-폐기물을 다룰 때는 날카로운 가장자리로부터 보호하기 위해 장갑을 사용하세요. 전자 제품에서 납과 수은과 같은 유해 물질에 주의하세요. 노출을 방지하기 위해 부수지 않도록 하세요. 안전한 처분을 위해 지정된 센터에서 재활용하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "E-폐기물의 적절한 처분은 가치 있는 재료 재활용을 촉진하고 매립지 사용을 줄이며 환경을 유해 물질로부터 보호합니다.",
+        "impact": "E-폐기물 재활용은 순환 경제를 지원하며 새로운 원자재 필요를 줄이고 생태학적 발자국을 최소화합니다."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "백만 대의 노트북을 재활용하면 1년 동안 3,500개의 미국 가정을 전기로 공급하는 데 필요한 에너지를 절약할 수 있습니다. 백만 대의 휴대전화를 재활용하면 구리 35,274 파운드, 은 772 파운드, 금 75 파운드, 팔라듐 33 파운드를 회수할 수 있습니다."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "유리 폐기물",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "유리 병",
+        "Glass Jars": "유리 병",
+        "Window Glass": "창 유리",
+        "Mirror Glass": "거울 유리",
+        "Glass Containers": "유리 용기",
+        "Drinking Glasses": "유리 음료잔",
+        "Broken Glassware": "깨진 유리 용품",
+        "Automotive Glass": "자동차 유리",
+        "Glass Tableware": "유리 식기",
+        "Light Bulbs": "전구 (형광등 아님)",
+        "Laboratory Glassware": "실험실 유리 용품",
+        "Tempered Glass": "강화유리",
+        "Glass Shards": "유리 파편"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "유리 폐기물은 다양한 유리 제품을 포함합니다. 유리 재활용은 새로운 원자재 필요를 줄이고 새로운 유리 제품으로 재가공될 수 있어 중요합니다.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "깨진 유리",
+        "Discarded Glassware": "폐기된 유리 용품"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "유리 재활용함 또는 제공되는 수거 장소",
+        "handling": "유리 폐기물을 다룰 때 다침을 피하도록 주의하세요. 필요한 경우 유리 외 다른 구성 요소를 제거하세요.",
+        "separation": "가능한 경우 유리를 색상과 유형별로 분리하여 재활용 효율성을 높이세요.",
+        "whatNotToDo": "유리를 일반 휴지통에 버리지 마세요. 다른 재활용품과 섞어서 오염시키지 않도록 주의하세요.",
+        "safetyPrecautions": "깨진 유리를 다룰 때 상처를 방지하기 위해 장갑을 사용하세요. 대량의 유리 폐기물을 처리할 경우 유리 파편이나 찔리지 않도록 안경을 착용하는 것이 좋습니다. 무거운 유리 용품을 올릴 때는 올바른 기술을 사용하여 부상을 방지하세요. 유리 폐기물을 단단한 용기에 보관하여 파손을 방지하고 안전한 운송을 보장하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "유리 재활용은 매립지 폐기물을 줄이고 자연 자원을 보존하며 에너지를 절약합니다. 유리는 품질 손실 없이 무한히 재활용할 수 있습니다.",
+        "impact": "효과적인 유리 재활용은 환경 영향을 줄이고 지속 가능한 자원 사용을 지원하며 순환 경제에 기여합니다."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "유리 재활용은 매우 효율적입니다. 회수된 유리 용기의 80%는 새로운 유리 병으로 만들어지며, 유리 용기는 재활용통에서 가게 선반까지 단 30일 만에 도달할 수 있습니다."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "산업 폐기물",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "화학 용매",
+        "Metal Scraps": "금속 스크랩",
+        "Plastic Offcuts": "플라스틱 잔류물",
+        "Construction Debris": "건설 잔재물",
+        "Electronic Components": "전자 부품",
+        "Paper and Cardboard": "종이 및 판지",
+        "Textile Scraps": "직물 잔류물",
+        "Glass Pieces": "유리 파편",
+        "Rubber Waste": "고무 폐기물",
+        "Biodegradable Waste": "생분해성 폐기물",
+        "Non-Biodegradable Waste": "비생분해성 폐기물",
+        "Hazardous Materials": "유해 물질",
+        "Non-Hazardous Materials": "비유해 물질",
+        "Industrial Sludge": "산업 스러지",
+        "Packaging Materials": "포장재료"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "산업 폐기물은 산업 및 제조 공정에서 발생하는 다양한 재료로 구성됩니다. 환경 영향을 최소화하기 위해 적절한 관리, 재활용 및 안전한 처분이 중요합니다.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "제조 폐기물",
+        "Production Waste": "생산 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "특수 산업 폐기물 용기 또는 재활용 시설",
+        "handling": "유해 물질을 다룰 때를 포함하여 적절한 안전 장비를 사용하세요. 처분에 대한 모든 규정 가이드라인을 따르세요.",
+        "separation": "폐기물을 유형(예: 유해 vs 비유해)과 재료(예: 금속, 플라스틱)별로 분리하여 재활용 및 처분을 용이하게 하세요.",
+        "whatNotToDo": "유해한 산업 폐기물을 비유해한 폐기물과 섞지 마세요. 불법 투기나 부적절한 처분을 피하세요.",
+        "safetyPrecautions": "산업 폐기물을 다룰 때 항상 장갑, 보호 안경 및 마스크를 사용하세요, 특히 유해 물질이 포함되어 있을 때."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "산업 폐기물을 적절히 처리하고 재활용하면 자원을 보존하고 오염을 줄이며 지속 가능한 산업 관행을 지원합니다.",
+        "impact": "산업 폐기물의 효과적인 관리는 매립지에 가해지는 압력을 줄이고 환경 위험을 최소화하며 순환 경제에 기여합니다."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "산업용 금속 재활용은 원자재로부터 생산하는 데 필요한 에너지의 최대 75%를 절약할 수 있습니다."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "금속 폐기물",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "알루미늄 캔",
+        "Tin Cans": "주물 캔",
+        "Steel Scraps": "강철 스크랩",
+        "Copper Wire": "구리 와이어",
+        "Metal Pipes": "금속 파이프",
+        "Metal Tools": "금속 공구",
+        "Metal Packaging": "금속 포장재",
+        "Automotive Parts": "자동차 부품",
+        "Metal Furniture": "금속 가구",
+        "Metal Appliances": "금속 가전제품",
+        "Construction Materials": "건설 자재",
+        "Aerosol Cans": "에어로졸 캔",
+        "Electronic Metals": "전자 금속",
+        "Metal Caps": "금속 캡",
+        "Metal Lids": "금속 뚜껑"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "금속 폐기물은 다양한 폐기된 금속 제품과 자재를 포함합니다. 이것은 고도로 재활용 가능하며 새로운 금속 제품으로 재가공되어 원산지 광석 추출의 필요성을 줄입니다.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "고철",
+        "Discarded Metal": "폐금속"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "금속 재활용용 빈 또는 고철 장",
+        "handling": "금속을 유형별로 분류하고 가능하면 비금속 구성 요소를 제거하세요. 부상을 피하기 위해 주의해서 다루세요.",
+        "separation": "철제 금속(강철 및 철)을 비철금속(알루미늄 및 구리와 같은)과 분리하여 재활용 효율성을 향상시키세요.",
+        "whatNotToDo": "금속 폐기물을 일반 쓰레기와 함께 버리지 마세요. 지역 재활용 시설에서 지시하지 않는 한 서로 다른 종류의 금속을 혼합하지 마세요.",
+        "safetyPrecautions": "금속 폐기물을 다룰 때 상처와 부상을 방지하기 위해 장갑과 보호용 신발을 착용하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "금속 재활용은 에너지를 절약하고 온실 가스 배출을 줄이며 자원을 보존합니다. 금속은 자원의 품질을 저하시키지 않고 여러 번 재활용할 수 있습니다.",
+        "impact": "효과적인 금속 재활용은 환경 영향을 줄이고 새로운 광업 수요를 감소시키며 지속 가능한 자원 관리를 지원합니다."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "알루미늄 캔을 1개 재활용하면 TV를 3시간 동안 작동시킬 만큼의 에너지를 절약할 수 있습니다."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "종이 폐기물",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "신문",
+        "Magazines": "잡지",
+        "Office Paper": "사무용 종이",
+        "Notebooks": "노트북",
+        "Envelopes": "봉투",
+        "Junk Mail": "스팸 메일",
+        "Cardboard Boxes": "판지 상자",
+        "Paper Packaging": "종이 포장재",
+        "Paper Bags": "종이 봉지",
+        "Phone Books": "전화번호부",
+        "Catalogs": "카탈로그",
+        "Shredded Paper": "파쇄된 종이",
+        "Paper Cups": "종이 컵",
+        "Paper Plates": "종이 접시",
+        "Greeting Cards": "인사말 카드",
+        "Wrapping Paper": "포장지"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "종이 폐기물은 다양한 종류의 폐기된 종이와 종이 제품을 포함합니다. 종이 폐기물 재활용은 삼림 파괴를 줄이고 자연 자원을 보존하는 데 중요합니다.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "폐기된 종이",
+        "Paper Scraps": "종이 스크랩"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "종이 재활용함",
+        "handling": "비 종이 구성 요소(플라스틱 라이너, 스테이플러, 또는 테이프 등)를 제거하세요. 종이를 건조하고 깨끗하게 유지하여 효과적인 재활용을 돕습니다.",
+        "separation": "종이를 유형(예: 판지, 사무용 종이) 및 상태(예: 깨끗한 종이, 얼룩진 종이)에 따라 분리하여 재활용 효율성을 향상시키세요.",
+        "whatNotToDo": "물에 젖거나 기름진 종이 폐기물을 깨끗한 종이와 혼합하지 마세요. 재활용 가능한 종이를 일반 쓰레기통에 버리지 마세요.",
+        "safetyPrecautions": "대부분의 종이 폐기물을 다룰 때 별도의 안전 조치가 필요하지 않습니다."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "종이 재활용은 새로운 종이 생산의 필요를 줄여나무를 보호하고 에너지 및 물 사용을 감소시킵니다.",
+        "impact": "효과적인 종이 재활용은 매립지 사용을 최소화하며 온실 가스 배출을 줄이며 지속 가능한 삼림 관리를 지원합니다."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "1톤의 종이를 재활용하면 17그루의 나무와 7,000갤런의 물을 절약할 수 있습니다."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "플라스틱 폐기물",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "플라스틱 병",
+        "Plastic Bags": "비닐 봉투",
+        "Plastic Packaging": "플라스틱 포장재",
+        "Plastic Containers": "플라스틱 용기",
+        "Plastic Utensils": "플라스틱 식기",
+        "Plastic Wraps": "플라스틱 랩",
+        "Plastic Toys": "플라스틱 장난감",
+        "Polystyrene Foam": "폴리스티렌 폼",
+        "Plastic Cups": "플라스틱 컵",
+        "Plastic Plates": "플라스틱 접시",
+        "Plastic Film": "플라스틱 필름",
+        "Water Bottles": "물병",
+        "Detergent Bottles": "세제 병",
+        "Shampoo Bottles": "샴푸 병",
+        "Plastic Caps": "플라스틱 뚜껑",
+        "Plastic Lids": "플라스틱 뚜껑",
+        "Plastic Furniture": "플라스틱 가구",
+        "Plastic Hangers": "플라스틱 옷걸이"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "플라스틱 폐기물은 다양한 종류의 폐기된 플라스틱 제품을 포함합니다. 긴 분해 기간 때문에 플라스틱 폐기물의 재활용 및 적절한 처분은 환경 영향을 줄이기 위해 중요합니다.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "폐기된 플라스틱",
+        "Scrap Plastics": "플라스틱 스크랩"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "플라스틱 재활용함 또는 시설",
+        "handling": "재활용 전에 플라스틱을 깨끗하게 세척하고 건조하세요. 라벨이나 뚜껑과 같은 비 플라스틱 구성 요소를 제거하세요.",
+        "separation": "다른 종류의 플라스틱은 다른 재활용 과정이 필요하기 때문에 종류 및 카테고리별로 분리하세요.",
+        "whatNotToDo": "플라스틱 폐기물을 다른 재활용물 또는 일반 쓰레기와 혼합하지 마세요. 큰 플라스틱 물건을 일반 쓰레기통에 버리지 마세요.",
+        "safetyPrecautions": "대부분의 플라스틱 폐기물을 다룰 때 별도의 안전 조치가 필요하지 않습니다."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "플라스틱 재활용은 새로운 플라스틱 생산의 필요를 줄이고 자원을 보존하며 오염을 감소시킵니다. 또한 매립지와 해양으로 플라스틱이 유입되는 양을 줄이는 데 도움이 됩니다.",
+        "impact": "효과적인 플라스틱 재활용은 환경 지속 가능성에 기여하며 온실 가스 배출을 감소시키고 폐기물 관리 효율성을 지원합니다."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "1톤의 플라스틱을 재활용하면 매립지 공간을 최대 7.4 기후야드 절약할 수 있습니다."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "고무 폐기물",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "사용된 타이어",
+        "Rubber Bands": "고무 고무줄",
+        "Rubber Gloves": "고무 장갑",
+        "Rubber Hoses": "고무 호스",
+        "Rubber Footwear": "고무 신발",
+        "Rubber Mats": "고무 매트",
+        "Conveyor Belts": "컨베이어 벨트",
+        "Rubber Gaskets": "고무 패킹",
+        "Rubber Seals": "고무 씰",
+        "Rubber Sheets": "고무 시트",
+        "Rubber Toys": "고무 장난감",
+        "Automotive Rubber": "자동차용 고무",
+        "Rubber Tubing": "고무 튜브",
+        "Elastomeric Materials": "탄성체 재료",
+        "Synthetic Rubber": "합성 고무"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "고무 폐기물은 다양한 폐기된 고무 제품으로 구성됩니다. 고무는 매립지에서 분해되는 데 오랜 시간이 걸리므로 고무 재활용은 자원을 보존하고 환경 영향을 줄이는 데 중요합니다.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "고무 스크랩",
+        "Waste Rubber": "폐기된 고무"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "고무 재활용 시설 또는 수거 지점",
+        "handling": "고무 폐기물을 다룰 때 특히 크거나 무거운 물건을 다룰 때 주의하세요. 환경 오염을 방지하기 위해 적절한 저장을 보장하세요.",
+        "separation": "효과적인 재활용을 위해 다른 종류의 고무 폐기물을 분리하세요. 가능하면 비 고무 구성 요소를 제거하세요.",
+        "whatNotToDo": "고무 폐기물을 일반 쓰레기통에 버리지 마세요. 고무 폐기물을 태우면 유해한 독소가 방출되므로 피하세요.",
+        "safetyPrecautions": "고무 폐기물을 다룰 때 피부 자극을 피하기 위해 장갑과 보호복을 착용하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "고무 재활용은 매립지 폐기물과 오염을 줄이는 데 도움이 됩니다. 고무는 고무 껌, 매트, 아스팔트 첨가제 등 다양한 제품으로 재활용될 수 있습니다.",
+        "impact": "고무 폐기물의 효과적인 관리는 환경 지속 가능성을 지원하고 고무 생산에 사용되는 재생 불가능한 자원을 보존하는 데 도움이 됩니다."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "타이어에서 재활용된 고무는 인조 잔디, 놀이터 표면 및 일부 산업 프로세스에서 연료원으로 사용될 수 있습니다."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "섬유 폐기물",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "의류",
+        "Bed Linens": "침대 시트",
+        "Towels": "수건",
+        "Curtains": "커튼",
+        "Fabric Scraps": "원단 조각",
+        "Carpeting": "카펫",
+        "Upholstery": "패브릭 가구 채집물",
+        "Footwear": "신발",
+        "Handbags": "핸드백",
+        "Belts": "벨트",
+        "Hats": "모자",
+        "Socks": "양말",
+        "Non-reusable Textiles": "재사용 불가능한 섬유제품",
+        "Stuffed Toys": "솜으로 채운 장난감",
+        "Ropes": "로프",
+        "Thread": "실",
+        "Yarn": "실"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "섬유 폐기물은 폐기된 원단 및 의류 재료로 구성됩니다. 환경 폐기물의 중요한 구성 요소입니다. 섬유 폐기물을 재활용하고 다시 활용하는 것은 환경에 미치는 영향을 줄이기 위해 중요합니다.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "폐기된 원단",
+        "Scrap Textiles": "폐기물 섬유"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "섬유 재활용통 또는 기부 센터",
+        "handling": "재활용 전에 섬유제품을 깨끗하게 세탁하고 말려주세요. 손상된 또는 낡은 섬유제품은 새로운 제품으로 다시 활용하거나 재활용할 수 있습니다.",
+        "separation": "효율적인 재활용 또는 다시 활용을 위해 섬유제품을 종류별로(예: 면, 폴리에스터) 및 상태별(예: 입을 수 있는, 입을 수 없는)로 분리하세요.",
+        "whatNotToDo": "입을 수 있는 섬유제품은 일반 쓰레기와 함께 버리지 마세요. 심하게 더러운 또는 오염된 섬유제품은 적절한 처리 없이 버리지 마세요.",
+        "safetyPrecautions": "대부분의 섬유 폐기물을 다룰 때 특별한 안전 조치는 필요하지 않습니다."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "섬유 재활용은 자원을 보존하며 매립지 폐기물을 줄이며 새로운 원자재에 대한 수요를 줄입니다. 다시 활용된 섬유는 다양한 용도로 활용될 수 있습니다.",
+        "impact": "효과적인 섬유 폐기물 관리는 지속 가능한 패션을 지원하며 환경 오염을 줄이고 섬유 산업에서 원형 경제를 촉진합니다."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "섬유제품 1톤을 재활용하거나 다시 활용하면 약 7톤의 이산화탄소 배출을 방지할 수 있습니다."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "나무 폐기물",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "목재 스크랩",
+        "Pallets": "팔레트",
+        "Timber Offcuts": "목재 잔재",
+        "Furniture Pieces": "가구 조각",
+        "Branches": "나뭇가지",
+        "Twigs": "가지",
+        "Sawdust": "톱밥",
+        "Plywood": "합판",
+        "Particle Board": "파티클 보드",
+        "Wooden Crates": "나무 상자",
+        "Wooden Tools": "나무 도구",
+        "Construction Debris": "건설 잔재",
+        "Floorboards": "바닥재",
+        "Window Frames": "창문 프레임",
+        "Door Frames": "문 프레임",
+        "Tree Stumps": "나무 그루터기",
+        "Wooden Fencing": "나무 울타리",
+        "Decking Material": "데크 재료",
+        "Firewood Scraps": "장작 스크랩"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "나무 폐기물은 다양한 폐기된 나무 제품과 재료로 구성됩니다. 나무 폐기물을 재활용하고 다시 활용하여 산림 벌채를 줄이고 폐기물을 지속 가능하게 관리하는 것이 중요합니다.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "폐기된 나무",
+        "Used Wood": "사용된 나무"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "나무 재활용 시설 또는 전용 수거 지점",
+        "handling": "나무 폐기물을 다룰 때 찔리거나 부상을 방지하기 위해 주의하세요. 못이나 나사와 같은 비나무 구성 요소를 제거하세요.",
+        "separation": "나무 처리 여부에 따라 처리된 나무와 처리되지 않은 나무를 분리하십시오. 효율적인 재활용을 위해 종류와 크기별로 분류하세요.",
+        "whatNotToDo": "나무 폐기물을 일반 쓰레기와 함께 버리지 마세요, 특히 화학 물질로 처리된 경우입니다. 화학 물질로 처리된 나무를 태우지 마세요. 유독 가스가 발생할 수 있습니다.",
+        "safetyPrecautions": "나무 폐기물을 다룰 때 찔림 또는 날카로운 가장부로 인한 부상을 방지하기 위해 장갑과 안전 안경을 착용하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "나무 폐기물을 재활용하면 매립지 사용을 줄이고 자연 자원을 보존하며 지속 가능한 산림 관리를 지원합니다.",
+        "impact": "효과적인 나무 폐기물 관리는 환경 오염을 줄이고 건설 및 제조 분야에서 재사용을 위한 가치 있는 자원을 제공합니다."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "나무 폐기물 1톤을 재활용하면 약 1,000갤런의 가솔린 에너지를 절약할 수 있습니다."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "유해 폐기물",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "유독 화학물질",
+        "Solvents": "용제",
+        "Pesticides": "농약",
+        "Herbicides": "제초제",
+        "Medical Sharps": "의료용 날카로운 폐기물",
+        "Contaminated Materials": "오염된 물질",
+        "Radioactive Substances": "방사성 물질",
+        "Contaminated Sanitary Products": "오염된 위생용품",
+        "Sewage Treatment Waste": "하수 처리 폐기물",
+        "Automotive Fluids": "자동차 유체",
+        "Antifreeze": "항동결액",
+        "Brake Fluid": "브레이크 유체",
+        "Lead-based Paints": "납 기반 도료",
+        "Electronic Hazardous Components": "전자 유해 구성 요소",
+        "Industrial Residues": "산업 잔해물",
+        "Used Oil": "사용된 오일",
+        "Oil-Contaminated Materials": "오일 오염 물질",
+        "Toxic Plastic Additives": "유독성 플라스틱 첨가제"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "유해 폐기물은 건강과 환경에 중대한 위험을 가하는 다양한 물질을 포함합니다. 이러한 위험을 완화하기 위해 적절한 처리, 저장 및 폐기가 필수적입니다.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "위험한 폐기물",
+        "Toxic Waste": "유해 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "전용 유해 폐기물 수거 시설",
+        "handling": "안전 장비를 사용하여 매우 주의하여 다루세요. 저장 및 폐기에 대한 모든 지역 및 연방 규정을 준수하세요.",
+        "separation": "서로 다른 유해 폐기물 유형을 분리하십시오. 이들은 고유한 처리 및 폐기 방법이 필요합니다.",
+        "whatNotToDo": "유해 폐기물을 일반 쓰레기통이나 하수로 버리지 마세요. 무단으로 투기하지 마세요.",
+        "safetyPrecautions": "유해 물질을 다룰 때 항상 장갑, 안경 및 마스크를 착용하세요. 적절한 환기를 유지하고 직접 접촉을 피하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "유해 폐기물을 적절히 관리하면 환경 오염을 방지하고 공중 보건을 보호하며 법적 기준을 준수합니다.",
+        "impact": "유해 물질을 주의 깊게 처리하면 토양 및 수질 오염 위험을 줄이고 더 안전하고 깨끗한 환경을 지원합니다."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "1분의 모터 오일을 적절히 처분하면 최대 2백만 갤런의 음용수가 오염되는 것을 방지할 수 있습니다."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "화학 폐기물",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "산업용 화학물질",
+        "Laboratory Chemicals": "연구실 화학물질",
+        "Cleaning Agents": "세정제",
+        "Pesticides": "농약",
+        "Herbicides": "제초제",
+        "Paints": "도료",
+        "Solvents": "용제",
+        "Automotive Fluids": "자동차 유체",
+        "Batteries": "배터리",
+        "Aerosol Cans": "에어로졸 통",
+        "Mercury Devices": "수은 장치",
+        "Pharmaceuticals": "의약품",
+        "Photographic Chemicals": "사진 화학물질",
+        "Pool Chemicals": "수영장 화학물질",
+        "Flammable Liquids": "인화성 액체",
+        "Toxic Metals": "유독 금속",
+        "Acids": "산",
+        "Bases": "염기",
+        "Reactive Materials": "반응성 물질"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "화학 폐기물에는 건강과 환경에 중대한 위험을 가하는 다양한 유해하고 비생분해성 화학물질이 포함됩니다. 이러한 위험을 최소화하기 위해 적절한 처리, 저장 및 폐기가 중요합니다.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "위험한 화학물질",
+        "Toxic Chemicals": "유해한 화학물질"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "전용 화학 폐기물 수거 시설",
+        "handling": "안전 장비를 사용하여 매우 주의하여 다루세요. 저장, 운반 및 폐기에 대한 모든 규제 지침을 따르세요.",
+        "separation": "호환되지 않는 화학물질을 분리하고 위험 등급 (인화성, 부식성, 유독성 등)에 따라 분류하세요.",
+        "whatNotToDo": "화학 폐기물을 일반 쓰레기통, 배수구 또는 자연수로 버리지 마세요. 서로 다른 화학물질을 혼합하지 않도록 주의하세요. 이로 인해 위험한 반응이 발생할 수 있습니다.",
+        "safetyPrecautions": "화학물질을 다룰 때 항상 장갑, 안경 및 적절한 호흡 보호장비를 착용하세요. 휘발성 또는 훈증성 화학물질을 다룰 때 적절한 환기를 유지하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "화학 폐기물을 적절히 처리하면 환경 오염을 방지하고 자원을 보존하며 건강 위험을 줄입니다.",
+        "impact": "화학 폐기물을 책임 있게 관리하면 토양과 수질 오염 위험을 최소화하고 더 안전한 생태계를 지원합니다."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "사용된 모터 오일 1갤런을 적절히 재활용하면 일년 동안 평균 가정의 전기를 생산하는 데 충분한 에너지를 생산할 수 있습니다."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "의료 폐기물",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "사용한 붕대",
+        "Gauze": "걀즈",
+        "Expired Medicines": "만료된 의약품",
+        "Medical Gloves": "의료용 장갑",
+        "Sharps": "침구류",
+        "Test Strips": "검사 스트립",
+        "Surgical Instruments": "수술 도구",
+        "Disposable Garments": "일회용 의복",
+        "Pathological Waste": "병리학적 폐기물",
+        "Infectious Agents": "감염성 물질",
+        "Discarded Vaccines": "폐기된 백신",
+        "Dialysis Waste": "투석 폐기물",
+        "Chemotherapy Agents": "항암제",
+        "Imaging Chemicals": "영상 촬영 화학물질",
+        "Radioactive Waste": "방사성 폐기물",
+        "Biological Specimens": "생물학적 견본"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "의료 폐기물에는 의료 시설에서 사용되는 다양한 항진염 또는 유해물질이 포함되어 있습니다. 질병 전파를 예방하고 공공 건강을 보호하기 위해 적절한 폐기가 중요합니다.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "임상 폐기물",
+        "Healthcare Waste": "건강 관리 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "전용 의료 폐기물 처리용 용기",
+        "handling": "매우 주의하며 적절한 보호장비를 사용하세요. 의료 폐기물은 발생지에서 분리되어야 합니다.",
+        "separation": "침구류, 의약품, 병리학적 폐기물 및 화학물질 폐기물을 분리하세요. 각 유형은 다른 폐기 방법이 필요합니다.",
+        "whatNotToDo": "의료 폐기물을 일반 쓰레기통에 버리거나 일반 폐기물과 혼합하지 마세요. 적절한 보호장비 없이 처리하지 마세요.",
+        "safetyPrecautions": "의료 폐기물을 다룰 때 손 장갑, 마스크 및 얼굴 보호용 방패 또는 가운을 착용하여 노출 위험을 최소화하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "의료 폐기물을 적절히 처리하면 감염 전파 위험을 줄이고 의료진과 일반인을 보호하며 건강 규정을 준수합니다.",
+        "impact": "의료 폐기물의 효율적인 관리는 특히 의료 시설에서 안전하고 건강한 환경을 유지하기 위해 중요합니다."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "평균 병원은 하루에 병상당 약 33 파운드의 의료 폐기물을 생성하며, 의료 시설에서 효율적인 폐기물 관리의 중요성을 강조합니다."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "오일 폐기물",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "사용된 모터 오일",
+        "Cooking Oil": "조리 오일",
+        "Lubricating Oil": "윤활 오일",
+        "Hydraulic Oil": "유압 오일",
+        "Transmission Fluid": "변속기 유체",
+        "Machine Oil": "기계 오일",
+        "Grease": "그리스",
+        "Oil Filters": "오일 필터",
+        "Oil-Soaked Rags": "오일에 젖은 걸레",
+        "Fuel Oils": "연료 오일",
+        "Vegetable Oils": "식용 오일",
+        "Petroleum Products": "석유 제품",
+        "Oil Containers": "오일 용기",
+        "Oil-Water Mixtures": "오일-물 혼합물",
+        "Synthetic Oils": "합성 오일",
+        "Oil Sludge": "오일 스러지"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "오일 폐기물은 다양한 종류의 사용된 오일과 오염된 오일을 포함하며, 환경 오염과 건강 위험을 방지하기 위해 특별한 처리가 필요합니다.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "사용된 오일",
+        "Waste Oil": "폐기 오일"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "지정된 오일 재활용 시설 또는 수집 지점",
+        "handling": "오일 폐기물을 누수 방지용 용기에 저장하세요. 직접 접촉과 연기를 들이마시지 마세요.",
+        "separation": "다른 종류의 오일 및 오일 관련 폐기물을 적절히 분리하여 재활용 및 폐기하세요.",
+        "whatNotToDo": "오일 폐기물을 일반 쓰레기통, 배수구 또는 물체에 버리지 마세요. 오일 폐기물을 다른 유해 물질과 혼합하지 마세요.",
+        "safetyPrecautions": "오일 폐기물을 다룰 때 장갑과 안경 보호 장비를 사용하세요. 저장 공간에서 적절한 환기를 확보하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "오일 폐기물을 재활용하면 자원을 보존하고 오염을 예방하며 환경 지속 가능성을 지원합니다. 적절히 재활용된 오일은 새로운 제품으로 정제될 수 있습니다.",
+        "impact": "효과적인 오일 폐기물 관리는 토양과 수질 오염 위험을 줄이며 깨끗하고 안전한 환경을 유지하는 데 도움이 됩니다."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "사용된 모터 오일 1 갤런은 신선한 물 100만 갤런을 오염시킬 수 있습니다."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "방사성 폐기물",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "사용된 원자로 연료",
+        "Radioactive Medical Waste": "방사성 의료 폐기물",
+        "Contaminated Lab Equipment": "오염된 실험 장비",
+        "Radioactive Glass": "방사성 유리",
+        "Contaminated Metals": "오염된 금속",
+        "Americium Smoke Detectors": "아메리슘 연기 감지기",
+        "Uranium Residues": "우라늄 잔류물",
+        "Irradiated Tools": "방사선 조사된 도구",
+        "Contaminated Clothing": "오염된 의류",
+        "Radioactive Sources": "방사성 원천",
+        "Luminous Dials": "빛나는 다이얼",
+        "Thorium Lantern Mantles": "토륨 랜턴 맨틀",
+        "Radioactive Ores": "방사성 광물"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "방사성 폐기물에는 방사성 물질을 포함한 물질과 물체가 포함됩니다. 그 위험성으로 인해 엄격한 처리, 저장 및 폐기 프로토콜이 필요합니다.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "핵폐기물",
+        "Radioactive Material": "방사성 물질"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "특수 방사성 폐기물 시설",
+        "handling": "엄격한 안전 프로토콜이 필요합니다. 훈련된 전문가만 처리 가능합니다.",
+        "separation": "적절한 폐기를 위해 방사능 유형과 레벨에 따라 분리하세요.",
+        "whatNotToDo": "일반 쓰레기통에 폐기하지 마세요. 보호 장비 없이 직접 접촉하지 마세요.",
+        "safetyPrecautions": "전문적인 보호 장비와 방사선 감지기가 필수입니다."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "유해 방사선으로부터 보호하며 환경 오염을 예방합니다.",
+        "impact": "공공 건강과 안전에 중요하며 장기적인 환경 손상을 예방합니다."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "일부 방사성 폐기물은 수천 년 동안 유해할 수 있습니다."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "위생 폐기물",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "사용된 기저귀",
+        "Sanitary Napkins": "생리대",
+        "Tampons": "탐폰",
+        "Wet Wipes": "습기 제거 티슈",
+        "Incontinence Pads": "실금용 패드",
+        "Disposable Toilet Seat Covers": "일회용 변기 덮개",
+        "Cotton Swabs": "면봉",
+        "Facial Tissues": "페이셜 티슈",
+        "Bandages": "붕대",
+        "Disposable Razors": "일회용 면도기",
+        "Dental Floss": "치실"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "위생 폐기물에는 사용 후 폐기되는 다양한 개인 위생 제품이 포함됩니다. 특히 의료 시설 또는 보호 시설에서 잠재적인 건강 위험 때문에 오염을 방지하려면 적절한 폐기가 중요합니다.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "위생 폐기물",
+        "Personal Care Waste": "개인 위생 폐기물"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "특수 위생 폐기물 처리 장치",
+        "handling": "직접 접촉과 오염을 방지하기 위해 가능한 경우 장갑을 착용하여 조심히 다룹니다.",
+        "separation": "특별한 처리를 위해 위생 폐기물을 일반 폐기물에서 분리합니다.",
+        "whatNotToDo": "위생 폐기물을 화장실에 버리지 마세요. 적절한 포장 없이 일반 쓰레기통에 버리지 않도록 주의하세요.",
+        "safetyPrecautions": "위생 폐기물을 처리하고 처분할 때 장갑을 착용하세요. 처분 후 적절한 위생 관행을 준수하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "적절한 폐기는 감염 전파를 방지하고 공공 및 개인 공간의 위생을 유지하는 데 도움이 됩니다.",
+        "impact": "위생 폐기물의 효율적인 관리는 특히 병원과 같이 인구 밀집 지역 또는 민감한 지역에서 공중 보건에 중요합니다."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "평균 사람은 연간 약 30 파운드의 위생 폐기물을 생성합니다."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "하수 폐기물",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "인체 배설물",
+        "Used Water": "사용된 물",
+        "Domestic Wastewater": "가정용 폐수",
+        "Industrial Effluent": "산업 폐수",
+        "Agricultural Runoff": "농업 폐수",
+        "Stormwater Discharge": "우방 폐수",
+        "Septic Tank Sludge": "오수조 스러지",
+        "Grease Trap Waste": "기름 함수기 폐기물",
+        "Gray Water": "회색 물",
+        "Black Water": "흑색 물",
+        "Sewage Sludge": "하수 스러지",
+        "Soapy Water": "비누 물",
+        "Cooking Water Discharge": "조리수 방류",
+        "Bathroom Water": "욕실 물",
+        "Laundry Wastewater": "빨래 폐수",
+        "Sink Drainage": "싱크 배수",
+        "Toilet Flushing Waste": "화장실 플러시 폐기물",
+        "Shower Drain Water": "샤워 배수 물",
+        "Sump Pump Discharge": "서프 펌프 방류",
+        "Urban Runoff": "도시 유출물"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "하수 폐기물은 가정, 산업 시설 및 농경지에서 배출되는 폐수와 물질을 포함합니다. 환경 보호 및 수질 오염 방지를 위해 적절한 처리와 처분이 중요합니다.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "폐수",
+        "Sewerage": "하수"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "특수 하수 처리 시설",
+        "handling": "직접 접촉을 피하고 하수 처리에 대한 안전 절차를 따릅니다.",
+        "separation": "음용수원과 분리하고 폐수 처리 과정을 준수합니다.",
+        "whatNotToDo": "자연 수로나 환경에 처리되지 않은 하수를 방출하지 마세요.",
+        "safetyPrecautions": "하수 폐기물을 처리할 때 장갑 및 마스크와 같은 보호장비를 착용하고 처리 후 적절한 위생을 유지하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "적절한 하수 관리는 질병 전파를 방지하고 수원을 보호하며 공중 보건을 지원합니다.",
+        "impact": "효과적인 하수 폐기물 처리는 환경 보존과 지속 가능한 도시 개발에 중요합니다."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "고급 하수 처리 시설은 폐기물을 에너지와 재사용 가능한 물로 전환할 수 있으며, 폐기물로부터 자원 회수의 잠재력을 보여줍니다."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "매립지 폐기물",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "재활용 불가능한 플라스틱",
+        "Contaminated Paper": "오염된 종이",
+        "Broken Glass": "깨진 유리",
+        "Non-Recyclable Packaging": "재활용 불가능한 포장재",
+        "Worn Textiles": "낡은 섬유제품",
+        "Damaged Furniture": "손상된 가구",
+        "Ceramic Items": "도자기 제품",
+        "Construction Debris": "건설 잔재물",
+        "Non-Recyclable Electronics": "재활용 불가능한 전자제품",
+        "Household Trash": "가정용 쓰레기",
+        "Ineligible Food Waste": "폐기물 식품 폐기물",
+        "Ineligible Garden Waste": "폐기물 정원 폐기물",
+        "Used Batteries": "사용된 배터리",
+        "Soiled Clothing": "더러운 의류",
+        "Old Carpets": "오래된 카펫",
+        "Expired Medicines": "만료된 약품",
+        "Waste Foam": "폐기물 폼",
+        "Disposable Utensils": "일회용 식기",
+        "Waste Oil": "폐기물 오일",
+        "Contaminated Soil": "오염된 토양"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "매립지 폐기물은 재활용 가능하거나 퇴비화할 수 없는 물질을 포함합니다. 이는 매립지에 처분되는 다양한 재활용할 수 없는 물품을 포함하며, 토양 및 지하수 오염과 같은 환경 문제를 야기할 수 있습니다.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "재활용 불가능한 폐기물",
+        "General Trash": "일반 쓰레기"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "일반 쓰레기통 또는 재활용 불가능한 항목으로 표시된 덤프스터",
+        "handling": "매립지 폐기물을 주의 깊게 다루고 재활용 가능한 물질 및 유해 물질과 분리합니다.",
+        "separation": "재활용 가능한 물질, 유기물 및 유해 폐기물로부터 분리하는 것이 중요하여 매립지 영향을 최소화합니다.",
+        "whatNotToDo": "재활용 가능한 물품이나 퇴비화할 수 있는 물품을 매립지 폐기물로 처분하지 마세요.",
+        "safetyPrecautions": "매립지 폐기물을 다룰 때 손상 및 적절한 위생을 보장하기 위해 장갑을 착용하고 적절한 들기 기술을 사용하세요."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "매립지에서의 적절한 처분은 재활용 불가능한 폐기물을 관리하고 환경 오염을 줄이는 데 도움이 됩니다.",
+        "impact": "매립지 폐기물을 최소화하는 것은 지속 가능한 폐기물 관리에 중요하며 장기적인 환경 손상을 방지합니다."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "매립지 폐기물을 줄이는 노력은 온실 가스 배출을 크게 낮출 수 있으며, 재활용과 폐기물 감축의 중요성을 강조합니다."
     }
   },
+  "error": {
+    "invalidImageUrl": "유효한 이미지 URL을 입력하세요.",
+    "emptySearch": "이미지 또는 URL을 제공하세요.",
+    "searchResponse": "검색 중 오류가 발생했습니다. 나중에 다시 시도하세요.",
+    "invalidImageSize": "이미지 파일의 크기가 5MB 이하인 파일을 제공하세요."
+  },
   "common": {
-    "knowYourWaste": "당신의 쓰레기를 알아보세요",
-    "sustainNatureNest": "자연의 보금자리를 유지하세요",
-    "searchPlaceholder": "재활용하거나 처분할 항목 검색",
-    "whatIsWaste": "{{value}}란 무엇인가",
-    "alsoKnownAs": "다른 이름으로 알려짐",
-    "itemsInsideWaste": "{{value}} 내부의 항목들",
-    "howToHandle": "{{value}}의 처리 방법",
-    "handling": "처리",
+    "knowYourWaste": "폐기물 알아보기",
+    "sustainNatureNest": "자연 보호",
+    "searchPlaceholder": "재활용 또는 처분할 항목 검색",
+    "whatIsWaste": "{{value}}이(가) 무엇인가요?",
+    "alsoKnownAs": "다른 이름",
+    "itemsInsideWaste": "{{value}} 내의 항목",
+    "howToHandle": "{{value}} 다루는 방법",
+    "handling": "다루는 방법",
     "separation": "분리",
-    "whatNotToDo": "하지 말아야 할 것",
-    "suggestedBin": "권장되는 쓰레기통",
-    "whyItsImportant": "왜 중요한가",
+    "whatNotToDo": "하지 말아야 할 일",
+    "suggestedBin": "권장되는 분리수거함",
+    "whyItsImportant": "왜 중요한가요?",
     "note": "참고",
-    "safetyPrecautions": "안전 예방책",
-    "alsoKnowAbout": "이에 대해서도 알아보기",
+    "safetyPrecautions": "안전 주의사항",
+    "alsoKnowAbout": "더 알아보기",
     "compostable": "퇴비화 가능",
     "recyclable": "재활용 가능",
-    "nonRecyclable": "재활용 불가",
-    "burnable": "소각 가능",
-    "nonBurnable": "소각 불가",
-    "caution": "주의하여 다루기",
-    "flammable": "인화성",
-    "toxic": "유독한",
-    "biohazardous": "생물학적 위험",
-    "radioactive": "방사능",
-    "useSafetyGear": "보호 조치 취하기",
+    "nonRecyclable": "재활용 불가능",
+    "burnable": "가연성 폐기물",
+    "nonBurnable": "비가연성 폐기물",
+    "caution": "주의하여 다루세요",
+    "flammable": "가연성",
+    "toxic": "유해성",
+    "biohazardous": "바이오하자드",
+    "radioactive": "방사성",
+    "useSafetyGear": "보호장구 착용",
     "washHand": "손 씻기",
-    "sanitize": "살균",
-    "disclaimer": "여기에 제공된 정보는 일반적인 것이며 모든 지역이나 상황에 적용되지 않을 수 있습니다. 유기 폐기물 관리에 대한 지역 규정 및 지침을 참조해야 합니다.",
+    "sanitize": "소독",
+    "disclaimer": "여기 제공된 정보는 일반적인 내용이며 모든 지역 또는 상황에 적용되지 않을 수 있습니다. {{value}} 관리를위한 지역 규정 및 가이드 라인을 참조해야합니다.",
     "readMore": "더 읽기",
-    "readMoreSearch": "지역 {{value}} 관리 솔루션 및 처리 방법",
-    "managementStation": "관리 스테이션",
+    "readMoreSearch": "지역 {{value}} 관리 솔루션 및 처리 방법 알아보기",
     "credits": "크레딧 정보",
-    "visitToKnowMore": "더 알아보기 위해 방문하기",
-    "sustainNatureNestBy": "자연의 보금자리를 이렇게 유지하세요"
+    "visitToKnowMore": "더 알아보려면 방문하세요",
+    "imageSearch": "이미지 검색",
+    "uploadImage": "이미지 업로드",
+    "changeImage": "이미지 변경",
+    "or": "또는",
+    "pasteImageLink": "이미지 링크 붙여넣기",
+    "reset": "초기화",
+    "search": "검색",
+    "searching": "검색 중"
   }
 }

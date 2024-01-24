@@ -16,7 +16,7 @@ const Header = () => {
     <div className="header">
       <div className="flex-space-between">
         <NavMenu />
-        <div>
+        <div className="flex-default">
           <NightMode />
           <LanguageSelector />
         </div>

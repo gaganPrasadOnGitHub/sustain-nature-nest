@@ -4,10 +4,7 @@ import {useTranslation} from 'react-i18next';
 import useSelectedLanguage from '../../hooks/useSelectedLanguage';
 import useOutsideOrScrollHide from '../../hooks/useOutsideOrScrollHide';
 import {useDispatch, useSelector} from 'react-redux';
-import {
-  setFocusScroll,
-  setIsCreditMenuVisible,
-} from '../../utils/redux/appSlice';
+import {setIsCreditMenuVisible} from '../../utils/redux/appSlice';
 
 const Footer = () => {
   const {t} = useTranslation();
@@ -19,25 +16,42 @@ const Footer = () => {
   const creditMenuRef = useRef(null);
 
   const resourceLinks = [
-    {name: 'google.com', url: 'https://google.com'},
-    {name: 'openai.com', url: 'https://platform.openai.com/'},
+    {
+      name: 'figma.com',
+      url: 'https://www.figma.com/',
+    },
+    {
+      name: 'freepik.com',
+      url: 'https://www.freepik.com/',
+    },
+
+    {
+      name: 'svgrepo.com',
+      url: 'https://www.svgrepo.com/',
+    },
+    {
+      name: 'platform.openai.com',
+      url: 'https://platform.openai.com/docs/overview',
+    },
+    {
+      name: 'firebase.google.com',
+      url: 'https://firebase.google.com/docs/build?authuser=0&hl=en',
+    },
   ];
 
   const toggleCreditMenu = (event) => {
     event.stopPropagation();
     dispatch(setIsCreditMenuVisible(!isCreditMenuVisible));
-    dispatch(setFocusScroll(!isCreditMenuVisible));
   };
 
   useOutsideOrScrollHide(creditMenuRef, () => {
     if (isCreditMenuVisible) {
       dispatch(setIsCreditMenuVisible(false));
-      dispatch(setFocusScroll(false));
     }
   });
 
   return (
-    <div className="footer-container">
+    <div className="footer-container" ref={creditMenuRef}>
       <p> {t('common.sustainNatureNest')} </p>|
       <p>
         <a
@@ -54,11 +68,16 @@ const Footer = () => {
         {t('common.credits')}
       </p>
       {isCreditMenuVisible && (
-        <ul className="footer-credit-menu popup" ref={creditMenuRef}>
+        <ul className="footer-credit-menu popup">
           <p className="text-subheading mb-16">{t('common.visitToKnowMore')}</p>
           {resourceLinks.map((link, index) => (
             <li key={index}>
-              <a href={link.url} target="_blank" rel="noopener noreferrer">
+              <a
+                href={link.url}
+                className="underline"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 {link.name}
               </a>
             </li>

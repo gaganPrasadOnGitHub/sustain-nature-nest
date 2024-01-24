@@ -97,6 +97,10 @@
   animation: upDown 6s ease-in-out infinite alternate;
 }
 
+.hide {
+  display: none;
+}
+
 @keyframes upDown {
   from {
     translate: 0px;

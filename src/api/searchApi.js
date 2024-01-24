@@ -53,8 +53,6 @@ async function fetchWithTimeout(resource, options, timeout) {
 
 export const searchWasteItems = async (searchTerm) => {
   try {
-    console.log('from fetch', searchTerm);
-
     const response = await fetch(
       `https://us-central1-sustainnaturenest.cloudfunctions.net/searchWasteItems?searchTerm=${encodeURIComponent(
         searchTerm

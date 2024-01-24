@@ -1,1060 +1,1057 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "Sampah Organik",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "Sisa Makanan",
+        "Fruit Peels": "Kulit Buah",
+        "Vegetable Peels": "Kulit Sayuran",
+        "Coffee Grounds": "Ampas Kopi",
+        "Tea Bags": "Kantong Teh",
+        "Eggshells": "Cangkang Telur",
+        "Garden Flowers": "Bunga Taman",
+        "Houseplants": "Tanaman Hias",
+        "Grass Clippings": "Potongan Rumput",
+        "Weeds": "Rumput Liar",
+        "Nut Shells": "Cangkang Kacang",
+        "Paper Towels": "Handuk Kertas",
+        "Cardboard": "Kardus",
+        "Wood Scrap": "Potongan Kayu",
+        "Natural Fibers": "Serat Alami"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "Sampah organik berasal terutama dari dapur dan taman. Ini mencakup bahan yang dapat terdegradasi seperti sisa makanan, sampah taman, dan serat alami. Kaya akan nutrisi, bahan-bahan ini ideal untuk dikomposkan, yang mengubah sampah menjadi peningkat tanah berharga.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "Sampah yang Dapat Dikomposkan",
+        "Biodegradable Waste": "Sampah yang Dapat Terdegradasi"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "Kotak Kompos (terventilasi), Logam atau Plastik Tahan Lama, Hijau/Coklat",
+        "handling": "Gunakan sarung tangan saat menangani, cuci tangan setelah pembuangan. Hindari kontak langsung dengan bahan yang sedang terdekomposisi.",
+        "separation": "Pisahkan bahan organik dari barang-barang anorganik (seperti plastik, logam, kaca) untuk memastikan kompos berjalan efektif.",
+        "whatNotToDo": "Jangan masukkan bahan anorganik seperti plastik, logam, atau kaca. Hindari pembuangan produk yang telah diperlakukan secara kimia atau bahan yang terkontaminasi minyak/grease.",
+        "safetyPrecautions": "Gunakan sarung tangan saat menangani sampah organik untuk menghindari kontak langsung dengan bahan yang sedang terdekomposisi dan patogen potensial. Pastikan area kompos memiliki sirkulasi udara yang baik untuk mencegah bau yang tidak sedap. Cuci tangan dengan teliti setelah menangani bahan organik untuk menjaga kebersihan pribadi."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "Mengurangi penggunaan lahan pembuangan dan emisi metana, serta mengurangi kebutuhan pupuk kimia. Mendorong pertanian berkelanjutan.",
+        "impact": "Mengubah sampah menjadi kompos berharga, memperkaya tanah dengan nutrisi dan mendukung pertumbuhan tanaman yang sehat. Mendorong penggunaan lahan yang berkelanjutan."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "Jika dikomposkan, sampah makanan global tahunan dapat mengurangi emisi CO2 setara dari 2 miliar mobil di jalan, yang lebih banyak daripada total jumlah mobil yang ada di dunia."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "Sampah Pertanian",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "Sisa Tanaman",
+        "Manure": "Pupuk Kandang",
+        "Pesticide Containers": "Wadah Pestisida",
+        "Fertilizer Bags": "Kantong Pupuk",
+        "Farm Machinery": "Mesin Pertanian",
+        "Spoiled Produce": "Hasil Pertanian yang Rusak",
+        "Agricultural Plastics": "Plastik Pertanian",
+        "Diseased Plants": "Tanaman yang Terserang Penyakit",
+        "Greenhouse Films": "Film Rumah Kaca",
+        "Seed Sacks": "Kantong Benih",
+        "Pruning Waste": "Sampah Pemangkasan",
+        "Irrigation Equipment": "Peralatan Irigasi",
+        "Soil Amendment Packaging": "Kemasan Pembenah Tanah",
+        "Animal Feed Bags": "Kantong Pakan Hewan",
+        "Silage Wraps": "Pembungkus Silase",
+        "Horticultural Pots": "Pot Hortikultura",
+        "Waste Pesticides": "Pestisida Tercampur Sampah",
+        "Contaminated Soils": "Tanah yang Terkontaminasi",
+        "Old Tools": "Alat Tani Lama",
+        "Broken Irrigation Pipes": "Pipa Irigasi yang Pecah",
+        "Discarded Gloves": "Sarung Tangan yang Dibuang",
+        "Protective Gear": "Perlengkapan Pelindung",
+        "Unused Veterinary Medicines": "Obat Hewan yang Tidak Terpakai",
+        "Baler Twine": "Tali Baler",
+        "Netting Material": "Bahan Jaring",
+        "Plastic Mulch": "Plastik Penutup Tanah"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "Sampah pertanian mencakup bahan organik dan anorganik dari kegiatan pertanian. Ini termasuk produk alami seperti sisa tanaman dan pupuk kandang, serta sampah non-organik seperti wadah, plastik, dan mesin tua. Pengelolaan yang efektif sangat penting untuk meminimalkan dampak lingkungan dan mendukung pertanian berkelanjutan.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "Sampah Pertanian",
+        "Agricultural Byproducts": "Produk Sampingan Pertanian"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "Wadah khusus untuk sampah organik dan anorganik, dengan penanganan terpisah untuk bahan berbahaya",
+        "handling": "Gunakan perlengkapan pelindung untuk barang berbahaya. Komposkan sampah organik jika memungkinkan.",
+        "separation": "Pisahkan bahan organik dari sampah kimia dan plastik. Tangani bahan berbahaya dengan hati-hati.",
+        "whatNotToDo": "Jangan membakar plastik atau wadah kimia. Hindari mencampur sampah organik dengan bahan berbahaya.",
+        "safetyPrecautions": "Kenakan sarung tangan dan pakaian pelindung, terutama saat menangani pupuk kimia atau pestisida. Pastikan sirkulasi udara yang baik saat bekerja dengan pembenah tanah atau di ruang tertutup seperti rumah kaca."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "Pembuangan yang tepat mengurangi polusi, meningkatkan kesehatan tanah, dan mendukung praktik berkelanjutan.",
+        "impact": "Pengelolaan sampah pertanian yang efektif mengurangi jejak lingkungan pertanian dan melestarikan sumber daya, sambil mendukung praktik pertanian berkelanjutan."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "Sisa tanaman, jika dikelola dan dikomposkan dengan baik, dapat memperkaya kesuburan tanah secara signifikan, sehingga potensial mengurangi kebutuhan pupuk sintetis."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "Sampah Hewan",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "Pupuk",
+        "Bedding Straw": "Jerami Tempat Tidur",
+        "Livestock Carcasses": "Bangkai Hewan Ternak",
+        "Poultry Waste": "Sampah Unggas",
+        "Feathers": "Bulu",
+        "Fish Waste": "Sampah Ikan",
+        "Milk Spoilage": "Pembusukan Susu",
+        "Eggshell Waste": "Sampah Cangkang Telur",
+        "Animal Hair": "Bulu Hewan",
+        "Wool": "Wol",
+        "Dairy Processing Waste": "Sampah Pengolahan Susu",
+        "Veterinary Supplies": "Alat Kesehatan Hewan",
+        "Expired Animal Feed": "Pakan Hewan Kadaluarsa",
+        "Contaminated Animal Products": "Produk Hewan yang Terkontaminasi"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "Sampah hewan merujuk pada produk sampingan yang dihasilkan dari peternakan hewan ternak, unggas, dan kegiatan peternakan hewan lainnya. Ini termasuk sampah organik seperti pupuk dan jerami tempat tidur, serta bangkai dan produk yang berasal dari hewan yang rusak. Penanganan dan pembuangan yang tepat sangat penting untuk kesehatan lingkungan dan mencegah penyebaran penyakit.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "Sampah Ternak",
+        "Poultry Waste": "Sampah Unggas"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "Wadah khusus untuk sampah biologis, dipisahkan dari sampah biasa",
+        "handling": "Gunakan perlengkapan pelindung, terutama saat menangani bangkai atau sampah yang terkontaminasi. Praktikkan protokol kebersihan yang ketat.",
+        "separation": "Pisahkan sampah hewan yang berpotensi membahayakan dari sampah biasa. Buang di wadah yang ditentukan.",
+        "whatNotToDo": "Jangan mencampur dengan sampah umum. Hindari kontak langsung tanpa perlengkapan keselamatan yang tepat.",
+        "safetyPrecautions": "Kenakan sarung tangan dan alas kaki pelindung saat menangani sampah hewan untuk mencegah kontak langsung dengan mikroorganisme yang berpotensi berbahaya. Pastikan area tempat sampah hewan disimpan atau diproses memiliki ventilasi yang baik. Setelah menangani sampah hewan, cuci tangan secara menyeluruh dengan sabun dan air untuk mencegah penyebaran penyakit zoonosis."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "Pengelolaan yang tepat mencegah pencemaran lingkungan dan risiko kesehatan bagi manusia dan hewan.",
+        "impact": "Pembuangan yang bertanggung jawab terhadap sampah hewan mendukung kesehatan masyarakat, perlindungan lingkungan, dan praktik pertanian berkelanjutan."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "Pupuk dari satu sapi perah dapat menghasilkan listrik yang cukup untuk menghidupkan lemari es kecil selama sehari, mengilustrasikan potensi pengolahan sampah hewan menjadi energi terbarukan."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "Sampah Makanan",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
+        "Cooked Food": "Makanan yang Dimasak",
+        "Uncooked Food": "Makanan Mentah",
+        "Meat Scraps": "Potongan Daging",
+        "Fish Scraps": "Potongan Ikan",
+        "Dairy Products": "Produk Susu",
+        "Bread": "Roti",
+        "Pastries": "Kue-kue",
+        "Leftover Meals": "Sisa Makanan",
+        "Expired Food": "Makanan Kadaluarsa",
+        "Rice": "Nasi",
         "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cheese": "Keju",
+        "Egg Shells": "Kerangka Telur",
+        "Fruit Scraps": "Potongan Buah",
+        "Vegetable Scraps": "Potongan Sayuran",
+        "Coffee Grounds": "Ampas Kopi",
+        "Tea Bags": "Kantong Teh",
+        "Food-Soiled Paper": "Kertas Terkontaminasi Makanan"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "Tempat sampah makanan digunakan untuk membuang berbagai jenis sampah makanan, termasuk sisa makanan, barang yang kadaluarsa, dan potongan makanan. Kategori sampah ini cocok untuk biodigesti atau kompos, mengubah materi organik menjadi sumber daya berharga.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "Sampah Dapur",
+        "Leftover Waste": "Sampah Sisa Makanan"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "Tempat Tersegel, dengan pengendalian bau, Warna Hijau Gelap atau Cokelat",
+        "handling": "Segel sampah makanan untuk mengurangi bau dan mencegah serangga. Selalu cuci dan sanitasi tangan setelah menangani. Segera bersihkan tumpahan.",
+        "separation": "Pisahkan sampah makanan dari barang daur ulang dan yang tidak dapat dikomposkan untuk meningkatkan efisiensi kompos dan daur ulang.",
+        "whatNotToDo": "Jangan mencampur sampah makanan dengan cairan, minyak, atau bahan kimia. Hindari termasuk barang-barang non-biodegradable seperti plastik atau logam. Jangan biarkan sampah makanan terbuka untuk mencegah menarik hama dan menghasilkan bau.",
+        "safetyPrecautions": "Saat menangani sampah makanan, terutama dalam jumlah besar, kenakan sarung tangan untuk melindungi dari potensi kerusakan dan bakteri. Simpan wadah sampah makanan bersih dan tertutup untuk menghindari menarik hama dan menghasilkan bau. Rutin bersihkan tangan, alat, dan permukaan yang bersentuhan dengan sampah makanan untuk menjaga kebersihan."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "Membantu mencegah penarikan hama, mengurangi emisi gas rumah kaca dari tempat pembuangan sampah, dan memfasilitasi produksi kompos atau biogas.",
+        "impact": "Pengelolaan yang tepat dari sampah makanan menghemat sumber daya, mengurangi dampak lingkungan, dan mendorong praktik berkelanjutan."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "Jika sampah makanan menjadi sebuah negara, maka sampah makanan akan menjadi penghasil gas rumah kaca terbesar ketiga di dunia, setelah Amerika Serikat dan Tiongkok. Mengurangi sampah makanan adalah hal penting untuk meminimalkan dampak lingkungan."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "Sampah Hijau",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "Potongan Rumput",
+        "Leaves": "Daun-daunan",
+        "Branches": "Cabang-cabang",
+        "Weeds": "Rumput Liar",
+        "Flowers": "Bunga-bunga",
+        "Garden Trimmings": "Potongan Taman",
+        "Shrubs": "Semak-semak",
+        "Small Twigs": "Dahan Kecil",
+        "Hedge Clippings": "Potongan Rimbun",
+        "Fallen Fruit": "Buah yang Jatuh",
+        "Garden Maintenance": "Pemeliharaan Taman",
+        "Plant Prunings": "Potongan Tanaman"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "Sampah hijau, yang terdiri dari reruntuhan tanaman dan taman, memainkan peran penting dalam daur ulang organik. Komposisi sampah hijau berkontribusi dalam pembuatan perbaikan tanah yang kaya nutrisi, yang penting untuk pertanian dan berkebun berkelanjutan.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "Sampah Halaman",
+        "Garden Waste": "Sampah Taman"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "Tempat Terbuka, Kapasitas Besar, Lebih Baik Berwarna Hijau",
+        "handling": "Gunakan sarung tangan saat menangani sampah hijau untuk menghindari luka atau iritasi dari bahan kasar. Cuci tangan setelah pembuangan.",
+        "separation": "Pisahkan sampah hijau dari sampah rumah tangga dan sampah berbahaya. Jangan campur dengan sampah makanan atau barang daur ulang.",
+        "whatNotToDo": "Hindari membuang material inorganik seperti tas plastik atau pot. Jangan termasuk tanah atau batu. Hindari menambahkan tanaman yang sakit atau spesies invasif yang dapat mengkontaminasi kompos.",
+        "safetyPrecautions": "Saat menangani sampah hijau, kenakan sarung tangan untuk melindungi dari bahan tajam, dan pastikan bebas dari zat berbahaya seperti kayu yang diawetkan."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "Memfasilitasi produksi kompos, memperkaya kesehatan tanah, dan membantu dalam penyimpanan karbon. Mengurangi penggunaan ruang tempat pembuangan sampah dan emisi gas rumah kaca.",
+        "impact": "Berkontribusi pada pengelolaan sampah yang berkelanjutan, mendukung keanekaragaman hayati dalam tanah, dan mendorong praktik berkebun dan pertanian ramah lingkungan."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "Sampah hijau seperti potongan rumput dan daun-daunan dapat diubah menjadi kompos yang kaya, dikenal sebagai 'emas hitam' di kalangan berkebun, meningkatkan pertumbuhan tanaman tanpa menggunakan pupuk kimia."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "Sampah yang Dapat Didaur Ulang",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "Koran",
+        "Magazines": "Majalah",
+        "Office Paper": "Kertas Kantor",
+        "Cardboard": "Kertas Karton",
+        "Plastic Bottles": "Botol Plastik",
+        "Plastic Containers": "Wadah Plastik",
+        "Glass Bottles": "Botol Kaca",
+        "Glass Jars": "Toples Kaca",
+        "Aluminum Cans": "Kaleng Aluminium",
+        "Steel Cans": "Kaleng Baja",
+        "Electronics": "Elektronik",
+        "Textiles": "Tekstil",
+        "Untreated Wood": "Kayu Mentah",
+        "Aerosol Cans": "Kaleng Aerosol",
+        "Batteries": "Baterai",
+        "Non-LED Light Bulbs": "Lampu Non-LED"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "Sampah yang dapat didaur ulang mencakup beragam material yang dapat diproses ulang untuk penggunaan lebih lanjut. Item kunci dalam kategori ini termasuk produk kertas, plastik, kaca, logam, dan jenis elektronik tertentu, yang semuanya memainkan peran penting dalam konservasi sumber daya dan keberlanjutan lingkungan.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "Tempat Daur Ulang, Logam atau Plastik Tahan Lama",
+        "handling": "Pastikan barang bersih dan kering sebelum didaur ulang. Pisahkan sesuai dengan panduan daur ulang lokal.",
+        "separation": "Pisahkan berbagai jenis barang yang dapat didaur ulang untuk menghindari kontaminasi dengan material yang tidak dapat didaur ulang.",
+        "whatNotToDo": "Hindari menyertakan material yang kotor, terkontaminasi, atau tidak dapat didaur ulang. Patuhi peraturan daur ulang lokal untuk disposisi yang spesifik.",
+        "safetyPrecautions": "Saat menangani barang yang dapat didaur ulang, gunakan perlengkapan keselamatan yang sesuai jika diperlukan. Berhati-hatilah terhadap serangga atau hewan yang mungkin berada di dekat material daur ulang."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "Mengurangi kebutuhan akan bahan baku baru, menghemat energi, dan mengurangi dampak lingkungan dari sampah.",
+        "impact": "Mendukung pengelolaan sumber daya yang berkelanjutan, berkontribusi pada pelestarian dan perlindungan lingkungan."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Daur ulang membantu mengurangi dampak lingkungan dari sampah dan mengkonservasi sumber daya berharga untuk generasi mendatang."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "Sampah Otomotif",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "Oli Bekas",
+        "Oil Filters": "Filter Oli",
+        "Batteries": "Aki",
+        "Tires": "Ban",
+        "Brake Pads": "Kampas Rem",
+        "Brake Fluid": "Cairan Rem",
+        "Transmission Fluid": "Cairan Transmisi",
+        "Coolants": "Coolant",
+        "Metal Parts": "Komponen Logam",
+        "Rubber Hoses": "Selang Karet",
+        "Belts": "Sabuk",
+        "Air Filters": "Filter Udara",
+        "Windshield Glass": "Kaca Depan",
+        "Upholstery Materials": "Bahan Pelapis",
+        "Automotive Bumpers": "Bumper Otomotif",
+        "Headlights": "Lampu Depan",
+        "Electrical Components": "Komponen Elektrik"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "Sampah otomotif mencakup berbagai material dan komponen yang dibuang dari kendaraan. Ini termasuk jenis sampah berbahaya dan non-berbahaya, seperti oli, aki, ban, dan bagian mekanis. Pembuangan dan daur ulang yang tepat dari sampah otomotif sangat penting untuk perlindungan lingkungan dan konservasi sumber daya.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "Sampah Kendaraan",
+        "Car Waste": "Sampah Mobil"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "Wadah khusus untuk material berbahaya, area yang ditunjuk untuk bagian yang lebih besar",
+        "handling": "Handle dengan hati-hati, terutama untuk zat berbahaya. Gunakan perlengkapan keselamatan saat berurusan dengan oli dan bahan kimia.",
+        "separation": "Pisahkan sampah berbahaya seperti oli dan aki dari item non-berbahaya. Ikuti panduan lokal untuk pembuangan masing-masing jenis.",
+        "whatNotToDo": "Jangan membuang oli dan bahan kimia otomotif ke tempat sampah biasa atau saluran air. Hindari mencampur jenis sampah otomotif yang berbeda.",
+        "safetyPrecautions": "Kenakan sarung tangan dan pelindung mata saat menangani sampah otomotif seperti oli bekas, aki, dan ban untuk mencegah kontak dengan bahan berbahaya. Selalu bekerja di area yang berventilasi baik untuk menghindari menghirup uap, terutama saat berurusan dengan cairan otomotif. Buang sampah otomotif di pusat daur ulang yang ditunjuk untuk mencegah kontaminasi lingkungan."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "Mencegah kontaminasi lingkungan, mengkonservasi bahan berharga, dan mendukung inisiatif daur ulang.",
+        "impact": "Pengelolaan yang tepat dari sampah otomotif mengurangi jejak ekologis penggunaan dan perawatan kendaraan, berkontribusi pada lingkungan yang lebih bersih dan aman."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "Mendaur ulang hanya satu mobil dapat menghemat lebih dari 2.500 pound bijih besi, 1.400 pound batu bara, dan 120 pound batu kapur. Proses ini juga secara signifikan mengurangi energi dan bahan mentah yang dibutuhkan untuk memproduksi bagian otomotif dan kendaraan baru."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "Sampah Besar",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "Perabotan",
+        "Appliances": "Peralatan Rumah Tangga",
+        "Mattresses": "Kasur",
+        "Large Toys": "Mainan Besar",
+        "Carpeting": "Karpet",
+        "Bicycles": "Sepeda",
+        "Large Electronics": "Elektronik Besar",
+        "BBQ Grills": "Panggangan BBQ",
+        "Exercise Equipment": "Peralatan Olahraga",
+        "Large Household Items": "Barang Rumah Tangga Besar"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "Sampah besar mencakup barang-barang besar yang tidak dapat masuk ke dalam tempat sampah biasa. Pembuangan yang benar dari sampah besar penting untuk pengelolaan sampah yang efisien dan pelestarian lingkungan. Mendaur ulang barang-barang besar dapat berkontribusi pada konservasi sumber daya.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "Sampah Besar",
+        "Oversized Items": "Barang Berukuran Besar"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "Pengumpulan Khusus atau Tempat Penyerahan",
+        "handling": "Periksa dengan pengelolaan sampah lokal untuk petunjuk pembuangan yang spesifik. Beberapa barang mungkin memerlukan penanganan khusus atau layanan pengambilan.",
+        "separation": "Pisahkan berbagai jenis barang besar untuk metode daur ulang atau pembuangan yang sesuai.",
+        "whatNotToDo": "Jangan tinggalkan barang besar di pinggir jalan tanpa pengumpulan yang tepat. Hindari pembuangan ilegal.",
+        "safetyPrecautions": "Ketika menangani barang-barang sampah besar seperti perabotan, peralatan rumah tangga, dan mainan besar, gunakan teknik pengangkatan yang benar untuk menghindari cedera punggung. Disarankan untuk memiliki bantuan atau menggunakan trolley untuk memindahkan barang berat. Gunakan alas kaki pelindung untuk mencegah cedera kaki dan sarung tangan untuk cengkeraman dan perlindungan dari ujung tajam."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "Pembuangan yang benar dari sampah besar mengurangi penggunaan tempat pembuangan sampah, mempromosikan daur ulang, dan berkontribusi pada lingkungan yang lebih bersih dan aman.",
+        "impact": "Mendaur ulang barang-barang besar membantu dalam mendapatkan kembali bahan berharga, mengurangi dampak lingkungan, dan mendukung praktik pengelolaan sampah yang berkelanjutan."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "Perabotan dan barang besar lainnya seringkali berakhir di tempat pembuangan sampah, tetapi jika dipulihkan atau didaur ulang, satu sofa dapat menghemat hingga 9 yard kubik ruang tempat pembuangan sampah, menunjukkan dampak yang signifikan dari mendaur ulang dan menggunakan kembali barang-barang besar."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "Sampah Konstruksi dan Demolisi",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "Beton",
+        "Bricks": "Bata",
+        "Wood": "Kayu",
+        "Gypsum": "Gipsum",
+        "Metal": "Logam",
+        "Glass": "Kaca",
+        "Plastic": "Plastik",
+        "Insulation Materials": "Material Isolasi",
+        "Electrical Wiring": "Kabel Listrik",
+        "Plumbing Fixtures": "Perlengkapan Pipa",
+        "Ceramic Tiles": "Keramik",
+        "Asphalt": "Aspal",
+        "Roofing Materials": "Material Atap",
+        "Windows": "Jendela",
+        "Doors": "Pintu",
+        "Piping": "Pipa",
+        "Reinforced Concrete": "Beton Bertulang",
+        "Drywall": "Papan Gipsum",
+        "Flooring Materials": "Material Lantai",
+        "Wall Coverings": "Penutup Dinding"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "Sampah Konstruksi dan Demolisi meliputi bahan dari pembangunan, renovasi, dan penghancuran bangunan dan struktur. Pengelolaan yang tepat penting untuk mendaur ulang bahan dan meminimalkan dampak lingkungan.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "Sampah Bangunan",
+        "Renovation Debris": "Sampah Renovasi"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "Tempat Pengumpulan Khusus atau Area Pembuangan yang Ditentukan",
+        "handling": "Periksa peraturan lokal untuk pembuangan. Beberapa bahan memerlukan pengolahan atau penanganan khusus.",
+        "separation": "Pisahkan bahan berdasarkan jenis (misalnya, logam, kayu, beton) untuk mendaur ulang yang efisien.",
+        "whatNotToDo": "Jangan mencampur sampah Konstruksi dan Demolisi dengan sampah rumah tangga biasa. Hindari pembuangan ilegal dan pembuangan yang tidak benar.",
+        "safetyPrecautions": "Pastikan menggunakan sarung tangan yang kuat dan kacamata pelindung untuk melindungi dari benda tajam dan puing-puing dalam Sampah Konstruksi dan Demolisi seperti kayu, logam, dan beton. Sepatu yang sesuai sangat penting untuk mencegah cedera akibat bahan berat. Gunakan masker debu untuk melindungi dari debu dan partikel halus. Gunakan teknik pengangkatan yang tepat untuk barang berat agar menghindari cedera punggung."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "Pembuangan yang benar mempromosikan daur ulang bahan, mengurangi penggunaan tempat pembuangan sampah, dan meminimalkan polusi lingkungan.",
+        "impact": "Daur ulang bahan Konstruksi dan Demolisi menghemat sumber daya, mendukung industri konstruksi dengan bahan daur ulang, dan berkontribusi pada pembangunan berkelanjutan."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "Mendaur ulang satu ton beton dapat menghemat hingga 1.360 galon air dan 900 kg CO2, menyoroti manfaat lingkungan yang signifikan dari penggunaan kembali bahan Konstruksi dan Demolisi daripada membuangnya di tempat pembuangan sampah."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "Sampah Elektronik",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "Komputer",
+        "Laptops": "Laptop",
+        "Mobile Phones": "Telepon Seluler",
+        "Printers": "Printer",
+        "Scanners": "Pemindai",
+        "Televisions": "Televisi",
+        "Monitors": "Monitor",
+        "DVD Players": "Pemain DVD",
+        "Game Consoles": "Konsol Permainan",
+        "Small Appliances": "Perangkat Elektronik Kecil",
+        "Electronic Tools": "Alat Elektronik",
+        "Batteries": "Baterai",
+        "Circuit Boards": "Papan Sirkuit",
+        "Hard Drives": "Hard Drive",
+        "Keyboards": "Keyboard",
+        "Mice": "Mouse",
+        "Speakers": "Speaker",
+        "Chargers": "Charger",
+        "Cables": "Kabel",
+        "Cameras": "Kamera",
+        "Electronic Toys": "Mainan Elektronik",
+        "CDs": "CD",
+        "DVDs": "DVD",
+        "GPS Devices": "Perangkat GPS"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "Sampah Elektronik, atau E-Waste, mencakup perangkat dan peralatan elektronik yang dibuang. Daur ulang dan pembuangan yang benar sangat penting untuk mendaur ulang bahan berharga dan mencegah pencemaran lingkungan.",
       "otherNames": {
         "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
         "E-Waste": "E-Waste"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "Tempat Pengumpulan Sampah Elektronik Khusus atau Pusat Daur Ulang",
+        "handling": "Handle Sampah Elektronik dengan hati-hati untuk menghindari kerusakan dan kebocoran zat berbahaya. Ikuti peraturan lokal untuk pembuangan.",
+        "separation": "Pisahkan Sampah Elektronik dari sampah biasa. Sortir berdasarkan jenis untuk mendaur ulang yang efisien.",
+        "whatNotToDo": "Jangan membuang Sampah Elektronik ke dalam tempat sampah biasa. Hindari membongkar atau merusak perangkat elektronik, yang dapat melepaskan zat beracun.",
+        "safetyPrecautions": "Gunakan sarung tangan untuk melindungi dari tepi tajam saat menangani Sampah Elektronik seperti komputer lama dan televisi. Waspadai bahan berbahaya seperti timah dan merkuri dalam elektronik. Hindari merusaknya untuk mencegah paparan. Daur ulang di pusat yang ditunjuk untuk pembuangan yang aman."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "Pembuangan yang benar dari Sampah Elektronik mendaur ulang bahan berharga, mengurangi penggunaan tempat pembuangan sampah, dan melindungi lingkungan dari zat beracun.",
+        "impact": "Daur ulang Sampah Elektronik mendukung ekonomi berkelanjutan, mengurangi kebutuhan akan bahan baku baru, dan meminimalkan jejak ekologis."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "Mendaur ulang satu juta laptop menghemat energi yang cukup untuk memasok lebih dari 3.500 rumah di Amerika Serikat selama setahun. Mendaur ulang satu juta ponsel dapat menghasilkan 35.274 pound tembaga, 772 pound perak, 75 pound emas, dan 33 pound paladium."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "Sampah Kaca",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "Botol Kaca",
+        "Glass Jars": "Toples Kaca",
+        "Window Glass": "Kaca Jendela",
+        "Mirror Glass": "Kaca Cermin",
+        "Glass Containers": "Wadah Kaca",
+        "Drinking Glasses": "Gelas Minum",
+        "Broken Glassware": "Peralatan Kaca Rusak",
+        "Automotive Glass": "Kaca Kendaraan",
+        "Glass Tableware": "Peralatan Makan Kaca",
+        "Light Bulbs": "Lampu Pijar (non-fluorescent)",
+        "Laboratory Glassware": "Peralatan Laboratorium Kaca",
+        "Tempered Glass": "Kaca Tempered",
+        "Glass Shards": "Pecahan Kaca"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "Sampah Kaca mencakup berbagai jenis produk kaca yang dibuang. Mendaur ulang kaca sangat penting karena dapat diproses kembali menjadi produk kaca baru, mengurangi kebutuhan akan bahan baku baru.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "Kaca Rusak",
+        "Discarded Glassware": "Peralatan Kaca Dibuang"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "Tempat Daur Ulang Kaca atau Lokasi Pengumpulan",
+        "handling": "Handle sampah kaca dengan hati-hati untuk menghindari luka. Hapus komponen non-kaca jika diperlukan.",
+        "separation": "Pisahkan kaca berdasarkan warna dan jenisnya jika memungkinkan untuk meningkatkan efisiensi daur ulang.",
+        "whatNotToDo": "Jangan membuang kaca ke dalam tempat sampah biasa. Hindari mencampurkan kaca dengan barang-barang daur ulang lain yang dapat mencemarinya.",
+        "safetyPrecautions": "Gunakan sarung tangan saat menangani pecahan kaca untuk menghindari luka. Jika menangani sejumlah besar sampah kaca, disarankan untuk menggunakan pelindung mata untuk mencegah kemungkinan serpihan atau pecahan. Selalu angkat barang-barang kaca yang berat dengan benar untuk menghindari cedera. Simpan sampah kaca dalam wadah yang kokoh untuk mencegah kerusakan dan memastikan pengangkutan yang aman."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "Daur ulang kaca mengurangi sampah di tempat pembuangan, menghemat sumber daya alam, dan menghemat energi. Kaca dapat didaur ulang tanpa batas tanpa kehilangan kualitas.",
+        "impact": "Daur ulang kaca yang efektif membantu mengurangi dampak lingkungan, mendukung penggunaan sumber daya yang berkelanjutan, dan berkontribusi pada ekonomi berkelanjutan."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "Daur ulang kaca sangat efisien karena dapat didaur ulang tanpa batas tanpa kehilangan kemurnian atau kualitas. Faktanya, 80% dari wadah kaca yang didaur ulang digunakan untuk membuat botol kaca baru, dan sebuah wadah kaca dapat berubah dari tempat daur ulang ke rak toko dalam waktu sekitar 30 hari."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "Sampah Industri",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "Pelarut Kimia",
+        "Metal Scraps": "Potongan Logam",
+        "Plastic Offcuts": "Potongan Plastik",
+        "Construction Debris": "Puing Konstruksi",
+        "Electronic Components": "Komponen Elektronik",
+        "Paper and Cardboard": "Kertas dan Karton",
+        "Textile Scraps": "Potongan Tekstil",
+        "Glass Pieces": "Potongan Kaca",
+        "Rubber Waste": "Sampah Karet",
+        "Biodegradable Waste": "Sampah Terurai",
+        "Non-Biodegradable Waste": "Sampah Tak Terurai",
+        "Hazardous Materials": "Material Berbahaya",
+        "Non-Hazardous Materials": "Material Non-Berbahaya",
+        "Industrial Sludge": "Lumpur Industri",
+        "Packaging Materials": "Material Kemasan"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "Sampah Industri mencakup berbagai jenis material yang dihasilkan dari proses industri dan manufaktur. Pengelolaan yang tepat, termasuk daur ulang dan pembuangan yang aman, sangat penting untuk mengurangi dampak lingkungan.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "Sampah Manufaktur",
+        "Production Waste": "Sampah Produksi"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "Wadah Khusus Sampah Industri atau Fasilitas Daur Ulang",
+        "handling": "Handle dengan peralatan keselamatan yang sesuai, terutama saat menangani bahan berbahaya. Ikuti semua pedoman regulasi untuk pembuangan.",
+        "separation": "Pisahkan sampah berdasarkan jenis (misalnya, berbahaya vs. non-berbahaya) dan material (misalnya, logam, plastik) untuk memudahkan daur ulang dan pembuangan.",
+        "whatNotToDo": "Jangan mencampur sampah industri berbahaya dengan sampah non-berbahaya. Hindari pembuangan ilegal atau pembuangan yang tidak benar dari sampah industri.",
+        "safetyPrecautions": "Selalu gunakan sarung tangan, pelindung mata, dan masker saat menangani sampah industri, terutama jika mengandung bahan berbahaya."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "Penanganan dan daur ulang yang tepat dari sampah industri menghemat sumber daya, mengurangi polusi, dan mendukung praktik industri yang berkelanjutan.",
+        "impact": "Pengelolaan yang efektif terhadap sampah industri mengurangi beban tempat pembuangan sampah, mengurangi bahaya lingkungan, dan berkontribusi pada ekonomi berkelanjutan."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "Daur ulang logam industri dapat menghemat hingga 75% energi yang dibutuhkan untuk memproduksi dari bahan baku."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "Sampah Logam",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "Kaleng Aluminium",
+        "Tin Cans": "Kaleng Timah",
+        "Steel Scraps": "Potongan Baja",
+        "Copper Wire": "Kawat Tembaga",
+        "Metal Pipes": "Pipa Logam",
+        "Metal Tools": "Alat-alat Logam",
+        "Metal Packaging": "Kemasan Logam",
+        "Automotive Parts": "Bagian Otomotif",
+        "Metal Furniture": "Furniture Logam",
+        "Metal Appliances": "Peralatan Rumah Tangga Logam",
+        "Construction Materials": "Material Konstruksi",
+        "Aerosol Cans": "Kaleng Aerosol",
+        "Electronic Metals": "Logam Elektronik",
+        "Metal Caps": "Tutup Logam",
+        "Metal Lids": "Penutup Logam"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "Sampah Logam mencakup berbagai item dan material logam yang dibuang. Ini sangat dapat didaur ulang dan dapat diproses kembali menjadi produk logam baru, mengurangi kebutuhan ekstraksi bijih baru.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "Logam Sisa",
+        "Discarded Metal": "Logam Dibuang"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "Tempat Daur Ulang Logam atau Tempat Pemrosesan Logam Bekas",
+        "handling": "Sortir logam berdasarkan jenis dan hilangkan komponen non-logam jika memungkinkan. Handle dengan hati-hati untuk menghindari cedera.",
+        "separation": "Pisahkan logam ferrous (seperti baja dan besi) dari logam non-ferrous (seperti aluminium dan tembaga) untuk meningkatkan efisiensi daur ulang.",
+        "whatNotToDo": "Jangan membuang sampah logam ke tempat sampah biasa. Hindari mencampur jenis logam yang berbeda kecuali jika diinstruksikan oleh fasilitas daur ulang lokal Anda.",
+        "safetyPrecautions": "Gunakan sarung tangan dan alas kaki pelindung saat menangani sampah logam untuk mencegah luka dan cedera."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "Daur ulang logam menghemat energi, mengurangi emisi gas rumah kaca, dan menghemat sumber daya alam. Logam dapat didaur ulang berkali-kali tanpa merusak properti mereka.",
+        "impact": "Daur ulang logam yang efektif mengurangi dampak lingkungan, mengurangi permintaan pertambangan baru, dan mendukung pengelolaan sumber daya yang berkelanjutan."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "Mendaur ulang satu kaleng aluminium dapat menghemat energi yang cukup untuk menjalankan TV selama tiga jam."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "Sampah Kertas",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "Koran",
+        "Magazines": "Majalah",
+        "Office Paper": "Kertas Kantor",
+        "Notebooks": "Buku Catatan",
+        "Envelopes": "Amplop",
+        "Junk Mail": "Surat Sampah",
+        "Cardboard Boxes": "Kardus",
+        "Paper Packaging": "Kemasan Kertas",
+        "Paper Bags": "Kantong Kertas",
+        "Phone Books": "Buku Telepon",
+        "Catalogs": "Katalog",
+        "Shredded Paper": "Kertas Teriris",
+        "Paper Cups": "Gelas Kertas",
+        "Paper Plates": "Piring Kertas",
+        "Greeting Cards": "Kartu Ucapan",
+        "Wrapping Paper": "Kertas Pembungkus"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "Sampah Kertas mencakup berbagai jenis kertas dan produk kertas yang dibuang. Mendaur ulang sampah kertas sangat penting untuk mengurangi deforestasi dan menjaga sumber daya alam.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "Kertas Dibuang",
+        "Paper Scraps": "Serpihan Kertas"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "Tempat Daur Ulang Kertas",
+        "handling": "Hapus semua komponen non-kertas seperti lapisan plastik, staples, atau lakban. Jaga kertas tetap kering dan bersih untuk daur ulang yang efektif.",
+        "separation": "Pisahkan kertas berdasarkan jenis (misalnya, kardus, kertas kantor) dan kondisi (misalnya, bersih, kotor) untuk meningkatkan efisiensi daur ulang.",
+        "whatNotToDo": "Jangan mencampur sampah kertas kotor atau berminyak dengan kertas bersih. Hindari membuang kertas daur ulang ke tempat sampah biasa.",
+        "safetyPrecautions": "Tidak diperlukan tindakan pencegahan khusus saat menangani sebagian besar sampah kertas."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "Daur ulang kertas mengurangi kebutuhan produksi kertas baru, menyelamatkan pohon dan mengurangi konsumsi energi dan air.",
+        "impact": "Daur ulang kertas yang efektif mengurangi penggunaan tempat pembuangan sampah, mengurangi emisi gas rumah kaca, dan mendukung praktik kehutanan berkelanjutan."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "Daur ulang satu ton kertas dapat menyelamatkan 17 pohon dan 7.000 galon air."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "Sampah Plastik",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "Botol Plastik",
+        "Plastic Bags": "Kantong Plastik",
+        "Plastic Packaging": "Kemasan Plastik",
+        "Plastic Containers": "Wadah Plastik",
+        "Plastic Utensils": "Alat Makan Plastik",
+        "Plastic Wraps": "Bungkus Plastik",
+        "Plastic Toys": "Mainan Plastik",
+        "Polystyrene Foam": "Busa Polistirena",
+        "Plastic Cups": "Gelas Plastik",
+        "Plastic Plates": "Piring Plastik",
+        "Plastic Film": "Film Plastik",
+        "Water Bottles": "Botol Air",
+        "Detergent Bottles": "Botol Deterjen",
+        "Shampoo Bottles": "Botol Sampo",
+        "Plastic Caps": "Tutup Plastik",
+        "Plastic Lids": "Penutup Plastik",
+        "Plastic Furniture": "Furniture Plastik",
+        "Plastic Hangers": "Gantungan Baju Plastik"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "Sampah Plastik terdiri dari berbagai item plastik yang dibuang. Mengingat waktu terurai yang lama, daur ulang dan pembuangan yang benar dari sampah plastik sangat penting untuk mengurangi dampak lingkungan.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "Plastik Dibuang",
+        "Scrap Plastics": "Plastik Sisa"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "Tempat Daur Ulang Plastik atau Fasilitas",
+        "handling": "Bersihkan dan keringkan plastik sebelum didaur ulang. Hapus komponen non-plastik seperti label atau tutup.",
+        "separation": "Pisahkan plastik berdasarkan jenis dan kategori, karena berbagai jenis plastik memiliki proses daur ulang yang berbeda.",
+        "whatNotToDo": "Jangan mencampur sampah plastik dengan barang-barang daur ulang lainnya atau sampah biasa. Hindari membuang barang plastik besar ke tempat sampah biasa.",
+        "safetyPrecautions": "Tidak ada tindakan pencegahan khusus yang diperlukan saat menangani sebagian besar sampah plastik."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "Daur ulang plastik mengurangi kebutuhan produksi plastik baru, menghemat sumber daya, dan mengurangi polusi. Ini juga membantu mengurangi jumlah plastik yang masuk ke tempat pembuangan sampah dan lautan.",
+        "impact": "Daur ulang plastik yang efektif berkontribusi pada keberlanjutan lingkungan, mengurangi emisi gas rumah kaca, dan mendukung efisiensi pengelolaan sampah."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
-    },
-    "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
-      "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
-      },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
-      "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
-      },
-      "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
-      },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
-    },
-    "017": {
-      "name": "Textile Waste",
-      "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
-      },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
-      "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
-      },
-      "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
-      },
-      "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
-      },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
-    },
-    "018": {
-      "name": "Wood Waste",
-      "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
-      },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
-      "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
-      },
-      "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
-      },
-      "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
-      },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
-    },
-    "019": {
-      "name": "Hazardous Waste",
-      "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
-      },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
-      "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
-      },
-      "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
-      },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
-    },
-    "020": {
-      "name": "Chemical Waste",
-      "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
-      },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
-      "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
-      },
-      "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
-      },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
-    },
-    "021": {
-      "name": "Medical Waste",
-      "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
-      },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
-      "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
-      },
-      "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
-      },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
-    },
-    "022": {
-      "name": "Oil Waste",
-      "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
-      },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
-      "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
-      },
-      "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
-      },
-      "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
-      },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
-    },
-    "023": {
-      "name": "Radioactive Waste",
-      "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
-      },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
-      "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
-      },
-      "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
-      },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
-    },
-    "024": {
-      "name": "Sanitary Waste",
-      "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
-      },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
-      "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
-      },
-      "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
-      },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
-    },
-    "025": {
-      "name": "Sewage Waste",
-      "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
-      },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
-      "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
-      },
-      "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
-      },
-      "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
-      },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "Daur ulang satu ton plastik dapat menghemat hingga 7,4 yard kubik ruang tempat pembuangan sampah."
     },
 
-    "026": {
-      "name": "Landfill Waste",
+    "016": {
+      "name": "Sampah Karet",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Used Tires": "Ban Bekas",
+        "Rubber Bands": "Ikat Karet",
+        "Rubber Gloves": "Sarung Tangan Karet",
+        "Rubber Hoses": "Selang Karet",
+        "Rubber Footwear": "Alas Kaki Karet",
+        "Rubber Mats": "Karpet Karet",
+        "Conveyor Belts": "Belt Konveyor",
+        "Rubber Gaskets": "Segel Karet",
+        "Rubber Seals": "Penyegel Karet",
+        "Rubber Sheets": "Lembaran Karet",
+        "Rubber Toys": "Mainan Karet",
+        "Automotive Rubber": "Karet Otomotif",
+        "Rubber Tubing": "Tabung Karet",
+        "Elastomeric Materials": "Bahan Elastomer",
+        "Synthetic Rubber": "Karet Sintetis"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "Sampah Karet terdiri dari berbagai produk karet yang dibuang. Mendaur ulang karet penting untuk menjaga sumber daya dan mengurangi dampak lingkungan, karena karet dapat memerlukan waktu lama untuk terurai di tempat pembuangan sampah.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Scrap Rubber": "Karet Sisa",
+        "Waste Rubber": "Sampah Karet"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "Fasilitas Daur Ulang Karet Khusus atau Titik Pengumpulan",
+        "handling": "Handle sampah karet dengan hati-hati, terutama saat menangani barang-barang besar atau berat. Pastikan penyimpanan yang tepat untuk mencegah pencemaran lingkungan.",
+        "separation": "Pisahkan jenis sampah karet yang berbeda untuk daur ulang yang efektif. Hapus komponen non-karet jika memungkinkan.",
+        "whatNotToDo": "Jangan membuang sampah karet ke tempat sampah biasa. Hindari membakar sampah karet, karena itu dapat melepaskan zat berbahaya.",
+        "safetyPrecautions": "Kenakan sarung tangan dan pakaian pelindung saat menangani sampah karet untuk menghindari iritasi kulit yang mungkin terjadi."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "Daur ulang karet membantu mengurangi sampah di tempat pembuangan dan polusi. Karet dapat dimanfaatkan kembali menjadi berbagai produk seperti mulsa karet, karpet, dan campuran aspal.",
+        "impact": "Manajemen yang efektif terhadap sampah karet mendukung keberlanjutan lingkungan dan membantu menjaga sumber daya tak terbarukan yang digunakan dalam produksi karet."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "Karet daur ulang dari ban dapat digunakan untuk menciptakan rumput sintetis, permukaan tempat bermain, dan bahkan sebagai sumber bahan bakar dalam beberapa proses industri."
+    },
+    "017": {
+      "name": "Sampah Tekstil",
+      "wasteItems": {
+        "Clothing": "Pakaian",
+        "Bed Linens": "Alas Tempat Tidur",
+        "Towels": "Handuk",
+        "Curtains": "Tirai",
+        "Fabric Scraps": "Sisa Kain",
+        "Carpeting": "Karpet",
+        "Upholstery": "Taplak Meja",
+        "Footwear": "Alas Kaki",
+        "Handbags": "Tas Tangan",
+        "Belts": "Sabuk",
+        "Hats": "Topi",
+        "Socks": "Kaos Kaki",
+        "Non-reusable Textiles": "Tekstil yang Tidak Dapat Digunakan Ulang",
+        "Stuffed Toys": "Mainan Berisi",
+        "Ropes": "Tali",
+        "Thread": "Benang",
+        "Yarn": "Benang Rajut"
+      },
+      "description": "Sampah Tekstil terdiri dari bahan kain dan pakaian yang dibuang. Ini merupakan komponen penting dari sampah lingkungan. Mendaur ulang dan memanfaatkan kembali sampah tekstil penting untuk mengurangi dampaknya pada lingkungan.",
+      "otherNames": {
+        "Discarded Fabric": "Kain yang Dibuang",
+        "Scrap Textiles": "Tekstil Sisa"
+      },
+      "guideLines": {
+        "recommendedBinType": "Tempat Pengumpulan Daur Ulang Tekstil atau Pusat Donasi",
+        "handling": "Bersihkan dan keringkan tekstil sebelum didaur ulang. Tekstil yang rusak atau aus dapat dimanfaatkan kembali atau didaur ulang menjadi produk baru.",
+        "separation": "Pisahkan tekstil berdasarkan jenis (misalnya, katun, polyester) dan kondisi (misalnya, dapat dipakai, tidak dapat dipakai) untuk daur ulang atau pemanfaatan kembali yang lebih efisien.",
+        "whatNotToDo": "Jangan membuang tekstil yang dapat dipakai ke tempat sampah biasa. Hindari membuang tekstil yang sangat kotor atau terkontaminasi tanpa perlakuan yang tepat.",
+        "safetyPrecautions": "Tidak diperlukan tindakan pencegahan khusus untuk menangani sebagian besar sampah tekstil."
+      },
+      "whyItIsImportant": {
+        "benefits": "Daur ulang tekstil menjaga sumber daya, mengurangi sampah di tempat pembuangan, dan mengurangi permintaan bahan baku baru. Tekstil yang dimanfaatkan kembali dapat ditempatkan dalam berbagai aplikasi baru.",
+        "impact": "Manajemen sampah tekstil yang efektif mendukung mode berkelanjutan, mengurangi pencemaran lingkungan, dan mempromosikan ekonomi berputar di industri tekstil."
+      },
+      "funFact": "Mendaur ulang atau memanfaatkan kembali hanya satu ton tekstil dapat mencegah emisi sekitar 7 ton CO2."
+    },
+    "018": {
+      "name": "Sampah Kayu",
+      "wasteItems": {
+        "Lumber Scraps": "Serpihan Kayu",
+        "Pallets": "Palet",
+        "Timber Offcuts": "Potongan Kayu",
+        "Furniture Pieces": "Potongan Furniture",
+        "Branches": "Cabang",
+        "Twigs": "Ranting",
+        "Sawdust": "Serbuk Kayu",
+        "Plywood": "Plywood",
+        "Particle Board": "Papan Partikel",
+        "Wooden Crates": "Krat Kayu",
+        "Wooden Tools": "Alat Kayu",
+        "Construction Debris": "Puing Konstruksi",
+        "Floorboards": "Papan Lantai",
+        "Window Frames": "Bingkai Jendela",
+        "Door Frames": "Bingkai Pintu",
+        "Tree Stumps": "Tunggul Pohon",
+        "Wooden Fencing": "Pagar Kayu",
+        "Decking Material": "Material Decking",
+        "Firewood Scraps": "Serpihan Kayu Bakar"
+      },
+      "description": "Sampah Kayu mencakup berbagai produk dan bahan kayu yang dibuang. Sangat penting untuk mendaur ulang dan memanfaatkan kembali sampah kayu untuk mengurangi deforestasi dan mengelola sampah secara berkelanjutan.",
+      "otherNames": {
+        "Scrap Wood": "Kayu Serpihan",
+        "Used Wood": "Kayu Bekas"
+      },
+      "guideLines": {
+        "recommendedBinType": "Fasilitas Daur Ulang Kayu atau Titik Pengumpulan Khusus",
+        "handling": "Lakukan penanganan sampah kayu dengan hati-hati untuk menghindari serpihan dan cedera. Hapus semua komponen non-kayu seperti paku atau sekrup.",
+        "separation": "Pisahkan kayu yang telah diobati dari kayu yang tidak diobati karena mereka memerlukan proses daur ulang yang berbeda. Sortir berdasarkan jenis dan ukuran untuk daur ulang yang efisien.",
+        "whatNotToDo": "Jangan buang sampah kayu ke tempat sampah biasa, terutama jika sudah diobati dengan bahan kimia. Hindari membakar kayu yang telah diobati karena emisi asap beracun.",
+        "safetyPrecautions": "Gunakan sarung tangan dan perlindungan mata saat menangani sampah kayu untuk mencegah cedera akibat serpihan dan ujung yang tajam."
+      },
+      "whyItIsImportant": {
+        "benefits": "Daur ulang sampah kayu mengurangi penggunaan tempat pembuangan sampah, melestarikan sumber daya alam, dan mendukung praktik kehutanan berkelanjutan.",
+        "impact": "Manajemen sampah kayu yang efektif mengurangi pencemaran lingkungan dan menyediakan sumber daya berharga untuk digunakan kembali dalam konstruksi dan manufaktur."
+      },
+      "funFact": "Daur ulang hanya satu ton sampah kayu dapat menghemat setara dengan 1.000 galon nilai energi bensin."
+    },
+    "019": {
+      "name": "Sampah Berbahaya",
+      "wasteItems": {
+        "Toxic Chemicals": "Bahan Kimia Beracun",
+        "Solvents": "Pelarut",
+        "Pesticides": "Pestisida",
+        "Herbicides": "Herbisida",
+        "Medical Sharps": "Alat Medis Tumpul",
+        "Contaminated Materials": "Bahan Terkontaminasi",
+        "Radioactive Substances": "Zat Radioaktif",
+        "Contaminated Sanitary Products": "Produk Sanitasi Terkontaminasi",
+        "Sewage Treatment Waste": "Sampah Pengolahan Limbah",
+        "Automotive Fluids": "Cairan Otomotif",
+        "Antifreeze": "Antiembun Beku",
+        "Brake Fluid": "Cairan Rem",
+        "Lead-based Paints": "Cat Berbasis Timah",
+        "Electronic Hazardous Components": "Komponen Elektronik Berbahaya",
+        "Industrial Residues": "Sisa-sisa Industri",
+        "Used Oil": "Minyak Bekas",
+        "Oil-Contaminated Materials": "Bahan Terkontaminasi Minyak",
+        "Toxic Plastic Additives": "Aditif Plastik Beracun"
+      },
+      "description": "Sampah Berbahaya mencakup berbagai jenis bahan yang memiliki risiko signifikan terhadap kesehatan dan lingkungan. Penanganan, penyimpanan, dan pembuangan yang benar sangat penting untuk mengurangi risiko ini.",
+      "otherNames": {
+        "Dangerous Waste": "Sampah Berbahaya",
+        "Toxic Waste": "Sampah Beracun"
+      },
+      "guideLines": {
+        "recommendedBinType": "Fasilitas Pengumpulan Sampah Berbahaya Khusus",
+        "handling": "Lakukan dengan sangat hati-hati menggunakan perlengkapan keselamatan yang sesuai. Patuhi semua peraturan lokal dan federal untuk penyimpanan dan pembuangan.",
+        "separation": "Pisahkan jenis sampah berbahaya yang berbeda karena mereka memerlukan penanganan dan pembuangan yang unik.",
+        "whatNotToDo": "Jangan buang sampah berbahaya ke dalam tempat sampah biasa atau saluran pembuangan. Hindari pembuangan yang tidak sah.",
+        "safetyPrecautions": "Selalu gunakan perlengkapan pelindung, termasuk sarung tangan, goggles, dan masker, saat menangani bahan berbahaya. Pastikan ventilasi yang baik dan hindari kontak langsung."
+      },
+      "whyItIsImportant": {
+        "benefits": "Manajemen yang benar dari sampah berbahaya mencegah pencemaran lingkungan, melindungi kesehatan masyarakat, dan memastikan kepatuhan terhadap standar hukum.",
+        "impact": "Pembuangan yang hati-hati dari bahan berbahaya mengurangi risiko pencemaran tanah dan air serta mendukung lingkungan yang lebih aman dan bersih."
+      },
+      "funFact": "Pembuangan yang benar dari satu kuart minyak motor dapat mencegah hingga dua juta galon air minum dari kontaminasi."
+    },
+    "020": {
+      "name": "Sampah Kimia",
+      "wasteItems": {
+        "Industrial Chemicals": "Bahan Kimia Industri",
+        "Laboratory Chemicals": "Bahan Kimia Laboratorium",
+        "Cleaning Agents": "Pembersih",
+        "Pesticides": "Pestisida",
+        "Herbicides": "Herbisida",
+        "Paints": "Cat",
+        "Solvents": "Pelarut",
+        "Automotive Fluids": "Cairan Otomotif",
+        "Batteries": "Baterai",
+        "Aerosol Cans": "Kaleng Aerosol",
+        "Mercury Devices": "Perangkat Berkurang",
+        "Pharmaceuticals": "Obat-obatan",
+        "Photographic Chemicals": "Bahan Kimia Fotografi",
+        "Pool Chemicals": "Bahan Kimia Kolam Renang",
+        "Flammable Liquids": "Cairan Mudah Terbakar",
+        "Toxic Metals": "Logam Beracun",
+        "Acids": "Asam",
+        "Bases": "Basa",
+        "Reactive Materials": "Bahan Reaktif"
+      },
+      "description": "Sampah Kimia mencakup berbagai bahan kimia berbahaya dan tidak dapat terurai yang dapat menimbulkan risiko besar terhadap kesehatan dan lingkungan. Penanganan, penyimpanan, dan pembuangan yang benar sangat penting untuk meminimalkan risiko ini.",
+      "otherNames": {
+        "Hazardous Chemicals": "Bahan Kimia Berbahaya",
+        "Toxic Chemicals": "Bahan Kimia Beracun"
+      },
+      "guideLines": {
+        "recommendedBinType": "Fasilitas Pengumpulan Sampah Kimia Khusus",
+        "handling": "Lakukan dengan sangat hati-hati menggunakan perlengkapan keselamatan yang sesuai. Patuhi semua pedoman regulasi untuk penyimpanan, transportasi, dan pembuangan.",
+        "separation": "Pisahkan bahan kimia yang tidak kompatibel dan kategorikan berdasarkan kelas bahaya (misalnya, mudah terbakar, korosif, beracun).",
+        "whatNotToDo": "Jangan buang sampah kimia ke dalam tempat sampah biasa, saluran pembuangan, atau badan air alami. Hindari mencampurkan bahan kimia yang berbeda yang bisa bereaksi dengan berbahaya.",
+        "safetyPrecautions": "Selalu gunakan perlengkapan pelindung, termasuk sarung tangan, goggles, dan perlindungan pernapasan yang sesuai. Pastikan ventilasi yang baik saat menangani bahan kimia yang mudah menguap atau berbau tajam."
+      },
+      "whyItIsImportant": {
+        "benefits": "Pembuangan yang benar dari sampah kimia mencegah pencemaran lingkungan, menghemat sumber daya, dan mengurangi risiko kesehatan.",
+        "impact": "Manajemen sampah kimia dengan bertanggung jawab meminimalkan risiko pencemaran tanah dan air dan berkontribusi pada ekosistem yang lebih aman."
+      },
+      "funFact": "Mengolah satu galon minyak bekas dengan benar dapat menghasilkan energi yang cukup untuk memasok listrik rumah rata-rata selama setahun."
+    },
+    "021": {
+      "name": "Sampah Medis",
+      "wasteItems": {
+        "Used Bandages": "Perban Bekas",
+        "Gauze": "Gaze",
+        "Expired Medicines": "Obat Kedaluwarsa",
+        "Medical Gloves": "Sarung Tangan Medis",
+        "Sharps": "Benda Tumpul Tajam",
+        "Test Strips": "Strip Tes",
+        "Surgical Instruments": "Alat Bedah",
+        "Disposable Garments": "Pakaian Sekali Pakai",
+        "Pathological Waste": "Sampah Patologis",
+        "Infectious Agents": "Agen Penyebab Infeksi",
+        "Discarded Vaccines": "Vaksin Terbuang",
+        "Dialysis Waste": "Sampah Dialisis",
+        "Chemotherapy Agents": "Agen Kemoterapi",
+        "Imaging Chemicals": "Bahan Kimia Pencitraan",
+        "Radioactive Waste": "Sampah Radioaktif",
+        "Biological Specimens": "Spesimen Biologis"
+      },
+      "description": "Sampah Medis terdiri dari berbagai barang yang digunakan di fasilitas kesehatan yang berpotensi menular atau berbahaya. Pembuangan yang benar sangat penting untuk mencegah penyebaran penyakit dan melindungi kesehatan masyarakat.",
+      "otherNames": {
+        "Clinical Waste": "Sampah Klinis",
+        "Healthcare Waste": "Sampah Layanan Kesehatan"
+      },
+      "guideLines": {
+        "recommendedBinType": "Kontainer Pembuangan Sampah Medis Khusus",
+        "handling": "Lakukan dengan sangat hati-hati dan gunakan perlengkapan pelindung yang sesuai. Sampah medis harus dipisahkan di tempat pembuatannya.",
+        "separation": "Pisahkan benda tumpul tajam, obat, sampah patologis, dan sampah kimia karena setiap jenis memerlukan metode pembuangan yang berbeda.",
+        "whatNotToDo": "Jangan buang sampah medis ke dalam tempat sampah biasa atau campur dengan sampah umum. Hindari penanganan tanpa perlengkapan pelindung yang benar.",
+        "safetyPrecautions": "Selalu gunakan sarung tangan, masker, dan jika perlu pelindung wajah atau jubah saat menangani sampah medis untuk meminimalkan risiko paparan."
+      },
+      "whyItIsImportant": {
+        "benefits": "Pembuangan yang benar dari sampah medis mengurangi risiko penularan infeksi, melindungi tenaga medis dan masyarakat, serta mematuhi peraturan kesehatan.",
+        "impact": "Manajemen yang efektif terhadap sampah medis sangat penting untuk menjaga lingkungan yang aman dan sehat, terutama di fasilitas layanan kesehatan."
+      },
+      "funFact": "Rumah sakit rata-rata menghasilkan sekitar 33 pound sampah medis per tempat tidur per hari, yang menunjukkan pentingnya manajemen sampah yang efisien di fasilitas layanan kesehatan."
+    },
+    "022": {
+      "name": "Sampah Minyak",
+      "wasteItems": {
+        "Used Motor Oil": "Minyak Bekas Mesin",
+        "Cooking Oil": "Minyak Masak",
+        "Lubricating Oil": "Minyak Pelumas",
+        "Hydraulic Oil": "Minyak Hidrolik",
+        "Transmission Fluid": "Cairan Transmisi",
+        "Machine Oil": "Minyak Mesin",
+        "Grease": "Gris",
+        "Oil Filters": "Filter Minyak",
+        "Oil-Soaked Rags": "Kain Terendam Minyak",
+        "Fuel Oils": "Minyak Bakar",
+        "Vegetable Oils": "Minyak Nabati",
+        "Petroleum Products": "Produk Petroleum",
+        "Oil Containers": "Wadah Minyak",
+        "Oil-Water Mixtures": "Campuran Minyak-Air",
+        "Synthetic Oils": "Minyak Sintetis",
+        "Oil Sludge": "Lumpur Minyak"
+      },
+      "description": "Sampah Minyak mencakup berbagai jenis minyak bekas dan terkontaminasi, yang memerlukan penanganan khusus untuk daur ulang dan pembuangan guna mencegah kontaminasi lingkungan dan risiko kesehatan.",
+      "otherNames": {
+        "Used Oil": "Minyak Bekas",
+        "Waste Oil": "Sampah Minyak"
+      },
+      "guideLines": {
+        "recommendedBinType": "Fasilitas Daur Ulang Minyak Terpisah atau Titik Pengumpulan Minyak",
+        "handling": "Simpan sampah minyak dalam wadah tahan bocor. Hindari kontak langsung dan inhalasi asap.",
+        "separation": "Pisahkan jenis minyak yang berbeda dan sampah terkait minyak untuk daur ulang dan pembuangan yang benar.",
+        "whatNotToDo": "Jangan buang sampah minyak ke dalam sampah biasa, saluran pembuangan, atau badan air. Hindari mencampur sampah minyak dengan bahan berbahaya lainnya.",
+        "safetyPrecautions": "Gunakan sarung tangan dan perlindungan mata saat menangani sampah minyak. Pastikan sirkulasi udara yang baik di area penyimpanan."
+      },
+      "whyItIsImportant": {
+        "benefits": "Daur ulang sampah minyak dapat menghemat sumber daya alam, mencegah polusi, dan mendukung keberlanjutan lingkungan. Minyak yang didaur ulang dengan benar dapat diolah menjadi produk baru.",
+        "impact": "Manajemen sampah minyak yang efektif mengurangi risiko kontaminasi tanah dan air serta membantu menjaga lingkungan yang bersih dan aman."
+      },
+      "funFact": "Satu galon minyak bekas mesin dapat mengkontaminasi satu juta galon air tawar."
+    },
+    "023": {
+      "name": "Sampah Radioaktif",
+      "wasteItems": {
+        "Spent Nuclear Fuel": "Bahan Bakar Nuklir Bekas",
+        "Radioactive Medical Waste": "Sampah Medis Radioaktif",
+        "Contaminated Lab Equipment": "Peralatan Laboratorium Terkontaminasi",
+        "Radioactive Glass": "Kaca Radioaktif",
+        "Contaminated Metals": "Logam Terkontaminasi",
+        "Americium Smoke Detectors": "Detektor Asap Americium",
+        "Uranium Residues": "Sisa Uranium",
+        "Irradiated Tools": "Alat Teriradiasi",
+        "Contaminated Clothing": "Pakaian Terkontaminasi",
+        "Radioactive Sources": "Sumber Radioaktif",
+        "Luminous Dials": "Papan Tombol Bercahaya",
+        "Thorium Lantern Mantles": "Kain Pelita Torium",
+        "Radioactive Ores": "Batu Bijih Radioaktif"
+      },
+      "description": "Sampah Radioaktif mencakup bahan dan objek dengan zat radioaktif. Sifat berbahayanya menuntut protokol penanganan, penyimpanan, dan pembuangan yang ketat.",
+      "otherNames": {
+        "Nuclear Waste": "Sampah Nuklir",
+        "Radioactive Material": "Bahan Radioaktif"
+      },
+      "guideLines": {
+        "recommendedBinType": "Fasilitas Sampah Radioaktif Khusus",
+        "handling": "Protokol keselamatan yang ketat diperlukan. Penanganan hanya oleh profesional terlatih.",
+        "separation": "Berdasarkan jenis dan tingkat radioaktivitas untuk pembuangan yang tepat.",
+        "whatNotToDo": "Tidak boleh dibuang dalam sampah biasa. Tidak boleh ada kontak langsung tanpa perlindungan.",
+        "safetyPrecautions": "Perlengkapan pelindung khusus dan detektor radiasi wajib digunakan."
+      },
+      "whyItIsImportant": {
+        "benefits": "Melindungi dari radiasi berbahaya, mencegah kontaminasi lingkungan.",
+        "impact": "Penting untuk kesehatan dan keselamatan masyarakat, mencegah kerusakan lingkungan jangka panjang."
+      },
+      "funFact": "Beberapa sampah radioaktif dapat tetap berbahaya selama ribuan tahun."
+    },
+    "024": {
+      "name": "Sampah Sanitasi",
+      "wasteItems": {
+        "Used Diapers": "Popok Bekas",
+        "Sanitary Napkins": "Pembalut Wanita",
+        "Tampons": "Tampol",
+        "Wet Wipes": "Tisu Basah",
+        "Incontinence Pads": "Pelindung Inkontinensia",
+        "Disposable Toilet Seat Covers": "Penutup Toilet Sekali Pakai",
+        "Cotton Swabs": "Korek Telinga Kapas",
+        "Facial Tissues": "Tisu Wajah",
+        "Bandages": "Plester",
+        "Disposable Razors": "Pencukur Sekali Pakai",
+        "Dental Floss": "Benang Gigi"
+      },
+      "description": "Sampah Sanitasi mencakup berbagai produk perawatan pribadi yang digunakan dan dibuang. Karena potensi risiko kesehatan, terutama di fasilitas medis atau perawatan, pembuangan yang benar sangat penting untuk mencegah kontaminasi.",
+      "otherNames": {
+        "Hygiene Waste": "Sampah Kebersihan",
+        "Personal Care Waste": "Sampah Perawatan Pribadi"
+      },
+      "guideLines": {
+        "recommendedBinType": "Unit Pembuangan Sampah Sanitasi Khusus",
+        "handling": "Handle dengan hati-hati, idealnya dengan sarung tangan, untuk mencegah kontak langsung dan kontaminasi.",
+        "separation": "Pisahkan sampah sanitasi dari sampah biasa untuk pembuangan khusus.",
+        "whatNotToDo": "Jangan membuang sampah sanitasi ke toilet. Hindari membuangnya ke tempat sampah biasa tanpa wadah yang tepat.",
+        "safetyPrecautions": "Gunakan sarung tangan saat menangani dan membuang sampah sanitasi. Pastikan praktik kebersihan yang benar setelah pembuangan."
+      },
+      "whyItIsImportant": {
+        "benefits": "Pembuangan yang benar mencegah penyebaran infeksi dan menjaga kebersihan di ruang publik dan pribadi.",
+        "impact": "Manajemen yang efektif terhadap sampah sanitasi sangat penting untuk kesehatan masyarakat, terutama di daerah padat penduduk atau sensitif seperti rumah sakit."
+      },
+      "funFact": "Rata-rata seseorang menghasilkan sekitar 30 pound sampah sanitasi per tahun."
+    },
+    "025": {
+      "name": "Sampah Limbah",
+      "wasteItems": {
+        "Human Excreta": "Kotoran Manusia",
+        "Used Water": "Air Bekas",
+        "Domestic Wastewater": "Air Limbah Domestik",
+        "Industrial Effluent": "Limbah Industri",
+        "Agricultural Runoff": "Air Limbah Pertanian",
+        "Storm water Discharge": "Pembuangan Air Hujan",
+        "Septic Tank Sludge": "Lumpur Septic Tank",
+        "Grease Trap Waste": "Sampah Perangkap Lemak",
+        "Gray Water": "Air Kelabu",
+        "Black Water": "Air Kotor",
+        "Sewage Sludge": "Lumpur Limbah",
+        "Soapy Water": "Air Sabun",
+        "Cooking Water Discharge": "Pembuangan Air Masak",
+        "Bathroom Water": "Air Kamar Mandi",
+        "Laundry Wastewater": "Air Limbah Laundry",
+        "Sink Drainage": "Pembuangan Air Wastafel",
+        "Toilet Flushing Waste": "Pembuangan Limbah Toilet",
+        "Shower Drain Water": "Air Pembuangan Shower",
+        "Sump Pump Discharge": "Pembuangan Air Pompa Sumur",
+        "Urban Runoff": "Pembuangan Air Limpasan Kota"
+      },
+      "description": "Sampah Limbah mencakup air limbah dan bahan yang dibilas atau dibuang dari rumah tangga, industri, dan lahan pertanian. Perlakuan dan pembuangan yang tepat sangat penting untuk perlindungan lingkungan dan mencegah pencemaran air.",
+      "otherNames": {
+        "Wastewater": "Air Limbah",
+        "Sewerage": "Pengairan"
+      },
+      "guideLines": {
+        "recommendedBinType": "Fasilitas Pengolahan Limbah Khusus",
+        "handling": "Hindari kontak langsung dan ikuti protokol keselamatan dalam menangani sampah limbah.",
+        "separation": "Pastikan pemisahan dari sumber air minum dan patuhi proses pengolahan air limbah.",
+        "whatNotToDo": "Jangan melepaskan limbah kotoran yang belum diolah ke badan air alami atau lingkungan.",
+        "safetyPrecautions": "Gunakan perlengkapan pelindung, termasuk sarung tangan dan masker, dan praktikkan kebersihan yang baik setelah menangani sampah limbah."
+      },
+      "whyItIsImportant": {
+        "benefits": "Manajemen limbah yang tepat mencegah penularan penyakit, melindungi sumber air, dan mendukung kesehatan masyarakat.",
+        "impact": "Pengolahan limbah limbah yang efektif sangat penting untuk pelestarian lingkungan dan pembangunan perkotaan yang berkelanjutan."
+      },
+      "funFact": "Pabrik pengolahan limbah limbah canggih dapat mengubah limbah menjadi energi dan air yang dapat digunakan kembali, menunjukkan potensi untuk mendaur ulang sumber daya dari limbah."
+    },
+    "026": {
+      "name": "Sampah TPA",
+      "wasteItems": {
+        "Non-Recyclable Plastic": "Plastik Non-Daur Ulang",
+        "Contaminated Paper": "Kertas Terkontaminasi",
+        "Broken Glass": "Kaca Pecah",
+        "Non-Recyclable Packaging": "Kemasan Non-Daur Ulang",
+        "Worn Textiles": "Tekstil Usang",
+        "Damaged Furniture": "Perabot Rusak",
+        "Ceramic Items": "Barang Keramik",
+        "Construction Debris": "Sisa Konstruksi",
+        "Non-Recyclable Electronics": "Elektronik Non-Daur Ulang",
+        "Household Trash": "Sampah Rumah Tangga",
+        "Ineligible Food Waste": "Sisa Makanan Tidak Memenuhi Syarat",
+        "Ineligible Garden Waste": "Sisa Taman Tidak Memenuhi Syarat",
+        "Used Batteries": "Baterai Bekas",
+        "Soiled Clothing": "Pakaian Terkontaminasi",
+        "Old Carpets": "Karpet Lama",
+        "Expired Medicines": "Obat Kadaluarsa",
+        "Waste Foam": "Busa Limbah",
+        "Disposable Utensils": "Peralatan Sekali Pakai",
+        "Waste Oil": "Minyak Limbah",
+        "Contaminated Soil": "Tanah Terkontaminasi"
+      },
+      "description": "Sampah TPA mencakup bahan yang tidak dapat didaur ulang atau terkompos. Ini melibatkan berbagai item yang tidak dapat didaur ulang yang akhirnya berakhir di tempat pembuangan sampah, menyebabkan potensi masalah lingkungan seperti pencemaran tanah dan air tanah.",
+      "otherNames": {
+        "Non-Recyclable Waste": "Sampah Non-Daur Ulang",
+        "General Trash": "Sampah Umum"
+      },
+      "guideLines": {
+        "recommendedBinType": "Tempat Sampah Umum atau Bak Sampah, berlabel untuk barang-barang non-daur ulang",
+        "handling": "Tangani sampah TPA dengan hati-hati, pisahkan dari barang-barang daur ulang dan berbahaya.",
+        "separation": "Penting untuk memisahkan dari barang-barang daur ulang, organik, dan sampah berbahaya untuk meminimalkan dampak di tempat pembuangan sampah.",
+        "whatNotToDo": "Hindari membuang barang-barang yang dapat didaur ulang atau terkompos sebagai sampah TPA.",
+        "safetyPrecautions": "Gunakan sarung tangan dan teknik pengangkatan yang tepat saat menangani sampah TPA untuk menghindari cedera dan memastikan kebersihan yang baik."
+      },
+      "whyItIsImportant": {
+        "benefits": "Pengelolaan yang tepat di tempat pembuangan sampah membantu mengelola sampah non-daur ulang, mengurangi pencemaran lingkungan.",
+        "impact": "Meminimalkan sampah TPA sangat penting untuk pengelolaan sampah yang berkelanjutan, mencegah kerusakan lingkungan jangka panjang."
+      },
+      "funFact": "Upaya untuk mengurangi sampah TPA dapat secara signifikan mengurangi emisi gas rumah kaca, menegaskan pentingnya daur ulang dan pengurangan sampah."
     }
   },
+
+  "error": {
+    "invalidImageUrl": "Silakan masukkan URL gambar yang valid.",
+    "emptySearch": "Silakan berikan gambar atau URL.",
+    "searchResponse": "Kesalahan selama pencarian, harap coba lagi nanti.",
+    "invalidImageSize": "Silakan berikan file gambar dengan ukuran hingga 5MB."
+  },
   "common": {
-    "knowYourWaste": "Kenali Sampah Anda",
-    "sustainNatureNest": "Lestarikan Sarang Alam",
+    "knowYourWaste": "Kenali limbah",
+    "sustainNatureNest": "Lestarikan sarang alam",
     "searchPlaceholder": "Cari item untuk didaur ulang atau dibuang",
     "whatIsWaste": "Apa itu {{value}}",
     "alsoKnownAs": "Juga dikenal sebagai",
-    "itemsInsideWaste": "Item di dalam {{value}}",
-    "howToHandle": "Cara menangani {{value}}",
+    "itemsInsideWaste": "Item dalam {{value}}",
+    "howToHandle": "Bagaimana menghandle {{value}}",
     "handling": "Penanganan",
     "separation": "Pemisahan",
     "whatNotToDo": "Apa yang tidak boleh dilakukan",
-    "suggestedBin": "Tempat Sampah yang Disarankan",
+    "suggestedBin": "Tempat sampah yang disarankan",
     "whyItsImportant": "Mengapa ini penting",
     "note": "Catatan",
     "safetyPrecautions": "Tindakan pencegahan keselamatan",
     "alsoKnowAbout": "Juga ketahui tentang",
-    "compostable": "Dapat dikomposkan",
+    "compostable": "Dapat terkompos",
     "recyclable": "Dapat didaur ulang",
     "nonRecyclable": "Tidak dapat didaur ulang",
-    "burnable": "Dapat terbakar terkontrol",
-    "nonBurnable": "Tidak dapat terbakar",
-    "caution": "berhati-hati dalam penanganan",
-    "flammable": "mudah terbakar",
-    "toxic": "beracun",
-    "biohazardous": "Biohazard",
+    "burnable": "Dapat dibakar dengan kendali",
+    "nonBurnable": "Tidak dapat dibakar",
+    "caution": "Handle dengan hati-hati",
+    "flammable": "Mudah terbakar",
+    "toxic": "Beracun",
+    "biohazardous": "Berbahaya biologis",
     "radioactive": "Radioaktif",
-    "useSafetyGear": "ambil tindakan perlindungan",
+    "useSafetyGear": "Gunakan peralatan keselamatan",
     "washHand": "Cuci tangan",
     "sanitize": "Sanitasi",
-    "disclaimer": "Informasi yang disediakan di sini bersifat umum dan mungkin tidak berlaku untuk semua wilayah atau situasi. Harus berkonsultasi dengan peraturan dan pedoman lokal untuk pengelolaan limbah organik.",
+    "disclaimer": "Informasi yang diberikan di sini bersifat umum dan mungkin tidak berlaku untuk semua wilayah atau keadaan. Peraturan dan panduan lokal untuk pengelolaan {{value}} harus dikonsultasikan.",
     "readMore": "Baca lebih lanjut",
-    "readMoreSearch": "solusi dan penanganan manajemen {{value}} lokal",
-    "managementStation": "stasiun pengelolaan",
+    "readMoreSearch": "Solusi pengelolaan {{value}} lokal dan penanganan",
     "credits": "Info kredit",
-    "visitToKnowMore": "Kunjungi untuk mengetahui lebih lanjut",
-    "sustainNatureNestBy": "Lestarikan Sarang Alam dengan"
+    "visitToKnowMore": "Kunjungi untuk tahu lebih lanjut",
+    "imageSearch": "Pencarian gambar",
+    "uploadImage": "Unggah gambar",
+    "changeImage": "Ubah gambar",
+    "or": "Atau",
+    "pasteImageLink": "Tempelkan tautan gambar",
+    "reset": "Reset",
+    "search": "Cari",
+    "searching": "Mencari"
   }
 }

@@ -17,6 +17,7 @@ button {
   border: none;
   display: flex;
   align-items: center;
+  font-weight: 500;
   background: var(--main-background);
 }
 
@@ -51,6 +52,7 @@ button:hover {
   transition: 0 2px;
 }
 
+.disabled,
 button:disabled {
   opacity: 0.5;
   cursor: not-allowed;

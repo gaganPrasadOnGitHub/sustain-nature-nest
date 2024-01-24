@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "Organik Atık",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "Yiyecek Artıkları",
+        "Fruit Peels": "Meyve Kabukları",
+        "Vegetable Peels": "Sebze Kabukları",
+        "Coffee Grounds": "Kahve Telvesi",
+        "Tea Bags": "Çay Poşetleri",
+        "Eggshells": "Yumurta Kabukları",
+        "Garden Flowers": "Bahçe Çiçekleri",
+        "Houseplants": "Ev Bitkileri",
+        "Grass Clippings": "Çim Biçme Artıkları",
+        "Weeds": "Yabani Otlar",
+        "Nut Shells": "Kabuklu Yemişler",
+        "Paper Towels": "Kağıt Havlular",
+        "Cardboard": "Karton",
+        "Wood Scrap": "Ahşap Parçaları",
+        "Natural Fibers": "Doğal Lifler"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "Organik atık çoğunlukla mutfaklardan ve bahçelerden gelir. Yiyecek atıkları, bahçe atıkları ve doğal lifler gibi biyolojik olarak parçalanabilir malzemeleri içerir. Bu malzemeler, atığı değerli toprak iyileştiricilere dönüştüren kompost yapımı için idealdir.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "Kompost Edilebilir Atık",
+        "Biodegradable Waste": "Biyolojik Parçalanabilir Atık"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "Kompost Kabı (havalandırmalı), Metal veya Dayanıklı Plastik, Yeşil/Kahverengi",
+        "handling": "İşlerken eldiven kullanın, atıktan sonra ellerinizi yıkayın. Bozulmuş malzemelerle doğrudan teması önleyin.",
+        "separation": "Organik malzemeleri plastik, metal veya cam gibi inorganik ürünlerden ayırarak etkili kompost yapımını sağlayın.",
+        "whatNotToDo": "Plastik, metal veya cam gibi inorganik malzemeleri içermeyin. Kimyasal olarak işlenmiş ürünleri veya yağ/yağmur lekesi olan malzemeleri atmayın.",
+        "safetyPrecautions": "Organik atık işlerken doğrudan bozulmuş malzemeler ve potansiyel patojenlerle teması önlemek için eldiven kullanın. Kompost alanının hoş olmayan kokuların birikmesini önlemek için iyi havalandırıldığından emin olun. Organik malzemeleri işledikten sonra ellerinizi iyice yıkayarak kişisel hijyeni koruyun."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "Depolama alanı kullanımını azaltır, metan emisyonlarını azaltır ve kimyasal gübre ihtiyacını azaltır. Sürdürülebilir tarımı teşvik eder.",
+        "impact": "Atığı değerli komposta dönüştürerek toprağı besleyen ve sağlıklı bitki büyümesini destekleyen sürdürülebilir arazi kullanımını teşvik eder."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "Eğer kompost yapılırsa, küresel yıllık gıda atığı, dünyada sürülen toplam araç sayısından daha fazla olan 2 milyar aracın eşdeğer CO2 emisyonlarını azaltabilir."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "Tarımsal Atık",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "Tarla Artıkları",
+        "Manure": "Gübre",
+        "Pesticide Containers": "Pestisit Kapları",
+        "Fertilizer Bags": "Gübre Torbaları",
+        "Farm Machinery": "Çiftlik Makineleri",
+        "Spoiled Produce": "Bozulmuş Ürünler",
+        "Agricultural Plastics": "Tarımsal Plastikler",
+        "Diseased Plants": "Hastalıklı Bitkiler",
+        "Greenhouse Films": "Seraların Plastik Filmleri",
+        "Seed Sacks": "Tohum Torbaları",
+        "Pruning Waste": "Sürgün Atıkları",
+        "Irrigation Equipment": "Sulama Ekipmanları",
+        "Soil Amendment Packaging": "Toprak Düzeltileri Ambalajları",
+        "Animal Feed Bags": "Hayvan Yemi Torbaları",
+        "Silage Wraps": "Silaj Sargıları",
+        "Horticultural Pots": "Bahçe Saksıları",
+        "Waste Pesticides": "Atık Pestisitler",
+        "Contaminated Soils": "Kirlenmiş Topraklar",
+        "Old Tools": "Eski Araçlar",
+        "Broken Irrigation Pipes": "Kırık Sulama Boruları",
+        "Discarded Gloves": "Atılan Eldivenler",
+        "Protective Gear": "Koruyucu Ekipmanlar",
+        "Unused Veterinary Medicines": "Kullanılmayan Veteriner İlaçları",
+        "Baler Twine": "Bal Balya İpi",
+        "Netting Material": "Ağ Malzemesi",
+        "Plastic Mulch": "Plastik Örtü"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "Tarımsal atık, tarım faaliyetlerinden kaynaklanan hem organik hem de inorganik malzemeleri içerir. Bu, tarla artıkları ve gübre gibi doğal yan ürünlerin yanı sıra konteynerler, plastikler ve eski makineler gibi organik olmayan atıkları içerir. Etkili yönetim, çevresel etkiyi en aza indirmek ve sürdürülebilir tarımı desteklemek için hayati önem taşır.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "Çiftlik Atığı",
+        "Agricultural Byproducts": "Tarımsal Yan Ürünler"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "Organik ve inorganik atık için ayrı ayrı işlem yapılabilen özel konteynerler, tehlikeli malzemeler için ayrı işleme",
+        "handling": "Tehlikeli ürünler için koruyucu ekipman kullanın. Organik atıkları uygunsa kompost yapın.",
+        "separation": "Organik malzemeleri kimyasal ve plastik atıklardan ayırın. Tehlikeli malzemeleri dikkatlice işleyin.",
+        "whatNotToDo": "Plastikleri veya kimyasal kapları yakmayın. Organik atıkları tehlikeli malzemelerle karıştırmaktan kaçının.",
+        "safetyPrecautions": "Kimyasal gübreler veya pestisitlerle çalışırken ve seralar gibi kapalı alanlarda çalışırken eldiven ve koruyucu giysi kullanın. Toprak düzeltileriyle çalışırken veya seralarda çalışırken iyi bir havalandırma sağlayın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "Uygun atık bertarafı kirliliği azaltır, toprak sağlığını artırır ve sürdürülebilir uygulamaları teşvik eder.",
+        "impact": "Tarımsal atıkların etkili bir şekilde yönetilmesi, tarımın çevresel etkisini azaltır, kaynakları korurken sürdürülebilir tarım uygulamalarını destekler."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "Eğer uygun bir şekilde yönetilip kompost yapılırsa, tarla artıkları toprak verimliliğini önemli ölçüde artırabilir ve sentetik gübre ihtiyacını azaltabilir."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "Hayvan Atığı",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "Gübre",
+        "Bedding Straw": "Yatak Samanı",
+        "Livestock Carcasses": "Hayvan Leşleri",
+        "Poultry Waste": "Kümes Atığı",
+        "Feathers": "Tüyler",
+        "Fish Waste": "Balık Atığı",
+        "Milk Spoilage": "Süt Bozulması",
+        "Eggshell Waste": "Yumurta Kabuğu Atığı",
+        "Animal Hair": "Hayvan Tüyü",
+        "Wool": "Yün",
+        "Dairy Processing Waste": "Süt İşleme Atığı",
+        "Veterinary Supplies": "Veteriner Malzemeleri",
+        "Expired Animal Feed": "Süresi Dolmuş Hayvan Yemi",
+        "Contaminated Animal Products": "Kirlenmiş Hayvansal Ürünler"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "Hayvan atığı, sığır, kümes hayvanları ve diğer hayvancılık faaliyetlerinden kaynaklanan yan ürünleri ifade eder. Organik atıkların yanı sıra leşler ve bozulmuş hayvansal ürünler gibi atıkları içerir. Doğru işleme ve bertaraf, çevresel sağlık ve hastalık yayılmasını önlemek için hayati öneme sahiptir.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "Sığır Atığı",
+        "Poultry Waste": "Kümes Atığı"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "Biyo-tehlikeli atık için özel konteynerler, normal atıklardan ayrı",
+        "handling": "Karkaslar veya kontamine atıkları işlerken koruyucu giysi kullanın. Sıkı hijyen protokollerini uygulayın.",
+        "separation": "Biyo-tehlikeli hayvan atığını normal atıklardan ayırın. Belirlenmiş konteynerlarda bertaraf edin.",
+        "whatNotToDo": "Genel atıklarla karıştırmayın. Uygun güvenlik ekipmanı olmadan doğrudan teması önleyin.",
+        "safetyPrecautions": "Hayvan atığı işlerken, potansiyel olarak zararlı mikroorganizmalarla doğrudan teması önlemek için eldiven ve koruyucu ayakkabı giyin. Hayvan atığının depolandığı veya işlendiği alanların iyi havalandırıldığından emin olun. Hayvan atığı işlemi sonrası ellerinizi sabun ve suyla iyice yıkayarak zoonotik hastalıkların yayılmasını önleyin."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "Doğru yönetim, çevresel kirliliği ve insanlar ile hayvanlar için sağlık risklerini önler.",
+        "impact": "Hayvan atığının sorumlu bir şekilde bertaraf edilmesi, halk sağlığını, çevre korumasını ve sürdürülebilir tarım uygulamalarını destekler."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "Bir süt inekten elde edilen gübre, bir gün boyunca küçük bir buzdolabını çalıştırmak için yeterli elektrik üretebilir, bu da hayvan atığını yenilenebilir enerjiye dönüştürme potansiyelini göstermektedir."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "Gıda Atığı",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "Pişmiş Gıda",
+        "Uncooked Food": "Pişmemiş Gıda",
+        "Meat Scraps": "Et Artıkları",
+        "Fish Scraps": "Balık Artıkları",
+        "Dairy Products": "Süt Ürünleri",
+        "Bread": "Ekmek",
+        "Pastries": "Pastalar",
+        "Leftover Meals": "Artan Yemekler",
+        "Expired Food": "Süresi Dolmuş Gıda",
+        "Rice": "Pirinç",
+        "Pasta": "Makarna",
+        "Cheese": "Peynir",
+        "Egg Shells": "Yumurta Kabukları",
+        "Fruit Scraps": "Meyve Artıkları",
+        "Vegetable Scraps": "Sebze Artıkları",
+        "Coffee Grounds": "Kahve Telvesi",
+        "Tea Bags": "Çay Poşetleri",
+        "Food-Soiled Paper": "Yiyecek Kirletilmiş Kağıt"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "Gıda atığı kutuları, yemek artıkları, süresi dolmuş ürünler ve gıda artıkları dahil olmak üzere çeşitli gıda atığı türlerini bertaraf etmek için kullanılır. Bu atık kategorisi biyodizileme veya kompost yapımı için uygundur, organik maddeleri değerli kaynaklara dönüştürür.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "Mutfak Atığı",
+        "Leftover Waste": "Artık Atık"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "Koku kontrolü ve sızdırmazlık özelliklerine sahip kapalı konteyner, Koyu Yeşil veya Kahverengi",
+        "handling": "Koku ve böcekleri engellemek için gıda atıklarını sıkıca kapatın. İşlem sonrası her zaman ellerinizi yıkayın ve dezenfekte edin. Dökülmeleri hemen temizleyin.",
+        "separation": "Kompost yapımı ve geri dönüşüm verimliliğini artırmak için gıda atığını geri dönüşümlü ve kompost edilemezlerden ayırın.",
+        "whatNotToDo": "Gıda atığını sıvılar, yağlar veya kimyasallar ile karıştırmayın. Plastik veya metal gibi biyolojik olarak parçalanmayan ürünleri içermekten kaçının. Gıda atığını açık bırakmayın, böcekleri çekmemek ve kötü kokuların oluşmasını önlemek için.",
+        "safetyPrecautions": "Özellikle büyük miktarlarda gıda atığı işlerken potansiyel bozulma ve bakterilere karşı koruma sağlamak için eldiven kullanın. Gıda atığı konteynerlerini temiz ve kapalı tutun, böcek çekmeyi önlemek ve kötü kokuların oluşmasını önlemek için. Gıda atığı ile temas eden ellerinizi, araçlarınızı ve yüzeyleri düzenli olarak temizleyerek hijyeni koruyun."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "Böcek çekmeyi önlemeye yardımcı olur, depolama alanlarından kaynaklanan sera gazı emisyonlarını azaltır ve kompost veya biyogaz üretimini kolaylaştırır.",
+        "impact": "Gıda atığının doğru yönetimi kaynakların tasarrufunu sağlar, çevresel etkiyi azaltır ve sürdürülebilir uygulamaları teşvik eder."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "Gıda atığı bir ülke olsaydı, dünya genelinde sera gazı emisyonlarında ABD ve Çin'den sonra üçüncü sırada yer alırdı. Gıda atığını azaltmak, çevresel etkiyi en aza indirmek için hayati önem taşır."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "Yeşil Atık",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "Çim Biçme Artıkları",
+        "Leaves": "Yapraklar",
+        "Branches": "Dal Parçaları",
+        "Weeds": "Yabani Ot",
+        "Flowers": "Çiçekler",
+        "Garden Trimmings": "Bahçe Budamaları",
+        "Shrubs": "Çalılar",
+        "Small Twigs": "Küçük Dal Parçaları",
+        "Hedge Clippings": "Çit Budamaları",
+        "Fallen Fruit": "Düşmüş Meyve",
+        "Garden Maintenance": "Bahçe Bakımı",
+        "Plant Prunings": "Bitki Budamaları"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "Bitki ve bahçe artıklarından oluşan yeşil atık, organik geri dönüşümde önemli bir rol oynar. Yeşil atığın kompostlanması, sürdürülebilir bahçecilik ve tarım için elzem olan besin açısından zengin toprak düzenleyicilerin oluşturulmasına katkı sağlar.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "Bahçe Atığı",
+        "Garden Waste": "Bahçe Atığı"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "Açık Kapasiteli, Mümkünse Yeşil Renkli Büyük Konteyner",
+        "handling": "Yeşil atığı işlerken kesilmelerden veya sert malzemelerden kaynaklanan tahrişten korunmak için eldiven kullanın. İşlem sonrası ellerinizi yıkayın.",
+        "separation": "Yeşil atığı evsel ve tehlikeli atıklardan ayırın. Gıda atığı veya geri dönüşümlerle karıştırmayın.",
+        "whatNotToDo": "Plastik torbalar veya saksı gibi biyolojik olmayan malzemelerin bertarafını önleyin. Toprak veya taş eklemeyin. Kompostu kontamine edebilecek hastalıklı bitkiler veya istilacı türler eklemekten kaçının.",
+        "safetyPrecautions": "Yeşil atık işlerken keskin malzemelerden korunmak için eldiven kullanın ve işin zararlı maddeler içermediğinden emin olun."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "Kompost üretimini kolaylaştırır, toprak sağlığını zenginleştirir ve karbon depolamaya yardımcı olur. Depolama alanı kullanımını ve sera gazı emisyonlarını azaltır.",
+        "impact": "Sürdürülebilir atık yönetimine katkıda bulunur, toprakta biyoçeşitliliği destekler ve çevre dostu bahçecilik ve tarım uygulamalarını teşvik eder."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "Çim biçme artıkları ve yapraklar gibi yeşil atıklar, kimyasal gübreler olmadan bitki büyümesini iyileştiren, bahçıvanlar arasında 'siyah altın' olarak bilinen zengin toprak olan kompost oluşturmak için kompostlanabilir."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "Geridönüşüme Uygun Atık",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "Gazeteler",
+        "Magazines": "Dergiler",
+        "Office Paper": "Ofis Kağıdı",
+        "Cardboard": "Karton",
+        "Plastic Bottles": "Plastik Şişeler",
+        "Plastic Containers": "Plastik Kaplar",
+        "Glass Bottles": "Cam Şişeler",
+        "Glass Jars": "Cam Kavanozlar",
+        "Aluminum Cans": "Alüminyum Kutular",
+        "Steel Cans": "Çelik Kutular",
+        "Electronics": "Elektronik Cihazlar",
+        "Textiles": "Tekstil Ürünleri",
+        "Untreated Wood": "İşlenmemiş Ahşap",
+        "Aerosol Cans": "Aerosol Kutular",
+        "Batteries": "Piller",
+        "Non-LED Light Bulbs": "LED Olmayan Ampuller"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "Geridönüşüme uygun atık, daha fazla kullanım için yeniden işlenebilecek çeşitli malzemeleri içerir. Bu kategori içindeki temel öğeler, kağıt ürünleri, plastikler, cam, metaller ve belirli türdeki elektroniklerdir; hepsi kaynak koruma ve çevresel sürdürülebilirlik açısından hayati bir rol oynar.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "Geridönüşüm Kutusu, Metal veya Dayanıklı Plastik",
+        "handling": "Geridönüşüme vermeden önce ürünlerin temiz ve kuru olduğundan emin olun. Yerel geridönüşüm kurallarına göre sıralayın.",
+        "separation": "Farklı türdeki geridönüşümleri ayırarak geridönüşümsüz malzemelerle karışmasını önleyin.",
+        "whatNotToDo": "Kirli, kontamine olmuş veya geridönüşümsüz malzemeleri dahil etmekten kaçının. Belirli atıklar için yerel geridönüşüm kurallarına uyun.",
+        "safetyPrecautions": "Geridönüşümleri işlerken gerektiğinde uygun güvenlik ekipmanı giyin. Geri dönüşüm malzemelerinin yakınında bulunabilecek böcekler veya hayvanlardan dikkatli olun."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "Yeni hammadde ihtiyacını azaltır, enerji tasarrufu sağlar ve atığın çevresel etkisini azaltır.",
+        "impact": "Sürdürülebilir kaynak yönetimini destekler, çevre koruma ve koruma çabalarına katkı sağlar."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Geridönüşüm, atıkların çevresel etkisini azaltmaya yardımcı olur ve gelecek nesiller için değerli kaynakları korur."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "Otomotiv Atıkları",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "Kullanılmış Motor Yağı",
+        "Oil Filters": "Yağ Filtreleri",
+        "Batteries": "Aküler",
+        "Tires": "Lastikler",
+        "Brake Pads": "Fren Balataları",
+        "Brake Fluid": "Fren Sıvısı",
+        "Transmission Fluid": "Şanzıman Yağı",
+        "Coolants": "Soğutma Sıvıları",
+        "Metal Parts": "Metal Parçalar",
+        "Rubber Hoses": "Kauçuk Hortumlar",
+        "Belts": "Kayışlar",
+        "Air Filters": "Hava Filtreleri",
+        "Windshield Glass": "Ön Cam",
+        "Upholstery Materials": "Döşeme Malzemeleri",
+        "Automotive Bumpers": "Otomotiv Tamponları",
+        "Headlights": "Farlar",
+        "Electrical Components": "Elektriksel Bileşenler"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "Otomotiv atıkları, araçlardan atılan çeşitli malzemeleri ve bileşenleri içerir. Bu, yağlar, aküler, lastikler ve mekanik parçalar gibi hem tehlikeli hem de tehlikeli olmayan atık türlerini içerir. Otomotiv atıklarının doğru bir şekilde bertaraf edilmesi ve geri dönüşümü, çevre koruma ve kaynak koruma açısından hayati öneme sahiptir.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Araç Atıkları": "Araç Atıkları",
+        "Araba Atıkları": "Araba Atıkları"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "Tehlikeli malzemeler için özel konteynerler, daha büyük parçalar için belirlenmiş alanlar",
+        "handling": "Özellikle tehlikeli maddelerle uğraşırken dikkatli olun. Yağlar ve kimyasallarla çalışırken güvenlik ekipmanı kullanın.",
+        "separation": "Yağlar ve piller gibi tehlikeli atıkları tehlikeli olmayan maddelerden ayırın. Her türün bertarafı için yerel yönergeleri izleyin.",
+        "whatNotToDo": "Otomotiv yağlarını ve kimyasallarını normal çöp veya kanalizasyona dökmeyin. Farklı türdeki otomotiv atıklarını karıştırmaktan kaçının.",
+        "safetyPrecautions": "Otomotiv atıkları gibi kullanılmış yağ, akü ve lastik gibi tehlikeli maddelerle uğraşırken eldiven ve göz koruması kullanın. Özellikle otomotiv sıvılarıyla çalışırken duman solumamak için iyi havalandırılan alanlarda çalışın. Otomotiv atıklarını çevresel kirlenmeyi önlemek için belirlenmiş geri dönüşüm merkezlerine atın."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "Çevresel kirlenmeyi önler, değerli malzemeleri korur ve geri dönüşüm girişimlerini destekler.",
+        "impact": "Otomotiv atıklarının doğru yönetimi, araç kullanımı ve bakımının ekolojik ayak izini en aza indirerek daha temiz ve güvenli bir çevreye katkıda bulunur."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "Bir aracın sadece birini geri dönüştürmek, 2.500 pound demir cevheri, 1.400 pound kömür ve 120 pound kalker tasarruf etmeyi sağlar. Bu süreç ayrıca yeni otomobil parçaları ve araçlar üretmek için gereken enerji ve hammaddeyi önemli ölçüde azaltır."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "Büyük Atık",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "Mobilya",
+        "Appliances": "Beyaz Eşyalar",
+        "Mattresses": "Yataklar",
+        "Large Toys": "Büyük Oyuncaklar",
+        "Carpeting": "Halılar",
+        "Bicycles": "Bisikletler",
+        "Large Electronics": "Büyük Elektronik Cihazlar",
+        "BBQ Grills": "Mangal Şömineleri",
+        "Exercise Equipment": "Egzersiz Ekipmanları",
+        "Large Household Items": "Büyük Ev Eşyaları"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "Büyük atık, düzenli çöp kutularına sığmayan büyük eşyaları içerir. Büyük atıkların doğru bir şekilde bertaraf edilmesi, verimli atık yönetimi ve çevre koruma için önemlidir. Büyük eşyaların geri dönüşümü, kaynak korumaya katkıda bulunabilir.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Büyük Atık": "Büyük Atık",
+        "Oversized Items": "Büyük Boyutlu Eşyalar"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "Özel Toplama veya Teslim Noktası",
+        "handling": "Belirli bertaraf talimatları için yerel atık yönetimine danışın. Bazı eşyalar özel işlem veya alım hizmeti gerektirebilir.",
+        "separation": "Farklı türdeki büyük eşyaları uygun geri dönüşüm veya bertaraf yöntemleri için ayırın.",
+        "whatNotToDo": "Büyük eşyaları düzgün toplama düzenlemeksizin kaldırmayın. Yasal olmayan çöp atmadan kaçının.",
+        "safetyPrecautions": "Mobilya, beyaz eşyalar ve büyük oyuncaklar gibi büyük atık eşyalarını taşırken bel yaralanmalarını önlemek için uygun kaldırma tekniklerini kullanın. Ağır eşyaları taşımak için yardım veya el arabası kullanmanız tavsiye edilir. Keskin kenarlardan kaynaklanan yaralanmalardan koruma ve tutuş için eldiven ve ayak yaralanmalarını önlemek için koruyucu ayakkabı giyin."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "Büyük atıkların düzgün bertarafı, depolama alanı kullanımını azaltır, geri dönüşümü teşvik eder ve daha temiz ve güvenli bir çevreye katkı sağlar.",
+        "impact": "Büyük eşyaların geri dönüşümü, değerli malzemelerin geri kazanılmasına yardımcı olur, çevresel etkiyi azaltır ve sürdürülebilir atık yönetimi uygulamalarını destekler."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "Mobilya ve diğer büyük eşyalar genellikle çöplüklerde son bulur, ancak yeniden amaçlanırsa veya geri dönüştürülürse, tek bir kanepe bile 9 metreküp çöplük alanı tasarruf edebilir, bu da büyük eşyaların geri dönüşümünün ve yeniden kullanımının önemli etkisini gösterir."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "İnşaat ve Yıkım Atıkları",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
+        "Concrete": "Beton",
+        "Bricks": "Tuğla",
+        "Wood": "Ahşap",
+        "Gypsum": "Alçı",
         "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Glass": "Cam",
+        "Plastic": "Plastik",
+        "Insulation Materials": "Yalıtım Malzemeleri",
+        "Electrical Wiring": "Elektrik Tesisatı",
+        "Plumbing Fixtures": "Sıhhi Tesisat Malzemeleri",
+        "Ceramic Tiles": "Seramik Fayanslar",
+        "Asphalt": "Asfalt",
+        "Roofing Materials": "Çatı Kaplama Malzemeleri",
+        "Windows": "Pencereler",
+        "Doors": "Kapılar",
+        "Piping": "Borular",
+        "Reinforced Concrete": "Çelik İçeren Beton",
+        "Drywall": "Alçıpan Duvar Kaplama",
+        "Flooring Materials": "Zemin Kaplama Malzemeleri",
+        "Wall Coverings": "Duvar Kaplama Malzemeleri"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "İnşaat ve Yıkım Atıkları, binaların ve yapıların inşaatı, yenilenmesi ve yıkımından kaynaklanan malzemeleri içerir. Malzemelerin geri dönüşümü ve çevresel etkiyi en aza indirmek için doğru yönetim çok önemlidir.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Bina Atıkları": "Bina Atıkları",
+        "Yenileme İnşaat Atıkları": "Yenileme İnşaat Atıkları"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "Özel Toplama veya Belirtilen Atık Alanları",
+        "handling": "Bertaraf için yerel yönetmeliklere danışın. Bazı malzemeler özel işlem veya taşıma gerektirebilir.",
+        "separation": "Verimli geri dönüşüm için malzemeleri türlerine göre ayırın (örneğin, metal, ahşap, beton).",
+        "whatNotToDo": "İnşaat ve yıkım atıklarını normal ev atığıyla karıştırmayın. Yasal olmayan çöp dökme ve yanlış bertaraf etmeyin.",
+        "safetyPrecautions": "Beton, metal ve ahşap gibi İnşaat ve Yıkım Atıkları'ndaki keskin nesneler ve molozlardan korunmak için dayanıklı eldivenler ve güvenlik gözlükleri giymeyi unutmayın. Ağır malzemelerden kaynaklanan yaralanmalardan kaçınmak için uygun ayakkabı giyilmesi önemlidir. Toz ve ince partiküllerden korunmak için toz maskeleri kullanın. Ağır eşyaları kaldırırken bel yaralanmalarını önlemek için uygun kaldırma tekniklerini kullanın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "Doğru bertaraf, malzeme geri dönüşümünü teşvik eder, depolama alanı kullanımını azaltır ve çevresel kirliliği en aza indirir.",
+        "impact": "İnşaat ve Yıkım Atıkları'nın geri dönüşümü, kaynakların korunmasına katkı sağlar, geri dönüştürülmüş malzemelerle inşaat sektörünü destekler ve sürdürülebilir kalkınmaya katkıda bulunur."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "Bir ton betonun geri dönüşümü, 1.360 galon su ve 900 kg CO2 tasarruf edebilir ve bu, İnşaat ve Yıkım Atıkları'nın düzenli depolama yerine geri dönüştürülmesinin çevresel faydalarını önemli ölçüde göstermektedir."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "Elektronik Atıklar",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "Bilgisayarlar",
+        "Laptops": "Dizüstü Bilgisayarlar",
+        "Mobile Phones": "Cep Telefonları",
+        "Printers": "Yazıcılar",
+        "Scanners": "Tarama Cihazları",
+        "Televisions": "Televizyonlar",
+        "Monitors": "Monitörler",
+        "DVD Players": "DVD Oynatıcılar",
+        "Game Consoles": "Oyun Konsolları",
+        "Small Appliances": "Küçük Ev Aletleri",
+        "Electronic Tools": "Elektronik Aletler",
+        "Batteries": "Piller",
+        "Circuit Boards": "Devre Kartları",
+        "Hard Drives": "Hard Diskler",
+        "Keyboards": "Klavyeler",
+        "Mice": "Fareler",
+        "Speakers": "Hoparlörler",
+        "Chargers": "Şarj Cihazları",
+        "Cables": "Kablolar",
+        "Cameras": "Kameralar",
+        "Electronic Toys": "Elektronik Oyuncaklar",
+        "CDs": "CD'ler",
+        "DVDs": "DVD'ler",
+        "GPS Devices": "GPS Cihazları"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "Elektronik Atıklar veya E-Atık, atılmış elektronik cihazları ve ekipmanları içerir. Değerli malzemeleri geri kazanmak ve çevresel kirlenmeyi önlemek için doğru geri dönüşüm ve bertaraf önemlidir.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE (Atık Elektrik ve Elektronik Ekipmanlar)",
+        "E-Waste": "E-Atık"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "Özel E-Atık Toplama Noktaları veya Geri Dönüşüm Merkezleri",
+        "handling": "E-Atık işlemlerini dikkatli yapın, kırılma ve zararlı maddelerin sızmasını önlemek için. Bertaraf için yerel düzenlemelere uyun.",
+        "separation": "E-Atığı normal atıktan ayırın. Verimli geri dönüşüm için türlerine göre ayırın.",
+        "whatNotToDo": "E-Atığı normal çöpe atmayın. Elektronik cihazları sökmeyin veya kırmayın, çünkü toksik maddelerin salınmasına neden olabilirler.",
+        "safetyPrecautions": "Eski bilgisayarlar ve televizyonlar gibi E-Atık işlerken keskin kenarlardan korunmak için eldiven kullanın. Elektroniklerde kurşun ve cıva gibi zararlı maddelerin bulunduğundan haberdar olun. Maruziyeti önlemek için bunları kırmaktan kaçının. Güvenli bertaraf için belirlenmiş merkezlerde geri dönüşüm yapın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "E-Atığın doğru bertarafı değerli malzemelerin geri dönüşümünü sağlar, depolama alanı kullanımını azaltır ve çevreyi toksik maddelerden korur.",
+        "impact": "E-Atık geri dönüşümü döngüsel ekonomiyi destekler, yeni hammadde ihtiyacını azaltır ve ekolojik ayak izlerini en aza indirir."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "Bir milyon dizüstü bilgisayarın geri dönüşümü, bir yıl boyunca 3.500 Amerikan evini beslemek için yeterli enerji tasarrufu sağlar. Bir milyon cep telefonunun geri dönüşümü, 35.274 pound bakır, 772 pound gümüş, 75 pound altın ve 33 pound palladyumu geri kazanabilir."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "Cam Atığı",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "Cam Şişeler",
+        "Glass Jars": "Cam Kavanozlar",
+        "Window Glass": "Pencere Camı",
+        "Mirror Glass": "Ayna Camı",
+        "Glass Containers": "Cam Kaplar",
+        "Drinking Glasses": "Bardaklar",
+        "Broken Glassware": "Kırık Cam Eşyalar",
+        "Automotive Glass": "Otomotiv Camları",
+        "Glass Tableware": "Cam Mutfak Eşyaları",
+        "Light Bulbs": "Ampuller (floresan olmayan)",
+        "Laboratory Glassware": "Laboratuvar Cam Eşyaları",
+        "Tempered Glass": "Sertleştirilmiş Cam",
+        "Glass Shards": "Cam Parçaları"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "Cam Atığı, çeşitli türdeki atılmış cam ürünleri içerir. Camın geri dönüşümü önemlidir çünkü cam, yeni cam ürünlerinin yapılması için yeni hammaddeye olan ihtiyacı azaltacak şekilde işlenebilir ve yeniden üretilebilir.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "Kırık Cam",
+        "Discarded Glassware": "Atılmış Cam Eşyaları"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "Cam Geri Dönüşüm Kabi veya Teslim Noktaları",
+        "handling": "Cam atığını kesilmeleri önlemek için dikkatli bir şekilde ele alın. Gerektiğinde cam olmayan bileşenleri çıkarın.",
+        "separation": "Mümkünse camı renk ve türe göre ayırarak geri dönüşüm verimliliğini artırın.",
+        "whatNotToDo": "Camı normal atık kutularına atmamaya dikkat edin. Camı kirletebilecek diğer geri dönüşümlerle karıştırmaktan kaçının.",
+        "safetyPrecautions": "Kırık camı kesilmeleri önlemek için eldiven kullanın. Büyük miktarda cam atığıyla uğraşıyorsanız, olası çısplıntılara karşı göz koruması önerilir. Ağır cam eşyalarını doğru bir şekilde kaldırmak için her zaman dikkatli olun. Cam atığını kırılmayı önlemek ve güvenli taşımayı sağlamak için sert bir konteynerde tutun."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "Camın geri dönüşümü depolama atığını azaltır, doğal kaynakları korur ve enerji tasarrufu sağlar. Cam, kalite kaybı olmadan sonsuz bir şekilde geri dönüştürülebilir.",
+        "impact": "Etkili cam geri dönüşümü çevresel etkiyi azaltmada, sürdürülebilir kaynak kullanımını desteklemede ve döngüsel ekonomiye katkıda bulunmada yardımcı olur."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "Cam geri dönüşümü son derece verimlidir çünkü cam, saflık veya kalite kaybı olmaksızın sürekli olarak geri dönüştürülebilir. Aslında, kurtarılan cam kapların %80'i yeni cam şişelere dönüştürülür ve bir cam kap, geri dönüşüm kutusundan mağaza rafına sadece 30 günde ulaşabilir."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "Endüstriyel Atık",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "Kimyasal Çözücüler",
+        "Metal Scraps": "Metal Atıklar",
+        "Plastic Offcuts": "Plastik Kalıntılar",
+        "Construction Debris": "İnşaat Enkazı",
+        "Electronic Components": "Elektronik Bileşenler",
+        "Paper and Cardboard": "Kağıt ve Karton",
+        "Textile Scraps": "Tekstil Atıkları",
+        "Glass Pieces": "Cam Parçaları",
+        "Rubber Waste": "Kauçuk Atıkları",
+        "Biodegradable Waste": "Biyolojik Parçalanabilir Atık",
+        "Non-Biodegradable Waste": "Biyolojik Olmayan Parçalanabilir Atık",
+        "Hazardous Materials": "Tehlikeli Maddeler",
+        "Non-Hazardous Materials": "Tehlikeli Olmayan Maddeler",
+        "Industrial Sludge": "Endüstriyel Çamur",
+        "Packaging Materials": "Ambalaj Malzemeleri"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "Endüstriyel Atık, endüstriyel ve üretim süreçlerinden kaynaklanan geniş bir malzeme yelpazesini içerir. Doğru yönetim, geri dönüşüm ve güvenli bertaraf, çevresel etkiyi en aza indirmek için hayati öneme sahiptir.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "Üretim Atığı",
+        "Production Waste": "Üretim Atığı"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "Özel Endüstriyel Atık Konteynerleri veya Geri Dönüşüm Tesisleri",
+        "handling": "Tehlikeli maddelerle uğraşırken dahil olmak üzere uygun güvenlik ekipmanları kullanın. Bertaraf için tüm düzenleyici yönergeleri izleyin.",
+        "separation": "Atıkları tür (örneğin, tehlikeli ve tehlikeli olmayan) ve malzeme (örneğin, metal, plastik) türlerine göre ayırarak geri dönüşümü ve bertarafı kolaylaştırın.",
+        "whatNotToDo": "Tehlikeli endüstriyel atıkları tehlikeli olmayan atıklarla karıştırmayın. Endüstriyel atıkları yasa dışı dökme veya yanlış bertaraf etmekten kaçının.",
+        "safetyPrecautions": "Her zaman endüstriyel atık ile uğraşırken eldiven, koruyucu göz koruma ekipmanı ve maske kullanın, özellikle tehlikeli maddeler içeriyorsa."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "Endüstriyel atıkların doğru işlenmesi ve geri dönüşümü kaynakları korur, kirliliği azaltır ve sürdürülebilir endüstriyel uygulamaları destekler.",
+        "impact": "Endüstriyel atıkların etkili yönetimi, depolama alanlarına olan baskıyı azaltır, çevresel tehlikeleri en aza indirir ve döngüsel ekonomiye katkı sağlar."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "Endüstriyel metallerin geri dönüşümü, onları ham maddelerden üretmek için gereken enerjinin %75'ini tasarruf edebilir."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "Metal Atıkları",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "Alüminyum Kutular",
+        "Tin Cans": "Teneke Kutular",
+        "Steel Scraps": "Çelik Atıkları",
+        "Copper Wire": "Bakır Tel",
+        "Metal Pipes": "Metal Borular",
+        "Metal Tools": "Metal Araçlar",
+        "Metal Packaging": "Metal Ambalaj",
+        "Automotive Parts": "Otomotiv Parçaları",
+        "Metal Furniture": "Metal Mobilya",
+        "Metal Appliances": "Metal Beyaz Eşyalar",
+        "Construction Materials": "İnşaat Malzemeleri",
+        "Aerosol Cans": "Aerozol Kutuları",
+        "Electronic Metals": "Elektronik Metaller",
+        "Metal Caps": "Metal Kapaklar",
+        "Metal Lids": "Metal Kapaklar"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "Metal Atıkları, çeşitli atılmış metal ürünleri ve malzemelerini içerir. Yüksek derecede geri dönüştürülebilirler ve yeni metal ürünleri haline getirilmek üzere işlenebilirler, bu da doğal cevher çıkarma ihtiyacını azaltır.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "Hurda Metal",
+        "Discarded Metal": "Atılan Metal"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "Metal Geri Dönüşüm Kutusu veya Hurda Alanı",
+        "handling": "Metalleri türe göre ayırın ve mümkünse metal olmayan bileşenleri çıkarın. Yaralanmaları önlemek için dikkatli bir şekilde işleyin.",
+        "separation": "Ferrous metalleri (çelik ve demir gibi) non-ferrous metallerden (alüminyum ve bakır gibi) ayırarak geri dönüşüm verimliliğini artırın.",
+        "whatNotToDo": "Metal atıklarını normal çöp ile karıştırmayın. Yerel geri dönüşüm tesisinizin talimatı olmadıkça farklı metal türlerini karıştırmaktan kaçının.",
+        "safetyPrecautions": "Metal atıkları işlerken kesilmeleri ve yaralanmaları önlemek için eldiven ve koruyucu ayakkabı giyin."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "Metal geri dönüşümü enerji tasarrufu sağlar, sera gazı emisyonlarını azaltır ve doğal kaynakları korur. Metaller, özelliklerini bozmadan birden fazla kez geri dönüştürülebilir.",
+        "impact": "Etkili metal geri dönüşümü çevresel etkiyi azaltır, yeni madencilik talebini azaltır ve sürdürülebilir kaynak yönetimini destekler."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "Bir alüminyum kutunun geri dönüşümü, bir televizyonu üç saat boyunca çalıştırmak için yeterli enerjiyi tasarruf edebilir."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "Kağıt Atıkları",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "Gazeteler",
+        "Magazines": "Dergiler",
+        "Office Paper": "Ofis Kağıdı",
+        "Notebooks": "Defterler",
+        "Envelopes": "Zarflar",
+        "Junk Mail": "İstenmeyen Postalar",
+        "Cardboard Boxes": "Karton Kutular",
+        "Paper Packaging": "Kağıt Ambalajlar",
+        "Paper Bags": "Kağıt Torbalar",
+        "Phone Books": "Telefon Rehberleri",
+        "Catalogs": "Kataloglar",
+        "Shredded Paper": "Parçalanmış Kağıt",
+        "Paper Cups": "Kağıt Bardaklar",
+        "Paper Plates": "Kağıt Tabaklar",
+        "Greeting Cards": "Kutlama Kartları",
+        "Wrapping Paper": "Hediye Paketleme Kağıdı"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "Kağıt Atıkları, çeşitli türlerde atılmış kağıt ve kağıt ürünlerini içerir. Kağıt atıklarının geri dönüşümü, ormansızlaşmanın azaltılması ve doğal kaynakların korunması açısından önemlidir.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "Atılan Kağıt",
+        "Paper Scraps": "Kağıt Parçaları"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "Kağıt Geri Dönüşüm Kutusu",
+        "handling": "Plastik kaplamalar, zımbalar veya bant gibi kağıt olmayan bileşenleri çıkarın. Kağıdı etkili geri dönüşüm için kuru ve temiz tutun.",
+        "separation": "Kağıdı türe (örneğin karton, ofis kağıdı) ve duruma (örneğin temiz, kirli) göre ayırarak geri dönüşüm verimliliğini artırın.",
+        "whatNotToDo": "Kirli veya yağlı kağıt atıklarını temiz kağıtla karıştırmayın. Geri dönüştürülebilir kağıtları normal çöp kutularına atmaktan kaçının.",
+        "safetyPrecautions": "Çoğu kağıt atığını işlerken özel güvenlik önlemleri gerekli değildir."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "Kağıt geri dönüşümü yeni kağıt üretimi ihtiyacını azaltarak ağaçları korur ve enerji ile su tüketimini azaltır.",
+        "impact": "Etkili kağıt geri dönüşümü çöplük kullanımını en aza indirir, sera gazı emisyonlarını azaltır ve sürdürülebilir ormancılık uygulamalarını destekler."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "Bir ton kağıdın geri dönüştürülmesi 17 ağacı ve 7.000 galon suyu tasarruf ettirebilir."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "Plastik Atıklar",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "Plastik Şişeler",
+        "Plastic Bags": "Plastik Poşetler",
+        "Plastic Packaging": "Plastik Ambalajlar",
+        "Plastic Containers": "Plastik Kaplar",
+        "Plastic Utensils": "Plastik Mutfak Araçları",
+        "Plastic Wraps": "Plastik Sarf Malzemeler",
+        "Plastic Toys": "Plastik Oyuncaklar",
+        "Polystyrene Foam": "Polistiren Köpük",
+        "Plastic Cups": "Plastik Bardaklar",
+        "Plastic Plates": "Plastik Tabaklar",
+        "Plastic Film": "Plastik Filmler",
+        "Water Bottles": "Su Şişeleri",
+        "Detergent Bottles": "Deterjan Şişeleri",
+        "Shampoo Bottles": "Şampuan Şişeleri",
+        "Plastic Caps": "Plastik Kapaklar",
+        "Plastic Lids": "Plastik Kapaklar",
+        "Plastic Furniture": "Plastik Mobilyalar",
+        "Plastic Hangers": "Plastik Askılar"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "Plastik Atıklar, çeşitli türlerde atılmış plastik ürünleri içerir. Uzun parçalanma süresi nedeniyle plastik atıkların geri dönüşümü ve doğru bir şekilde bertarafı, çevresel etkiyi azaltmak için önemlidir.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "Atılan Plastikler",
+        "Scrap Plastics": "Hurda Plastikler"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "Plastik Geri Dönüşüm Kutusu veya Tesisi",
+        "handling": "Plastikleri geri dönüşüm için temiz ve kuru tutun. Etiketler veya kapaklar gibi plastik olmayan bileşenleri çıkarın.",
+        "separation": "Farklı plastik türleri farklı geri dönüşüm işlemlerine sahip olduğundan plastikleri tür ve kategoriye göre ayırın.",
+        "whatNotToDo": "Plastik atıklarını diğer geri dönüşümlerle veya genel atıklarla karıştırmayın. Büyük plastik ürünleri normal çöp kutularına atmaktan kaçının.",
+        "safetyPrecautions": "Çoğu plastik atığını işlerken özel güvenlik önlemleri gerekli değildir."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "Plastik geri dönüşümü yeni plastik üretimi ihtiyacını azaltarak kaynakları korur ve kirliliği azaltır. Ayrıca plastiklerin çöplükler ve denizlere girişini azaltmaya yardımcı olur.",
+        "impact": "Etkili plastik geri dönüşümü çevresel sürdürülebilirliğe katkıda bulunur, sera gazı emisyonlarını azaltır ve atık yönetimi verimliliğini destekler."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "Bir ton plastik geri dönüştürmek, 7.4 küp çöplük alanının tasarruf edilmesine yardımcı olabilir."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "Lastik Atıkları",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "Kullanılmış Lastikler",
+        "Rubber Bands": "Kauçuk Bantlar",
+        "Rubber Gloves": "Kauçuk Eldivenler",
+        "Rubber Hoses": "Kauçuk Hortumlar",
+        "Rubber Footwear": "Kauçuk Ayakkabılar",
+        "Rubber Mats": "Kauçuk Halılar",
+        "Conveyor Belts": "Konveyör Bantları",
+        "Rubber Gaskets": "Kauçuk Contalar",
+        "Rubber Seals": "Kauçuk Mühürler",
+        "Rubber Sheets": "Kauçuk Levhalar",
+        "Rubber Toys": "Kauçuk Oyuncaklar",
+        "Automotive Rubber": "Otomotiv Kauçuğu",
+        "Rubber Tubing": "Kauçuk Borular",
+        "Elastomeric Materials": "Elastomerik Malzemeler",
+        "Synthetic Rubber": "Sentetik Kauçuk"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "Kauçuk Atıkları, çeşitli atılmış kauçuk ürünlerinden oluşur. Kauçuk, çöp alanlarında uzun süre parçalanabilen bir malzeme olduğundan, kauçuk geri dönüşümü kaynakları korumak ve çevresel etkiyi azaltmak açısından önemlidir.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "Hurda Kauçuk",
+        "Waste Rubber": "Atık Kauçuk"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "Özel Kauçuk Geri Dönüşüm Tesisi veya Toplama Noktaları",
+        "handling": "Kauçuk atıkları özellikle büyük veya ağır ürünlerle uğraşırken dikkatli bir şekilde ele alın. Çevresel kirlenmeyi önlemek için uygun depolama sağlayın.",
+        "separation": "Etkili geri dönüşüm için farklı türdeki kauçuk atıklarını ayırın. Mümkünse kauçuk olmayan bileşenleri çıkarın.",
+        "whatNotToDo": "Kauçuk atıklarını normal çöp kutularına atmaktan kaçının. Kauçuk atıklarını yakmaktan kaçının, çünkü zararlı toksinler salabilir.",
+        "safetyPrecautions": "Kauçuk atıklarıyla çalışırken olası cilt tahriplerini önlemek için eldiven ve koruyucu giysi kullanın."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "Kauçuk geri dönüşümü, çöp alanı atığı ve kirliliği azaltmada yardımcı olur. Kauçuk, kauçuk öğütme, halılar ve asfalt katkı maddeleri gibi çeşitli ürünlere dönüştürülebilir.",
+        "impact": "Kauçuk atıklarının etkili yönetimi, çevresel sürdürülebilirliği destekler ve kauçuk üretiminde kullanılan yenilenemez kaynakların korunmasına yardımcı olur."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "Tekerleklerden geri dönüştürülen kauçuk, suni çim, oyun alanı yüzeyleri ve bazı endüstriyel süreçlerde yakıt kaynağı olarak kullanılabilir."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "Tekstil Atıkları",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "Giyim",
+        "Bed Linens": "Yatak Örtüleri",
+        "Towels": "Havlular",
+        "Curtains": "Perdeler",
+        "Fabric Scraps": "Kumaş Parçaları",
+        "Carpeting": "Halılar",
+        "Upholstery": "Döşeme",
+        "Footwear": "Ayakkabılar",
+        "Handbags": "Çantalar",
+        "Belts": "Kemerler",
+        "Hats": "Şapkalar",
+        "Socks": "Çoraplar",
+        "Non-reusable Textiles": "Tekrar Kullanılamayan Tekstiller",
+        "Stuffed Toys": "Dolgu Oyuncaklar",
+        "Ropes": "İpler",
+        "Thread": "İplikler",
+        "Yarn": "Yünler"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "Tekstil Atıkları, atılmış kumaş ve giyim malzemelerini içerir. Bu, çevresel atığın önemli bir bileşenidir. Tekstil atıklarının geri dönüşümü ve yeniden kullanılması, çevre üzerindeki etkisini azaltmak için önemlidir.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "Atılmış Kumaş",
+        "Scrap Textiles": "Hurda Tekstiller"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "Tekstil Geri Dönüşüm Kutusu veya Bağış Merkezleri",
+        "handling": "Tekstilleri geri dönüşümden önce temiz ve kuru tutun. Hasar görmüş veya eskimiş tekstiller, yeni ürünlere dönüştürülebilir veya geri dönüştürülebilir.",
+        "separation": "Tekstilleri tür (örneğin, pamuk, polyester) ve durum (örneğin, giyilebilir, giyilemez) bakımından ayırarak daha verimli geri dönüşüm veya yeniden kullanım sağlayın.",
+        "whatNotToDo": "Giysileri normal çöp ile atmaktan kaçının. Ağır kirli veya kontamine olmuş tekstilleri uygun işlem olmadan atmaktan kaçının.",
+        "safetyPrecautions": "Çoğu tekstil atığıyla başa çıkarken belirli güvenlik önlemlerine gerek yoktur."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "Tekstil geri dönüşümü kaynakları korur, çöp alanı atığını azaltır ve yeni hammadde talebini azaltır. Yeniden kullanılan tekstiller, çeşitli uygulamalarda yeni bir hayat bulabilir.",
+        "impact": "Etkili tekstil atığı yönetimi sürdürülebilir modaı destekler, çevresel kirliliği azaltır ve tekstil endüstrisinde döngüsel bir ekonomiyi teşvik eder."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "Sadece bir ton tekstili geri dönüştürmek veya yeniden kullanmak, yaklaşık 7 ton CO2 emisyonunun önlenmesine yardımcı olabilir."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "Ahşap Atıklar",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "Kereste Atıkları",
+        "Pallets": "Paletler",
+        "Timber Offcuts": "Kereste Parçaları",
+        "Furniture Pieces": "Mobilya Parçaları",
+        "Branches": "Dallar",
+        "Twigs": "Çubuklar",
+        "Sawdust": "Talaş",
+        "Plywood": "Kontrplak",
+        "Particle Board": "Parçacık Levha",
+        "Wooden Crates": "Ahşap Kasa",
+        "Wooden Tools": "Ahşap Araçlar",
+        "Construction Debris": "İnşaat Atıkları",
+        "Floorboards": "Zemin Tahtaları",
+        "Window Frames": "Pencere Çerçeveleri",
+        "Door Frames": "Kapı Çerçeveleri",
+        "Tree Stumps": "Ağaç Kökleri",
+        "Wooden Fencing": "Ahşap Çitler",
+        "Decking Material": "Döşeme Malzemesi",
+        "Firewood Scraps": "Odun Yakma Atıkları"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "Ahşap Atıklar, çeşitli atılmış ahşap ürünleri ve malzemeleri içerir. Ahşap atıklarının geri dönüştürülmesi ve yeniden kullanılması, ağaç kesiminin azaltılması ve atıkların sürdürülebilir bir şekilde yönetilmesi için önemlidir.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "Hurda Ahşap",
+        "Used Wood": "Kullanılmış Ahşap"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "Ahşap Geri Dönüşüm Tesisi veya Özel Toplama Noktaları",
+        "handling": "Ahşap atıklarını, çısplak ve yaralanmalardan kaçınmak için dikkatlice işleyin. Çivi veya vidalar gibi ahşap olmayan bileşenleri çıkarın.",
+        "separation": "Kimyasal işlem görmüş ahşabı kimyasal işlem görmemiş ahşaptan ayırın, çünkü bunlar farklı geri dönüşüm işlemleri gerektirir. Verimli geri dönüşüm için türe ve boyuta göre sıralayın.",
+        "whatNotToDo": "Ahşap atıklarını normal çöp ile atmaktan kaçının, özellikle kimyasal işlem görmüşse. Kimyasal işlem görmüş ahşabı yanmaktan kaçının, çünkü toksik duman yayabilir.",
+        "safetyPrecautions": "Ahşap atıklarıyla başa çıkarken çısplintelerden ve keskin kenarlardan kaynaklanan yaralanmaları önlemek için eldiven ve koruyucu göz koruyucu kullanın."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "Ahşap atık geri dönüşümü çöp alanı kullanımını azaltır, doğal kaynakları korur ve sürdürülebilir ormancılık uygulamalarını destekler.",
+        "impact": "Etkili ahşap atık yönetimi çevresel kirliliği azaltır ve inşaat ve üretimde yeniden kullanım için değerli kaynaklar sağlar."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "Sadece bir ton ahşap atığın geri dönüştürülmesi, enerji değeri olarak 1.000 galon benzin tasarrufu sağlayabilir."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "Tehlikeli Atıklar",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "Toksik Kimyasallar",
+        "Solvents": "Çözücüler",
+        "Pesticides": "Pestisitler",
+        "Herbicides": "Herbisitler",
+        "Medical Sharps": "Tıbbi Kesici ve Delici Atıklar",
+        "Contaminated Materials": "Kirlenmiş Malzemeler",
+        "Radioactive Substances": "Radyoaktif Maddeler",
+        "Contaminated Sanitary Products": "Kirlenmiş Hijyen Ürünleri",
+        "Sewage Treatment Waste": "Atık Su Arıtma Atıkları",
+        "Automotive Fluids": "Otomotiv Sıvıları",
+        "Antifreeze": "Antifriz",
+        "Brake Fluid": "Fren Sıvısı",
+        "Lead-based Paints": "Kurşun Esaslı Boyalar",
+        "Electronic Hazardous Components": "Elektronik Tehlikeli Bileşenler",
+        "Industrial Residues": "Endüstriyel Kalıntılar",
+        "Used Oil": "Kullanılmış Yağ",
+        "Oil-Contaminated Materials": "Yağ ile Kirlenmiş Malzemeler",
+        "Toxic Plastic Additives": "Toksik Plastik Katkı Maddeleri"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "Tehlikeli Atıklar, sağlık ve çevre üzerinde önemli riskler oluşturan çeşitli malzemeleri içerir. Bu riskleri azaltmak için uygun şekilde işleme, depolama ve imha önemlidir.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "Tehlikeli Atık",
+        "Toxic Waste": "Toksik Atık"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "Özel Tehlikeli Atık Toplama Tesisleri",
+        "handling": "Uygun güvenlik ekipmanı kullanarak son derece dikkatli bir şekilde işleyin. Saklama ve imha için tüm yerel ve federal düzenlemelere uyun.",
+        "separation": "Tehlikeli atıkların farklı tiplerini ayırın, çünkü bunlar benzersiz işleme ve imha yöntemleri gerektirir.",
+        "whatNotToDo": "Tehlikeli atıkları normal çöp konteynerlerine veya kanalizasyona atmaktan kaçının. Herhangi izinsiz dökme yapmayın.",
+        "safetyPrecautions": "Tehlikeli malzemeleri işlerken her zaman eldiven, gözlük ve maske gibi koruyucu ekipman kullanın. Uygun havalandırmayı sağlayın ve doğrudan teması önleyin."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "Tehlikeli atıkların uygun yönetimi çevresel kirliliği önler, halk sağlığını korur ve yasal standartlara uyumu sağlar.",
+        "impact": "Tehlikeli maddelerin dikkatli bir şekilde imha edilmesi, toprak ve su kirliliği riskini azaltır ve daha güvenli, temiz bir çevreyi destekler."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "Bir kuart motor yağının uygun şekilde imha edilmesi, iki milyon galon içme suyunun kirlenmesini önleyebilir."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "Kimyasal Atıklar",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "Endüstriyel Kimyasallar",
+        "Laboratory Chemicals": "Laboratuvar Kimyasalları",
+        "Cleaning Agents": "Temizlik Maddeleri",
+        "Pesticides": "Böcek İlacı",
+        "Herbicides": "Herbisitler",
+        "Paints": "Boyalar",
+        "Solvents": "Çözücüler",
+        "Automotive Fluids": "Otomotiv Sıvıları",
+        "Batteries": "Piller",
+        "Aerosol Cans": "Aerosol Tüpler",
+        "Mercury Devices": "Cıva Cihazları",
+        "Pharmaceuticals": "İlaçlar",
+        "Photographic Chemicals": "Fotoğraf Kimyasalları",
+        "Pool Chemicals": "Havuz Kimyasalları",
+        "Flammable Liquids": "Ateşe Duyarlı Sıvılar",
+        "Toxic Metals": "Toksik Metaller",
+        "Acids": "Asitler",
+        "Bases": "Bazlar",
+        "Reactive Materials": "Tepkimeye Yatkın Maddeler"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "Kimyasal Atıklar, sağlık ve çevre üzerinde önemli riskler oluşturabilen çeşitli tehlikeli ve biyolojik olarak parçalanmayan kimyasalları içerir. Bu riskleri en aza indirmek için uygun işleme, depolama ve imha son derece önemlidir.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "Tehlikeli Kimyasallar",
+        "Toxic Chemicals": "Toksik Kimyasallar"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "Özel Kimyasal Atık Toplama Tesisleri",
+        "handling": "Uygun güvenlik ekipmanı kullanarak son derece dikkatli bir şekilde işleyin. Saklama, taşıma ve imha için tüm düzenleyici kurallara uyun.",
+        "separation": "Uyumsuz kimyasalları ayırın ve tehlike sınıfına göre kategorize edin (örneğin, yanıcı, aşındırıcı, toksik).",
+        "whatNotToDo": "Kimyasal atıkları normal çöp konteynerlerine, lavabolara veya doğal su kaynaklarına atmaktan kaçının. Farklı kimyasalları karıştırmaktan kaçının, çünkü tehlikeli tepkimelere neden olabilirler.",
+        "safetyPrecautions": "Her zaman eldiven, gözlük ve uygun solunum koruması gibi koruyucu ekipman kullanın. Uçucu veya tüten kimyasalları işlerken uygun havalandırmayı sağlayın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "Kimyasal atıkların uygun şekilde imha edilmesi, çevresel kirliliği önler, kaynakları korur ve sağlık risklerini azaltır.",
+        "impact": "Kimyasal atıkların sorumlu bir şekilde yönetilmesi, toprak ve su kirliliği riskini en aza indirir ve daha güvenli bir ekolojik sistem için katkı sağlar."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "Kullanılmış sadece bir gallon motor yağının uygun şekilde geri dönüştürülmesi, ortalama bir evin bir yıl boyunca enerjisini sağlamak için yeterli enerji üretebilir."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "Tıbbi Atıklar",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "Kullanılmış Bandajlar",
+        "Gauze": "Gazlı Bezekler",
+        "Expired Medicines": "Süresi Dolmuş İlaçlar",
+        "Medical Gloves": "Tıbbi Eldivenler",
+        "Sharps": "Kesici ve Delici Atıklar",
+        "Test Strips": "Test Şeritleri",
+        "Surgical Instruments": "Cerrahi Aletler",
+        "Disposable Garments": "Tek Kullanımlık Giysiler",
+        "Pathological Waste": "Patolojik Atıklar",
+        "Infectious Agents": "Enfeksiyon Etkenleri",
+        "Discarded Vaccines": "Atılmış Aşılar",
+        "Dialysis Waste": "Diyaliz Atıkları",
+        "Chemotherapy Agents": "Kemoterapi Maddeleri",
+        "Imaging Chemicals": "Görüntüleme Kimyasalları",
+        "Radioactive Waste": "Radyoaktif Atıklar",
+        "Biological Specimens": "Biyolojik Numuneler"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "Tıbbi Atıklar, sağlık tesislerinde kullanılan potansiyel olarak bulaşıcı veya tehlikeli olan çeşitli öğeleri içerir. Hastalıkların yayılmasını önlemek ve halk sağlığını korumak için uygun bir şekilde imha edilmesi kritiktir.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "Klinik Atıklar",
+        "Healthcare Waste": "Sağlık Hizmetleri Atıkları"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "Özel Tıbbi Atık İmha Konteynerleri",
+        "handling": "Son derece dikkatli bir şekilde işleyin ve uygun koruyucu ekipmanı kullanın. Tıbbi atıklar, oluşturulduğu noktada ayrılmalıdır.",
+        "separation": "Kesici, farmasötik, patolojik ve kimyasal atıkları ayrı ayrı tutun, çünkü her biri farklı imha yöntemlerini gerektirir.",
+        "whatNotToDo": "Tıbbi atıkları normal çöp konteynerlerine atmayın veya genel atıklarla karıştırmayın. Uygun koruyucu ekipman olmadan işlem yapmaktan kaçının.",
+        "safetyPrecautions": "Tıbbi atıkları işlerken maruziyet riskini en aza indirmek için her zaman eldiven, maske ve potansiyel olarak yüz kalkanı veya önlük kullanın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "Tıbbi atıkların uygun bir şekilde imha edilmesi, enfeksiyon bulaşma riskini azaltır, sağlık çalışanlarını ve halkı korur ve sağlık düzenlemelerine uygunluk sağlar.",
+        "impact": "Tıbbi atıkların etkili bir şekilde yönetilmesi, özellikle sağlık tesislerinde, güvenli ve sağlıklı bir çevrenin korunması için hayati öneme sahiptir."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "Tipik bir hastane, her yatak başına günlük yaklaşık 33 pound tıbbi atık üretir, bu da sağlık tesislerinde etkili atık yönetiminin önemini vurgular."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "Yağ Atıkları",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "Kullanılmış Motor Yağı",
+        "Cooking Oil": "Pişirme Yağı",
+        "Lubricating Oil": "Yağlayıcı Yağ",
+        "Hydraulic Oil": "Hidrolik Yağ",
+        "Transmission Fluid": "Şanzıman Yağı",
+        "Machine Oil": "Makine Yağı",
+        "Grease": "Gres",
+        "Oil Filters": "Yağ Filtreleri",
+        "Oil-Soaked Rags": "Yağ İçinde Bekletilmiş Bezler",
+        "Fuel Oils": "Yakıt Yağları",
+        "Vegetable Oils": "Bitkisel Yağlar",
+        "Petroleum Products": "Petrol Ürünleri",
+        "Oil Containers": "Yağ Kapları",
+        "Oil-Water Mixtures": "Yağ-Su Karışımları",
+        "Synthetic Oils": "Sentetik Yağlar",
+        "Oil Sludge": "Yağ Çamuru"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "Yağ Atıkları, kullanılmış ve kontamine olmuş çeşitli yağları içerir ve bu tür atıkların geri dönüşümü ve bertarafı için özel bir işlem gerektirir, çevresel kirliliği ve sağlık risklerini önlemek amacıyla.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "Kullanılmış Yağ",
+        "Waste Oil": "Atık Yağ"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "Belirlenmiş Yağ Geri Dönüşüm Tesisi veya Toplama Noktaları",
+        "handling": "Yağ atıklarını sızdırmaz kaplarda saklayın. Doğrudan teması ve buharları solumamaya dikkat edin.",
+        "separation": "Farklı yağ türlerini ve yağla ilgili atıkları uygun geri dönüşüm ve bertaraf için ayırın.",
+        "whatNotToDo": "Yağ atıklarını normal çöpe, lavaboya veya suya atmaktan kaçının. Yağ atıklarını diğer tehlikeli malzemelerle karıştırmaktan kaçının.",
+        "safetyPrecautions": "Yağ atıklarıyla çalışırken eldiven ve göz koruması kullanın. Depolama alanlarında uygun havalandırmayı sağlayın."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "Yağ atıklarının geri dönüşümü doğal kaynakları korur, kirliliği önler ve çevresel sürdürülebilirliği destekler. Doğru şekilde geri dönüştürülen yağ, yeni ürünlere rafine edilebilir.",
+        "impact": "Etkili yağ atığı yönetimi, toprak ve su kirliliği riskini azaltır ve temiz ve güvenli bir çevreyi sürdürmede yardımcı olur."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "Kullanılmış bir gallon motor yağı, bir milyon gallon tatlı suyu kirletebilir."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "Radyoaktif Atık",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "Harcandı Nuclear Yakıt",
+        "Radioactive Medical Waste": "Radyoaktif Tıbbi Atık",
+        "Contaminated Lab Equipment": "Kirlenmiş Laboratuvar Ekipmanları",
+        "Radioactive Glass": "Radyoaktif Cam",
+        "Contaminated Metals": "Kirlenmiş Metaller",
+        "Americium Smoke Detectors": "Americium Duman Dedektörleri",
+        "Uranium Residues": "Uranyum Kalıntıları",
+        "Irradiated Tools": "Radyasyona Maruz Kalmış Araçlar",
+        "Contaminated Clothing": "Kirlenmiş Giysiler",
+        "Radioactive Sources": "Radyoaktif Kaynaklar",
+        "Luminous Dials": "Işıldayan Kadranlar",
+        "Thorium Lantern Mantles": "Toryum Fener Kumaşları",
+        "Radioactive Ores": "Radyoaktif Cevherler"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "Radyoaktif Atık, radyoaktif maddeler içeren malzemeleri ve nesneleri içerir. Tehlikeli doğası, sıkı işleme, depolama ve bertaraf protokollerini gerektirir.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "Nükleer Atık",
+        "Radioactive Material": "Radyoaktif Malzeme"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "Özel Radyoaktif Atık Tesisleri",
+        "handling": "Sadece eğitimli profesyoneller tarafından yapılan sıkı güvenlik protokolleri gereklidir.",
+        "separation": "Doğru bertaraf için radyoaktivite türüne ve seviyesine göre ayrılmalıdır.",
+        "whatNotToDo": "Düzenli çöpe atma. Koruma olmadan doğrudan temas yok.",
+        "safetyPrecautions": "Özel koruyucu giysi ve radyasyon dedektörleri zorunludur."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "Zararlı radyasyondan korur, çevresel kirliliği önler.",
+        "impact": "Halk sağlığı ve güvenliği için elzemdir, uzun vadeli çevresel hasarı önler."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "Bazı radyoaktif atıklar bin yıllar boyunca tehlikeli kalabilir."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "Hijyenik Atık",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "Kullanılmış Bebek Bezi",
+        "Sanitary Napkins": "Pedler",
+        "Tampons": "Tamponlar",
+        "Wet Wipes": "Islak Mendiller",
+        "Incontinence Pads": "İdrar Kaçırma Pedleri",
+        "Disposable Toilet Seat Covers": "Tek Kullanımlık Tuvalet Kapağı Kaplamaları",
+        "Cotton Swabs": "Pamuklu Kulak Temizleme Çubukları",
+        "Facial Tissues": "Yüz Mendilleri",
+        "Bandages": "Yarabandılar",
+        "Disposable Razors": "Tek Kullanımlık Jiletler",
+        "Dental Floss": "Diş İpi"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "Hijyenik Atık, kullanılan ve atılan çeşitli kişisel hijyen ürünlerini içerir. Özellikle sağlık veya bakım tesislerinde potansiyel sağlık riskleri nedeniyle kontaminasyonu önlemek için doğru bertaraf önemlidir.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "Hijyen Atığı",
+        "Personal Care Waste": "Kişisel Bakım Atığı"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "Özel Hijyenik Atık Bertaraf Üniteleri",
+        "handling": "Doğrudan teması ve kontaminasyonu önlemek için mümkünse eldiven kullanarak dikkatle ele alın.",
+        "separation": "Hijyenik atığı düzenli atıktan ayırarak özel bertarafa tabi tutun.",
+        "whatNotToDo": "Hijyenik atığı tuvalete atmayın. Uygun saklama olmadan düzenli çöp kutularına atmaktan kaçının.",
+        "safetyPrecautions": "Hijyenik atık ele alma ve bertaraf etme sırasında eldiven giyin. Bertaraf sonrası uygun hijyen uygulamalarını sağlayın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "Doğru bertaraf, enfeksiyonların yayılmasını önler ve kamu ve özel alanlarda hijyenin korunmasını sağlar.",
+        "impact": "Hijyenik atığın etkili bir şekilde yönetilmesi, özellikle hastaneler gibi yoğun nüfuslu veya hassas bölgelerde halk sağlığı için hayati öneme sahiptir."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "Ortalama bir kişi yılda yaklaşık 30 pound hijyenik atık oluşturur."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "Atık Su",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "İnsan Dışkısı",
+        "Used Water": "Kullanılmış Su",
+        "Domestic Wastewater": "Evsel Atıksu",
+        "Industrial Effluent": "Endüstriyel Atıksu",
+        "Agricultural Runoff": "Tarımsal Sızıntı Suları",
+        "Storm water Discharge": "Fırtına Suyu Deşarjı",
+        "Septic Tank Sludge": "Septik Tank Çamuru",
+        "Grease Trap Waste": "Yağ Tuzağı Atığı",
+        "Gray Water": "Gri Su",
+        "Black Water": "Siyah Su",
+        "Sewage Sludge": "Kanalizasyon Çamuru",
+        "Soapy Water": "Sabit Su",
+        "Cooking Water Discharge": "Pişirme Suyu Deşarjı",
+        "Bathroom Water": "Banyo Suyu",
+        "Laundry Wastewater": "Çamaşır Atıksuyu",
+        "Sink Drainage": "Lavabo Tahliyesi",
+        "Toilet Flushing Waste": "Tuvalet Sifon Atığı",
+        "Shower Drain Water": "Duş Tahliye Suyu",
+        "Sump Pump Discharge": "Sump Pompa Deşarjı",
+        "Urban Runoff": "Kentsel Sızıntı"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "Atık Su, evlerden, endüstriyel tesislerden ve tarım alanlarından boşaltılan veya tahliye edilen atık su ve malzemeleri içerir. Çevre koruma ve su kirliliğini önleme açısından doğru arıtma ve bertaraf çok önemlidir.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "Atık Su",
+        "Sewerage": "Kanalizasyon"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "Özel Kanalizasyon Arıtma Tesisleri",
+        "handling": "Kanalizasyonla teması önleyin ve kanalizasyon atığı işleme prosedürlerine uyun.",
+        "separation": "İçme suyu kaynaklarından ayrılmasını sağlayın ve atık su arıtma süreçlerine uygun şekilde işlenmesini sağlayın.",
+        "whatNotToDo": "Ham kanalizasyonu doğal su kaynaklarına veya çevreye salmayın.",
+        "safetyPrecautions": "Kanalizasyon atığıyla çalışırken eldiven ve maske gibi koruyucu ekipmanları kullanın ve kanalizasyon atığı işlemi sonrası hijyen kurallarına uyun."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "Doğru kanalizasyon yönetimi hastalık bulaşmasını önler, su kaynaklarını korur ve kamu sağlığını destekler.",
+        "impact": "Etkili kanalizasyon atığı arıtımı, çevre koruma ve sürdürülebilir kentsel gelişim için hayati öneme sahiptir."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "Gelişmiş kanalizasyon arıtma tesisleri atığı enerjiye ve tekrar kullanılabilir suya dönüştürebilir, bu da atıktan kaynak geri kazanma potansiyelini gösterir."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "Dolgu Alanı Atığı",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "Geri Dönüştürülemeyen Plastik",
+        "Contaminated Paper": "Kirlenmiş Kağıt",
+        "Broken Glass": "Kırık Cam",
+        "Non-Recyclable Packaging": "Geri Dönüştürülemeyen Ambalaj",
+        "Worn Textiles": "Aşınmış Tekstil Ürünleri",
+        "Damaged Furniture": "Hasar Görmüş Mobilya",
+        "Ceramic Items": "Seramik Ürünler",
+        "Construction Debris": "İnşaat Artığı",
+        "Non-Recyclable Electronics": "Geri Dönüştürülemeyen Elektronik Ürünler",
+        "Household Trash": "Evsel Atık",
+        "Ineligible Food Waste": "Uygun Olmayan Gıda Atığı",
+        "Ineligible Garden Waste": "Uygun Olmayan Bahçe Atığı",
+        "Used Batteries": "Kullanılmış Piller",
+        "Soiled Clothing": "Kirli Giysiler",
+        "Old Carpets": "Eski Halılar",
+        "Expired Medicines": "Süresi Geçmiş İlaçlar",
+        "Waste Foam": "Atık Köpük",
+        "Disposable Utensils": "Tek Kullanımlık Mutfak Araçları",
+        "Waste Oil": "Atık Yağ",
+        "Contaminated Soil": "Kirlenmiş Toprak"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "Dolgu Alanı Atığı, geri dönüştürülemez veya kompostlanamaz malzemeleri içerir. Bu, çeşitli geri dönüştürülemeyen ürünleri kapsar ve bunların çöplüklere gitmesiyle toprak ve yeraltı suyu kirliliği gibi potansiyel çevresel sorunlara yol açabilir.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "Geri Dönüştürülemeyen Atık",
+        "General Trash": "Genel Atık"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "Genel Atık Konteynerleri veya Çöp Konteynerleri, geri dönüştürülemeyen ürünler için etiketli",
+        "handling": "Dolgu alanı atığını dikkatlice işleyin ve geri dönüştürülebilir ve tehlikeli malzemelerden ayırın.",
+        "separation": "Çevresel etkiyi en aza indirmek için geri dönüştürülebilirlerden, organiklerden ve tehlikeli atıklardan ayrı tutmak önemlidir.",
+        "whatNotToDo": "Geri dönüştürülebilir veya kompostlanabilir ürünleri dolgu alanı atığı olarak atmakten kaçının.",
+        "safetyPrecautions": "Dolgu alanı atığı işlerken yaralanmayı önlemek ve uygun hijyeni sağlamak için eldiven kullanın ve uygun kaldırma tekniklerini uygulayın."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "Dolgu alanında uygun bertaraf, geri dönüştürülemeyen atıkları yönetmeye yardımcı olarak çevresel kirliliği azaltır.",
+        "impact": "Dolgu alanı atığını en aza indirmek, sürdürülebilir atık yönetimi için kritiktir ve uzun vadeli çevresel zararları önler."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "Dolgu alanı atığını azaltma çabaları sera gazı emisyonlarını önemli ölçüde azaltabilir, geri dönüşüm ve atık azaltmanın önemini vurgular."
     }
+  },
+  "error": {
+    "invalidImageUrl": "Lütfen geçerli bir resim URL'si girin.",
+    "emptySearch": "Lütfen bir resim veya URL sağlayın.",
+    "searchResponse": "Arama sırasında hata oluştu, lütfen daha sonra tekrar deneyin.",
+    "invalidImageSize": "Lütfen 5 MB'a kadar boyuta sahip bir resim dosyası sağlayın."
   },
   "common": {
     "knowYourWaste": "Atığınızı Tanıyın",
-    "sustainNatureNest": "Doğanın Yuvasını Sürdürün",
-    "searchPlaceholder": "Geri dönüştürülecek veya imha edilecek öğeyi arayın",
-    "whatIsWaste": "{{value}} nedir",
-    "alsoKnownAs": "Ayrıca şöyle bilinir",
-    "itemsInsideWaste": "{{value}} içindeki öğeler",
-    "howToHandle": "{{value}} nasıl ele alınır",
-    "handling": "Elleme",
-    "separation": "Ayrım",
-    "whatNotToDo": "Ne yapmamalı",
-    "suggestedBin": "Önerilen Kutu",
-    "whyItsImportant": "Neden önemli",
+    "sustainNatureNest": "Doğayı Sürdürün",
+    "searchPlaceholder": "Geri dönüştürme veya imha etme öğesi arayın",
+    "whatIsWaste": "{{value}} Nedir",
+    "alsoKnownAs": "Diğer Adları",
+    "itemsInsideWaste": "{{value}} İçindeki Öğeler",
+    "howToHandle": "{{value}} Nasıl İşlenir",
+    "handling": "İşleme",
+    "separation": "Ayrıştırma",
+    "whatNotToDo": "Neler Yapmamalısınız",
+    "suggestedBin": "Önerilen Konteyner",
+    "whyItsImportant": "Neden Önemlidir",
     "note": "Not",
-    "safetyPrecautions": "Güvenlik önlemleri",
-    "alsoKnowAbout": "Ayrıca bunu da bilin",
+    "safetyPrecautions": "Güvenlik Önlemleri",
+    "alsoKnowAbout": "Hakkında Ayrıca Bilgi",
     "compostable": "Kompostlanabilir",
-    "recyclable": "Geri dönüştürülebilir",
-    "nonRecyclable": "Geri dönüştürülemez",
-    "burnable": "Yanabilir",
-    "nonBurnable": "Yanmaz",
-    "caution": "dikkatle ele alın",
-    "flammable": "yanıcı",
-    "toxic": "toksik",
-    "biohazardous": "Biyo tehlikeli",
+    "recyclable": "Geridönüşülebilir",
+    "nonRecyclable": "Geridönüşülemez",
+    "burnable": "Kontrollü Yakılabilir",
+    "nonBurnable": "Yakılamaz",
+    "caution": "Dikkatli Kullanım",
+    "flammable": "Alevlenebilir",
+    "toxic": "Toksik",
+    "biohazardous": "Biyolojik Tehlikeli",
     "radioactive": "Radyoaktif",
-    "useSafetyGear": "koruyucu önlem alın",
-    "washHand": "El yıkayın",
-    "sanitize": "Dezenfekte etmek",
-    "disclaimer": "Burada sağlanan bilgiler geneldir ve tüm bölgelere veya koşullara uygulanmayabilir. Organik atık yönetimi için yerel yönetmelikler ve yönergeler danışılmalıdır.",
+    "useSafetyGear": "Koruyucu önlem alın",
+    "washHand": "Ellerinizi Yıkayın",
+    "sanitize": "Dezenfekte Edin",
+    "disclaimer": "Burada verilen bilgiler geneldir ve tüm bölgelere veya durumlara uygulanmayabilir. {{value}} yönetimi için yerel düzenlemeler ve yönergeleri danışılmalıdır.",
     "readMore": "Daha fazla oku",
-    "readMoreSearch": "yerel {{value}} yönetimi çözümleri ve işleme",
-    "managementStation": "yönetim istasyonu",
-    "credits": "Kredi bilgileri",
+    "readMoreSearch": "Yerel {{value}} yönetimi çözümleri ve işlemeleri hakkında daha fazla bilgi",
+    "credits": "Kredi Bilgileri",
     "visitToKnowMore": "Daha fazla bilgi için ziyaret edin",
-    "sustainNatureNestBy": "Doğanın Yuvasını şununla Sürdürün"
+    "imageSearch": "Resim Araması",
+    "uploadImage": "Resim Yükle",
+    "changeImage": "Resmi Değiştir",
+    "or": "Veya",
+    "pasteImageLink": "Resim Bağlantısını Yapıştır",
+    "reset": "Sıfırla",
+    "search": "Ara",
+    "searching": "Aranıyor"
   }
 }

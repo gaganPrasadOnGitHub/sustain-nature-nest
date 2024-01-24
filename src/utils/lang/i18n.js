@@ -1,25 +1,24 @@
 import i18n from 'i18next';
-import Bulgarian from './bg.json';
-import English from './en.json';
-import Spanish from './es.json';
-import Russian from './ru.json';
-import French from './fr.json';
-import Dutch from './nl.json';
-import German from './de.json';
-import Japanese from './ja.json';
-import Turkish from './tr.json';
-import Chinese from './zh.json';
-import Italian from './it.json';
-import Portuguese from './pt.json';
-import Vietnamese from './vi.json';
 import Arabic from './ar.json';
-import Korean from './ko.json';
-import Indonesian from './id.json';
-import Hindi from './hi.json';
-import Urdu from './ur.json';
 import Bengali from './bn.json';
+import Bulgarian from './bg.json';
+import Chinese from './zh.json';
+import Dutch from './nl.json';
+import English from './en.json';
+import French from './fr.json';
+import German from './de.json';
+import Hindi from './hi.json';
+import Indonesian from './id.json';
+import Italian from './it.json';
+import Japanese from './ja.json';
 import Kannada from './kn.json';
-
+import Korean from './ko.json';
+import Portuguese from './pt.json';
+import Russian from './ru.json';
+import Spanish from './es.json';
+import Turkish from './tr.json';
+import Ukrainian from './uk.json';
+import Vietnamese from './vi.json';
 import {initReactI18next} from 'react-i18next';
 
 i18n.use(initReactI18next).init({
@@ -42,7 +41,7 @@ i18n.use(initReactI18next).init({
     ru: {translation: Russian},
     es: {translation: Spanish},
     tr: {translation: Turkish},
-    ur: {translation: Urdu},
+    uk: {translation: Ukrainian},
     vi: {translation: Vietnamese},
   },
   lng: 'en',

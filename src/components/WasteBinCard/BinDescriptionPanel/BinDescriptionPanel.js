@@ -1,19 +1,33 @@
-import React from 'react';
-import compostBin from '../../../assets/compostBin.png';
+import React, {useState} from 'react';
 import ReadMoreLink from './ReadMoreLink';
 import {useTranslation} from 'react-i18next';
 import useSelectedLanguage from '../../../hooks/useSelectedLanguage';
 import ScrollAnimation from '../../Common/ScrollAnimation/Scrollanimation';
+import {validateImageUrl} from '../../../utils/helpers/validateImageUrl';
+import useNightMode from '../../../hooks/useNightMode';
+import imageSearchDay from '../../../assets/imageSearchDay.svg';
+import imageSearchNight from '../../../assets/imageSearchNight.svg';
 
 const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
   const {t} = useTranslation();
   useSelectedLanguage();
+  const {isNight} = useNightMode();
+
+  const [imageLoaded, setImageLoaded] = useState(false);
 
   const guidelineItems = [
     {key: 'handling', label: t('common.handling')},
     {key: 'separation', label: t('common.separation')},
     {key: 'whatNotToDo', label: t('common.whatNotToDo')},
   ];
+
+  const disclaimer = t('common.disclaimer', {
+    value: t(`wasteBins.${selectedBinId}.name`).toLowerCase(),
+  });
+
+  const handleImageLoad = () => {
+    setImageLoaded(true);
+  };
 
   return (
     <section id="description-panel" ref={descriptionRef} className="pt-100">
@@ -103,10 +117,19 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
           {/* Bin Image */}
           <ScrollAnimation>
             <img
-              className="recommendedBin"
-              src={compostBin}
+              loading="lazy"
+              className={`recommendedBin ${imageLoaded ? '' : 'hide'}`}
+              src={
+                validateImageUrl(selectedBin.binImage)
+                  ? selectedBin.binImage
+                  : isNight
+                    ? imageSearchNight
+                    : imageSearchDay
+              }
               alt="recommendedBin"
+              onLoad={handleImageLoad}
             />
+            {!imageLoaded && <p className="searching"></p>}
           </ScrollAnimation>
           <ScrollAnimation>
             <div className="detail-info">
@@ -148,7 +171,7 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
           <ScrollAnimation>
             <p className="detail-info">
               <span className="text-subheading">{t('common.note')}</span>
-              {t('common.disclaimer')} <ReadMoreLink />
+              {disclaimer} <ReadMoreLink />
             </p>
           </ScrollAnimation>
         </div>

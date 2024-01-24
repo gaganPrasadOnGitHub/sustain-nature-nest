@@ -1,1060 +1,1058 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "ಜೈವಿಕ ವ್ಯರ್ಥ",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "ಆಹಾರ ಉಳಿಸಿಕೊಂಡಿದೆ",
+        "Fruit Peels": "ಹಣ್ಣು ಛದ್ಯುವಾಗಲು",
+        "Vegetable Peels": "ತರಕಾರಿ ಛದ್ಯುವಾಗಲು",
+        "Coffee Grounds": "ಕಾಫಿ ಗುಂಡುಗಳು",
+        "Tea Bags": "ಚಹಾ ಪಾಕೆಟ್‌ಗಳು",
+        "Eggshells": "ಮೊಟ್ಟೆ ಹುರಿದಿವೆ",
+        "Garden Flowers": "ಗಾರ್ಡನ್ ಹೂಗಳು",
+        "Houseplants": "ಮನೆ ಸಸ್ಯಗಳು",
+        "Grass Clippings": "ಹುಲ್ಲು ಕತ್ತರಿಸುವುದು",
+        "Weeds": "ಹುಲಿಗಳು",
+        "Nut Shells": "ಕಾಯಿ ಗೂಟಗಳು",
+        "Paper Towels": "ಕಾಗದ ಸೆಚುವುಗಳು",
+        "Cardboard": "ಕಾರ್ಡ್‌ಬೋರ್ಡ್",
+        "Wood Scrap": "ಮರದ ಒಂದು ಭಗ್ಗ",
+        "Natural Fibers": "ನೈಸರ್ ಫೈಬರ್ಸ್"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "ಜೈವಿಕ ವ್ಯರ್ಥ ಪ್ರಮುಖವಾಗಿ ಕಿಚನ್‌ಗಳು ಮತ್ತು ಗಾರ್ಡನ್‌ಗಳಿಂದ ಬರುತ್ತದೆ. ಇದು ಆಹಾರ ಉಳಿಸಿಕೊಳ್ಳುವ ಮತ್ತು ಜೈವರಸಗಳು ಹೊಂದಿದೆಯೇನೋ. ಗುಣಕರವಾದ ಸಾಮಗ್ರಗಳಲ್ಲಿ ಸಮಗ್ರಗೊಂಡಿ ಮಾಡುವ ಪ್ರಮುಖ ಸಾಮಗ್ರಗಳಿಗೆ ಅನುಕೂಲವಾಗಿದೆ.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "ಹೊರಗಿನ ವ್ಯರ್ಥ",
+        "Biodegradable Waste": "ಬೈಡಿಗ್ರೈಡೇಬಲ್ ವೇಸ್ಟ್"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "ಜೈವಿಕ ವ್ಯರ್ಥದ ಹೊರಗೆಡೆ (ವಾಯುಸೇನದಾರ ಅಥವಾ ದುಂಡಾಕಾಣಿಕೆ), ಲೋಹ ಅಥವಾ ಟಿಕಾಟಿಕಾ ಪ್ಲಾಸ್ಟಿಕ್, ಹಸಿವಿನ/ಹೂಕಣಕ್ಕೆ",
+        "handling": "ಹೊರಗೆಡೆಯ ಸಮಯದಲ್ಲಿ ಕೈಯಲ್ಲಿ ಹೊಂಡಿಕೊಳ್ಳಿ, ತೊಂಡಿಯ ನಂತರ ಕೈಗಳನ್ನು ಹೊಂದಿಕೊಳ್ಳಿ. ಅಲ್ಲಿಂದ ಹೊರಗೆಡೆ ಆಗುವ ಸಾಮಗ್ರಗಳೊಂದಿಗೆ ನಿಕಟ ಸಂಪರ್ಕ ವಿರುದ್ಧವಿರಿ.",
+        "separation": "ಜೈವಿಕ ಸಾಮಗ್ರಗಳನ್ನು ಆರ್ಗಾನಿಕ್ ಐಟಂಗಳಿಂದ (ಪ್ಲಾಸ್ಟಿಕ್, ಲೋಹಗಳು, ಗಾಜುಗಳು ಇದ್ದರೆ) ಬೇರೆಡೆಗೆ ಹಂಚಿಕೊಳ್ಳುವಂತೆ ಮಾಡಲು ಖಚಿತವಾಗಿದೆ.",
+        "whatNotToDo": "ಪ್ಲಾಸ್ಟಿಕ್, ಲೋಹಗಳು, ಅಥವಾ ಗಾಜುಗಳು ಹೊಂದಿದ ಆರ್ಗಾನಿಕ್ ಸಾಮಗ್ರಗಳನ್ನು ಸೇರಿಸಬೇಡಿರಿ. ರಸಾಯನಿಕ ಪ್ರತಿಕೂಲ ಕ್ರಿಯಾಕಲಿತ ಉತ್ಪನ್ನಗಳನ್ನು ಅಥವಾ ಎಣೆ/ಎಣೆಯ ಮಿಶ್ರಣಗಳನ್ನು ಹೊಂದಿದ ಸಾಮಗ್ರಗಳನ್ನು ನಾಶಮಾಡಬಾರದು.",
+        "safetyPrecautions": "ಜೈವಿಕ ವ್ಯರ್ಥವನ್ನು ಹೊಂದಿಕೊಳ್ಳುವಾಗ ಸಾಮಗ್ರಗಳೊಂದಿಗೆ ನಿಕಟ ಸಂಪರ್ಕ ವಿರುದ್ಧವಾಗಿ ಕೈಯಲ್ಲಿ ದಾಡಿಯನ್ನು ಧರಿಸಿ. ವಿಷಯಿಯ ಅಸಹನೆ ಸಾಮಗ್ರಗಳ ನಿವಾಸದಲ್ಲಿ ದುರ್ಮಿಳಾನುಕೂಲ ಇಲ್ಲದಿದ್ದರೆ ಅಸಹನೆಗಳು ಕಟ್ಟಿಕೊಳ್ಳಲು ನಿರ್ಮಿಸಲು ಸ್ಪಷ್ಟವಾಗಿ ನೋಡಿ. ಜೈವಿಕ ಸಾಮಗ್ರಗಳನ್ನು ಹೊಂದಿಕೊಳ್ಳುವಾಗ ವೈಯಕ್ತಿಕ ಸ್ವಚ್ಛತೆಯನ್ನು ಉಳಿಸಲು ಕೈಗಳನ್ನು ಶುದ್ಧಗೊಳಿಸುವಂತೆ ಮಾಡಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "ಭೂಸಂಚಯದ ಬಳಕೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ಮೆಥೇನ್ ವಾಯು ವಿಸರ್ಜನೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ರಾಸಾಯನಿಕ ಸಾರಗಳ ಆವಶ್ಯಕತೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ. ಶಾಶ್ವತ ಕೃಷಿಯನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ.",
+        "impact": "ವ್ಯರ್ಥವನ್ನು ಮೌಲ್ಯಯುಕ್ತ ಕಮ್ಪೋಸ್ಟ್‌ಗೆ ಪರಿವರ್ಧಿಸುತ್ತದೆ, ಭೂಮಿಯನ್ನು ಪರಿಪೂರ್ಣವಾಗಿ ಸಾರಿಗೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಆರೋಗ್ಯಕರ ಗಿಡಮರ ಬೆಳೆಯನ್ನು ಬೆಳೆಸುತ್ತದೆ. ಶಾಶ್ವತ ಭೂಸ್ವಾಗತವನ್ನು ಬೆನ್ನಟ್ಟಿಕೊಳ್ಳುತ್ತದೆ."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "ಯಾವಾಗ ಕಮ್ಪೋಸ್ಟ್‌ಗೆ ಸೇರಿಸಲಾಗುತ್ತದೋ, ವೈಶ್ವಿಕ ವಾರ್ಷಿಕ ಆಹಾರ ವ್ಯರ್ಥತೆ ಮೂಲಕ 20 ಬಿಲಿಯನ್ ಕಾರುಗಳ ಸಮಾನವಾದ ಸಿಎಂಒ2 ಎಮಿಷನ್‌ಗಳನ್ನು ತಳುಕುಪಡಿಸಬಹುದು, ಇದು ವಿಶ್ವದಲ್ಲಿ ನಡೆಸಲ್ಪಟ್ಟ ಕಾರುಗಳ ಎಣೆಕಡಿತ ಮೀರಿದೆ."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "ಕೃಷಿ ವಿಷ",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "ಬೆಳೆಯ ಉಳಿಸಿಕೊಂಡ ಮರಳುಕಟ್ಟುಗಳು",
+        "Manure": "ಹೊಂಡಸು",
+        "Pesticide Containers": "ಕೀಟನಾಶಕ ಸಂಗ್ರಹಿಸುವ ಸಂದಕ್ಕುಗಳು",
+        "Fertilizer Bags": "ಗೊಬ್ಬರ ಕೊಜ್ಜುವ ಪಟ್ಟೆಗಳು",
+        "Farm Machinery": "ಕೃಷಿ ಯಂತ್ರಗಳು",
+        "Spoiled Produce": "ನಾಶವಾದ ಉತ್ಪನ್ನಗಳು",
+        "Agricultural Plastics": "ಕೃಷಿಯ ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳು",
+        "Diseased Plants": "ರೋಗಿತ ಸಸ್ಯಗಳು",
+        "Greenhouse Films": "ಹಸಿ ಗೊಡುವೆ ಸಿನೆಮಾಗಳು",
+        "Seed Sacks": "ಬೀಜ ಸಾಕುಗಳು",
+        "Pruning Waste": "ಮೂರುತಣ್ಣೆ ವೇಷ್ಟನ್ನು",
+        "Irrigation Equipment": "ಹನಿಗೋಣಿ ಉಪಕರಣಗಳು",
+        "Soil Amendment Packaging": "ಮಣ್ಣಿನ ಸರಿಸಿ ಕೊಡುಗೆಯ ಪ್ಯಾಕೇಜಿಂಗ್",
+        "Animal Feed Bags": "ಪ್ರಾಣಿಗಳ ಆಹಾರ ಪಟ್ಟೆಗಳು",
+        "Silage Wraps": "ಸೈಲೇಜ್ ಅಲ್ಲಿಕೆಗಳು",
+        "Horticultural Pots": "ಉದ್ಯಾನಪುಷ್ಪ ಪಾತ್ರೆಗಳು",
+        "Waste Pesticides": "ನಿಷ್ಕೃತ ಕೀಟನಾಶಕಗಳು",
+        "Contaminated Soils": "ಲವಣಿತ ಮಣ್ಣುಗಳು",
+        "Old Tools": "ಹಳೆಯ ಉಪಕರಣಗಳು",
+        "Broken Irrigation Pipes": "ಹಾಳಾದ ಹನಿಗೋಣಿ ಗಳಿಗೆಗಳು",
+        "Discarded Gloves": "ಬಿಸಿಯಾದ ಕೈಪರದೆಗಳು",
+        "Protective Gear": "ರಕ್ಷಣಾ ಉಪಕರಣಗಳು",
+        "Unused Veterinary Medicines": "ಬಳಕೆಯಾಗದ ಪ್ರಾಣಿಚಿಕಿತ್ಸಾ ಔಷಧಿಗಳು",
+        "Baler Twine": "ಬೇಲರ್ ಟ್ವೈನ್",
+        "Netting Material": "ಜಾಲಗಳ ಸಾಮಗ್ರಿ",
+        "Plastic Mulch": "ಪ್ಲಾಸ್ಟಿಕ್ ಮಲ್ಚ್"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "ಕೃಷಿ ವಿಷ ಕೃಷಿ ಕಾರ್ಯಗಳಿಂದ ಉತ್ಪನ್ನವಾದ ಜೈವಿಕ ಮತ್ತು ಅಜೈವಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಆವರಿಸುತ್ತದೆ. ಇದು ಬೆಳೆಗಳ ಉಳಿಸಿಕೊಂಡ ಮರಳುಕಟ್ಟುಗಳು ಮತ್ತು ಹೊಂಡಸಿನಂತಹ ಸ್ವಾಭಾವಿಕ ಉತ್ಪನ್ನಗಳನ್ನು ಹೊಂದಿದೆ, ಹೆಚ್ಚುವರಿ ಕಸ್ತೂರಿ ಮತ್ತು ಹಳೆಯ ಯಂತ್ರಗಳು ಸೇರಿವೆ. ಪರಿಣಾಮಕ್ಕಾಗಿ ವ್ಯಾಪಕವಾಗಿ ನಿಯಂತ್ರಣ ಮಾಡುವುದು ಪರಿಸರ ಪ್ರಭಾವವನ್ನು ಕಡಿಮೆಗೊಳಿಸಲು ಮತ್ತು ಸಾಕಾದ ಕೃಷಿಯನ್ನು ಬೆಳೆಸಲು ಅತ್ಯಗತ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "ಕೃಷಿ ವಿಷ",
+        "Agricultural Byproducts": "ಕೃಷಿ ಉಪಪಾದನೆಗಳು"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳಿಗೆ ವಿಶೇಷ ಬಿನ್‌ಗಳು ಬಳಸಲು ಅಥವಾ ಜೈವಿಕ ಮತ್ತು ಅಜೈವಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಬೇರ್ಪಡಿಸಲು",
+        "handling": "ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳಿಗೆ ರಕ್ಷಣಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ. ಅನ್ವಯವಾದಲ್ಲಿ ಜೈವಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಸೂಚಿಸಲು.",
+        "separation": "ರಸಾಯನ ಮತ್ತು ಪ್ಲಾಸ್ಟಿಕ್‌ ಸಾಮಗ್ರಿಗಳನ್ನು ಜೈವಿಕ ಸಾಮಗ್ರಿಗಳಿಂದ ಬೇರ್ಪಡಿಸಿ. ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಸ್ವಾಗತಿಸಲು ಜಾಗಕ್ಕೆ ಎಚ್ಚರಿಕೆಯಿಂದ ನಡೆಯಿರಿ.",
+        "whatNotToDo": "ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳನ್ನು ಅಥವಾ ರಸಾಯನ ಸಂದಕ್ಕುಗಳನ್ನು ಸುಡಬೇಡಿರಿ. ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳೊಂದಿಗೆ ಜೈವಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಮಿಶ್ರಿಸಬೇಡಿರಿ.",
+        "safetyPrecautions": "ರಸಾಯನ ಸಸ್ಯಾಹಾರ ಅಥವಾ ಕೀಟಕ ನಾಶಕಗಳನ್ನು ಹಾಂಡಲಿಂಗ್‌ನೊಂದಿಗೆ ನಿರೀಕ್ಷಿಸುವಾಗ ಹುಳುಸಾರದ ಸಾಮಗ್ರಿಗಳ ಮೇಲೆ ಉಡುಗೊರೆ ಮತ್ತು ಸಂರಕ್ಷಣಾ ಉಟವನ್ನು ಧರಿಸಿ. ಮಣ್ಣಿನ ಸರಿಸಿದ ಕೆಲಸ ಮಾಡುವಾಗ ಅಥವಾ ಹಸಿವುಮಾಡುವ ಜಾಗಗಳಲ್ಲಿ ಉತ್ತಮ ವಾತಾವರಣವನ್ನು ನಿಶ್ಚಿತಗೊಳಿಸಲು ಸುರಕ್ಷತಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "ಸರಿಯಾದ ನಿಯಂತ್ರಣ ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ಮಣ್ಣಿನ ಆರೋಗ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಹಾಗೂ ಹೊಸದಾಗಿ ಬೆಳೆಯುವ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಬೆಳೆಯುತ್ತದೆ.",
+        "impact": "ವ್ಯಾಪಕವಾಗಿ ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಯನ್ನು ನಿರ್ವಹಿಸುವುದರಿಂದ ಹೊರಗಿನ ಹೆಜ್ಜೆಯನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ಸಂಸಾಧನೆಗಳನ್ನು ಸಂರಕ್ಷಿಸುತ್ತದೆ, ಹಾಗೂ ಸಂಸ್ಥಾನಿಕ ವ್ಯವಸಾಯ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಬೆಳೆಯುತ್ತದೆ."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "ಬೆಳೆಯ ಉಳಿಕೆಗಳು ಸರಿಯಾಗಿ ನಿಯಂತ್ರಿಸಲ್ಪಟ್ಟರೆ, ಭೂಮಿಯ ಉರ್ವರಕ್ಷೆಯನ್ನು ಹೆಚ್ಚಾಗಿ ಸಂಕ್ಷೀಪಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ, ಸಿಂಥೆಟಿಕ್ ಉರ್ವರಕ್ಷೆಗಳ ಆವಶ್ಯಕತೆಯನ್ನು ಸಾಧಾರಣವಾಗಿ ಕಡಿಮೆಗೊಳಿಸಬಹುದು."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "ಪ್ರಾಣಿ ಅಲ್ಪಾವಶೇಷ",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "ಗೊಂಬೆಯ ಮಲ",
+        "Bedding Straw": "ಹಾಸುಗರಿ",
+        "Livestock Carcasses": "ಪ್ರಾಣಿಸಂಕಟಗಳು",
+        "Poultry Waste": "ಪೋಲ್ಟ್ರಿ ಅಲ್ಪಾವಶೇಷ",
+        "Feathers": "ಹುವುಗಳು",
+        "Fish Waste": "ಮೀನು ಅಲ್ಪಾವಶೇಷ",
+        "Milk Spoilage": "ಹಾಲು ಹಾಳಾದರು",
+        "Eggshell Waste": "ಮೊಟ್ಟೆ ಹುರಿಗಳು",
+        "Animal Hair": "ಪ್ರಾಣಿ ಕೂದು",
+        "Wool": "ಉಣ್ಣು",
+        "Dairy Processing Waste": "ಡೇರಿ ಪ್ರಾಸೆಸಿಂಗ್ ಅಲ್ಪಾವಶೇಷ",
+        "Veterinary Supplies": "ಪ್ರಾಣಿಚಿಕಿತ್ಸಾ ಸರಕುಗಳು",
+        "Expired Animal Feed": "ದುಷ್ಟಗೊಂಡ ಪ್ರಾಣಿ ಆಹಾರ",
+        "Contaminated Animal Products": "ದುಷ್ಟಗೊಂಡ ಪ್ರಾಣಿ ಉತ್ಪಾದನೆ"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+
+      "description": "ಪ್ರಾಣಿ ಅಲ್ಪಾವಶೇಷ ವಿವಕ್ಷಿಪ್ತ ಕೃಷಿ ಮತ್ತು ಪೋಲ್ಟ್ರಿ ಸಹಗಳಿಂದ ಉತ್ಪನ್ನವಾದ ಪ್ರಾಣಿ ಸಂಕಟಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಗೊಂಬೆಯ ಮಲ ಮತ್ತು ಹಾಸುಗರಿ ಹೊಂದಿದ್ದುವುಗಳೆಂದರೆ ಜೈವಿಕ ಸುಳ್ಳು ಮತ್ತು ಸಂಕಟಗಳೂ ಸೇರಿವೆ. ಸರಿಯಾದ ನಿಯಂತ್ರಣ ಮತ್ತು ನಿವಾಸದ ಆರೋಗ್ಯಕ್ಕೂ ರೋಗ ಹರಡದಿರುವುದಕ್ಕೂ ಹೆಚ್ಚಿನ ಪ್ರಾಣಿ ಸಂಕಟಗಳನ್ನು ಸರಿಯಾಗಿ ನಿಯಂತ್ರಿಸಲು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "ಪ್ರಾಣಿಸಂಕಟಗಳು",
+        "Poultry Waste": "ಪೋಲ್ಟ್ರಿ ಸಂಕಟಗಳು"
       },
+
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "ಸಾಮಾನ್ಯ ತ್ಯಾಜ್ಯದಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿ, ಜೈವಿಕ ಅಪಾಯಕಾರಿ ತ್ಯಾಜ್ಯಕ್ಕಾಗಿ ವಿಶೇಷ ಪಾತ್ರೆಗಳು",
+        "handling": "ಮುಖ್ಯವಾಗಿ ಹೆಣ ಅಥವಾ ಕಲುಷಿತ ತ್ಯಾಜ್ಯವನ್ನು ನಿರ್ವಹಿಸುವಾಗ ರಕ್ಷಣಾತ್ಮಕ ಗೇರನ್ನು ಬಳಸಿ. ಕಠಿಣ ನೈರ್ಮಲ್ಯ ನಿಯಮಗಳನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.",
+        "separation": "ಜೈವಿಕ ಅಪಾಯಕಾರಿ ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ಸಾಮಾನ್ಯ ತ್ಯಾಜ್ಯದಿಂದ ಪ್ರತ್ಯೇಕಿಸಿ. ನಿರ್ದಿಷ್ಟ ಪಾತ್ರೆಗಳಲ್ಲಿ ವಿಲೇವಾರಿ ಮಾಡಿ.",
+        "whatNotToDo": "ಸಾಮಾನ್ಯ ತ್ಯಾಜ್ಯದೊಂದಿಗೆ ಬೆರೆಸಬೇಡಿ. ಸೂಕ್ತವಾದ ಸುರಕ್ಷತಾ ಉಪಕರಣಗಳಿಲ್ಲದೆ ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+        "safetyPrecautions": "ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಕೈಗವಸುಗಳನ್ನು ಮತ್ತು ರಕ್ಷಣಾತ್ಮಕ ಪಾದರಕ್ಷೆಗಳನ್ನು ಧರಿಸಿ, ಹಾನಿಕಾರಕ ಸೂಕ್ಷ್ಮಜೀವಿಗಳೊಂದಿಗೆ ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸುವುದನ್ನು ತಡೆಯಿರಿ. ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿದೆ ಅಥವಾ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗಿದೆ ಎಲ್ಲಿ ಪ್ರದೇಶಗಳು ಉತ್ತಮವಾಗಿ ಗಾಳಿವಾಗುತ್ತವೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ನಿರ್ವಹಿಸಿದ ನಂತರ, ಜೂನೋಟಿಕ್ ರೋಗಗಳ ಹರಡುವಿಕೆಯನ್ನು ತಡೆಯಲು ಸೋಪ್ ಮತ್ತು ನೀರಿನಿಂದ ಕೈಗಳನ್ನು ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "ಸರಿಯಾದ ನಿರ್ವಹಣೆಯು ಪರಿಸರದ ಕಲುಷಿತಗೊಳ್ಳುವಿಕೆ ಮತ್ತು ಮಾನವರು ಮತ್ತು ಪ್ರಾಣಿಗಳಿಗೆ ಆರೋಗ್ಯದ ಅಪಾಯಗಳನ್ನು ತಡೆಯುತ್ತದೆ.",
+        "impact": "ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯದ ಜವಾಬ್ದಾರಿಯುತ ವಿಲೇವಾರಿ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ, ಪರಿಸರ ಸಂರಕ್ಷಣೆ ಮತ್ತು ಸಮರ್ಥನೀಯ ಕೃಷಿ ಕ್ರಮಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "ಒಂದು ಹಾಲುಕು ಹಸುವಿನ ಗوبرವು ದಿನವೊಂದರ ಚಿಕ್ಕ ರೆಫ್ರಿಜರೇಟರ್‌ಗೆ ವಿದ್ಯುತ್ ಉತ್ಪಾದಿಸುವಷ್ಟು ಸಮರ್ಥವಾಗಿದ್ದು, ಪ್ರಾಣಿ ತ್ಯಾಜ್ಯವನ್ನು ನವೀಕರಿಸಬಹುದಾದ ಇಂಧನವಾಗಿ ಪರಿವರ್ತಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ವಿವರಿಸುತ್ತದೆ."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "ಆಹಾರ ತ್ಯಾಜ್ಯ",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "ಬೇಯಿಸಿದ ಆಹಾರ",
+        "Uncooked Food": "ಬೇಯಿಸದ ಆಹಾರ",
+        "Meat Scraps": "ಮಾಂಸದ ತುಂಡುಗಳು",
+        "Fish Scraps": "ಮೀನಿನ ತುಂಡುಗಳು",
+        "Dairy Products": "ಡೈರಿ ಉತ್ಪನ್ನಗಳು",
+        "Bread": "ಬ್ರೆಡ್",
+        "Pastries": "ಪೇಸ್ಟ್ರಿಗಳು",
+        "Leftover Meals": "ಉಳಿದ ಊಟಗಳು",
+        "Expired Food": "ಕಳೆಗುಂದಿದ ಆಹಾರ",
+        "Rice": "ಅಕ್ಕಿ",
+        "Pasta": "ಪಾಸ್ಟಾ",
+        "Cheese": "ಚೀಸ್",
+        "Egg Shells": "ಮೊಟ್ಟೆಯ ಚಿಪ್ಪುಗಳು",
+        "Fruit Scraps": "ಹಣ್ಣುಗಳ ತುಂಡುಗಳು",
+        "Vegetable Scraps": "ಕೆ Greens ತುಂಡುಗಳು",
+        "Coffee Grounds": "ಕಾಫಿ ಗು grounds",
+        "Tea Bags": "ಟೀ ಬ್ಯಾಗ್‌ಗಳು",
+        "Food-Soiled Paper": "ಆಹಾರ ಕಲೆಹೊಂದಿರುವ ಕಾಗದ"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "ಆಹಾರ ತ್ಯಾಜ್ಯ ಬಿನ್‌ಗಳು ವಿವಿಧ ರೀತಿಯ ಆಹಾರ ತ್ಯಾಜ್ಯಗಳನ್ನು ವಿಲೇವಾರಿ ಮಾಡಲು, ಉಳಿದ ಭಾಗಗಳು, ಕಳೆಗುಂದಿದ ವಸ್ತುಗಳು ಮತ್ತು ಆಹಾರ ತುಂಡುಗಳು ಸೇರಿವೆ. ಈ ವರ್ಗದ ತ್ಯಾಜ್ಯವು ಜೈವಿಕ-ಜೀರ್ಣಕ್ರಿಯೆ ಅಥವಾ ಗೊಬ್ಬರ ತಯಾರಿಕೆಗೆ ಸೂಕ್ತವಾಗಿದೆ, ಸಾವಯವ ಪದಾರ್ಥವನ್ನು ಮೌಲ್ಯಯುತ ಸಂಪನ್ಮೂಲಗಳಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "ಅಡಿಗೆ ತ್ಯಾಜ್ಯ",
+        "Leftover Waste": "ಉಳಿದ ತ್ಯಾಜ್ಯ"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "ಮುಚ್ಚಿದ ಬಿನ್, ವಾಸನೆ ನಿಯಂತ್ರಣದೊಂದಿಗೆ, ಗಾಢ ಹಸಿರು ಅಥವಾ ಕಂದು",
+        "handling": "ವಾಸನೆಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಮತ್ತು ಕೀಟಗಳನ್ನು ತಡೆಯಲು ಆಹಾರ ತ್ಯಾಜ್ಯವನ್ನು ಮುಚ್ಚಿ. ನಿರ್ವಹಿಸಿದ ನಂತರ ಯಾವಾಗಲೂ ಕೈಗಳನ್ನು ತೊಳೆಯಿರಿ ಮತ್ತು ಸ್ಯಾನಿಟೈಜ್ ಮಾಡಿ. ಸ್ಪಿಲ್‌ಗಳನ್ನು ತಕ್ಷಣವೇ ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+        "separation": "ಗೊಬ್ಬರ ತಯಾರಿಕೆ ಮತ್ತು recycliಂಗ್ ಪರಿಣಾಮಕಾರಿತ್ವವನ್ನು ಹೆಚ್ಚಿಸಲು ಆಹಾರ ತ್ಯಾಜ್ಯವನ್ನು recycliables ಮತ್ತು non-compostables ನಿಂದ ಪ್ರತ್ಯೇಕಿಸಿ.",
+        "whatNotToDo": "ಆಹಾರ ತ್ಯಾಜ್ಯವನ್ನು ದ್ರವಗಳು, ಎಣ್ಣೆಗಳು ಅಥವಾ ರसायನಗಳೊಂದಿಗೆ ಬೆರೆಸಬೇಡಿ. ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳು ಅಥವಾ ಲೋಹಗಳಂತಹ non-biodegradable ವಸ್ತುಗಳನ್ನು ಸೇರಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ. ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವುದನ್ನು ಮತ್ತು ವಾಸನೆಗಳನ್ನು ಉಂಟುಮಾಡುವುದನ್ನು ತಡೆಯಲು ಆಹಾರ ತ್ಯಾಜ್ಯವನ್ನು uncovered ಬಿಡಬೇಡಿ.",
+        "safetyPrecautions": "ಆಹಾರ ತ್ಯಾಜ್ಯವನ್ನು ನಿರ್ವಹಿಸುವಾಗ, ವಿಶೇಷವಾಗಿ ದೊಡ್ಡ ಪ್ರಮಾಣದಲ್ಲಿ, ಕೈಗವಸುಗಳನ್ನು ಧರಿಸಿ ಇದರಿಂದ potential spoilage ಮತ್ತು ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಿಂದ ರಕ್ಷಣೆ ಪಡೆಯಬಹುದು. ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವುದನ್ನು ಮತ್ತು ವಾಸನೆಗಳನ್ನು ತಡೆಯಲು ಆಹಾರ ತ್ಯಾಜ್ಯ ಪಾತ್ರೆಗಳನ್ನು ಸ್ವಚ್ಛವಾಗಿ ಮತ್ತು ಮುಚ್ಚಿಟ್ಟು ಇರಿಸಿ. ಆಹಾರ ತ್ಯಾಜ್ಯದೊಂದಿಗೆ ಸಂಪರ್ಕಕ್ಕೆ ಬರುವ ಕೈಗಳು, ಉಪಕರಣಗಳು ಮತ್ತು ಮೇಲ್ಮೈಗಳನ್ನು ನೈರ್ಮಲ್ಯ ಕಾಪಾಡಲು ನಿಯಮಿತವಾಗಿ ಸ್ವಚ್ಛಗೊಳಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "ಕೀಟಗಳ ಆಕರ್ಷಣೆಯನ್ನು ತಡೆಯುತ್ತದೆ, ಲ್ಯಾಂಡ್‌ಫಿಲ್‌ಗಳಿಂದ ಹಸಿರುಮನೆ ಅನಿಲದ ಹೊರಸೂವಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಗೊಬ್ಬರ ಅಥವಾ ಜೈವಿಕ ಅನಿಲವನ್ನು ಉತ್ಪಾದಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+        "impact": "ಆಹಾರ ತ್ಯಾಜ್ಯದ ಸರಿಯಾದ ನಿರ್ವಹಣೆಯು ಸಂಪನ್ಮೂಲಗಳನ್ನು ಉಳಿಸುತ್ತದೆ, ಪರಿಸರದ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸಮರ್ಥನೀಯ ಅಭ್ಯಾಸಗಳನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "ಆಹಾರ ತ್ಯಾಜ್ಯವು ದೇಶವಾಗಿದ್ದರೆ, ಅದು ಯುಎಸ್‌ಎ ಮತ್ತು ಚೀನಾದ ನಂತರ ವಿಶ್ವದ ಮೂರನೇ ಅತಿ ದೊಡ್ಡ ಹಸಿರುಮನೆ ಅನಿಲ ಹೊರಸೂವಿಕೆ ಪ್ರದೇಶವಾಗಿರುತ್ತದೆ. ಪರಿಸರದ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಆಹಾರ ತ್ಯಾಜ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಬಹಳ ಮುಖ್ಯ."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "ಹಸಿವು ತುಂಬಿದ ಕಚರೆ",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "ಹುಲಿಯ ಕತ್ತುಗಳು",
+        "Leaves": "ಎಲೆಗಳು",
+        "Branches": "ಕಾಡುಗಳು",
+        "Weeds": "ಅಲೆಗಳು",
+        "Flowers": "ಹೂಗಳು",
+        "Garden Trimmings": "ಗಾರ್ಡನ್ ಟ್ರಿಮಿಂಗ್ಸ್",
+        "Shrubs": "ಸಣ್ಣ ಗಿಡಮರಗಳು",
+        "Small Twigs": "ಚಿಕ್ಕ ಬಾಳೆಹೂವುಗಳು",
+        "Hedge Clippings": "ಹೆಜ್ ಕತ್ತುಗಳು",
+        "Fallen Fruit": "ಬೀರುವ ಹಣ್ಣು",
+        "Garden Maintenance": "ಗಾರ್ಡನ್ ರಕ್ಷಣೆ",
+        "Plant Prunings": "ಸಸ್ಯ ಕತ್ತುಗಳು"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "ಹಸಿವು ತುಂಬಿದ ಕಚರೆ, ಸಸ್ಯ ಮತ್ತು ಗಾರ್ಡನ್ ಸುರಂಗದ ರೂಪದಲ್ಲಿ ಪರಿಸರ ಪುನಃಚಕ್ರವರ್ತಿಯನ್ನು ರಚಿಸುವಲ್ಲಿ ಮಹತ್ವದ ಪಾತ್ರವಹಿಸುತ್ತದೆ. ಹಸಿವು ತುಂಬಿದ ಕಚರೆಯನ್ನು ಹಸಿವಿನ ಗೊಂಡಿಯನ್ನು ರಚಿಸುವುದು ಸಸ್ತವಾಗಿ ಗಾರ್ಡನಿಂಗ್ ಮತ್ತು ಕೃಷಿಯ ಸಾಧನೆಗೆ ಅತ್ಯಂತ ಆವಶ್ಯಕವಾಗಿದೆ.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "ಹೊಲ ಹಸಿವು",
+        "Garden Waste": "ಗಾರ್ಡನ್ ಹಸಿವು"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "ಮರುಧಾರಕ ಬಿನ್, ದೊಡ್ಡ ಹತ್ತಿರ ನಿಲ್ಲುವ ಹಾಗೂ ಹಸಿವು ಬಣ್ಣದಿಂದ ಆಗಲಿ ಎಂದರೆ ಹಸಿವು ಬಣ್ಣದಿಂದ ಆಗಲಿ ಇರುವುದು ಹೆಚ್ಚಿನ ಸಹಾಯಕರಾಗುತ್ತದೆ.",
+        "handling": "ಹಸಿವು ಕಚರೆಯನ್ನು ಹಾಳು ಬಾಹುಗಳು ಅಥವಾ ಕತ್ತುಗಳ ಕಾರಣ ಬಡಿತದಿಂದ ಕಾಪಾಡಲು ಹಸಿವು ತುಂಬಿದಾಗ ದಸ್ತ್ಯದಿಂದ ಸಾವಿಡಿ. ತೂಕವನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಕೈಗಳನ್ನು ತೊಳೆಯಿರಿ.",
+        "separation": "ಹಸಿವು ತುಂಬಿದ ಕಚರೆಯನ್ನು ಮನೆಯ ಹಸಿವಿನ ಮತ್ತು ಆಪತ್ಕರ ಕಚರೆಯಿಂದ ಬೇರ್ಪಡಿಸಿ. ಆಹಾರ ಹಸಿವಿನ ಕಚರೆ ಅಥವಾ ಪುನಃಚಕ್ರವರ್ತನೆಗಾಗಿ ಮಿಶ್ರಿಸಬಾರದು.",
+        "whatNotToDo": "ಇನೋರ್ಗಾನಿಕ್ ಸಾಮಗ್ರಿಗಳು ಹಸಿವು ತುಂಬಿದ ಕಚರೆಗೆ ಹಾಕಬೇಡಿ, ಮಣ್ಣು ಅಥವಾ ಬೆಳೆವನ್ನು ಸೇರಿಸಬಾರದು. ರೋಗಿ ಸಸ್ಯಗಳನ್ನು ಅಥವಾ ದಾಳಿಮಾಡುವ ಬಗ್ಗೆ ಅನಾವಶ್ಯಕವಾಗಿ ಸೇರಿಸಬಾರದು.",
+        "safetyPrecautions": "ಹಸಿವು ತುಂಬಿದ ಕಚರೆಯನ್ನು ಹಾಳು ಬಾಹುಗಳು ಅಥವಾ ಕತ್ತುಗಳ ಸಂಬಂಧವಾಗಿ ಸಂರಕ್ಷಿಸಲು ಕೈಗಳನ್ನು ಧರಿಸಿ, ಹಾಗೂ ಅಪಾಯಕಾರಕ ವಸ್ತುಗಳಿಂದ ಬಿಡಿಸಿರಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "ಕಾಮ್ಪೋಸ್ಟ್ ನ ನಿರ್ಮಾಣವನ್ನು ಸುವರ್ಣ ಭೂಮಿ ನಂತೆ ಕುಣಿಸುತ್ತದೆ, ಮಣ್ಣಿನ ಆರೋಗ್ಯಕ್ಕೆ ಆವಶ್ಯಕವಾಗಿದೆ, ಮತ್ತು ಕಾರ್ಬನ್ ಸಂಗ್ರಹಣಕ್ಕೆ ಸಹಾಯಮಾಡುತ್ತದೆ. ಲ್ಯಾಂಡ್ಫಿಲ್ ಹಾಗೂ ಗ್ರೀನ್‌ಹೌಸ್ ಗ್ಯಾಸ್ ವಾಯು ಎಮಿಷನ್‌ಗಳ ಬಳಕೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ.",
+        "impact": "ಸಸ್ತವಾದ ಕಚರೆ ನಿರ್ವಹಣೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಮಣ್ಣಿನಲ್ಲಿ ಜೈವವಿವಿಧತೆಗೆ ಬೆಂಬಲ ನೀಡುತ್ತದೆ, ಮತ್ತು ಪ್ರಾಕೃತಿಕ ಗಾರ್ಡನಿಂಗ್ ಮತ್ತು ಕೃಷಿ ಅಭ್ಯಾಸಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "ಹುಲಿಯ ಕತ್ತುಗಳು ಮತ್ತು ಎಲೆಗಳನ್ನು ಕಾಮ್ಪೋಸ್ಟ್ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ಬಳಸಿ 'ಗಾರ್ಡನರ್ ಗೊಲ್ಡ್' ಎನಿಸುತ್ತದೆ. ಕೀಟಕ ಉರುಲುಗಳನ್ನು ಬಳಸದೆ ಸಸ್ಯ ಬೆಳವಣಿಗೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಕೀಟಕ ಸಾರಗಳ ಬಳಕೆಯಿಲ್ಲದೆ ಹೂಸಸ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "ಪುನಃಬಳಸಬಹುದಾದ ಕಚ್ಚ",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "ವಾರ್ತಾಪತ್ರಿಕೆಗಳು",
+        "Magazines": "ಮ್ಯಾಗಜೈನ್‌ಗಳು",
+        "Office Paper": "ಕಚ್ಚದ ಕಾಗದ",
+        "Cardboard": "ಕಾರ್ಡ್‌ಬೋರ್ಡ್",
+        "Plastic Bottles": "ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲ್‌ಗಳು",
+        "Plastic Containers": "ಪ್ಲಾಸ್ಟಿಕ್ ಸಂತೆಗಳು",
+        "Glass Bottles": "ಗಾಜು ಬಾಟಲ್‌ಗಳು",
+        "Glass Jars": "ಗಾಜು ಬಣಗಳು",
+        "Aluminum Cans": "ಅಲ್ಯುಮಿನಿಯಂ ಡಬ್ಬುಗಳು",
+        "Steel Cans": "ಇಸ್ಪಾಟ್ ಡಬ್ಬುಗಳು",
+        "Electronics": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್",
+        "Textiles": "ಟೆಕ್ಸ್ಟೈಲ್ಸ್",
+        "Untreated Wood": "ಮಾತ್ರವಾಗಿ ಸರಿಯಾಗಿ ಕಲುಪಾಗದ ಮರ",
+        "Aerosol Cans": "ಎರೋಸೋಲ್ ಡಬ್ಬುಗಳು",
+        "Batteries": "ಬ್ಯಾಟರಿಗಳು",
+        "Non-LED Light Bulbs": "ಎಲೆಡಿ ಬಲ್ಬ್‌ಗಳಲ್ಲದ ಬಲ್ಬ್‌ಗಳು"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "ಪುನಃಬಳಸಬಹುದಾದ ಕಚ್ಚದಲ್ಲಿ ವಿವಿಧ ಸಾಮಗ್ರಿಗಳಿಗೆ ಬೇಕಾದ ಅವಕಾಶವಿದೆ. ಈ ವರ್ಗದ ಪ್ರಮುಖ ಐಟಮ್‌ಗಳು ಪೇಪರ್ ಉತ್ಪನ್ನಗಳು, ಪ್ಲಾಸ್ಟಿಕ್, ಗಾಜು, ಲೋಹಗಳು ಮತ್ತು ಕೆಲವು ವಿಧದ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್ ಆಗಿವೆ. ಇವು ಸಂಪದ ಸಂರಕ್ಷಣೆ ಮತ್ತು ಪರಿಸ್ಥಿತಿ ಹಿಡಿತಗೊಳಿಸುವುದರಲ್ಲಿ ಮುಖ್ಯ ಪಾತ್ರ ನಡೆಸುತ್ತವೆ ಮತ್ತು ಸಂರಕ್ಷಣೆ ಮತ್ತು ಪರಿಸ್ಥಿತಿ ಸುಸಂರಕ್ಷಣೆ ಪ್ರಯತ್ನಗಳಿಗೆ ಮಹತ್ವದ ಪಾತ್ರ ನಡೆಸುತ್ತವೆ.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "ಪುನಃಬಳಸಬಹುದಾದ ಡಬ್ಬು, ಲೋಹ ಅಥವಾ ದಾಸುಖಾಣ ಪ್ಲಾಸ್ಟಿಕ್",
+        "handling": "ಪುನಃಬಳಸಬಹುದಾದ ಐಟಮ್‌ಗಳನ್ನು ಸ್ವಚ್ಛ ಮತ್ತು ಒಣಗಿಸಲು ಖಚಿತಪಡಿಸಿ. ಸ್ಥಳೀಯ ಪುನಃಬಳಸಬಹುದಾದ ಮಾರ್ಗನ್ನು ಅನುಸರಿಸಿ ಅವುಗಳನ್ನು ವಿಭಾಗಿಸಿ.",
+        "separation": "ವಿವಿಧ ಪುನಃಬಳಸಬಹುದಾದ ಐಟಮ್‌ಗಳನ್ನು ವಿಭಾಗಿಸಿ, ಅಪಶ್ಚಯಿಸದೆ ಇತರ ಅಪುನಃಬಳಸಬಹುದಾದ ಸಾಮಗ್ರಿಗಳ ಮಿಶ್ರಣವನ್ನು ತಪ್ಪಿಸಿ.",
+        "whatNotToDo": "ಕಚ್ಚದಾಗಿರದ, ಕೊಳಗಳಿದ, ಅಥವಾ ಪುನಃಬಳಸಬಹುದಾದಲ್ಲದ ಐಟಮ್‌ಗಳನ್ನು ಸೇರಿಸದಿರಿ. ವಿಶೇಷ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಿ ನಿರ್ದಿಷ್ಟ ಸಾಗರಗಳಿಗೆ ಗಾತ್ರವನ್ನು ಕಡಿಮೆಮಾಡಿ.",
+        "safetyPrecautions": "ಪುನಃಬಳಸಬಹುದಾದ ಐಟಮ್‌ಗಳನ್ನು ಹಾದಿಗೊಳಿಸುವಾಗ ಅಗತ್ಯವಿದ್ದಾಗ ಉಪಯೋಗಿಸಲಿರುವ ಸುರಕ್ಷಾ ಉಪಕರಣಗಳನ್ನು ಧರಿಸಿ. ಪುನಃಬಳಸಬಹುದಾದ ಸಾಮಗ್ರಿಗಳ ಸಮೀಪದಲ್ಲಿ ಇರಬಹುದಾದ ಪ್ರಾಣಿಗಳ ಅಥವಾ ಕೀಟಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕತೆ ವಹಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "ಹೊಂದಿಕೊಳ್ಳುವ ಹೊರಗುಣಗಳನ್ನು ಹಾಕುತ್ತದೆ, ಶಕ್ತಿಯನ್ನು ಸಂರಕ್ಷಿಸುತ್ತದೆ ಮತ್ತು ಕಚ್ಚದ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ.",
+        "impact": "ಹಸಿವನ್ನು ಮುಗಿಸುವ ಸಂರಕ್ಷಣೆಯ ಪ್ರಯತ್ನಗಳನ್ನು ಬೆಳೆಸುತ್ತದೆ, ಪರಿಸ್ಥಿತಿ ಸಂರಕ್ಷಣೆ ಮತ್ತು ರಕ್ಷಣಾ ಪ್ರಯತ್ನಗಳನ್ನು ಬೆಳೆಸುತ್ತದೆ."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "ಪುನಃಬಳಸಬಹುದಾದ ಕೆಲಸ ಕಚ್ಚದ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೊಳಿಸುವುದು ಮತ್ತು ಭವಿಷ್ಯದ ತಲುಪನ್ನು ರಕ್ಷಿಸುತ್ತದೆ."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "ಆಟೊಮೋಟಿವ್ ಕಚ್ಚ",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "ಬಳಕೆದಾರರ ಮೊಟಾರ್ ಎಣ್",
+        "Oil Filters": "ಎಣ್ ಫಿಲ್ಟರ್‌ಗಳು",
+        "Batteries": "ಬ್ಯಾಟರಿಗಳು",
+        "Tires": "ಟೈರ್‌ಗಳು",
+        "Brake Pads": "ಬ್ರೇಕ್ ಪ್ಯಾಡ್ಸ್",
+        "Brake Fluid": "ಬ್ರೇಕ್ ಫ್ಲೂಡ್",
+        "Transmission Fluid": "ಟ್ರಾನ್ಸ್ಮಿಷನ್ ಫ್ಲೂಡ್",
+        "Coolants": "ಕೂಲೆಂಟ್ಗಳು",
+        "Metal Parts": "ಲೋಹ ಭಾಗಗಳು",
+        "Rubber Hoses": "ರಬರ್ ಹೋಸ್ಸುಗಳು",
+        "Belts": "ಬೆಲ್ಟ್‌ಗಳು",
+        "Air Filters": "ವಾಯು ಫಿಲ್ಟರ್‌ಗಳು",
+        "Windshield Glass": "ವಿಂಡೋ ಗ್ಲಾಸ್",
+        "Upholstery Materials": "ಉಪ್ಹೋಲ್ಸ್ಟ್ರಿ ಸಾಮಗ್ರಿಗಳು",
+        "Automotive Bumpers": "ಆಟೊಮೋಟಿವ್ ಬಂಪರ್‌ಗಳು",
+        "Headlights": "ಮುಖದ ಬೆಲೆಗಳು",
+        "Electrical Components": "ವಿದ್ಯುತ್ ಘಟಕಗಳು"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "ಆಟೊಮೋಟಿವ್ ಕಚ್ಚ ವಾಹನಗಳಿಂದ ಹಾಕಿದ ವಿವಿಧ ಸಾಮಗ್ರಿಗಳು ಮತ್ತು ಘಟಕಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದು ತಾಕಾಲಿಕ ಮತ್ತು ಅತಾತ್ವಿಕ ಕಚ್ಚ ಪ್ರಕಾರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ, ಉಪಯೋಗಿಸಲಾದ ಎಣ್ಣೆ, ಬ್ಯಾಟರಿಗಳು, ಟೈರ್‌ಗಳು, ಮತ್ತು ಯಂತ್ರ ಭಾಗಗಳು ಹೊತ್ತುಕೊಳ್ಳುವ ಮೂಲಕ. ಆಟೊಮೋಟಿವ್ ಕಚ್ಚವನ್ನು ಸರಿಯಾಗಿ ವಿಮುಕ್ತಿಪಡಿಸುವುದು ಮತ್ತು ಪರಿಸ್ಥಿತಿ ಸಂರಕ್ಷಣೆಗಾಗಿ ಮಹತ್ವದಾಗಿದೆ.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "ವಾಹನ ಕಚ್ಚ",
+        "Car Waste": "ಕಾರು ಕಚ್ಚ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳಿಗಾಗಿ ವಿಶೇಷ ಹಡಗುಗಳು, ದೊಡ್ಡ ಘಟಕಗಳಿಗಾಗಿ ನಿಯೋಜಿತ ಪ್ರದೇಶಗಳು",
+        "handling": "ವಿಶೇಷವಾಗಿ ಆತಾತ್ವಿಕ ವಸ್ತುಗಳ ಕೊನೆಗಾಣಿಸಿ. ಎಣ್ಣೆ ಮತ್ತು ರಾಸಾಯನಿಕ ಪ್ರದ್ದೇಶಗಳ ನಿರ್ವಹಣೆಯಲ್ಲಿ ಸುರಕ್ಷಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ.",
+        "separation": "ಎಣ್ಣೆ ಮತ್ತು ಬ್ಯಾಟರಿಗಳು ಹೊರಗೊಂಡ ಆತಾತ್ವಿಕ ಕಚ್ಚದಿಂದ ಅತಾತ್ವಿಕ ಐಟಮ್‌ಗಳನ್ನು ವಿಭಾಗಿಸಿ. ಪ್ರತಿ ರೀತಿಯ ನಿರ್ವಹಣೆಗಾಗಿ ಸ್ಥಳೀಯ ಮಾರ್ಗನ್ನು ಅನುಸರಿಸಿ.",
+        "whatNotToDo": "ಆಟೊಮೋಟಿವ್ ಎಣ್ಣೆ ಮತ್ತು ರಾಸಾಯನಿಕ ಪ್ರದ್ದೇಶಗಳನ್ನು ಸಾಮಾನ್ಯ ಕಚ್ಚದಲ್ಲಿ ಅಥವಾ ಹರಕುಗಳಲ್ಲಿ ವಿಸ್ತರಿಸಬಾಕಿಯಿಲ್ಲ. ಆಟೊಮೋಟಿವ್ ಕಚ್ಚದ ವಿವಿಧ ಪ್ರಕಾರಗಳನ್ನು ಮಿಶ್ರಣಿಸಬಾರದು.",
+        "safetyPrecautions": "ಬಳಕೆದಾರರ ಎಣ್ಣೆ, ಬ್ಯಾಟರಿಗಳು, ಮತ್ತು ಟೈರ್‌ಗಳು ಹೊತ್ತುಕೊಳ್ಳುವಾಗ ಆತಾತ್ವಿಕ ಸಾಮಗ್ರಿಗಳ ಸಂಪರ್ಕ ಮಾಡದಿರಲು ಕೈಗಡೆಯನ್ನು ಧರಿಸಿ ಮತ್ತು ಕಣ್ಣೀರು ಸುರಕ್ಷತೆಗೆ ಉಡುಗೊರೆಯನ್ನು ಧರಿಸಿ. ವಿಶೇಷವಾಗಿ ಆಟೊಮೋಟಿವ್ ದ್ರವಗಳನ್ನು ಬಳಸುವಾಗ, ಧೂಮಾಕ್ಷಿಗಳ ಸೆಲೆಬ್ರೇಶನ್‌ಗಳ ಸಂಪರ್ಕದಿಂದ ನಿರ್ವಹಣೆಯನ್ನು ನಿರ್ವಹಿಸುವ ಸಮಯದಲ್ಲಿ ವೇಷಗಳು ಮತ್ತು ಕಣ್ಣೀರು ಸುರಕ್ಷತೆಗೆ ಉಡುಗೊರೆಯನ್ನು ಧರಿಸಿ. ಆಟೊಮೋಟಿವ್ ಕಚ್ಚವನ್ನು ನಿರ್ವಹಣೆ ಮಾಡುವ ಪ್ರತಿಯೊಂದು ಪ್ರದೇಶದಲ್ಲಿ ಸರಿಯಾಗಿ ಹಾಕಿದ್ದಲ್ಲಿ ಪರಿಸ್ಥಿತಿ ಕಲುಪಿಸದಿರಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "ಪರಿಸ್ಥಿತಿಯ ಕಲುಪಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಮೌಲ್ಯಯುತ ಸಾಮಗ್ರಿಗಳನ್ನು ಕಾಪಾಡುತ್ತದೆ ಮತ್ತು ಪುನಃಬಳಸಬಹುದಾದ ಪ್ರಯತ್ನಗಳನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+        "impact": "ಆಟೊಮೋಟಿವ್ ಕಚ್ಚದ ಯಥಾರಿತಿಯ ನಿರ್ವಹಣೆ ವಾಹನ ಬಳಸುವ ಮತ್ತು ಮರಿಟಗೊಳಿಸುವ ಪರಿಸ್ಥಿತಿಯ ಪಾದಚಾಯೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ಹೊಸ ಆಟೊಮೋಟಿವ್ ಭಾಗಗಳು ಮತ್ತು ವಾಹನಗಳನ್ನು ನಿರ್ಮಿಸಲು ಆವಶ್ಯಕವಾದ ಶಕ್ತಿ ಮತ್ತು ಮೌಲ್ಯಯುತ ಸಾಮಗ್ರಿಗಳ ಅಗತ್ಯವನ್ನು ಹೆಚ್ಚಳಿಸುತ್ತದೆ."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "ಒಂದು ಕಾರು ಪುನಃಬಳಸಬಹುದಾದಲ್ಲಿ 2,500 ಪೌಂಡ್ಸ್ ಆಯಿರನ್ ಆರ್, 1,400 ಪೌಂಡ್ಸ್ ಕೋಲ್, ಮತ್ತು 120 ಪೌಂಡ್ಸ್ ಲೈಮ್ಸ್ಟೋನ್ ಉಳಿಸುತ್ತದೆ. ಈ ಪ್ರಕ್ರಿಯೆಯು ಹೊಸ ಆಟೊಮೋಟಿವ್ ಭಾಗಗಳು ಮತ್ತು ವಾಹನಗಳನ್ನು ನಿರ್ಮಿಸಲು ಅಗತ್ಯವಾದ ಶಕ್ತಿ ಮತ್ತು ಕಾಪಾಡುವ ಮೌಲ್ಯಯುತ ಸಾಮಗ್ರಿಗಳನ್ನು ಅತ್ಯಂತ ಸಂಕುಚಿಸುತ್ತದೆ."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "ಭಾರಿ ಕಚ್ಚ",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "ಗೂಡಾರ",
+        "Appliances": "ಉಪಕರಣಗಳು",
+        "Mattresses": "ಹಾಸುಗಳು",
+        "Large Toys": "ದೊಡ್ಡ ಟಾಯ್ಸ್",
+        "Carpeting": "ಕಾರ್ಪೆಟ್",
+        "Bicycles": "ಸೈಕಲುಗಳು",
+        "Large Electronics": "ದೊಡ್ಡ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್",
+        "BBQ Grills": "BBQ ಗ್ರಿಲ್ಸ್",
+        "Exercise Equipment": "ವ್ಯಾಯಾಮ ಉಪಕರಣಗಳು",
+        "Large Household Items": "ದೊಡ್ಡ ಮನೆತನ ಸಾಮಗ್ರಿಗಳು"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "ಭಾರಿ ಕಚ್ಚ ಸಾಮಗ್ರಿಗಳು ಸಾಮಾನ್ಯ ಕಚ್ಚಡಿಗೆ ಹೊಂದಿಕೊಳ್ಳಲಾಗದ ದೊಡ್ಡ ಐಟಮ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಭಾರಿ ಕಚ್ಚದ ಸಾಮಗ್ರಿಯ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಕಚ್ಚಡಿಗೆಯ ನಿರ್ವಹಣೆ ಮತ್ತು ಪರಿಸ್ಥಿತಿ ಸಂರಕ್ಷಣೆಗಾಗಿ ಮುಖ್ಯವಾಗಿದೆ. ಭಾರಿ ಐಟಮ್‌ಗಳ ಪುನಃಬಳಸಲು ಸಾಮಗ್ರಿ ಸಂರಕ್ಷಣೆಗೆ ಕೊಡುವ ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಕೊಡಬಹುದು.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "ದೊಡ್ಡ ಕಚ್ಚ",
+        "Oversized Items": "ಅತ್ಯದೊಡ್ಡ ಐಟಮ್‌ಗಳು"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "ವಿಶೇಷ ಸಂಗ್ರಹಣೆ ಅಥವಾ ಡ್ರಾಪ್-ಆಫ್ ಪಾಯಿಂಟ್",
+        "handling": "ವಿಶೇಷ ನಿರ್ವಹಣೆ ಅಥವಾ ಬರಿಯಾಣಿ ಸೇವೆಗಳನ್ನು ಹೊಂದಿಕೊಳ್ಳಲು ಸ್ಥಳೀಯ ಕಚ್ಚಡಿಗೆ ನಿರ್ವಹಣೆಯ ಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ಕೆಲವು ಐಟಮ್‌ಗಳು ವಿಶೇಷ ನಿರ್ವಹಣೆ ಅಥವಾ ಸೇವೆಗಳನ್ನು ಅಗತ್ಯವಿದ್ದಲ್ಲಿಯೇ ಹೊಂದಿಕೊಳ್ಳಬಹುದು.",
+        "separation": "ವಿಭಿನ್ನ ಭಾರಿ ಐಟಮ್‌ಗಳನ್ನು ಯಥಾವತ್ತಾಗಿ ಪುನಃಚಕ್ರಿಗೆ ಅಥವಾ ನಿರ್ವಹಣೆ ಮೂಲಕ ವಿಭಾಗಿಸಿ.",
+        "whatNotToDo": "ಪ್ರಾರಂಭದಲ್ಲಿ ಸರಿಯಾಗಿ ಸಂಗ್ರಹಣೆಗೆ ಸಮಯವನ್ನು ಅನುಬಂಧಿಸದೇ ಬೆಟ್ಟದ ಮೇಲೆ ಭಾರಿ ಐಟಮ್‌ಗಳನ್ನು ಬಿಡದಿರಬಾರದು. ಗೈರಕಾನೂನಿಕ ಎಸ್ಪಾಟು ಮಾಡುವುದನ್ನು ಹಿಂಸಿಸಬೇಡಿರಿ.",
+        "safetyPrecautions": "ಗೂಡಾರ, ಉಪಕರಣಗಳು, ಮತ್ತು ದೊಡ್ಡ ಟಾಯ್ಸ್ ಮುಂತಾದ ಭಾರಿ ಕಚ್ಚದ ಐಟಮ್‌ಗಳನ್ನು ಹೊಂದಿಕೊಳ್ಳುವಾಗ ಹಿಂದಿನ ಗಾಯಗಳನ್ನು ತಡೆಹಿಡಿಯಲು ಸರಿಯಾದ ಬೆರಳಚಾಚುಗಳನ್ನು ಬಳಸಿ. ಭಾರಿ ಐಟಮ್‌ಗಳನ್ನು ತಂಗುವ ಮತ್ತು ಹಿನ್ನೆಲೆಯ ಐಟಮ್‌ಗಳನ್ನು ನಕಲಿಸಲು ಸಹಾಯ ಬೇಕಾಗಿದೆ ಅಥವಾ ತೇಗುವಾತದಲ್ಲಿ ಟ್ರಾಲಿ ಬಳಸಬಹುದು. ಕಟ್ಟು ಗೊಂಡುನಿಂತಿರುವ ಆಟೊಮೋಟಿವ್ ಐಟಮ್‌ಗಳ ಸಂಪರ್ಕಕ್ಕೆ ನಕಲಿಸುವ ಹುಡುಕುವಲ್ಲಿ ಅಂಗಡಿ ಉಡುಗೊರೆಯನ್ನು ಧರಿಸಿ. ಕಾಲು ಗಾಯಗಳನ್ನು ತಡೆಹಿಡಿಯಲು ಸುರಕ್ಷಿತ ಅಡಿಗೆಯನ್ನು ಧರಿಸಿ ಮತ್ತು ಕೋಣೆ ಮತ್ತು ವ್ಯಾಯಾಮ ಉಪಕರಣಗಳ ಸಮಗ್ರ ಬಳಕೆಗಾಗಿ ಕೈಗಡೆಯನ್ನು ಧರಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "ಭಾರಿ ಕಚ್ಚದ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಭೂಸ್ಖಲನ ಬಳಸುವುದನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ಪುನಃಚಕ್ರಿಗೆಗೆ ಬೆಳವಣಿಗೆಯನ್ನು ಬೆಳೆಸುತ್ತದೆ ಮತ್ತು ಹಾಸಿಗೆಯ ಮತ್ತು ಹೊಸಗು ಪರಿಸ್ಥಿತಿಯನ್ನು ಬೆಳಗುತ್ತದೆ.",
+        "impact": "ಭಾರಿ ಐಟಮ್‌ಗಳನ್ನು ಪುನಃಪಡೆದು ಮೌಲ್ಯಯುತ ಸಾಮಗ್ರಿಗಳನ್ನು ಪಡೆಯುವಲ್ಲಿ ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಪರಿಸ್ಥಿತಿ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ, ಮತ್ತು ಭಾರಿ ಐಟಮ್‌ಗಳನ್ನು ಪುನಃಚಕ್ರಿಗೆ ಹಾಕುವ ಪ್ರಮುಖ ಪರಿಣಾಮವನ್ನು ತೋರಿಸುತ್ತದೆ."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "ಗೂಡಾರ ಮತ್ತು ಇತರ ಭಾರಿ ಐಟಮ್‌ಗಳು ಸಾಮಗ್ರಿ ಗಡಿಯಲ್ಲಿ ಸಾಗುತ್ತವೆ, ಆದರೆ ಮರುಉಪಯೋಗಿಸಲು ಅಥವಾ ಪುನಃಚಕ್ರಿಗೆ ಹಾಕಲು, ಒಂದು ಸೋಫಾ ಮಾತ್ರವೇ ಗಡಿಯಲ್ಲಿನ ಹಾಸಿಗೆ ಸ್ಥಳವನ್ನು ಎಷ್ಟು ಕ್ಯೂಬಿಕ್ ಯಾರ್ಡ್ಸ್ ಉಳಿಸಬಹುದು ಎಂದು ತೋರಿಸುತ್ತದೆ, ಭಾರಿ ಐಟಮ್‌ಗಳನ್ನು ಪುನಃಚಕ್ರಿಗೆ ಹಾಕಿದಾಗ ಮತ್ತು ಪುನಃಬಳಸಿದಾಗ ಪ್ರತಿಷ್ಠಿತಗೊಳ್ಳುವ ಅತ್ಯಂತ ಪರಿಣಾಮವನ್ನು ತೋರಿಸುತ್ತದೆ."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "ನಿರ್ಮಾಣ ಮತ್ತು ಧ್ವಂಸ ಕಸ",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "ಕಾಂಕ್ರೀಟ್",
+        "Bricks": "ಇಟ್ಟಿಗೆಗಳು",
+        "Wood": "ಮರ",
+        "Gypsum": "ಜಿಪ್ಸಂ",
+        "Metal": "ಲೋಹ",
+        "Glass": "ಗಾಜು",
+        "Plastic": "ಪ್ಲಾಸ್ಟಿಕ್",
+        "Insulation Materials": "ಇನ್ಸುಲೇಶನ್ ವಸ್ತುಗಳು",
+        "Electrical Wiring": "ವಿದ್ಯುತ್ ತಂತಿಗಳು",
+        "Plumbing Fixtures": "ಪ್ಲಂಬಿಂಗ್ ಫಿಕ್ಸ್ಚರ್ಸ್",
+        "Ceramic Tiles": "ಸೆರಾಮಿಕ್ ಟೈಲ್ಸ್",
+        "Asphalt": "ಆಸ್ಫಾಲ್ಟ್",
+        "Roofing Materials": "ಛಾವಣಿ ವಸ್ತುಗಳು",
+        "Windows": "ಕಿಟಕಿಗಳು",
+        "Doors": "ಬಾಗಿಲುಗಳು",
+        "Piping": "ಪೈಪಿಂಗ್",
+        "Reinforced Concrete": "ಬಲವರ್ಧಿತ ಕಾಂಕ್ರೀಟ್",
+        "Drywall": "ಡ್ರೈವಾಲ್",
+        "Flooring Materials": "ನೆಲಹಾಸು ವಸ್ತುಗಳು",
+        "Wall Coverings": "ಗೋಡೆ ಕವರಿಂಗ್ಸ್"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "ನಿರ್ಮಾಣ ಮತ್ತು ಧ್ವಂಸ ಕಸವು ಕಟ್ಟಡಗಳು ಮತ್ತು ರಚನೆಗಳ ನಿರ್ಮಾಣ, ನವೀಕರಣ, ಮತ್ತು ಧ್ವಂಸದ ವೇಳೆ ಉಂಟಾಗುವ ವಸ್ತುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ವಸ್ತುಗಳನ್ನು ಮರುಬಳಕೆಗೆ ಒಳಪಡಿಸಲು ಮತ್ತು ಪರಿಸರ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಮರ್ಪಕ ನಿರ್ವಹಣೆ ಮುಖ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "ಕಟ್ಟಡ ಕಸ",
+        "Renovation Debris": "ನವೀಕರಣ ಅವಶೇಷಗಳು"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "ವಿಶೇಷ ಸಂಗ್ರಹಣೆ ಅಥವಾ ನಿಗದಿತ ಎಸೆತ ಪ್ರದೇಶಗಳು",
+        "handling": "ತ್ಯಾಜ್ಯ ವಿಲೇವಾರಿಗಾಗಿ ಸ್ಥಳೀಯ ನಿಯಮಗಳನ್ನು ಪರಿಶೀಲಿಸಿ. ಕೆಲವು ವಸ್ತುಗಳಿಗೆ ವಿಶೇಷ ಸಂಸ್ಕರಣೆ ಅಥವಾ ನಿರ್ವಹಣೆ ಅಗತ್ಯವಿದೆ.",
+        "separation": "ದಕ್ಷ ಮರುಬಳಕೆಗಾಗಿ ವಸ್ತುಗಳನ್ನು ಪ್ರಕಾರವಾಗಿ (ಉದಾ. ಲೋಹ, ಮರ, ಕಾಂಕ್ರೀಟ್) ಪ್ರತ್ಯೇಕಿಸಿ.",
+        "whatNotToDo": "ನಿರ್ಮಾಣ ಮತ್ತು ಧ್ವಂಸ ಕಸವನ್ನು ಸಾಮಾನ್ಯ ಮನೆ ಕಸದೊಂದಿಗೆ ಮಿಶ್ರಣ ಮಾಡಬೇಡಿ. ಅಕ್ರಮ ಎಸೆತ ಮತ್ತು ಅನುಚಿತ ವಿಲೇವಾರಿಯನ್ನು ತಪ್ಪಿಸಿ.",
+        "safetyPrecautions": "ಮರ, ಲೋಹ ಮತ್ತು ಕಾಂಕ್ರೀಟ್ ನಂತಹ ಹರಿತವಾದ ವಸ್ತುಗಳು ಮತ್ತು ಕಸದಿಂದ ರಕ್ಷಣೆಗಾಗಿ ದೃಢವಾದ ಕೈಗವಸುಗಳು ಮತ್ತು ಸುರಕ್ಷಾ ಕನ್ನಡಕಗಳನ್ನು ಧರಿಸಿ. ಭಾರವಾದ ವಸ್ತುಗಳಿಂದ ಗಾಯಗಳನ್ನು ತಪ್ಪಿಸಲು ಸೂಕ್ತ ಪಾದರಕ್ಷೆ ಅಗತ್ಯವಾಗಿದೆ. ಧೂಳು ಮತ್ತು ಸೂಕ್ಷ್ಮ ಕಣಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಧೂಳು ಮಾಸ್ಕ್ ಬಳಸಿ. ಭಾರವಾದ ವಸ್ತುಗಳನ್ನು ಎತ್ತುವಾಗ ಸೂಕ್ತ ಎತ್ತುವ ತಂತ್ರಗಳನ್ನು ಬಳಸಿ ಬೆನ್ನು ನೋವುಗಳನ್ನು ತಪ್ಪಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "ಸಮರ್ಪಕ ವಿಲೇವಾರಿ ವಸ್ತುಗಳ ಮರುಬಳಕೆಗೆ ಪ್ರೋತ್ಸಾಹ ನೀಡುತ್ತದೆ, ಕಸದ ತೊಟ್ಟಿಗಳ ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ಮತ್ತು ಪರಿಸರ ಮಾಲಿನ್ಯವನ್ನು ಕನಿಷ್ಠ ಮಾಡುತ್ತದೆ.",
+        "impact": "ನಿರ್ಮಾಣ ಮತ್ತು ಧ್ವಂಸ ವಸ್ತುಗಳ ಮರುಬಳಕೆಯು ಸಂಪನ್ಮೂಲಗಳ ಉಳಿತಾಯಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಮರುಬಳಕೆಯಾದ ವಸ್ತುಗಳೊಂದಿಗೆ ನಿರ್ಮಾಣ ಕೈಗಾರಿಕೆಗೆ ಬೆಂಬಲ ನೀಡುತ್ತದೆ, ಮತ್ತು ಸುಸ್ಥಿರ ಅಭಿವೃದ್ಧಿಗೆ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "ಒಂದು ಟನ್ ಕಾಂಕ್ರೀಟ್ ಅನ್ನು ಮರುಬಳಕೆ ಮಾಡುವುದರಿಂದ 1,360 ಗ್ಯಾಲನ್ಸ್ ನೀರು ಮತ್ತು 900 ಕಿಲೋಗ್ರಾಮ್ CO2 ಉಳಿಸಬಹುದು, ಇದು ನಿರ್ಮಾಣ ಮತ್ತು ವಿಧ್ವಂಸ ವಸ್ತುಗಳನ್ನು ಕಸದ ತೊಟ್ಟಿಗಳಲ್ಲಿ ಎಸೆಯುವ ಬದಲು ಪುನರ್ಬಳಕೆ ಮಾಡುವುದರಿಂದ ಪರಿಸರದ ಮೇಲೆ ಅಗತ್ಯವಾದ ಪ್ರಭಾವವನ್ನು ತೋರಿಸುತ್ತದೆ."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "ವಿದ್ಯುತ್ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "ಕಂಪ್ಯೂಟರ್ಗಳು",
+        "Laptops": "ಲ್ಯಾಪ್ಟಾಪ್‌ಗಳು",
+        "Mobile Phones": "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳು",
+        "Printers": "ಮುದ್ರಣಿಸುವ ಯಂತ್ರಗಳು",
+        "Scanners": "ಸ್ಕ್ಯಾನರ್‌ಗಳು",
+        "Televisions": "ಟೆಲಿವಿಷನ್‌ಗಳು",
+        "Monitors": "ಮಾನಿಟರ್‌ಗಳು",
+        "DVD Players": "DVD ಆಟಗಾರಗಳು",
+        "Game Consoles": "ಗೇಮ್ ಕನ್ಸೋಲ್‌ಗಳು",
+        "Small Appliances": "ಸಣ್ಣ ಉಪಕರಣಗಳು",
+        "Electronic Tools": "ವಿದ್ಯುತ್ ಸಾಧನೆಗಳು",
+        "Batteries": "ಬ್ಯಾಟರಿಗಳು",
+        "Circuit Boards": "ಸರ್ಕಿಟ್ ಬೋರ್ಡ್‌ಗಳು",
+        "Hard Drives": "ಹಾರ್ಡ್ ಡ್ರೈವ್‌ಗಳು",
+        "Keyboards": "ಕೀಬೋರ್ಡ್‌ಗಳು",
+        "Mice": "ಮೌಸ್‌ಗಳು",
+        "Speakers": "ಸ್ಪೀಕರ್‌ಗಳು",
+        "Chargers": "ಚಾರ್ಜರ್‌ಗಳು",
+        "Cables": "ಕೇಬಲ್‌ಗಳು",
+        "Cameras": "ಕ್ಯಾಮೆರಾಗಳು",
+        "Electronic Toys": "ವಿದ್ಯುತ್ ಖಿಲೌಟಿಗಳು",
+        "CDs": "ಸಿಡಿಗಳು",
+        "DVDs": "DVDಗಳು",
+        "GPS Devices": "GPS ಸಾಧನೆಗಳು"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "ವಿದ್ಯುತ್ ಕಚ್ಚಲು ಅಥವಾ ಇ-ಕಚ್ಚಲು, ಬಿಟ್ಟಿದ್ದುದು ವಿದ್ಯುತ್ ಉಪಕರಣಗಳು ಮತ್ತು ಸಾಧನೆಗಳ ಸಂಗ್ರಹ. ಮೌಲ್ಯಯುಕ್ತ ಸಾಮಗ್ರಗಳನ್ನು ಮರುಪಡುವಣ ಮತ್ತು ಪರಿಸರ ಕಲುಷಣೆಯನ್ನು ತಡೆಯುವುದು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "ವಿಇಈಈ (ವಿದ್ಯುತ್ ವಿದ್ಯುತ್ ಮತ್ತು ಇಲೆಕ್ಟ್ರಾನಿಕ್ ಉಪಕರಣಗಳು)",
+        "E-Waste": "ಇ-ಕಚ್ಚಲು"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "ವಿಶೇಷಗೊಳಿಸಿದ ವಿದ್ಯುತ್ ಕಚ್ಚಲು ಸಂಗ್ರಹ ಬಿನ್‌ಗಳು ಅಥವಾ ಪುನಃಚಕ್ರಾಯಿಕೆ ಕೇಂದ್ರಗಳು",
+        "handling": "ವಿದ್ಯುತ್ ಕಚ್ಚಲನ್ನು ಕ್ರಿತವಾಗಿ ಹೊತ್ತುಕೊಳ್ಳುವಂತೆ ಜಾಗತಿಕ ವಿಧಾನಗಳನ್ನು ಅನುಸರಿಸಿ, ಹಾನಿಯ ವಸ್ತುಗಳ ಸ್ಪರ್ಶವನ್ನು ತಡೆಯಲು ಗಮನಿಸಿ.",
+        "separation": "ವಿದ್ಯುತ್ ಕಚ್ಚಲನ್ನು ಸಾಮಾನ್ಯ ಕಚ್ಚಲಿನಿಂದ ಬೇರ್ಪಡಿಸಿ. ಸರಣಿಪಡಿಸಲು ಪ್ರಕಾರದಂತೆ ವಿಭಾಗಿಸಿ ಗುಣಮುಖ ಪುನಃಚಕ್ರಾಯಿಕೆಗೆ.",
+        "whatNotToDo": "ವಿದ್ಯುತ್ ಕಚ್ಚಲನ್ನು ಸಾಮಾನ್ಯ ಕಚ್ಚಲಿಗೆ ವಿಲೀನಗೊಳಿಸಬೇಡಿ. ವಿದ್ಯುತ್ ಸಾಧನೆಗಳನ್ನು ದಣಿವಿಲ್ಲದೆ ಅಥವಾ ಭಾರಗೊಳಿಸಬಾರದು, ಏನು ವಿಷಯಕ ಪದಾರ್ಥಗಳನ್ನು ಬಿಡಿಸಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+        "safetyPrecautions": "ವಿದ್ಯುತ್ ಕಚ್ಚಲನ್ನು ಹೊತ್ತುಕೊಳ್ಳುವಾಗ ಕಠಿಣ ಅಂಶಗಳಿಂದ ಸುರಕ್ಷಿತವಾಗಿ ಹೊತ್ತುಕೊಳ್ಳಲು ದಸ್ತ್ಯದ ಬೆರಕುಗಳನ್ನು ಬಳಸಿ. ವಿದ್ಯುತ್ ವಿದ್ಯುತ್ಸಾಧನೆಗಳಲ್ಲಿ ಲೀಡ್ ಮತ್ತು ಮರ್ಕ್ಯೂರಿ ಹೊಂದಿರುವ ಹಾನಿಕರ ಸಾಮಗ್ರಗಳ ಬಗ್ಗೆ ಪರಿಚಯವಿದೆ. ಅವುಗಳನ್ನು ಭಾರಿಸದೆ ಇದ್ದರೆ ಅವುಗಳ ಪರಿಸರದ ಪರಿಚಯವನ್ನು ತಡೆಗಟ್ಟಿ. ಸುರಕ್ಷಿತ ನಿಯಂತ್ರಣಾಂಶಗಳ ಕೇಂದ್ರಗಳಲ್ಲಿ ಸುರಕ್ಷಿತವಾಗಿ ನಿಯಮಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "ವಿದ್ಯುತ್ ಕಚ್ಚಲು ಯಥೇಚ್ಛ ನಿಯಮಿಸುವುದು ಮೌಲ್ಯಯುಕ್ತ ಸಾಮಗ್ರಗಳ ಪುನಃಚಕ್ರಾಯಿಕೆಗೆ ಸಹಕರಿಸುತ್ತದೆ, ಭೂಮಿಗೆ ನಿರವಯಸ್ಕ ವಸ್ತುಗಳಿಂದ ಹೋಗುವ ಅಪಯೋಗವನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಮತ್ತು ಪರಿಸರವನ್ನು ಹಾನಿಯ ವಸ್ತುಗಳಿಂದ ಸಂರಕ್ಷಿಸುತ್ತದೆ.",
+        "impact": "ವಿದ್ಯುತ್ ಕಚ್ಚಲು ಪುನಃಚಕ್ರಾಯಿಕೆಯನ್ನು ಬೆಳೆಸುತ್ತದೆ, ಹೊಸ ರಾಕಸಮಾದಿ ಸಾಮಗ್ರಗಳ ಆವಶ್ಯಕತೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ ಮತ್ತು ಜೈವವಾತಾವರಣ ಅಡಿಪಾಯಗಳನ್ನು ಸಾಕಷ್ಟು ಸಣ್ಣಗೊಳಿಸುತ್ತದೆ."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "ಒಂದು ಲಕ್ಷ ಲ್ಯಾಪ್ಟಾಪ್‌ಗಳನ್ನು ಪುನಃಚಕ್ರಾಯಿಕೆ ಮಾಡುವುದು ಒಂದು ವರ್ಷದ ಕಾಲ ಅಮೇರಿಕದ 3,500 ಮನೆಗಳಿಗೆ ವಿದ್ಯುತ್ ಆವಶ್ಯಕತೆಯನ್ನು ಸರಾಸರಿ ಮಾಡುವುದಕ್ಕೆ ಸಾಕು. ಒಂದು ಲಕ್ಷ ಸೆಲ್ ಫೋನ್‌ಗಳನ್ನು ಪುನಃಚಕ್ರಾಯಿಕೆ ಮಾಡಿದರೆ, 35,274 ಪೌಂಡ್ಸ್ ಕಾಪರ್, 772 ಪೌಂಡ್ಸ್ ಸಿಲ್ವರ್, 75 ಪೌಂಡ್ಸ್ ಗೋಲ್ಡ್, ಮತ್ತು 33 ಪೌಂಡ್ಸ್ ಪಾಲಡಿಯಮ್ ಹಿಡಿಸಬಹುದು."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "ಗ್ಲಾಸ್ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "ಗ್ಲಾಸ್ ಬಾಟಲುಗಳು",
+        "Glass Jars": "ಗ್ಲಾಸ್ ಜಾರುಗಳು",
+        "Window Glass": "ವಿಂಡೋ ಗ್ಲಾಸ್",
+        "Mirror Glass": "ಬಟ್ಟಲು ಗ್ಲಾಸ್",
+        "Glass Containers": "ಗ್ಲಾಸ್ ಸಂಚಯಗಳು",
+        "Drinking Glasses": "ಕುಡಿಯುವ ಗ್ಲಾಸ್‌ಗಳು",
+        "Broken Glassware": "ಮುರಿದ ಗ್ಲಾಸ್‌ವೇರ್",
+        "Automotive Glass": "ಆಟೋಮೋಟಿವ್ ಗ್ಲಾಸ್",
+        "Glass Tableware": "ಗ್ಲಾಸ್ ಟೇಬಲ್‌ವೇರ್",
+        "Light Bulbs": "ಬೆಳಕು ಬಲ್ಬ್‌ಗಳು (ಫ್ಲೋರೆಸಂಟ್‌ ಅಲ್ಲ)",
+        "Laboratory Glassware": "ಪ್ರಯೋಗಾಲಯ ಗ್ಲಾಸ್‌ವೇರ್",
+        "Tempered Glass": "ಟೆಂಪರ್ಡ್ ಗ್ಲಾಸ್",
+        "Glass Shards": "ಗ್ಲಾಸ್ ಶಾರ್ಡ್ಸ್"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "ಗ್ಲಾಸ್ ಕಚ್ಚಲು ವಿಭಿನ್ನ ರೀತಿಯ ಬಿಟ್ಟಿದ್ದುದು ಗ್ಲಾಸ್ ಉತ್ಪಾದನೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಗ್ಲಾಸ್ ಪುನಃಚಕ್ರಾಯಿಸುವುದು ಮುಖ್ಯವಾಗಿದೆ, ಏನು ಸಾಮಗ್ರಗಳನ್ನು ಮಾಡಬಹುದು ಎಂದು ಪ್ರಕ್ರಿಯಾಗೊಳಿಸಲು ಮತ್ತು ಹೊಸ ಗ್ಲಾಸ್ ಉತ್ಪಾದನೆಗಾಗಿ ಹೊಸ ಕಾಪರ್ ಆವಶ್ಯಕತೆಯನ್ನು ಕಡಿಮೆಗೈಸುವುದರ ಮೂಲಕ.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "ಮುರಿದ ಗ್ಲಾಸ್",
+        "Discarded Glassware": "ಬಿಟ್ಟಿದ್ದುದು ಗ್ಲಾಸ್‌ವೇರ್"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "ಗ್ಲಾಸ್ ಪುನಃಚಕ್ರಾಯಿಸಲು ಬಾಟಲು ಅಥವಾ ಡ್ರಾಪ್-ಆಫ್ ಸ್ಥಳಗಳು",
+        "handling": "ಗ್ಲಾಸ್ ಕಚ್ಚಲನ್ನು ಆಕ್ರಮಣ ಮಾಡದೆ ಸುರಕ್ಷಿತವಾಗಿ ಹೊತ್ತುಕೊಳ್ಳಿ. ಅಗತ್ಯವಿದ್ದಲ್ಲಿ ಗ್ಲಾಸ್ ಹೊರಗಿನ ಯಾವುದೇ ಘಟಕಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "separation": "ಸಾಧ್ಯವಾಗಿದ್ದಲ್ಲಿ ಗ್ಲಾಸ್ ಬಣ್ಣ ಮತ್ತು ಪ್ರಕಾರದ ಮೂಲಕ ಗ್ಲಾಸ್ ಬೇರ್ಪಡಿಸಿ, ಪುನಃಚಕ್ರಾಯಣ ದಕ್ಷತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು.",
+        "whatNotToDo": "ಗ್ಲಾಸ್ ಅನಾವಶ್ಯಕವಾಗಿ ಸಾಮಾನ್ಯ ಕಚ್ಚಲಿನಲ್ಲಿ ವಿಲೀನಗೊಳಿಸಬೇಡಿ. ಗ್ಲಾಸ್ ಮಿಶ್ರಿತವಾಗಿ ಬೇರೆ ಪುನಃಚಕ್ರಾಯಣೆಯನ್ನು ಕಲರಿಸಬಹುದಾದ ಇತರ ಪುನಃಚಕ್ರಾಯಣಾತ್ಮಕ ಸಾಮಗ್ರಗಳೊಂದಿಗೆ ಕಲರಿಸಬೇಡಿ.",
+        "safetyPrecautions": "ಮುರಿದ ಗ್ಲಾಸ್ ಹೊತ್ತುಕೊಳ್ಳುವಾಗ ಕತ್ತಲುಗಳನ್ನು ತಡೆಯಲು ದಸ್ತ್ಯದ ಬೆರಕುಗಳನ್ನು ಬಳಸಿ. ಗ್ಲಾಸ್ ಕಚ್ಚಲಿನ ಬಹು ಪ್ರಮಾಣದ ಸಾಮಗ್ರವನ್ನು ನಿರ್ವಾಹಣೆ ಮಾಡುವಾಗ, ಸಂಭಾವಿತ ಚಿರಕೋಣಗಳು ಅಥವಾ ಶಾರ್ಡ್‌ಗಳ ಖಾತರಿಯನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾಗುತ್ತದೆ. ಗಣಿಗೆಯಲ್ಲಿ ಗ್ಲಾಸ್ ಕಚ್ಚಲನ್ನು ಮುರಿಯುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಭಯಂಕರ ಆಘಾತವನ್ನು ತಡೆಯಲು ಎಲ್ಲಾ ಭಾರಿ ಗ್ಲಾಸ್ ಸಾಮಗ್ರಗಳನ್ನು ಸರಿಯಾಗಿ ಎತ್ತುವುದು ಮುಖ್ಯ. ಗ್ಲಾಸ್ ಕಚ್ಚಲುವನ್ನು ಮುರಿದುಕೊಳ್ಳದೆ ನಿರ್ವಾಹಣೆ ಮಾಡಲು ಹಿಂಬಾಲಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "ಗ್ಲಾಸ್ ಪುನಃಚಕ್ರಾಯಿಸುವುದು ಭೂಮಿಗೆ ಕಚ್ಚಲು ಸಾಗದೆ, ಪ್ರಕೃತಿಯ ಸಂಪನ್ನತೆಯನ್ನು ರಕ್ಷಿಸುತ್ತದೆ ಮತ್ತು ಶಕ್ತಿಯನ್ನು ಉಳಿಸುತ್ತದೆ. ಗ್ಲಾಸ್ ಯಾವ ಗುಣಮಟ್ಟದ ಕಡಿಮೆಯಿಲ್ಲದೇ ಯಾವ ಪುನಃಚಕ್ರಾಯಣೆಯನ್ನು ಮಾಡಬಹುದು.",
+        "impact": "ಪರಿಣಾಮಕಾರಿ ಗ್ಲಾಸ್ ಪುನಃಚಕ್ರಾಯಣೆ ಪರಿಸರದ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಸಾಕಷ್ಟು ಸ್ಥಿರ ಸಾಧನೆ ಬಳಸುವಲ್ಲಿ ಬೆಂಬಲಿಸುತ್ತದೆ ಮತ್ತು ಚಕ್ರಾಯಿಕ ಆರ್ಥಿಕತೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "ಗ್ಲಾಸ್ ಪುನಃಚಕ್ರಾಯಣೆ ಅತ್ಯಂತ ದಕ್ಷವಾಗಿದೆ, ಯಾವುದೇ ಶುದ್ಧತೆ ಅಥವಾ ಗುಣಮಟ್ಟದ ಕಡಿಮೆಯಿಲ್ಲದೇ ಯಾವ ಪುನಃಚಕ್ರಾಯಣೆಯನ್ನೂ ಬಿಡದೆ. ವಾಸ್ತವವಾಗಿ, 80% ಗ್ಲಾಸ್ ಬಾಟಲುಗಳನ್ನು ಪುನಃಚಕ್ರಾಯಿಸಲು ಹೊಂದಿಸಲ್ಪಟ್ಟಿದೆ, ಮತ್ತು ಗ್ಲಾಸ್ ಸಂಚಯದಿಂದ ದುಕಾನದ ಹತ್ತಿರ ಹೋಗುವುದು ನಿಮಗೆ ಅತ್ಯಂತ ಕಡಿಮೆ ಅಲ್ಲಿಗೆ 30 ದಿನಗಳ ಅಲ್ಲಿಗೆ ಹೋಗಬಹುದು."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "ರಾಸಾಯನಿಕ ಪ್ರಾದೇಶಿಕಗಳು",
+        "Metal Scraps": "ಲೋಹ ಸ್ಕ್ರ್ಯಾಪ್ಸ್",
+        "Plastic Offcuts": "ಪ್ಲಾಸ್ಟಿಕ್ ಆಫ್‌ಕಟ್ಟುಗಳು",
+        "Construction Debris": "ನಿರ್ಮಾಣ ಅವಶೇಷಗಳು",
+        "Electronic Components": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಘಟಕಗಳು",
+        "Paper and Cardboard": "ಕಾಗದ ಮತ್ತು ಕಾರ್ಡ್‌ಬೋರ್ಡ್",
+        "Textile Scraps": "ಬಟ್ಟೆಗಳ ಸ್ಕ್ರ್ಯಾಪ್ಸ್",
+        "Glass Pieces": "ಗ್ಲಾಸ್ ತುಕ್ಕುಗಳು",
+        "Rubber Waste": "ರಬರ್ ಕಚ್ಚಲು",
+        "Biodegradable Waste": "ಬಾಯೋಡಿಗ್ರೇಡಬಲ್ ಕಚ್ಚಲು",
+        "Non-Biodegradable Waste": "ಬಾಯೋಡಿಗ್ರೇಡಬಲ್ ಅಲ್ಲದ ಕಚ್ಚಲು",
+        "Hazardous Materials": "ಹಾನಿಕರ ಸಾಮಗ್ರಗಳು",
+        "Non-Hazardous Materials": "ಹಾನಿಕರ ಸಾಮಗ್ರಗಳು ಅಲ್ಲದ ಸಾಮಗ್ರಗಳು",
+        "Industrial Sludge": "ಔದ್ಯೋಗಿಕ ಸ್ಲಜ್",
+        "Packaging Materials": "ಪ್ಯಾಕೇಜಿಂಗ್ ಸಾಮಗ್ರಗಳು"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲು ಔದ್ಯೋಗಿಕ ಮತ್ತು ನಿರ್ಮಾಣ ಪ್ರಕ್ರಿಯೆಗಳ ಫಲಿತಾಂಶಗಳ ಪರಿಸರಕ್ಕೆ ಸಹಾಯಕ ವಿವಿಧ ಸಾಮಗ್ರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಪರಿಸರದ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೈಸಲು ಸರಿಯಾದ ನಿರ್ವಹಣೆ, ಪುನಃಚಕ್ರಾಯಣೆ ಮತ್ತು ಸುರಕ್ಷಿತ ವಿಲೀನೋತ್ಸವ ಅತ್ಯಂತ ಆವಶ್ಯಕವಾಗಿದೆ.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "ನಿರ್ಮಾಣ ಕಚ್ಚಲು",
+        "Production Waste": "ಉತ್ಪಾದನ ಕಚ್ಚಲು"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "ವಿಶೇಷವಾದ ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲು ಸಂಗ್ರಹಣ ಸ್ಥಳಗಳು ಅಥವಾ ಪುನಃಚಕ್ರಾಯಣಾತ್ಮಕ ಸಾಧನಗಳು",
+        "handling": "ಖತಿಯಾದ ಸುರಕ್ಷಾ ಸಾಧನಗಳನ್ನು ಬಳಸಿ ಹೊತ್ತುಕೊಳ್ಳಿ, ಹಾನಿಕರ ಸಾಮಗ್ರಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ವಿಶೇಷವಾಗಿ. ವಿಲೀನೋತ್ಸವಕ್ಕಾಗಿ ಎಲ್ಲಾ ವಿಧಾನಗಳನ್ನು ಅನುಸರಿಸಿ.",
+        "separation": "ಕಚ್ಚಲನ್ನು ಪ್ರಕಾರ (ಉದಾಹರಣೆಗೆ, ಹಾನಿಕರ ಮತ್ತು ಅಹಾನಿಕರ) ಮತ್ತು ಸಾಮಗ್ರ (ಉದಾಹರಣೆಗೆ, ಲೋಹ, ಪ್ಲಾಸ್ಟಿಕ್) ಪ್ರಕ್ರಿಯೆಗೆ ಸಹಾಯ ಮಾಡಲು ಬೇಕಾದರೆ.",
+        "whatNotToDo": "ಹಾನಿಕರ ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲನ್ನು ಅಹಾನಿಕರ ಕಚ್ಚಲುವಿನೊಂದಿಗೆ ಕಲರಿಸಬಾರದು. ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲು ಅವಮಾನಕರ ವಿಸರ್ಜನೆ ಅಥವಾ ಅನಧಿಕೃತ ವಿಸರ್ಜನೆಯನ್ನು ವಿರುದ್ಧಿಸಿ.",
+        "safetyPrecautions": "ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲು ನಿರ್ವಹಣೆಯನ್ನು ಮಾಡುವಾಗ ಸದಾ ಕತ್ತಲುಗಳನ್ನು, ರಕ್ಷಾತ್ಮಕ ಕಣೋನುಗಳನ್ನು ಮತ್ತು ಮಾಸ್ಕ್‌ಗಳನ್ನು ಬಳಸಿ, ಹಾನಿಕರ ಸಾಮಗ್ರವನ್ನು ಹೊತ್ತುಕೊಳ್ಳುವಾಗ ವಿಶೇಷವಾಗಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲುವಿನ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮತ್ತು ಪುನಃಚಕ್ರಾಯಣೆ ಸಂಪನ್ನತೆಯನ್ನು ಉಳಿಸುತ್ತದೆ, ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ ಮತ್ತು ಸಾಕಷ್ಟು ಸುಸ್ಥ ಔದ್ಯೋಗಿಕ ಪ್ರಥಮಗಳನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+        "impact": "ಔದ್ಯೋಗಿಕ ಕಚ್ಚಲುವಿನ ಯಥಾರ್ಥ ನಿರ್ವಹಣೆ ಭೂಕಟ ಸಾಗಣಿಗೆ ಬೋಧನೆಗೈಸುತ್ತದೆ, ಪರಿಸರ ಹಾನಿಕರ ಸಂಕಟಗಳನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಮತ್ತು ಚಕ್ರಾಯಿಕ ಆರ್ಥಿಕತೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "ಔದ್ಯೋಗಿಕ ಲೋಹಗಳನ್ನು ಪುನಃಚಕ್ರಾಯಿಸುವುದರಿಂದ ಅವುಗಳನ್ನು ಹೊರಗೆಳೆಯಲು ಅಗತ್ಯವಾದ ಶಕ್ತಿಯ 75% ಕಡಿಮೆಗೈಸಬಹುದು."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "ಲೋಹ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "ಅಲುಮಿನಿಯಂ ಕ್ಯಾನ್‌ಗಳು",
+        "Tin Cans": "ಟಿನ್ ಕ್ಯಾನ್‌ಗಳು",
+        "Steel Scraps": "ಇಸ್ಪತ್ ಸ್ಕ್ರ್ಯಾಪ್ಸ್",
+        "Copper Wire": "ಕಾಪರ್ ತಂತು",
+        "Metal Pipes": "ಲೋಹ ಪೈಪ್‌ಗಳು",
+        "Metal Tools": "ಲೋಹ ಉಪಕರಣಗಳು",
+        "Metal Packaging": "ಲೋಹ ಪ್ಯಾಕೇಜಿಂಗ್",
+        "Automotive Parts": "ಆಟೋಮೋಟಿವ್ ಭಾಗಗಳು",
+        "Metal Furniture": "ಲೋಹ ಬೈಡ್‌ಗಳು",
+        "Metal Appliances": "ಲೋಹ ಉಪಕರಣಗಳು",
+        "Construction Materials": "ನಿರ್ಮಾಣ ಸಾಮಗ್ರಿಗಳು",
+        "Aerosol Cans": "ಏರೋಸಾಲ್ ಕ್ಯಾನ್‌ಗಳು",
+        "Electronic Metals": "ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಲೋಹಗಳು",
+        "Metal Caps": "ಲೋಹ ಕ್ಯಾಪ್‌ಗಳು",
+        "Metal Lids": "ಲೋಹ ಮುಟ್ಟಿಗೆಗಳು"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "ಲೋಹ ಕಚ್ಚಲು ವಿವಿಧ ಲೋಹ ವಸ್ತ್ರಗಳು ಮತ್ತು ಸಾಮಗ್ರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದು ಅತ್ಯಂತ ಪುನಃಚಕ್ರಾಯಿಕೆಯಾಗಿದೆ ಮತ್ತು ಹೊಂದಿಕೊಳ್ಳಬಹುದು ಮತ್ತು ಹೊರಗೊಳಗು ಲೋಹ ಉತ್ಪನ್ನಗಳನ್ನು ಹೊಂದಿಕೊಳ್ಳುವ ಆವಶ್ಯಕತೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "ಸ್ಕ್ರೇಪ್ ಲೋಹ",
+        "Discarded Metal": "ಕಿತ್ತುಹಾಕಲುದಾದ ಲೋಹ"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "ಲೋಹ ಪುನಃಚಕ್ರಾಯಣೆ ಬಿನ್ ಅಥವಾ ಸ್ಕ್ರೇಪ್ ಯಾರ್ಡ್",
+        "handling": "ಲೋಹಗಳನ್ನು ಪ್ರಕಾರದಂತೆ ಸಾರಿಕೊಳ್ಳಿ ಮತ್ತು ಸಾಮಗ್ರಗಳು ಲೋಹಗಳಲ್ಲದ ಯಾವುದನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕೋ ಅನ್ನುವಂತೆ ಮಾಡಿ. ಗಾಯಗಳನ್ನು ತಪ್ಪದೆ ನಿರ್ವಹಿಸಲು ಜಾಗವಿರಲಿ.",
+        "separation": "ಹಾಣಿಕರ ಲೋಹಗಳನ್ನು (ಉದಾಹರಣೆಗೆ, ಇಸ್ಪತ್ ಮತ್ತು ಆಯಿರಿ) ಅಯಾಯಿರಿ ಲೋಹಗಳಿಂದ (ಉದಾಹರಣೆಗೆ, ಅಲುಮಿನಿಯಂ ಮತ್ತು ಕಾಪರ್) ಹೊಂದಿಸಿ, ಪುನಃಚಕ್ರಾಯಣೆ ಸಾಧನೆಯನ್ನು ಬೆಂಬಲಿಸಲು.",
+        "whatNotToDo": "ಲೋಹ ಕಚ್ಚಲುವನ್ನು ಸಾಮಾನ್ಯ ಕಸಕಡಿಯೊಂದಿಗೆ ವಿಸರ್ಜಿಸಬಾರದು. ಸ್ಥಳೀಯ ಪುನಃಚಕ್ರಾಯಣಾಂಗಣದ ಮಾರ್ಗದರ್ಶನವಾದರೆ ವಿವಿಧ ಲೋಹಗಳ ಮಿಶ್ರಣವನ್ನು ವಿರುದ್ಧಿಸಿ.",
+        "safetyPrecautions": "ಲೋಹ ಕಚ್ಚಲುವನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಕೈಗಳನ್ನು ಹಾಕಿ, ರಕ್ಷಣಾ ಕಾಲುವಿನ್ನುಡಿಯನ್ನು ಧರಿಸಿ, ಗಾಯಗಳನ್ನು ತಪ್ಪದೆ ಪ್ರವೃತ್ತಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "ಲೋಹ ಪುನಃಚಕ್ರಾಯಣೆಯು ಶಕ್ತಿಯನ್ನು ಉಳಿಸುತ್ತದೆ, ಹಗಲಿನ ವಾತಾವರಣ ಗುಬ್ಬರ ವಾಯು ಸಂಕಟಗಳನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ ಮತ್ತು ಸ್ವಾಭಾವಿಕ ಸಾಧನಗಳನ್ನು ಉಳಿಸುತ್ತದೆ. ಲೋಹಗಳನ್ನು ಅನಿತೀಕ್ಷಿತ ಲೋಹಗಳನ್ನು ಮಟ್ಟವಾಗಿ ಕೆಳಗೆ ತಗ್ಗಿಸದೆ ಹೆಚ್ಚುಹೆಚ್ಚು ಬಾರಿ ಪುನಃಚಕ್ರಾಯಣೆ ಮಾಡಬಹುದು.",
+        "impact": "ಲೋಹ ಪುನಃಚಕ್ರಾಯಣೆಯ ಯಥಾರ್ಥ ಪ್ರಬಲ ಪ್ರಯೋಜನಗಳು ಪರಿಸರ ಪರಿಣಾಮಕ್ಕೆ ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಹೊರಗಿನ ಉದ್ಯಾನ ಬೇಡಿಕೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಮತ್ತು ಸಾಕಷ್ಟು ಸಾಧನಾ ನಿರ್ವಹಣೆಯನ್ನು ಬೆಳೆಸುತ್ತದೆ."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "ಒಂದು ಅಲುಮಿನಿಯಂ ಕ್ಯಾನ್ ಪುನಃಚಕ್ರಾಯಣೆಯು ಮೂರು ಗಂಟೆಗಳ ಕಾಲ ಟಿವಿಯನ್ನು ಚಲಿಸುವಷ್ಟು ಶಕ್ತಿಯನ್ನು ಉಳಿಸಬಹುದು."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "ಕಾಗದ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "ವಾರ್ತಾಪತ್ರಿಕೆಗಳು",
+        "Magazines": "ಪತ್ರಿಕೆಗಳು",
+        "Office Paper": "ಕಚ್ಚಲು ಪತ್ರಿಕೆ",
+        "Notebooks": "ನೋಟ್‌ಬುಕ್‌ಗಳು",
+        "Envelopes": "ಲೆಕ್ಕಿಚ್ಚಿನ ಹಾಕಿಕೆಗಳು",
+        "Junk Mail": "ಕಚ್ಚಲು ಪತ್ರಿಕೆಗಳು",
+        "Cardboard Boxes": "ಕಾರ್ಡ್‌ಬೋರ್ಡ್ ಪಟ್ಟಣಗಳು",
+        "Paper Packaging": "ಕಚ್ಚಲು ಪ್ಯಾಕೇಜಿಂಗ್",
+        "Paper Bags": "ಕಚ್ಚಲು ಪಟ್ಟಣಗಳು",
+        "Phone Books": "ಫೋನ್ ಪುಸ್ತಕಗಳು",
+        "Catalogs": "ಕ್ಯಾಟಲಾಗ್‌ಗಳು",
+        "Shredded Paper": "ಕಚ್ಚಲು ಸಡಿಲೆಗಳು",
+        "Paper Cups": "ಕಚ್ಚಲು ಕಪ್ಪುಗಳು",
+        "Paper Plates": "ಕಚ್ಚಲು ಪಟ್ಟಣಗಳು",
+        "Greeting Cards": "ಅಭಿವಾದನಾ ಕಾರ್ಡುಗಳು",
+        "Wrapping Paper": "ಪ್ಯಾಕೇಜಿಂಗ್ ಕಚ್ಚಲು"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "ಕಾಗದ ಕಚ್ಚಲು ವಿವಿಧ ವಿಧಗಳ ವಾಕ್ಯಾನುವಾದ ಕಚ್ಚಲು ಕಾಗದ ಉತ್ಪಾದನೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಕಾಗದ ಕಚ್ಚಲುವನ್ನು ಪುನಃಚಕ್ರಾಯಣೆ ಮಾಡುವುದು ಅಗಾದರಣೆಯನ್ನು ಕಡಿಮೆಗೈಸಲು ಮತ್ತು ಸ್ವಾಭಾವಿಕ ಸಾಧನಗಳನ್ನು ಉಳಿಸಲು ಮಹತ್ವಪೂರ್ಣವಾಗಿದೆ.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "ವಿಸರ್ಜಿತ ಕಾಗದ",
+        "Paper Scraps": "ಕಾಗದ ಸಡಿಲೆಗಳು"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "ಕಾಗದ ಪುನಃಚಕ್ರಾಯಣೆ ಬಿನ್",
+        "handling": "ಪ್ಲಾಸ್ಟಿಕ್ ಲೈನರ್‌ಗಳು, ಸ್ಟೇಪಲ್ಸ್, ಅಥವ ಟೇಪು ಮೊದಲಾದ ಕಾಗದ ಹೊರಗಿನ ಘಟಕಗಳನ್ನು ತೆಗೆದುಹಾಕಿ. ಕಾಗದವನ್ನು ಸಾಫು ಮತ್ತು ಶುಚಿಯಾಗಿಟ್ಟುಕೊಳ್ಳಲು ಸರಿಯಾದ ಪುನಃಚಕ್ರಾಯಣೆಗೆ ಕೈಗೊಳ್ಳಿ.",
+        "separation": "ಕಾಗದವನ್ನು ಪ್ರಕಾರದಂತೆ (ಉದಾಹರಣೆಗೆ, ಕಾರ್ಡ್‌ಬೋರ್ಡ್, ಆಫೀಸ್ ಪೇಪರ್) ಮತ್ತು ಸ್ಥಿತಿಯನ್ನು (ಉದಾಹರಣೆಗೆ, ಸ್ವಚ್ಛ, ಕಡಿಮೆ ಸ್ಥಿತಿ) ಅಯ್ಕೆಮಾಡಿ, ಪುನಃಚಕ್ರಾಯಣೆಯ ಸಾಧನೆಯನ್ನು ಬೆಂಬಲಿಸಲು.",
+        "whatNotToDo": "ಕೆಲವರು ಕಚ್ಚಲು ಅಥವಾ ಗ್ರೀಸಿ ಕಾಗದ ಕಚ್ಚಲುವನ್ನು ಶುಚಿ ಕಾಗದದೊಂದಿಗೆ ಮಿಶ್ರಿಸಬಾರದು. ಸಾಮಾನ್ಯ ಕಸ ಬಿನ್‌ಗಳಲ್ಲಿ ಪುನಃಚಕ್ರಾಯಣೆಗೆ ಸಾಧನೆಯನ್ನು ವಿಸರ್ಜಿಸುವುದನ್ನು ತಡೆಗಟ್ಟಿ.",
+        "safetyPrecautions": "ಹೆಚ್ಚು ಹೆಚ್ಚು ಕಾಗದ ಕಚ್ಚಲುವನ್ನು ನಿರ್ವಹಿಸಲು ವಿಶೇಷ ಕುರಿತು ಪ್ರಾಕ್ಟೀಕಲ್ ಮುಖಾಂತರ ನೆರವೇರಿಸುವ ಆವಶ್ಯಕತೆಯಿಲ್ಲ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "ಕಾಗದ ಪುನಃಚಕ್ರಾಯಣೆಯು ಹೊರಗೆ ಹಾಕಿದ ಕಾಗದ ಉತ್ಪಾದನೆಗೆ ಬೇಕಾದ ಅಗಾದರಣೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಮರಗಳನ್ನು ಉಳಿಸುತ್ತದೆ, ಶಕ್ತಿ ಮತ್ತು ನೀರು ಬಳಸುವ ಅಗಾದರಣೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ.",
+        "impact": "ಪ್ರಭಾವಶಾಲಿ ಕಾಗದ ಪುನಃಚಕ್ರಾಯಣೆಯು ಕಚ್ಚಲು ಉಪಯೋಗವನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಕಚ್ಚಲು ಸುಡಲು ಬಳಸುವ ಗ್ರೀನ್‌ಹೌಸ್ ಗಾಸ್ ಎಮಿಷನ್‌ಗಳನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಸುಸ್ಥ ವನಸ್ಪತಿ ನಿರ್ವಹಣಾ ನಿಯಮಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "ಒಂದು ಟನ್ ಕಾಗದ ಪುನಃಚಕ್ರಾಯಣೆಯು 17 ಮರಗಳನ್ನು ಮತ್ತು 7,000 ಗಲನ್ನು ನೀರನ್ನು ಉಳಿಸಬಹುದು."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "ಪ್ಲಾಸ್ಟಿಕ್ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಟಲ್ಸ್",
+        "Plastic Bags": "ಪ್ಲಾಸ್ಟಿಕ್ ಬ್ಯಾಗ್‌ಗಳು",
+        "Plastic Packaging": "ಪ್ಲಾಸ್ಟಿಕ್ ಪ್ಯಾಕೇಜಿಂಗ್",
+        "Plastic Containers": "ಪ್ಲಾಸ್ಟಿಕ್ ಸಂಚಯಗಳು",
+        "Plastic Utensils": "ಪ್ಲಾಸ್ಟಿಕ್ ಉಪಕರಣಗಳು",
+        "Plastic Wraps": "ಪ್ಲಾಸ್ಟಿಕ್ ಅವಲಂಬನೆಗಳು",
+        "Plastic Toys": "ಪ್ಲಾಸ್ಟಿಕ್ ಟಾಯ್ಸ್",
+        "Polystyrene Foam": "ಪಾಲಿಸ್ಟೈರೀನ್ ಫೋಮ್",
+        "Plastic Cups": "ಪ್ಲಾಸ್ಟಿಕ್ ಕಪ್ಪುಗಳು",
+        "Plastic Plates": "ಪ್ಲಾಸ್ಟಿಕ್ ಪಟ್ಟಣಗಳು",
+        "Plastic Film": "ಪ್ಲಾಸ್ಟಿಕ್ ಚಲನೆ",
+        "Water Bottles": "ನೀರಿನ ಬಾಟಲ್ಸ್",
+        "Detergent Bottles": "ಡೆಟರ್ಜೆಂಟ್ ಬಾಟಲ್ಸ್",
+        "Shampoo Bottles": "ಶ್ಯಾಂಪೂ ಬಾಟಲ್ಸ್",
+        "Plastic Caps": "ಪ್ಲಾಸ್ಟಿಕ್ ಕ್ಯಾಪ್ಸ್",
+        "Plastic Lids": "ಪ್ಲಾಸ್ಟಿಕ್ ಮುಚ್ಚುಗಳು",
+        "Plastic Furniture": "ಪ್ಲಾಸ್ಟಿಕ್ ಫರ್ನಿಚರ್",
+        "Plastic Hangers": "ಪ್ಲಾಸ್ಟಿಕ್ ಹ್ಯಾಂಗರ್ಗಳು"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "ಪ್ಲಾಸ್ಟಿಕ್ ಕಚ್ಚಲು ವಿವಿಧ ಪ್ಲಾಸ್ಟಿಕ್ ಅಂಶಗಳ ಸಂಚಯವಾಗಿದೆ. ದೀರ್ಘ ಅಸಂಘಟನಾ ಸಮಯದಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಕಚ್ಚಲು ಪುನಃಚಕ್ರಾಯಣೆ ಮತ್ತು ಸರಿಯಾದ ವಿಸರ್ಜನೆ ಪರಿಸರ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೈಸಲು ಮಹತ್ವಪೂರ್ಣವಾಗಿದೆ.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "ವಿಸರ್ಜಿತ ಪ್ಲಾಸ್ಟಿಕ್ಸ್",
+        "Scrap Plastics": "ಸ್ಕ್ರ್ಯಾಪ್ ಪ್ಲಾಸ್ಟಿಕ್ಸ್"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "ಪ್ಲಾಸ್ಟಿಕ್ ಪುನಃಚಕ್ರಾಯಣೆ ಬಿನ್ ಅಥವಾ ಸಾಧನೆ",
+        "handling": "ಪುನಃಚಕ್ರಾಯಣೆಗೆ ಮುಂಚೆ ಪ್ಲಾಸ್ಟಿಕ್ ಅನಯ್ಯವಾಗಿ ಮತ್ತು ಒಣಗಿದ್ದರು. ಲೇಬಲ್ಸ್ ಅಥವ ಕ್ಯಾಪ್ಸ್ ಹೀಗೆ ಪ್ಲಾಸ್ಟಿಕ್ ಬಾಹ್ಯ ಘಟಕಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+        "separation": "ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳನ್ನು ಪ್ರಕಾರ ಮತ್ತು ವರ್ಗಗಳನ್ನು ಅಯ್ಕೆಮಾಡಿ, ವಿಭಿನ್ನ ಪ್ಲಾಸ್ಟಿಕ್‌ಗಳಿಗೆ ವಿಭಿನ್ನ ಪುನಃಚಕ್ರಾಯಣೆ ಪ್ರಕ್ರಿಯೆಗಳಿವೆ.",
+        "whatNotToDo": "ಪ್ಲಾಸ್ಟಿಕ್ ಕಚ್ಚಲುವನ್ನು ಇತರ ಪುನಃಚಕ್ರಾಯಣೆ ಸಾಮಗ್ರಿಗಳೊಂದಿಗೆ ಅಥವ ಸಾಮಾನ್ಯ ಕಸ ಬಿನ್‌ಗಳಲ್ಲಿ ಮಿಶ್ರಿಸಬಾರದು. ಸಾಮಾನ್ಯ ಕಸ ಬಿನ್‌ಗಳಲ್ಲಿ ದೊಡ್ಡ ಪ್ಲಾಸ್ಟಿಕ್ ವಸ್ತುಗಳನ್ನು ಎಲ್ಲಾಗುಂಟುಮಾಡಬೇಕಾಗಿಲ್ಲ.",
+        "safetyPrecautions": "ಹೆಚ್ಚು ಹೆಚ್ಚು ಪ್ಲಾಸ್ಟಿಕ್ ಕಚ್ಚಲುಗಳನ್ನು ನಿರ್ವಹಿಸಲು ವಿಶೇಷ ಕುರಿತು ಕೌಶಲ ಬೇಕಿಲ್ಲ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "ಪ್ಲಾಸ್ಟಿಕ್ ಪುನಃಚಕ್ರಾಯಣೆಯು ಹೊಸ ಪ್ಲಾಸ್ಟಿಕ್ ಉತ್ಪಾದನೆಗೆ ಬೇಕಾದ ಅಗಾದರಣೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಸಾಮಗ್ರಿಗಳನ್ನು ಉಳಿಸುತ್ತದೆ, ಮತ್ತು ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ. ಇದು ಸಾಮಾನ್ಯ ಕಸ ಗದರಿಕೆ ಮತ್ತು ಸಮುದ್ರಗಳಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಹೊಂದಾಣಿಕೆಗೆ ಕಡಿಮೆಗೈಸುತ್ತದೆ.",
+        "impact": "ಪ್ಲಾಸ್ಟಿಕ್ ಪುನಃಚಕ್ರಾಯಣೆಯು ಪರಿಸರ ಹೊರನಿಂದಲೂ ಗ್ರೀನ್‌ಹೌಸ್ ಗಾಸ್ ಎಮಿಷನ್‌ಗಳ ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಹಸಿವನ್ನು ಮತ್ತು ಒಳಿತನೆರಡನ್ನು ಬಾಳುವ ಸಂಸಾಧನೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "ಒಂದು ಟನ್ ಪ್ಲಾಸ್ಟಿಕ್ ಪುನಃಚಕ್ರಾಯಣೆಯು 7.4 ಘನ ಗಳಿಕೆ ಜಾಗವನ್ನು ಉಳಿಸಬಹುದು."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "ರಬರ್ ಕಚ್ಚಲು",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "ಬಳಸಲಾದ ಟೈರ್ಗಳು",
+        "Rubber Bands": "ರಬರ್ ಬ್ಯಾಂಡ್ಸ್",
+        "Rubber Gloves": "ರಬರ್ ಹೆಗ್ಗಳು",
+        "Rubber Hoses": "ರಬರ್ ಹೋಸ್‌ಗಳು",
+        "Rubber Footwear": "ರಬರ್ ಹಣಣುಗಳು",
+        "Rubber Mats": "ರಬರ್ ಮ್ಯಾಟ್ಸ್",
+        "Conveyor Belts": "ಕನ್ವೆಯರ್ ಬೆಲ್ಟ್‌ಗಳು",
+        "Rubber Gaskets": "ರಬರ್ ಗ್ಯಾಸ್ಕೆಟ್‌ಗಳು",
+        "Rubber Seals": "ರಬರ್ ಸೀಲ್ಸ್",
+        "Rubber Sheets": "ರಬರ್ ಶೀಟ್‌ಗಳು",
+        "Rubber Toys": "ರಬರ್ ಟಾಯ್ಸ್",
+        "Automotive Rubber": "ಆಟೊಮೋಟೀವ್ ರಬರ್",
+        "Rubber Tubing": "ರಬರ್ ಟ್ಯೂಬಿಂಗ್",
+        "Elastomeric Materials": "ಎಲಾಸ್ಟೊಮೆರಿಕ್ ಸಾಮಗ್ರಿಗಳು",
+        "Synthetic Rubber": "ಸಿಂಥೆಟಿಕ್ ರಬರ್"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "ರಬರ್ ಕಚ್ಚಲು ವಿವಿಧ ವಿಸರ್ಜಿತ ರಬರ್ ಉತ್ಪಾದನೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ರಬರ್ ಕಚ್ಚಲು ಪುನಃಚಕ್ರಾಯಣೆ ಮತ್ತು ಪರಿಸರ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೈಸಲು ಮಹತ್ವಪೂರ್ಣವಾಗಿದೆ, ಏಕೆಂದರೆ ರಬರ್ ದೀರ್ಘ ಸಮಯದಲ್ಲಿ ಜಲಾಶಯಗಳಲ್ಲಿ ಅಸಂಘಟನಾಗಲು ಸಾಧ್ಯ.",
+
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "ಸ್ಕ್ರ್ಯಾಪ್ ರಬರ್",
+        "Waste Rubber": "ವೇಸ್ಟ್ ರಬರ್"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "ವಿಶೇಷ ರಬರ್ ಪುನಃಚಕ್ರಾಯಣೆ ಸೌಕರ್ಯ ಅಥವಾ ಸಂಗ್ರಹಣಾ ಬಿನ್‌ಗಳು",
+        "handling": "ರಬರ್ ಕಚ್ಚಲನ್ನು ಜಾಗತಾಪಸ್ತಿಸಿ, ಹೆಚ್ಚಿನ ಅಥವ ಭಾರಿ ವಸ್ತುಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ವಿಶೇಷ ಗಮನವಿತ್ತು. ಪರಿಸರ ಮಲಿನತೆಯನ್ನು ತಡೆಗಟ್ಟಲು ಯೋಗ್ಯ ಸಂಗ್ರಹಣೆಯನ್ನು ಖಚಿತಪಡಿಸಿ.",
+        "separation": "ವಿವಿಧ ರಬರ್ ಕಚ್ಚಲನ್ನು ಪುನಃಚಕ್ರಾಯಣೆಗಾಗಿ ಬೇರೆಬೇರೆಯ ಪ್ರಕಾರಗಳನ್ನು ಅಯ್ಕೆಮಾಡಿ. ಸಾಧ್ಯವಾದರೆ ಯಾವುದೇ ರಬರ್ ಕಚ್ಚಲಿನ ಬಾಹ್ಯ ಘಟಕಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+        "whatNotToDo": "ರಬರ್ ಕಚ್ಚಲನ್ನು ಸಾಮಾನ್ಯ ಕಸ ಬಿನ್‌ಗಳಲ್ಲಿ ನಿರ್ವಹಿಸಬಾರದು. ರಬರ್ ಕಚ್ಚಲನ್ನು ಹೊಗೆಯುವುದು ಹಾನಿಕರ ವಿಷಕ್ರಿಮಗಳನ್ನು ಹೊರಗೆಸೆಯುತ್ತದೆ.",
+        "safetyPrecautions": "ರಬರ್ ಕಚ್ಚಲನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಹೊರಗಿನ ತೊಣೆಗಳು ಕರುಕಾಲ ಉಪಕರಣಗಳನ್ನು ಧರಿಸಿ, ಸಹಾಯಕ ಉಡುಪುಗಳನ್ನು ಧರಿಸಿ, ಪ್ರಸ್ಥಾಪಿಸಬಹುದು."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "ರಬರ್ ಪುನಃಚಕ್ರಾಯಣೆ ಕಸ ಸಾಮಗ್ರಿಗಳ ನ್ಯಾಸಕವನ್ನು ಕಡಿಮೆಗೈಸುವುದರ ಮೂಲಕ ಕಸವನ್ನು ಸೂಪರಿಸುವುದು ಮತ್ತು ಮ್ಯಾಟ್ಸ್, ಆಸ್ಫಾಲ್ಟ್ ಸೇರಿಸುವುದು ಹೀಗೆ ವಿವಿಧ ಉತ್ಪನ್ನಗಳನ್ನು ಸಂರಚಿಸಬಹುದು.",
+        "impact": "ರಬರ್ ಕಚ್ಚಲಿನ ಸಾವಿರು ನಷ್ಟಕ್ಕೆ ಏಕೆಂದರೆ ಸಾವಯವ ಗಣಿತದಲ್ಲಿ ಬಳಸಲಾದ ಅನಗತಸಾಧನೆಗಳನ್ನು ಸಂರಕ್ಷಿಸುವುದರ ಮೂಲಕ ಪರಿಸರ ಸುಸ್ಥಿತಿಯನ್ನು ಬೆಳೆಸುತ್ತದೆ."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "ಟೈರ್ಗಳಿಂದ ಪುನಃಚಕ್ರಾಯಣೆಗೆ ಹೋದ ರಬರ್ ಬಳಸಲಾಗಬಹುದು, ಕ್ರೀಡಾಂಗಣಗಳ ಮೇಲೆ ಪರಿಸರ ಹಾಗೂ ಕೆಲವು ಔದ್ಯೋಗಿಕ ಪ್ರಕ್ರಿಯೆಗಳಲ್ಲಿ ಬೆಂಕಿಕೊಡಲು ಸೋತು."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "ವಸ್ತ್ರ ಹೊರಗುತ್ತಲೆ",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "ಉಡುಪುಗಳು",
+        "Bed Linens": "ಹಸ್ತಕ್ಕೆ ಸಿಗುವ ರೆಶ್ಮೆಗಳು",
+        "Towels": "ಟೌಲ್ಸ್",
+        "Curtains": "ಕತ್ತಿಗಳು",
+        "Fabric Scraps": "ಬಟ್ಟೆಯ ಮಡಕೆಗಳು",
+        "Carpeting": "ಕಾರ್ಪೆಟ್ಗಳು",
+        "Upholstery": "ಮೆಟ್ಟಿಲು ಹಾಗೂ ಮೊಡಕು",
+        "Footwear": "ಕಾಲಣಿಗೆ",
+        "Handbags": "ಕೈಪರಿಸರಗಳು",
+        "Belts": "ಬೆಲ್ಟ್‌ಗಳು",
+        "Hats": "ಟೊಪಿಗಳು",
+        "Socks": "ಸಾಕುಗಳು",
+        "Non-reusable Textiles": "ಅಪಯೋಗ ಸಾಮಗ್ರಿಗಳು",
+        "Stuffed Toys": "ಟೊಯ್ಸ್",
+        "Ropes": "ರೋಪುಗಳು",
+        "Thread": "ಸೂತ್ರ",
+        "Yarn": "ಸೂತ್ರ"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "ವಸ್ತ್ರ ಹೊರಗುತ್ತಲೆ ನಿಂದಲೇ ಹೊರಗೊಂಡ ಬಟ್ಟೆ ಹಾಗೂ ಬಟ್ಟೆಗಳ ಸಾಮಗ್ರಿಗಳು ಗುರುತಾಗಿದೆ. ಇದು ಪರಿಸರದ ಅಗತ್ಯಕರ ಭಾಗ. ವಸ್ತ್ರ ಹೊರಗುತ್ತಲೆಯ ಪುನಃಚಕ್ರಾಯಣೆ ಹಾಗೂ ಮರಳಿ ಬಳಸಲು ಅತ್ಯಗತ್ಯವಿದೆ ಪರಿಸರದ ಮೇಲಿನ ಪ್ರಭಾವವನ್ನು ಕಡಿಮೆಗೈಸಲು.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "ಹೊರಗುತ್ತಲೆ ಬಟ್ಟೆ",
+        "Scrap Textiles": "ಹೊರಗುತ್ತಲೆ ವಸ್ತ್ರಗಳು"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "ವಸ್ತ್ರ ಪುನರ್ಚಕ್ರಣೆ ಬಿನ್ ಅಥವಾ ದಾನ ಕೇಂದ್ರಗಳು",
+        "handling": "ವಸ್ತ್ರಗಳನ್ನು ಪುನರ್ಚಕ್ರಣೆಗೆ ಮುಂಚೆ ಶುದ್ಧಗೊಳಿಸಿ ಮತ್ತು ಒಣಗಿಸಿ. ಕೆಟ್ಟ ಅಥವಾ ಹಾಳಾದ ವಸ್ತ್ರಗಳನ್ನು ಪುನರ್ಚಕ್ರಣೆಗೆ ಅಥವಾ ಹೊಸ ಉತ್ಪನ್ನಗಳನ್ನಾಗಿ ಮಾಡಬಹುದು.",
+        "separation": "ಪುನರ್ಚಕ್ರಣೆ ಅಥವಾ ಹೊಸ ಉಪಯೋಗಕ್ಕೆ ವಸ್ತ್ರಗಳನ್ನು ಪ್ರಕಾರ (ಉಳಿತೊಂದಿಗೆ, ಪಾಲಿಕೆಯೊಂದಿಗೆ) ಮತ್ತು ಸ್ಥಿತಿ (ಉಡುಪು ಅಥವಾ ಉಡಿಗೆಯಾಗಬಹುದು, ಉಡದೆಯಾಗಬಹುದು) ಪ್ರತಿಭಾಗಿಸಿದರೆ ಹೆಚ್ಚು ಕ್ರಿಯಾಶೀಲತೆಯ ಪುನರ್ಚಕ್ರಣೆ ಅಥವಾ ಹೊಸ ಉಪಯೋಗದಲ್ಲಿ ಬಳಸಲು ಸಹಾಯವಾಗುತ್ತದೆ.",
+        "whatNotToDo": "ಉಡುಪುಗಳನ್ನು ಸಾಮಾನ್ಯ ಕಸ ಜೇನುಸಲು ಹಾಕಬೇಡಿ. ಹೊರಗೆ ತುಂಬಿದ ಅಥವಾ ಕೊಳ್ಳಗಿದ್ದುದನ್ನು ಸರಿಯಾಗಿ ನಿರ್ವಹಣೆ ಮಾಡದೆ ಇರಿ.",
+        "safetyPrecautions": "ಹೆಚ್ಚು ಹಾನಿ ತರುವ ವಸ್ತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಪ್ರತ್ಯಕ್ಷ ಕಾಪಾಡುವ ಸಲಹೆಗಳನ್ನು ಅನುಸರಿಸಿರಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "ವಸ್ತ್ರಗಳ ಪುನರ್ಚಕ್ರಣೆ ಸಂಪದಗಳನ್ನು ಸಂರಕ್ಷಿಸುತ್ತದೆ, ಭೂಸಂಚಯವನ್ನು ಸಂಕುಚಿತಗೊಳಿಸುತ್ತದೆ, ಹೊಸ ಕಚ್ಚಾಟದ ಆವಶ್ಯಕತೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ. ಮರಳಿ ಬಳಸಲು ವಸ್ತ್ರಗಳು ವಿವಿಧ ಅನ್ವಯಗಳಲ್ಲಿ ಹೊಂದಿಕೊಳ್ಳಬಹುದು.",
+        "impact": "ವಸ್ತ್ರ ಹೊರಗುತ್ತಲೆಯ ನಿರ್ವಹಣೆಯ ಪರಿಸರ ಸೌಜನ್ಯದಲ್ಲಿ ಹೆಚ್ಚಳದ ಬಳಕೆಯ ಮೇಲೆ ನಿರ್ಮೂಲನ ಪ್ರದೇಶಗಳನ್ನು ಸಹಾಯಿಸುತ್ತದೆ, ಪರಿಸರ ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ವಸ್ತ್ರ ಕೈಗಾಣಿಕೆಯಲ್ಲಿ ಚಕ್ರಿ ಆರ್ಥಿಕ ಪ್ರವೃದ್ಧಿಯನ್ನು ಬೆನ್ನಟ್ಟುತ್ತದೆ."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "ವಸ್ತ್ರಗಳ ಒಂದು ಟನ್‌ನನ್ನು ಪುನರ್ಚಕ್ರಣೆ ಅಥವಾ ಪುನಃಪ್ರಯೋಗ ಮಾಡುವುದರಿಂದ ಪ್ರಮಾಣಿತವಾದ 7 ಟನ್‌ಗಳ ಸಿಆರ್ಬಿಎಸ್ ವಿಸ್ಫೋಟವನ್ನು ಹತ್ತಿರಿಸಬಹುದು."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "ಮರದ ಹೊರಗುತ್ತಲೆ",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "ಲಂಬರ್ ಸ್ಕ್ರ್ಯಾಪ್ಸ್",
+        "Pallets": "ಪ್ಯಾಲೆಟ್‌ಗಳು",
+        "Timber Offcuts": "ಟಿಂಬರ್ ಆಫ್‌ಕಟ್ಸ್",
+        "Furniture Pieces": "ಮನೆ ಸಾಲಗಳು",
+        "Branches": "ಕೊಂಬುಗಳು",
+        "Twigs": "ಕಿಪ್ಪುಗಳು",
+        "Sawdust": "ಸಾಡಸ್ಟ್",
+        "Plywood": "ಪ್ಲೈವುಡ್",
+        "Particle Board": "ಪಾರ್ಟಿಕಲ್ ಬೋರ್ಡ್",
+        "Wooden Crates": "ಮರದ ಕ್ರೇಟ್ಗಳು",
+        "Wooden Tools": "ಮರದ ಸಾಧನೆಗಳು",
+        "Construction Debris": "ನಿರ್ಮಾಣ ಹೊರಗುತ್ತಲೆ",
+        "Floorboards": "ಫ್ಲೋರ್‌ಬೋರ್ಡ್ಗಳು",
+        "Window Frames": "ವಿಂಡೋ ಫ್ರೇಮ್‌ಗಳು",
+        "Door Frames": "ಬಾಗಿಲು ಫ್ರೇಮ್‌ಗಳು",
+        "Tree Stumps": "ಮರಗಡ್ಡೆಗಳು",
+        "Wooden Fencing": "ಮರದ ಬೆಟ್ಟಗಳು",
+        "Decking Material": "ಡೆಕ್ಕಿಂಗ್ ಸಾಮಗ್ರಿ",
+        "Firewood Scraps": "ಬೀರಿಸುವ ಮರದ ಸ್ಕ್ರ್ಯಾಪ್ಸ್"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "ಮರದ ಹೊರಗುತ್ತಲೆ ವಿವಿಧ ಬಳಕೆಯ ಮರಗಳ ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಸಾಮಗ್ರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದು ಅರಣ್ಯ ನಾಶಕ್ಕೆ ಕಡಿಮೆ ಮಾಡಲು ಮತ್ತು ಹಾಳಾದ ನಾಶವನ್ನು ಸಾರ್ಥಕವಾಗಿ ನಿರ್ವಹಿಸಲು ಮರದ ಹೊರಗುತ್ತಲೆಯನ್ನು ಪುನರ್ಚಕ್ರಣೆ ಮಾಡುವುದು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "ಹೊಂದಿಗೆ ಮರ",
+        "Used Wood": "ಬಳಕೆಯ ಮರ"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "ಮರದ ಪುನರ್ಚಕ್ರಣೆ ಸಾಧನ ಅಥವಾ ವಿಶೇಷಿತ ಸಂಗ್ರಹ ಪಾಯಿಂಟ್‌ಗಳು",
+        "handling": "ಕಡಿಮೆ ಅನಿಸದೆ ಮರದ ಹೊರಗುತ್ತಲೆಯನ್ನು ನಿರ್ವಹಿಸಿ. ಮಳೆ ಅಥವಾ ಗಾಯದ ಬಾಗಿಲನ್ನು ಹೊರಗೆ ಹಾಕಿ.",
+        "separation": "ವಿಚಾರಿಸಲು ಸಾರಿಸಿದ ಮರವನ್ನು ಅಸಾರಿಸಿದ ಮರದಿಂದ ಬೇರೆಡೆಗೆ ಸಾರಿಸಿ, ಅವುಗಳಿಗೆ ವಿವಿಧ ಪುನರ್ಚಕ್ರಣೆ ಕ್ರಮಗಳು ಆವಶ್ಯಕವಿದೆ. ಪ್ರಯೋಜನಕ್ಕಾಗಿ ರೂಪಿಸಲು ರೂಪಿಸಲು ಆಧಾರಿಸಿ.",
+        "whatNotToDo": "ವಿಶೇಷವಾಗಿ ಅದಕ್ಕೆ ರಸಾಯನಗಳಿಂದ ಸಾರಲಾಗಿದ್ದರೆ, ಸಾಮಾನ್ಯ ಅಸರದಲ್ಲಿ ಮರದ ಹೊರಗುತ್ತಲೆಯನ್ನು ವಿಸರ್ಜಿಸಬೇಡಿರಿ. ಅರಸಗಳನ್ನು ಉರಿಸುವುದರಿಂದ ವಿಷಾದ ಧೂಮ ಹೊರಬಿಡುತ್ತದೆ, ಹೋಗಬೇಡಿರಿ.",
+        "safetyPrecautions": "ಮರದ ಹೊರಗುತ್ತಲೆಯನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಕತ್ತಿಗಳು ಮತ್ತು ಮುಖದ ಗಾಳಿ ಬೇಕಾದಷ್ಟು ಕಾಯಿದ್ದರೆ ಹೊಡೆತವನ್ನು ನಿರೀಕ್ಷಿಸಲು."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "ಮರದ ಹೊರಗುತ್ತಲೆಯ ಪುನರ್ಚಕ್ರಣೆ ಭೂಪ್ರದೇಶ ಬಳಸುವಿಕೆಯನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ, ಸ್ವಾಭಾವಿಕ ಸಾಧನಗಳನ್ನು ಉಳಿಸುತ್ತದೆ ಮತ್ತು ಸಾಕಷ್ಟು ಪರಿಸರ ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ.",
+        "impact": "ಮರದ ಹೊರಗುತ್ತಲೆಯ ಪ್ರಬಂಧನೆ ವಾತಾವರಣ ಕಳೆದುಕೊಳ್ಳುವುದನ್ನು ಕಡಿಮೆಗೈಸುತ್ತದೆ ಮತ್ತು ನಿರ್ವಾತ ಮರಗಳ ಉಪಯೋಗಕ್ಕೆ ಮೌಲಿಕ ಸಾಧನಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "ಮಾತ್ರ ಒಂದು ಟನ್ ಮರದ ಹೊರಗುತ್ತಲೆಯನ್ನು ಪುನಃ ಬಳಸುವಿಕೆಯಿಂದ 1000 ಗ್ಯಾಲನ್ಗಳು ಇತರಾತ್ಮಿಕ ವಾಹನದ ಮೂಲಕ ಉಪಯೋಗಿಸಲು ಸಾಕು ಇನರ್ಜಿ ಮೌಲ್ಯದ ವಿದ್ಯುತ್‌ಶಕ್ತಿಯನ್ನು ಉಳಿಸಬಹುದು."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "ಆಪಾತಕರ ವಿಷಯಗಳು",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "ವಿಷಯಕ ರಾಸಾಯನಿಕ ಪದಾರ್ಥಗಳು",
+        "Solvents": "ದ್ರಾವಕಗಳು",
+        "Pesticides": "ಕೀಟನಾಶಕಗಳು",
+        "Herbicides": "ಕಿರುಬೂಟೆಗಳು",
+        "Medical Sharps": "ವೈದ್ಯಕೀಯ ಕ್ಷತ್ರಗಳು",
+        "Contaminated Materials": "ಕಲಂಕಿತ ಸಾಮಗ್ರಿಗಳು",
+        "Radioactive Substances": "ಕೀರ್ತಿಯಾಚಕ ಪದಾರ್ಥಗಳು",
+        "Contaminated Sanitary Products": "ಕಲಂಕಿತ ಸಾನಿಟರಿ ಉಪಕರಣಗಳು",
+        "Sewage Treatment Waste": "ಎಚ್ಚರಿಕೆ ಸಾಚಿ ನಿರ್ವಹಣಾ ಸಾಮಗ್ರಿಗಳು",
+        "Automotive Fluids": "ಆಟೋಮೋಟೀವ್ ದ್ರಾವಕಗಳು",
+        "Antifreeze": "ಎಂಟಿಫ್ರೀಜ್",
+        "Brake Fluid": "ಬ್ರೇಕ್ ದ್ರಾವಕ",
+        "Lead-based Paints": "ಲೆಡ್-ಆಧಾರಿತ ಚಿತ್ರಣ",
+        "Electronic Hazardous Components": "ಇಲೆಕ್ಟ್ರಾನಿಕ್ ಆಪಾತಕರ ಘಟಕಗಳು",
+        "Industrial Residues": "ಔದ್ಯೋಗಿಕ ಅವಶೇಷಗಳು",
+        "Used Oil": "ಬಳಸಿದ ಎಣ್ಣೆ",
+        "Oil-Contaminated Materials": "ಎಣ್ಣೆ-ಕಲಂಕಿತ ಸಾಮಗ್ರಿಗಳು",
+        "Toxic Plastic Additives": "ವಿಷಯಕ ಪ್ಲಾಸ್ಟಿಕ್ ಸಹಾಯಕ ಪದಾರ್ಥಗಳು"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "ಆಪಾತಕರ ವಿಷಯಗಳು ಆರೋಗ್ಯ ಮತ್ತು ಪರಿಸರಕ್ಕೆ ಪ್ರಮುಖ ಹಾನಿಗಳನ್ನು ಹುಡುಕುವ ವಿವಿಧ ಸಾಮಗ್ರಿಗಳ ಸಮೃದ್ಧಿಯನ್ನು ತರುತ್ತದೆ. ಈ ಹಾನಿಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ನಿರ್ವಹಿಸುವುದು, ಸಂಗ್ರಹಣೆಯು ಅವುಗಳ ಮೇಲಿನ ಹಾನಿಯನ್ನು ಹುಡುಕಿಕೊಳ್ಳುವುದು ಮತ್ತು ಸಾಗರವನ್ನು ಸ್ವಸ್ಥಗೊಳಿಸಲು ಅಗತ್ಯವಿದೆ.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "ಹಾನಿಕರ ಸಾಮಗ್ರಿ",
+        "Toxic Waste": "ವಿಷಯಕ ಸಾಮಗ್ರಿ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "ವಿಶೇಷವಾದ ಆಪಾತಕರ ಸಾಮಗ್ರಿ ಸಂಗ್ರಹಣಾ ಸೌಕರ್ಯಗಳು",
+        "handling": "ಸಹಾಯಕ ಸುರಕ್ಷಿತ ಗೊಣಗಾಲಗಳನ್ನು ಬಳಸಿ ಮತ್ತು ಅತ್ಯುತ್ತಮ ಸಾವಕಾಶವನ್ನು ಹೊಂದಿಸಿ ಹೊರಗೊಮ್ಮಲು. ಸಂಗ್ರಹಣೆ ಮತ್ತು ನಿರ್ವಹಣೆಗಾಗಿ ಎಲ್ಲ ಸ್ಥಳೀಯ ಮತ್ತು ಸಂಘ ನಿಬಂಧನೆಗಳನ್ನು ಅನುಸರಿಸಿ.",
+        "separation": "ವಿಭಿನ್ನ ಪ್ರಕಾರದ ಆಪಾತಕರ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಾರಿಸಿಕೊಳ್ಳಿ, ಅವುಗಳಿಗೆ ಅನ್ಯಾಯಿ ಸಾವಕಾಶವುಂಟುಮಾಡುತ್ತದೆ ಮತ್ತು ನಿರ್ವಹಣೆ ವಿಧಾನಗಳು ಇವುಗಳ ಆವಶ್ಯಕತೆಗನುಗುಣವಾಗಿರುತ್ತವೆ.",
+        "whatNotToDo": "ಆಪಾತಕರ ಸಾಮಗ್ರಿಯನ್ನು ನಿಯಮಿತ ಕಸುಬಾಣದ ಸಣ್ಣ ಬಿನ್‌ಗಳಲ್ಲಿ ಅಥವಾ ಕಚೇರಿಗಳಲ್ಲಿ ನಿರ್ವಹಿಸಬಾರದು. ಅನಧಿಕೃತ ಡಂಪಿಂಗ್ ಹಿಡಿಸಬೇಡಿರಿ.",
+        "safetyPrecautions": "ಆಪಾತಕರ ಸಾಮಗ್ರಿಗಳನ್ನು ಹೊಂದಿದ್ದಲ್ಲಿ ಯಾವುದೇ ಕುಟ್ಟಿಗಲಕಿಗಳು, ಗೊಗ್ಗುಲುಗಳು ಮತ್ತು ಮುಖದ ಮಾಸ್ಕ್‌ಗಳನ್ನು ಹೊಂದಿರಿ. ಸರಿಯಾದ ವಾಯುಸರಣಿಯನ್ನು ನಿಶ್ಚಿತಪಡಿಸಿ ಮತ್ತು ಸುಮ್ಮನೆ ಸಂಪರ್ಕವನ್ನು ಹೋಗಿಸಬೇಡಿರಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "ಆಪಾತಕರ ಸಾಮಗ್ರಿಯ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಪರಿಸ್ಥಿತಿಯ ಕಲುಷತೆಯನ್ನು ತಡೆಹಿಡಿಯುತ್ತದೆ, ಜನರ ಆರೋಗ್ಯವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ, ಹೆಚ್ಚುಕಡಿಮೆ ಕಾನೂನಿಗೆ ಅನುಗುಣವಾಗಿದೆ.",
+        "impact": "ಆಪಾತಕರ ಸಾಮಗ್ರಿಯ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮಣ್ಣಿನ ಮತ್ತು ನೀರಿನ ಕಲುಷತೆಯ ಹಂಚಿಕೆಯನ್ನು ಕಡಿಮೆಗೆಡಿಸುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚು ಸುರಕ್ಷಿತ ಹೇಗೆಂದರೆ ಶುಚಿ ಪರಿಸರವನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "ಒಂದು ಕ್ವಾರ್ಟ್ ಮೋಟಾರ್ ಎಣೆಕೆಯ ಸರಿಯಾದ ನಿರ್ವಹಣೆಯು ಕುಡಿಯುವ ನೀರಿನ ಮುನ್ನ ದುಷ್ಟಜಲವನ್ನು ಇಬ್ಬರು ಮಿಲಿಯನ್ ಗ್ಯಾಲನ್ಸ್ ಕುಡಿಸಿಕೊಳ್ಳುವದನ್ನು ತಪ್ಪಿಸಬಹುದು."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "ರಾಸಾಯನಿಕ ಸುರಕ್ಷಿತ",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "ಔದ್ಯೋಗಿಕ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳು",
+        "Laboratory Chemicals": "ಪ್ರಯೋಗಶಾಲಾ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳು",
+        "Cleaning Agents": "ಶುಚಿ ಸಾಧಕಗಳು",
+        "Pesticides": "ಕೀಟನಾಶಕಗಳು",
+        "Herbicides": "ಸಸ್ಯನಾಶಕಗಳು",
+        "Paints": "ಪೆಂಟ್ಗಳು",
+        "Solvents": "ರಾಸಾಯನಿಕ ದ್ರಾವಕಗಳು",
+        "Automotive Fluids": "ಆಟೊಮೋಟಿವ್ ದ್ರಾವಕಗಳು",
+        "Batteries": "ಬ್ಯಾಟರಿಗಳು",
+        "Aerosol Cans": "ಏರೊಸಾಲ್ ಡಬ್ಬಗಳು",
+        "Mercury Devices": "ಮರ್ಕ್ಯೂರಿ ಸಾಮಗ್ರಿಗಳು",
+        "Pharmaceuticals": "ಫಾರ್ಮಾಸ್ಯೂಟಿಕಲ್ಸ್",
+        "Photographic Chemicals": "ಫೋಟೋಗ್ರಾಫಿಕ್ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳು",
+        "Pool Chemicals": "ಪೂಲ್ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳು",
+        "Flammable Liquids": "ಹತ್ತಿರವೋಲಿನ ದ್ರಾವಕಗಳು",
+        "Toxic Metals": "ನಾಶಕ ಲೋಹಗಳು",
+        "Acids": "ಆಮ್ಲಗಳು",
+        "Bases": "ದೀರ್ಘಕಾಲದ ದ್ರಾವಕಗಳು",
+        "Reactive Materials": "ಪ್ರತಿಕ್ರಿಯಾಶೀಲ ಸಾಮಗ್ರಿಗಳು"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "ರಾಸಾಯನಿಕ ಸುರಕ್ಷಿತವು ಬಹುತಕ್ಕವಿಧದ ಹಾನಿಕಾರಕ ಮತ್ತು ಅಜೈವಿಕ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಆರೋಗ್ಯದ ಮತ್ತು ಪರಿಸ್ಥಿತಿಗೆ ಮುಖ್ಯವಾದ ಹಾನಿಯನ್ನು ತಂದೇಆಚೋಗಿಸಲು ಸಾಕು. ಈ ಹಾನಿಯನ್ನು ಕಡಿಮೆಗೆಡಿಸಲು ಸರಿಯಾದ ಹಾತೊರಗುತ್ತಲು, ಸಂಗ್ರಹಣೆಗೆ ಮತ್ತು ನಿವಾಸಿಸಲು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "ಹಾನಿಕಾರಕ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳು",
+        "Toxic Chemicals": "ನಾಶಕ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳು"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "ವಿಶೆಷಗೊಳಿಸಿದ ರಾಸಾಯನಿಕ ಸುರಕ್ಷಿತ ಸಂಗ್ರಹಣಾಲಯಗಳು",
+        "handling": "ಸರಿಯಾಗಿ ನಡೆಯುವಂತೆ ಅತ್ಯಂತ ಜಾಗ್ರತೆಯಿಂದ ನಡೆಯಿಸಿ ಸರಿಯಾದ ಸುರಕ್ಷಿತತೆಯ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ. ಸಂಗ್ರಹಣೆ, ಸಾಗಣೆ ಮತ್ತು ನಿವಾಸಿಸಲು ಎಲ್ಲಾ ನಿಯಮನಿಗಳನ್ನು ಅನುಸರಿಸಿ.",
+        "separation": "ಸಾನ್ನಿಕತೆಗೆ ಸಾಹಿತ್ಯಿಗಳನ್ನು ಸಂಯೋಜನೆ ಮಾಡಿ ಮತ್ತು ಹಾನಿಕಾರಕ ವರ್ಗ (ಉದಾರಣೆಗೆ ಹತ್ತಿರವಾದ, ಕೋಟಿಸ್ಪರ್ಶಕ, ನಾಶಕ) ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸಿ.",
+        "whatNotToDo": "ರಾಸಾಯನಿಕ ಸುರಕ್ಷಿತತೆಯನ್ನು ಸಾಮಾನ್ಯ ಕಸ್ತೂಕಗಳಲ್ಲಿ, ಹಾನಿಕಾರಕವಾಗಿದ್ದುದನ್ನು ಬಿಚ್ಚಬಾರದು, ಹಾಗೆಯೇ ಪ್ರಾಕೃತಿಕ ನೀರುಗಳಲ್ಲಿ ಬಿಚ್ಚಬಾರದು. ವಿವಿಧ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಂಮಿಲಿಸುವ ಹಾಗೂ ಪ್ರತಿಕ್ರಿಯಿಸಬಾರದು ಎಂದು ನಿಷೇಧಿಸಲಾಗಿದೆ.",
+        "safetyPrecautions": "ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳನ್ನು ನಿರೀಕ್ಷಿಸುವಾಗ ಯಾವುದೇ ಸುರಕ್ಷಾ ಉಪಕರಣಗಳನ್ನು ಹಾಕುವುದು ಆವಶ್ಯಕ. ವಿಮುಕ್ತ ಅಥವಾ ಧೂಮಾದಾರ ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಗಳನ್ನು ನಿರೀಕ್ಷಿಸುವಾಗ ಸರಿಯಾದ ಹವಾಗಿ ವಾತಾನುವಾತ ಅನ್ನು ಹೊಂದಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "ರಾಸಾಯನಿಕ ಸುರಕ್ಷಿತತೆಯ ಸರಿಯಾದ ಸಂಗ್ರಹಣೆ ಪರಿಸ್ಥಿತಿಗೆ ಹಾನಿಯನ್ನು ತಡೆದುಕೊಳ್ಳುತ್ತದೆ, ಸಾಸ್ವತ ಸಾಮಗ್ರಿಯನ್ನು ಸಂರಕ್ಷಿಸುತ್ತದೆ ಮತ್ತು ಆರೋಗ್ಯ ಹಾನಿಗೆ ಕಡಿಮೆ ಹಾನಿಯನ್ನು ತಗ್ಗಿಸುತ್ತದೆ.",
+        "impact": "ರಾಸಾಯನಿಕ ಸಾಮಗ್ರಿಯ ಸರಿಯಾದ ನಿರೀಕ್ಷಣೆ ಭೂಮಿ ಮತ್ತು ನೀರಿನ ಮಡುವಿನ ದೂಷಣೆಯ ಹಾನಿಯ ರಿಸ್ಕ್‌ನ ಹೆಚ್ಚಿನ ನಿರೀಕ್ಷಣೆಯನ್ನು ತಗ್ಗಿಸುತ್ತದೆ ಮತ್ತು ಒಂದು ಹೆಚ್ಚು ನಿರಪಯುಕ್ತ ವಾತಾವರಣಕ್ಕೆ ಸಹಕರಿಸುತ್ತದೆ."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "ಬಳಕೆಯಾದ ಒಂದು ಗಾಲನ್ ಒಂದು ಗಲನ್ ನಿಯಮನದ ಮೂಲಕ ಸರಿಯಾಗಿ ಹೊರಟ ವಾಹನ ಎಣ್ಣೆಯನ್ನು ಪುನರ್ಚಿತ್ರಣ ಮಾಡುವಂತೆ ಮಾಡಬಹುದು ಮತ್ತು ಒಂದು ವಾರ್ಷಿಕ ವಿದ್ಯುತ್‌ಮನೆಯ ಶಕ್ತಿಯನ್ನು ಉತ್ಪನ್ನಿಸಬಹುದು."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "ವೈದ್ಯಕೀಯ ವಾರದ",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "ಬಳಸಿದ ಬ್ಯಾಂಡೇಜ್‌ಗಳು",
+        "Gauze": "ಗಾಜು",
+        "Expired Medicines": "ಅವಧಿಯಾದ ಔಷಧಿಗಳು",
+        "Medical Gloves": "ವೈದ್ಯಕೀಯ ಕೈಪರತೆಗಳು",
+        "Sharps": "ಕ್ಷಾರ್ಪುಗಳು",
+        "Test Strips": "ಪರೀಕ್ಷಾ ಪಟಗಳು",
+        "Surgical Instruments": "ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ ಉಪಕರಣಗಳು",
+        "Disposable Garments": "ಬಳಸಿಕೊಳ್ಳಲಾಗುವ ಉಡುಗೆಗಳು",
+        "Pathological Waste": "ಪ್ಯಾಥಾಲಾಜಿಕಲ್ ವಾರದ",
+        "Infectious Agents": "ಸೋಕಿಸುವ ಪ್ರಾಣಿಗಳು",
+        "Discarded Vaccines": "ಹಾಕಿದ ಹೊರಗಿನ ಕೆಟ್ಟದಲ್ಲಿ",
+        "Dialysis Waste": "ಡೈಯಲಿಸಿಸ್ ವಾರದ",
+        "Chemotherapy Agents": "ಕೀಮೋಥೆರಾಪಿ ಔಷಧಿಗಳು",
+        "Imaging Chemicals": "ಛಾಯಾಗ್ರಹಣ ರಾಸಾಯನಿಕಗಳು",
+        "Radioactive Waste": "ವಿಕಿರಣ ವಾರದ",
+        "Biological Specimens": "ಜೈವಿಕ ನಮೂನೆಗಳು"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "ವೈದ್ಯಕೀಯ ವಾರದಲ್ಲಿ ಆರೋಗ್ಯ ಸೌಲಭ್ಯಗಳಲ್ಲಿ ಬಳಸಲ್ಪಟ್ಟ ವಿವಿಧ ಐಟಂಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಅಥವಾ ಸಾಂಕ್ರಾಮಿಕ ಅಥವಾ ಹಾನಿಕಾರಕವಾಗಿದ್ದರು. ಸರಿಯಾದ ನಿಯಂತ್ರಣದ ಮೂಲಕ ರೋಗಗಳ ಹರಿವನ್ನು ತಡೆಗಟ್ಟಲು ಮತ್ತು ಪ್ರಜಾಸುಖವನ್ನು ರಕ್ಷಿಸಲು ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "ವೈದ್ಯಕೀಯ ವಾರದ",
+        "Healthcare Waste": "ಆರೋಗ್ಯ ಸೌಲಭ್ಯ ವಾರದ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "ವೈದ್ಯಕೀಯ ವಾರದ ವಿಶೇಷ ಸುರಕ್ಷಿತ ನಿಯಂತ್ರಣ ಕಡಣಿಗಳು",
+        "handling": "ಅತ್ಯಂತ ಜಾಗ್ರತೆಯಿಂದ ನಡೆಸಿ ಮತ್ತು ಸರಿಯಾದ ರಕ್ಷಣಾ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿ. ವೈದ್ಯಕೀಯ ವಾರವನ್ನು ಉತ್ಪಾದನೆಯ ಸ್ಥಳದಲ್ಲಿ ವಿಭಾಗಿಸಲಿಕ್ಕೆಂದು ಇದೆ.",
+        "separation": "ಕ್ಷಾರ್ಪುಗಳನ್ನು, ಔಷಧಿಗಳನ್ನು, ಪ್ಯಾಥಾಲಾಜಿಕಲ್, ಮತ್ತು ರಾಸಾಯನಿಕ ವಾರಗಳನ್ನು ಸೆಪೆರೇಟ್ ಮಾಡಿಕೊಳ್ಳಲಿಕ್ಕೆಂದು ಇದೆ, ಯಾವುದೇ ಪ್ರಕಾರದ ನಿಯಂತ್ರಣ ವಿಧಾನಗಳು ಬೇಕಾಗುತ್ತದೆ.",
+        "whatNotToDo": "ವೈದ್ಯಕೀಯ ವಾರವನ್ನು ಸಾಮಾನ್ಯ ಕಸ್ತೂಕದ ಕಡಣಿಗಳಲ್ಲಿ ಅಥವಾ ಸಾಮಾನ್ಯ ವಾರವೊಂದರೊಂದಿಗೆ ಬಿಚ್ಚಬಾರದು. ಸರಿಯಾದ ರಕ್ಷಣಾ ಉಪಕರಣಗಳಿಲ್ಲದೆ ಹೊಂದಿಕೊಳ್ಳಬೇಡಿಕೆ.",
+        "safetyPrecautions": "ವೈದ್ಯಕೀಯ ವಾರವನ್ನು ಹೊಂದಿಕೊಳ್ಳುವಾಗ ಯಾವುದೇ ಕೈಪರತೆಗಳು, ಮಾಸ್ಕುಗಳು, ಮತ್ತು ಹೆಚ್ಚಿನಂಶ ಸೂಚನೆಗಳು ಅಥವಾ ಉಡುಗೆಗಳು ಬಳಸಲಾಗಬೇಕು, ಅನ್ನುವುದು ಹೆಚ್ಚಿನ ಸಂಚಿಕೆ ಹಾನಿಯ ರಿಸ್ಕ್‌ನು ಕಡಿಮೆ ಮಾಡಲು."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "ವೈದ್ಯಕೀಯ ವಾರವನ್ನು ಸರಿಯಾದ ನಿಯಂತ್ರಣ ಮಾಡುವುದು ಸೋಕಿಸುವ ಪ್ರಚಾರವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತರನ್ನು ಮತ್ತು ಸಾರ್ವಜನಿಕತೆಯನ್ನು ರಕ್ಷಿಸುತ್ತದೆ, ಮತ್ತು ಆರೋಗ್ಯ ವಿನಿಯೋಗ ನಿಯಮಗಳನ್ನು ಪಾಲಿಸುತ್ತದೆ.",
+        "impact": "ವೈದ್ಯಕೀಯ ವಾರದ ಹಾನಿಕಾರಕವನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ನಿರೀಕ್ಷಣೆಯಲ್ಲಿ ಅತ್ಯಂತ ಮುಖ್ಯವಾಗಿದೆ, ವಿಶೇಷವಾಗಿ ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತರನ್ನು ರಕ್ಷಿಸಲಾಗುತ್ತದೆ."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "ಸಾಮಾನ್ಯ ಆಸ್ಪತ್ರೆ ಪ್ರತಿ ಹಾಸ್ಪಟಲಿ ಒಂದು ದಿನದಲ್ಲಿ ಸುತ್ತಮುತ್ತಲು 33 ಪೌಂಡ್ಗಳ ವೈದ್ಯಕೀಯ ವಾರವನ್ನು ಉತ್ಪನ್ನಿಸುತ್ತದೆ, ವೈದ್ಯಕೀಯ ಸೌಲಭ್ಯಗಳಲ್ಲಿ ಕುಶಲ ವ್ಯಯನ ನಿರ್ವಹಣೆಯ ಮಹತ್ವವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "ಎಣೆ ವಾರ",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "ಬಳಸಿದ ಮೋಟಾರು ಎಣೆ",
+        "Cooking Oil": "ಸಿಹಿ ಎಣೆ",
+        "Lubricating Oil": "ಲುಬ್ರಿಕೇಟಿಂಗ್ ಎಣೆ",
+        "Hydraulic Oil": "ಹೈಡ್ರೋಲಿಕ್ ಎಣೆ",
+        "Transmission Fluid": "ಟ್ರಾನ್ಸ್ಮಿಷನ್ ಫ್ಲೂಯಿಡ್",
+        "Machine Oil": "ಯಂತ್ರ ಎಣೆ",
+        "Grease": "ಗ್ರೀಸ್",
+        "Oil Filters": "ಎಣೆ ಫಿಲ್ಟರ್‌ಗಳು",
+        "Oil-Soaked Rags": "ಎಣೆಯಲ್ಲಿ ನೆರೆದ ಕಚ್ಚುಗಳು",
+        "Fuel Oils": "ಈರು ಎಣೆಗಳು",
+        "Vegetable Oils": "ತರಕಾರಿ ಎಣೆಗಳು",
+        "Petroleum Products": "ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪನ್ನಗಳು",
+        "Oil Containers": "ಎಣೆ ಸಂರಕ್ಷಣಾ ಸಣವುಗಳು",
+        "Oil-Water Mixtures": "ಎಣೆ-ನೀರು ಮಿಶ್ರಣಗಳು",
+        "Synthetic Oils": "ಸಿಂಥೆಟಿಕ್ ಎಣೆಗಳು",
+        "Oil Sludge": "ಎಣೆ ಸ್ಲಜ್"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "ಎಣೆ ವಾರವು ಬಳಸಿದ ಮತ್ತು ಕೊಳ್ಳಲಾದ ವಿವಿಧ ಪ್ರಕಾರಗಳ ಎಣೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ, ಈ ಎಣೆಗಳನ್ನು ಪುನಃಚಕ್ರಾತ್ಮಕವಾಗಿ ಬಳಸಲು ಮತ್ತು ಪರಿಸ್ಥಿತಿಗೆ ಆವರಿಸದೆ ಸಾರ್ವಜನಿಕ ಸೌಲಭ್ಯಗಳ ಹಾನಿ ಮತ್ತು ಆರೋಗ್ಯ ಹಾನಿಗಳನ್ನು ತಡೆಗಟ್ಟಲು ವಿಶೇಷ ನಿಯಂತ್ರಣವಿರುತ್ತದೆ.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "ಬಳಸಿದ ಎಣೆ",
+        "Waste Oil": "ವಾರ ಎಣೆ"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "ನಿಯೊಜಿತ ಎಣೆ ಪುನಃಚಕ್ರಾತ್ಮಕ ಸಂಗ್ರಹಣಾ ಸೌಲಭ್ಯಗಳು ಅಥವಾ ಸಂಗ್ರಹಿಸುವ ಸ್ಥಳಗಳು",
+        "handling": "ಎಣೆ ವಾರವನ್ನು ದಬ್ಬಾಳಿಕೆ ತಗುಲಿನ ಸಣವುಗಳಲ್ಲಿ ಸಂಗ್ರಹಿಸಿ. ನೇರ ಸಂಪರ್ಕ ಅಥವಾ ಅಂಶ ಹೊಂದಿಕೊಳ್ಳುವದಿಂದ ದೂರವಿರಿ.",
+        "separation": "ವಿವಿಧ ಪ್ರಕಾರಗಳ ಎಣೆಗಳನ್ನು ಮತ್ತು ಎಣೆಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟ ವಾರವನ್ನು ಸರಿಯಾಗಿ ಪುನಃಚಕ್ರಾತ್ಮಕ ಮತ್ತು ಸಂಗ್ರಹಿಸಲು ಬೇರೆ ಬೇರೆಯಾಗಿಯೇ ಇಟ್ಟುಕೊಳ್ಳಿ.",
+        "whatNotToDo": "ನಿಯಮಿತ ಕಸಬಾಣದಲ್ಲಿ, ಗುಳಿಗೆಯಲ್ಲಿ ಅಥವಾ ನೀರಿನಲ್ಲಿ ಎಣೆ ವಾರವನ್ನು ವಿಸರ್ಜಿಸಬೇಡಿ. ಎಣೆ ವಾರವನ್ನು ಇತರ ಹಾನಿಕರ ವಸ್ತುಗಳೊಂದಿಗೆ ಮಿಶ್ರಿಸುವದನ್ನು ಬಿಡಬೇಡಿ.",
+        "safetyPrecautions": "ಎಣೆ ವಾರವನ್ನು ಹಾಂಡಲು ಹತ್ತಿರದ ಹತ್ತಿರ ಸುರಕ್ಷತೆ ಸಾಮಗ್ರಗಳನ್ನು ಧರಿಸಿ. ಸಂಗ್ರಹಿಸುವ ಸ್ಥಳಗಳಲ್ಲಿ ಯೋಗ್ಯ ವಾಯು ಸರಕುಗಳನ್ನು ಖಚಿತಪಡಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "ಎಣೆ ವಾರವನ್ನು ಪುನಃಚಕ್ರಾತ್ಮಕಗೊಳಿಸುವುದು ಸ್ವಾಭಾವಿಕ ಸಂಪದ್ಗಳನ್ನು ಸಂರಕ್ಷಿಸುವದು, ಮಾಲಿನ್ಯವನ್ನು ತಡೆಗಟ್ಟುವದು ಮತ್ತು ಪರಿಸ್ಥಿತಿ ಸುಸ್ಥಿತಿಯನ್ನು ಬೆಳೆಸುವದನ್ನು ಬೆಳೆಸುತ್ತದೆ. ಸರಿಯಾಗಿ ಪುನಃಚಕ್ರಾತ್ಮಕವಾಗಿ ಸರಿದ ಎಣೆಯನ್ನು ಹೊಂದಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+        "impact": "ಎಣೆ ವಾರವನ್ನು ಸಾರ್ವಜನಿಕ ಸೌಲಭ್ಯದ ಸಾರ್ವಜನಿಕ ಸ್ವಾಸ್ಥ್ಯದ ಕಡೆಗೆ ಮಾರ್ಪಡಿಸುವುದು ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ಮಾಲಿನ್ಯ ಹಾನಿಗಳ ಹಾತೊರೆಯನ್ನು ಕಡಿಮೆಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಸ್ವಚ್ಛ ಮತ್ತು ಭದ್ರ ಪರಿಸ್ಥಿತಿಯನ್ನು ಉಳಿಸುವಲ್ಲಿ ಸಹಾಯಕವಾಗುತ್ತದೆ."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "ಬಳಸಿದ ಮೋಟಾರು ಎಣೆಯ ಒಂದು ಗಲನ್ ಹಿಡಿದಿಡುವ ಗಲನ್ ಒಂದು ಮಿಲಿಯನ್ ಗಲನ್ ಹರಿಯಿಸಬಹುದು."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "ಕಿರಣ ವ್ಯರ್ಥ",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "ವ್ಯಯಿತ ನ್ಯೂಕ್ಲಿಯರ್ ಇಂಧನ",
+        "Radioactive Medical Waste": "ಕಿರಣ ವ್ಯಾಧಿ ವ್ಯರ್ಥ",
+        "Contaminated Lab Equipment": "ಕಿರಣದಿಂದ ಲ್ಯಾಬ್ ಉಪಕರಣ",
+        "Radioactive Glass": "ಕಿರಣ ಗ್ಲಾಸ್",
+        "Contaminated Metals": "ಕಿರಣದಿಂದ ಲವಣಗಳು",
+        "Americium Smoke Detectors": "ಅಮೆರಿಕಿಯಂ ಧೂಮ ಗುರುತಾಚಕಗಳು",
+        "Uranium Residues": "ಯೂರೇನಿಯಮ್ ಅವಶೇಷಗಳು",
+        "Irradiated Tools": "ಕಿರಣದಿಂದ ಬೆಳಗಿದ ಉಪಕರಣಗಳು",
+        "Contaminated Clothing": "ಕಿರಣದಿಂದ ಲವಣಗಳು",
+        "Radioactive Sources": "ಕಿರಣ ಮೂಲಗಳು",
+        "Luminous Dials": "ಪ್ರಕಾಶಮಾನ ಘಟಕಗಳು",
+        "Thorium Lantern Mantles": "ಥೋರಿಯಂ ಲಾಂಟರ್ ಮ್ಯಾಂಟಲ್ಸ್",
+        "Radioactive Ores": "ಕಿರಣ ಅಯಸ್ಕರ್ಗಳು"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "ಕಿರಣ ವ್ಯರ್ಥ ಕಿರಣದ ಪದರಗಳು ಮತ್ತು ವಸ್ತುಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದರ ಹಾನಿಕರ ಸ್ವಭಾವವು ಕಡಿಮೆ ಹಾನಿಗಳನ್ನು ತಡೆಗಟ್ಟಲು ಕಠಿಣ ಹಾಂಡಲು, ಸಂಗ್ರಹಣೆ ಮತ್ತು ನಿಯಂತ್ರಣ ವಿಧಾನಗಳನ್ನು ಅಗತ್ಯಪಡಿಸುತ್ತದೆ.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "ನ್ಯೂಕ್ಲಿಯರ್ ವ್ಯರ್ಥ",
+        "Radioactive Material": "ಕಿರಣ ವಸ್ತು"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "ವಿಶೇಷ ಕಿರಣತ್ವ ವ್ಯರ್ಥ ಸೌಲಭ್ಯಗಳು",
+        "handling": "ಗಮನಿಸಬೇಕಾದ ಕಠಿಣ ಸುರಕ್ಷಣೆ ನಮೂದಿಸಲಾಗಿದೆ. ನಿರಿಕ್ಷಣಾಜ್ಞೆಗಳನ್ನು ಪಾಲಿಸಬೇಕು.",
+        "separation": "ಸರಿಯಾದ ನಿಯಮಿತ ಸುರಕ್ಷಣೆಗಾಗಿ ಕಿರಣತ್ವ ಪ್ರಕಾರ ಮತ್ತು ಮಟ್ಟಕ್ಕೆ ಹಂಚಿಕೊಳ್ಳಬೇಕು.",
+        "whatNotToDo": "ಸಾಮಾನ್ಯ ಕಸ ಸುರಕ್ಷಣೆಗಳಲ್ಲಿ ವಿಸರ್ಜನೆ ಮಾಡಬಾರದು. ಸಂಪರ್ಕಿಸಬೇಡಿರುವ ಕಡಿಮೆ ಸುರಕ್ಷಣೆಯಿಂದ ಹೊರಡಿಸಬಾರದು.",
+        "safetyPrecautions": "ಕಿರಣತ್ವದ ಸಾಮಾನ್ಯ ರಕ್ಷಣೆ ಸರಕ್ಷಣೆ, ಕಣ್ಣು ಕಪ್ಪು, ಮತ್ತು ಮುಖದ ಬರಬರುವಿಕೆಯ ಸುರಕ್ಷಣೆಯನ್ನು ಧರಿಸಬೇಕು."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "ಹಾನಿಕಾರಕ ಕಿರಣಗಳಿಂದ ರಕ್ಷಿಸುತ್ತದೆ, ಪರಿಸರ ಕೊಚ್ಚಿಹೋಗದಿದ್ದುದನ್ನು ನಿರೋಧಿಸುತ್ತದೆ.",
+        "impact": "ಜನಸಾಮಾನ್ಯರ ಆರೋಗ್ಯ ಮತ್ತು ಸುರಕ್ಷೆಗಾಗಿ ಅತ್ಯಂತ ಮಹತ್ವದಿದೆ, ದೀರ್ಘಕಾಲಿಕ ಪರಿಸರ ಹಾನಿಗಾಗಿ ನಿರೋಧಿಸುತ್ತದೆ."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "ಕೆಲವು ಕಿರಣತ್ವ ವ್ಯರ್ಥಗಳು ಸಹಸ್ರಾಬದ್ದಗಳವರೆಗೂ ಹಾನಿಕಾರಕವಾಗಿರಬಹುದು."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "ಸ್ವಚ್ಛತಾ ವಿಸರ್ಜನಾ ವಿಷಯ",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "ಬಳಸಲಾದ ಲೇಕುಗಳು",
+        "Sanitary Napkins": "ಸ್ಯಾನಿಟರಿ ನ್ಯಾಪ್ಕಿನ್ಸ್",
+        "Tampons": "ಟ್ಯಾಂಪಾನ್ಗಳು",
+        "Wet Wipes": "ಬೆದ್ದಲು ಗಳು",
+        "Incontinence Pads": "ಅಸಹಾಯಕತೆ ಪ್ಯಾಡ್ಗಳು",
+        "Disposable Toilet Seat Covers": "ಡಿಸ್ಪೋಸೇಬಲ್ ಶೌಚಾಲಯ ಸೀಟ್ ಆವರಣಗಳು",
+        "Cotton Swabs": "ಸೂತಿಗಳು",
+        "Facial Tissues": "ಮುಖ ರೇಶ್ಮೆಗಳು",
+        "Bandages": "ಬ್ಯಾಂಡೇಜುಗಳು",
+        "Disposable Razors": "ಡಿಸ್ಪೋಸೇಬಲ್ ಕೋತಾಣಗಳು",
+        "Dental Floss": "ದಂತ ಫ್ಲಾಸ್"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "ಸ್ವಚ್ಛತಾ ವಿಸರ್ಜನಾ ವಿಷಯ ಬಳಸಲ್ಪಟ್ಟು ಹಾಕಲ್ಪಟ್ಟ ವಿವಿಧ ವೈಯಕ್ತಿಕ ಸೌಜನ್ಯ ಉಪಕರಣಗಳನ್ನು ಒಳಗೊಂಡಿದೆ, ಹೆಚ್ಚಿನವರು ಬಳಸಲಾಗುವುದು ಮತ್ತು ಬಿಸಾಣಿಗೆ ಹಾಕಲಾಗುತ್ತದೆ. ವಿಶೇಷವಾಗಿ ವೈದ್ಯಕೀಯ ಅಥವಾ ಸಹಾಯ ಸೌಕರ್ಯಗಳಲ್ಲಿ, ಸರಿಯಾದ ವಿಸರ್ಜನೆಯು ಕೊಚ್ಚಿತ್ತಲನ್ನು ತಡೆಗಟ್ಟಲು ಅತ್ಯಂತ ಮಹತ್ವದಿದೆ.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "ಸ್ವಚ್ಛತಾ ವಿಸರ್ಜನಾ ವಿಷಯ",
+        "Personal Care Waste": "ವೈಯಕ್ತಿಕ ಸೌಜನ್ಯ ವಿಸರ್ಜನಾ ವಿಷಯ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "ವಿಶೇಷ ಸ್ವಚ್ಛತಾ ವಿಸರ್ಜನಾ ಯೂನಿಟ್ಗಳು",
+        "handling": "ಸಂವೇದನಾಪೂರಿತವಾಗಿ ತಿಳಿಯಿಕೆಯಿಂದ ಕೆಲಸ ಮಾಡಿ, ಹಾಗೂ ನಿರ್ದಿಷ್ಟ ಸಂರಕ್ಷಣೆಯ ಸಂಕೇತದೊಂದಿಗೆ ನಿರ್ದಿಷ್ಟ ಸಂರಕ್ಷಣೆಯಿಂದ ಹತ್ತಿರವಿನಲ್ಲಿಡಿ.",
+        "separation": "ವಿಶೇಷ ವಿಸರ್ಜನೆಗಾಗಿ ನಿರ್ದಿಷ್ಟ ಸಂರಕ್ಷಣೆಯ ಸಂಕೇತದೊಂದಿಗೆ ಸ್ವಚ್ಛತಾ ವಿಸರ್ಜನೆಯನ್ನು ಸಾಮಾನ್ಯ ಕಸಕೊಳ್ಳಲಿ.",
+        "whatNotToDo": "ಸ್ಯಾನಿಟರಿ ವಿಸರ್ಜನೆಯನ್ನು ಶೌಚಾಲಯ ಗುಳಿಕೆಯ ಮೂಲಕ ಕರಗಿಸಬಾರದು. ಸರಿಯಾದ ಕಂಟೇನ್ಮೆಂಟ್ ಇಲ್ಲದೆ ಸಾಮಾನ್ಯ ಕಸಕೊಳ್ಳಲು ವಿರೋಧಿಸಬೇಕು.",
+        "safetyPrecautions": "ಸ್ಯಾನಿಟರಿ ವಿಸರ್ಜನೆಯನ್ನು ಕೈಕಾಲುಗಳನ್ನು ಧರಿಸುವಂತೆ ತಡೆಹಿಡಿಯಿರಿ. ವಿಸರ್ಜನೆ ಮುಂತಾದ ಬಳಕೆಗಳ ನಂತರ ಸರಿಯಾದ ಸ್ವಚ್ಛತೆ ಅನುಸರಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "ಸಾಕ್ಷರದ ವಿಸರ್ಜನೆ ರೋಗಪ್ರಸಾರವನ್ನು ತಡೆಗಟ್ಟುತ್ತದೆ ಮತ್ತು ಸರ್ವಜನ ಪರಿಸರದಲ್ಲಿ ಸ್ವಚ್ಛತೆಯನ್ನು ಉಳಿಸುತ್ತದೆ.",
+        "impact": "ಸ್ಯಾನಿಟರಿ ವಿಸರ್ಜನೆಯ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ವಿಶೇಷವಾಗಿ ಹಾಸಿಗೆ ತುಂಬಿದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯಕ್ಕೆ ಅಗತ್ಯವಿದೆ."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "ಸಾಮಾನ್ಯ ವ್ಯಕ್ತಿ ವಾರು 30 ಪೌಂಡ್ಸ್ ಸ್ಯಾನಿಟರಿ ವಿಸರ್ಜನೆ ಮಾಡುತ್ತಾನೆ."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "ಕಚ್ಚಾದನೀರು",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "ಮಾನವ ಉತ್ಸರ್ಜನೆ",
+        "Used Water": "ಬಳಕೆಯ ನೀರು",
+        "Domestic Wastewater": "ಗೃಹ ಹೋದಿಗೆ ನೀರು",
+        "Industrial Effluent": "ಔದ್ಯೋಗಿಕ ಕಚ್ಚಾದನೀರು",
+        "Agricultural Runoff": "ಕೃಷಿಗೆ ಸುರಿದ ನೀರು",
+        "Storm water Discharge": "ಚಂಡಮಾರುತ ನೀರು ವಿಸರ್ಜಿಸುವುದು",
+        "Septic Tank Sludge": "ಸೆಪ್ಟಿಕ್ ಟ್ಯಾಂಕ್ ಸ್ಲಜ್",
+        "Grease Trap Waste": "ಗ್ರೀಸ್ ಟ್ರ್ಯಾಪ್ ಕಚ್ಚಾದನೀರು",
+        "Gray Water": "ಬೂದಿ ನೀರು",
+        "Black Water": "ಕಪ್ಪು ನೀರು",
+        "Sewage Sludge": "ಕಚ್ಚಾದನೀರು ಸ್ಲಜ್",
+        "Soapy Water": "ಸೋಪಿ ನೀರು",
+        "Cooking Water Discharge": "ಸಿಹಿ ನೀರು ವಿಸರ್ಜಿಸುವುದು",
+        "Bathroom Water": "ಸೌಖ್ಯಾಲಯ ನೀರು",
+        "Laundry Wastewater": "ವಸ್ತ್ರ ಕಚ್ಚಾದನೀರು",
+        "Sink Drainage": "ಸಿಂಕ್ ಸ್ಲೇಷನ್",
+        "Toilet Flushing Waste": "ಟಾಯಲೆಟ್ ಸ್ಲೇಷನ್ ಕಚ್ಚಾದನೀರು",
+        "Shower Drain Water": "ಶಾವರ್ ಸ್ಲೇಷನ್ ನೀರು",
+        "Sump Pump Discharge": "ಸಂಪ್ ಪಂಪ್ ವಿಸರ್ಜನೆ",
+        "Urban Runoff": "ನಗರ ಸುರಿದ ನೀರು"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "ಕಚ್ಚಾದನೀರು ಮನೆಗಳು, ಔದ್ಯೋಗಿಕ ಸ್ಥಾಪನೆಗಳು ಮತ್ತು ಕೃಷಿ ಭೂಮಿಗಳಿಂದ ಹೊಂಚಲಾಗುವ ಹೋದಿಗೆ ಮತ್ತು ಸಾಮಗ್ರಿಗಳನ್ನು ಆವರಿಸುತ್ತದೆ. ಪರಿಸ್ಥಿತಿಸುರಕ್ಷಣೆಗೆ ಮತ್ತು ನೀರಿನ ಮಾಲಿನ್ಯವನ್ನು ತಡೆಗಟ್ಟಲು ಯೋಗ್ಯ ಚಿಕಿತ್ಸೆ ಮತ್ತು ನಿಯಂತ್ರಣ ಅತ್ಯಗತವಾಗಿದೆ.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "ಕಚ್ಚಾದನೀರು",
+        "Sewerage": "ಸೇವೇರೇಜ್"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "ವಿಶೇಷ ನೀರಿನ ಸುಲಭಕಾರಣಗಳು",
+        "handling": "ನೀರಿನ ಸುಲಭಕಾರಣಗಳ ಸಂಪರ್ಕವನ್ನು ತಡೆಯಿರಿ ಮತ್ತು ನೀರಿನ ಸುಲಭಕಾರಣಗಳನ್ನು ಹೊಂದಿಕೊಳ್ಳುವ ಸುರಕ್ಷಿತ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಿ.",
+        "separation": "ಪೊಟೇಬಲ್ ನೀರಿನ ಮೂಲಕವನ್ನು ಪರಿಯಾಯ ಹಂಚುವ ಮತ್ತು ನೀರಿನ ಸುಲಭಕಾರಣಗಳ ವಿಚಿತ್ರ ಸ್ವಾಗತಗಳನ್ನು ಅನುಸರಿಸಿ.",
+        "whatNotToDo": "ಮೌಲ್ಯಪೂರ್ಣವಾಗಿ ನೀರಿನ ಸುಲಭಕಾರಣಗಳನ್ನು ಕಾಯುತ್ತಿಲ್ಲ. ಅವುಗಳನ್ನು ಪ್ರಾಕೃತಿಕ ನೀರು ಬಾಲುತಳ್ಳಿದರೂ ಅಥವಾ ಪರಿಸರದಲ್ಲಿ ಬಿಡುವುದಿಲ್ಲ.",
+        "safetyPrecautions": "ನೀರಿನ ಸುಲಭಕಾರಣಗಳನ್ನು ನೀಡಿದಾಗ ಕೈಯೆತ್ತಿ ಮೂಡಲೆ ತಡೆಯಿರಿ. ಸರಿಯಾದ ಸ್ವಾಗತ ನಡೆಸುವಿಕೆಯನ್ನು ಅನುಸರಿಸಿ."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "ಸರಿಯಾದ ನೀರಿನ ನಿರ್ವಹಣೆ ರೋಗ ಹರಡಿಸಲು ಪ್ರತಿಬಂಧಿಸುತ್ತದೆ, ನೀರು ಸಾಗರಗಳನ್ನು ರಕ್ಷಿಸುತ್ತದೆ, ಮತ್ತು ಪ್ರಜಾಸುಖವನ್ನು ಬೆಳೆಸುತ್ತದೆ.",
+        "impact": "ನೀರಿನ ಸುಲಭಕಾರಣಗಳ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಪರಿಸರ ಸಂರಕ್ಷಣೆಗೆ ಮತ್ತು ಸಾಕಾಗುವ ನಗರ ಅಭಿವೃದ್ಧಿಗೆ ಅತ್ಯಗತ್ಯವಾಗಿದೆ."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "ಮುಂದುವರಿದ ನೀರಿನ ಸುಲಭಕಾರಣಗಳ ನಿರ್ವಹಣೆ ವ್ಯಯ ನೀಡಲು ಶಕ್ತಿಯನ್ನು ಮತ್ತು ಪುನರ್ಬಳಕೆಗೆ ನೀಡಲು ಆಗುತ್ತದೆ, ನಿರ್ವಹಣೆಗೆ ಸಂಪರ್ಕಿಸಲಾದ ನೀರನ್ನು ಮತ್ತು ಬಳಕೆಯಲ್ಲಿ ಬಳಸಲಾದ ನೀರನ್ನು ನೀಡಲು ಸೂಚಿಸುತ್ತದೆ."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರಿನ ಸುಲಭಕಾರಣ",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "ಮರುಚಳಕು ಮಾಡಲಾಗದ ಪ್ಲಾಸ್ಟಿಕ್",
+        "Contaminated Paper": "ಕಲ್ಲಿನಿಂದ ಲೇಪಿಸಿದ ಕಾಗದ",
+        "Broken Glass": "ಉರುಳಿದ ಗಾಜು",
+        "Non-Recyclable Packaging": "ಮರುಚಳಕು ಮಾಡಲಾಗದ ಪ್ಯಾಕೇಜಿಂಗ್",
+        "Worn Textiles": "ಧರಿಸಲು ಬಳಸಲಾದ ವಸ್ತ್ರಗಳು",
+        "Damaged Furniture": "ಹಾಳಾದ ಗೂರಿಗಳು",
+        "Ceramic Items": "ಚಿನಿಯದ ವಸ್ತುಗಳು",
+        "Construction Debris": "ನಿರ್ಮಾಣ ಅವಶೇಷಗಳು",
+        "Non-Recyclable Electronics": "ಮರುಚಳಕು ಮಾಡಲಾಗದ ಎಲೆಕ್ಟ್ರಾನಿಕ್ಸ್",
+        "Household Trash": "ಹೌಸ್‌ಹೋಲ್ಡ್ ಕಚರೆ",
+        "Ineligible Food Waste": "ಅಯೋಗ್ಯ ಆಹಾರ ಹಾಳಾದುದು",
+        "Ineligible Garden Waste": "ಅಯೋಗ್ಯ ಗಾರ್ಡನ್ ಕಚರೆ",
+        "Used Batteries": "ಬಳಸಿದ ಬ್ಯಾಟರಿಗಳು",
+        "Soiled Clothing": "ಮಿಶ್ರವಾದ ಉಡುಪುಗಳು",
+        "Old Carpets": "ಹಳೆಯ ಕಾರ್ಪೆಟ್‌ಗಳು",
+        "Expired Medicines": "ಅವಧಿಯಾಗಿರುವ ಔಷಧಿಗಳು",
+        "Waste Foam": "ಕಡಿಮೆ ಫೋಮ್",
+        "Disposable Utensils": "ಸಾಗದ ಪಾತ್ರೆಗಳು",
+        "Waste Oil": "ವ್ಯರ್ಥ ಎಣೆ",
+        "Contaminated Soil": "ಲೇಪಿಸಿದ ಮಣ್ಣು"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರಿನ ಸುಲಭಕಾರಣ ಎಂದರೆ ಪುನಃ ಸರಿಪಡಿಸಲು ಅಥವಾ ಸಾಗದ ಸಾಮಗ್ರಿಗಳು ಹೊಂದಿದೆ. ಇದು ನೆಲದಲ್ಲಿ ಸೇರುವ ಅತಿಸಾಧಾರಣ ಐಟಂಗಳ ವರ್ಗವನ್ನು ಹೊಂದಿದೆ, ಈ ವರ್ಗದಲ್ಲಿ ಮಣ್ಣು ಮತ್ತು ನೀರಿನ ದುಂಡು ಕಾಣಬಹುದು.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "ಮರುಚಳಕು ಮಾಡಲಾಗದ ಸುಳ್ಳು",
+        "General Trash": "ಸಾಮಾನ್ಯ ಕಚರೆ"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "ಸಾಮಾನ್ಯ ಕಚರೆ ಡಂಪ್ಸ್ಟರ್ಗಳು, ಮರುಚಳಕು ಮಾಡಲಾಗದ ಐಟಂಗಳಿಗಾಗಿ ಗುರುತಿಡಿದೆ",
+        "handling": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರಿನ ಸುಲಭಕಾರಣವನ್ನು ಸರಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಲು ಜಾಗತ್ತು ಮಾಡಿ, ಮರುಚಳಕು ಮಾಡಲಾಗದ ಮತ್ತು ಹಾನಿಕಾರಕ ಸಾಮಗ್ರಿಗಳಿಂದ ಅದನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ.",
+        "separation": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರಿನ ಪರಿಣಾಮವನ್ನು ಕಡಿಮೆಗೊಳಿಸಲು, ಪುನರ್ಚಕ್ರಣೆಯಿಂದ ದೂರವಿಡಬೇಕಾದ ಪ್ಲಾಸ್ಟಿಕ್, ಜೈವಕ್ಕಾಗಿಯೂ ಹಾನಿಕಾರಕ ವಸ್ತುಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸುವುದು ಮುಖ್ಯ.",
+        "whatNotToDo": "ಮರುಚಳಕು ಮಾಡಲಾಗದ ವಸ್ತುಗಳನ್ನು ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರಿನಲ್ಲಿ ವಿಸ್ತರಿಸಬಾರದು.",
+        "safetyPrecautions": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರಿನ ಹಾನಿಕಾರಕ ವಸ್ತುಗಳನ್ನು ಹಿಡಿದುಕೊಳ್ಳುವಾಗ ಗುರಿಗೊಳಿಸಬೇಕಾದ ಗುರುತುಗಳನ್ನು ಧರಿಸಿ ಮತ್ತು ಉಚಿತ ಸುತ್ತಲು ವಿಧಿಸಬೇಕು."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "ಸಾಮಾನ್ಯ ಕಚರೆಯನ್ನು ಸರಿಯಾಗಿ ನೆಲದಲ್ಲಿ ಸಾಗಿಸುವುದು ಅಸರಕಾರಕ ಕಾಣಿಕೆಯನ್ನು ತಗ್ಗಿಸುತ್ತದೆ.",
+        "impact": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರನ್ನು ಕಡಿಮೆಗೊಳಿಸುವುದು ಸಾಕಷ್ಟು ಗ್ರೀನ್‌ಹೌಸ್ ಗ್ಯಾಸ್ ವಾಯುಸಂಕಲನಗಳ ವಾಯುಸ್ಕಾಪ್ ವನ್ನು ಕಡಿಮೆಗೊಳಿಸಲು ಕೆಲಸಮಾಡುತ್ತದೆ, ಹಾಗೂ ಪುನರ್ಚಕ್ರಣೆ ಮತ್ತು ಕಚರೆ ಸಂಕುಚಿಗೊಳಿಸಲು ಮಹತ್ತರವಾದ ಆವಶ್ಯಕತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "ನೆಲದಲ್ಲಿನ ದುಂಡು ನೀರನ್ನು ಕಡಿಮೆಗೊಳಿಸುವ ಪ್ರಯತ್ನಗಳು ಗ್ರೀನ್‌ಹೌಸ್ ಗ್ಯಾಸ್ ವಾಯುಸಂಕಲನವನ್ನು ಹೆಚ್ಚಾಗಿ ತಗ್ಗಿಸಬಹುದು, ಸಾಕಷ್ಟು ಗ್ರೀನ್‌ಹೌಸ್ ಗಾಸ್ ಎಮಿಷನ್‌ಗಳನ್ನು ಕಡಿಮೆಗೊಳಿಸುವ ಮಹತ್ತರವಾದ ಪ್ರಯತ್ನದ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಮುಂದಿನಲ್ಲಿ ತೋರಿಸುತ್ತದೆ."
     }
   },
+  "error": {
+    "invalidImageUrl": "ದಯವಿಟ್ಟು ಒಳ್ಳೆಯ ಚಿತ್ರ URL ನಮೂದಿಸಿ.",
+    "emptySearch": "ದಯವಿಟ್ಟು ಒಂದು ಚಿತ್ರ ಅಥವಾ URL ನೀಡಿ.",
+    "searchResponse": "ಹುಡುಕಲು ಪ್ರಾರಂಭಿಸುವಾಗ ದೋಷ, ದಯವಿಟ್ಟು ನಂತರ ಪ್ರಯತ್ನಿಸಿ.",
+    "invalidImageSize": "ದಯವಿಟ್ಟು 5MB ವರೆಗಿನ ಗಾಣಿಗೆ ಅಪ್ಲೋಡ್ ಮಾಡಿ."
+  },
   "common": {
-    "knowYourWaste": "ನಿಮ್ಮ ತ್ಯಾಜ್ಯವನ್ನು ತಿಳಿಯಿರಿ",
-    "sustainNatureNest": "ಪ್ರಕೃತಿಯ ಗೂಡನ್ನು ಪೋಷಿಸಿ",
-    "searchPlaceholder": "ಮರುಬಳಕೆ ಅಥವಾ ವಿಸರ್ಜನೆ ಮಾಡಲು ಐಟಂ ಹುಡುಕಿ",
+    "knowYourWaste": "ನಿಮ್ಮ ಕಚ್ಚಲು ಬಗ್ಗೆ ತಿಳಿಯಿರಿ",
+    "sustainNatureNest": "ಪ್ರಕೃತಿಯನ್ನು ನೆಸ್ಟ್ ಮಾಡಿ",
+    "searchPlaceholder": "ಪುನಃಚಕ್ರಿಕೆ ಅಥವಾ ನಿರ್ವಹಿಸಲು ಐಟಂ ಹುಡುಕಿ",
     "whatIsWaste": "{{value}} ಎಂದರೇನು",
-    "alsoKnownAs": "ಇದನ್ನು ಇನ್ನೂ ಹೇಗೆ ಕರೆಯಲಾಗಿದೆ",
-    "itemsInsideWaste": "{{value}} ಒಳಗಿನ ಐಟಂಗಳು",
-    "howToHandle": "{{value}} ಅನ್ನು ಹೇಗೆ ನಿಭಾಯಿಸಬೇಕು",
+    "alsoKnownAs": "ಇನ್ನುಮುಂದೆ ಗೊತ್ತಿದೆ",
+    "itemsInsideWaste": "{{value}} ಆಯ್ಕೆಗಳು",
+    "howToHandle": "{{value}} ಹೇಗೆ ನಿರ್ವಹಿಸಬೇಕು",
     "handling": "ನಿರ್ವಹಣೆ",
-    "separation": "ಪ್ರತ್ಯೇಕತೆ",
+    "separation": "ವಿಭಾಗಿಸುವಿಕೆ",
     "whatNotToDo": "ಏನು ಮಾಡಬಾರದು",
-    "suggestedBin": "ಸೂಚಿಸಲಾದ ಬಿನ್",
-    "whyItsImportant": "ಇದು ಏಕೆ ಮುಖ್ಯ",
-    "note": "ಟಿಪ್ಪಣಿ",
-    "safetyPrecautions": "ಸುರಕ್ಷತಾ ಎಚ್ಚರಿಕೆಗಳು",
-    "alsoKnowAbout": "ಇದರ ಬಗ್ಗೆಯೂ ತಿಳಿಯಿರಿ",
-    "compostable": "ಕಂಪೋಸ್ಟಬಲ್",
-    "recyclable": "ಪುನಃ ಬಳಕೆಯಾಗಬಹುದಾದ",
-    "nonRecyclable": "ಪುನಃ ಬಳಕೆಯಾಗಲಾರದ",
-    "burnable": "ಸುಡಬಹುದಾದ",
-    "nonBurnable": "ಸುಡಲಾರದ",
-    "caution": "ಎಚ್ಚರಿಕೆಯಿಂದ ನಿಭಾಯಿಸಿ",
-    "flammable": "ಬೆಂಕಿಗೆ ಸಿಲುಕುವ",
-    "toxic": "ವಿಷಕಾರಿ",
-    "biohazardous": "ಜೈವಿಕ ಅಪಾಯಕಾರಿ",
-    "radioactive": "ವಿಕಿರಣ ಸಕ್ರಿಯ",
-    "useSafetyGear": "ರಕ್ಷಣಾತ್ಮಕ ಎಚ್ಚರಿಕೆ ವಹಿಸಿ",
-    "washHand": "ಕೈ ತೊಳೆಯಿರಿ",
-    "sanitize": "ಸ್ಯಾನಿಟೈಜ್ ಮಾಡಿ",
-    "disclaimer": "ಇಲ್ಲಿ ಒದಗಿಸಲಾದ ಮಾಹಿತಿ ಸಾಮಾನ್ಯವಾಗಿದ್ದು, ಎಲ್ಲಾ ಪ್ರದೇಶಗಳು ಅಥವಾ ಸಂದರ್ಭಗಳಿಗೆ ಅನ್ವಯಿಸಬಹುದಿಲ್ಲ. ಸ್ಥಳೀಯ ನಿಯಮಗಳು ಮತ್ತು ಸಾವಯವ ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆಯ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಸಂಪರ್ಕಿಸಬೇಕು.",
-    "readMore": "ಇನ್ನಷ್ಟು ಓದಿ",
-    "readMoreSearch": "{{value}} ನಿರ್ವಹಣೆ ಪರಿಹಾರಗಳು ಮತ್ತು ನಿರ್ವಹಣೆ",
-    "managementStation": "ನಿರ್ವಹಣೆ ಕೇಂದ್ರ",
+    "suggestedBin": "ಸೂಚಿಸಲಾದ ಡಂಪಸ್ಟರು",
+    "whyItsImportant": "ಇದು ಏನನ್ನು ಪ್ರಮುಖವಾಗಿ ಮಾಡುತ್ತದೆ",
+    "note": "ಸೂಚನೆ",
+    "safetyPrecautions": "ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು",
+    "alsoKnowAbout": "ಇನ್ನುಮುಂದೆ ಗೊತ್ತಿದೆ",
+    "compostable": "ಹೊಗೆಸಬಹುದು",
+    "recyclable": "ಮರುಚಕ್ರಿಕೆಯಾಗಬಹುದು",
+    "nonRecyclable": "ಮರುಚಕ್ರಿಕೆಯಾಗಲಾಗದ",
+    "burnable": "ನಿಯಂತ್ರಿತ ಸುಟ್ಟು ಹೊಂದಿಕೆಯಾಗಬಹುದು",
+    "nonBurnable": "ಸುಟ್ಟು ಹೊಂದಲಾಗದ",
+    "caution": "ಜಾಗರೂಕತೆಯಿಂದ ನಿರ್ವಹಿಸಿ",
+    "flammable": "ಸುಟ್ಟು ಹೊಂದಿಕೆಯಾಗಬಹುದು",
+    "toxic": "ವಿಷಾದಾಯಕ",
+    "biohazardous": "ಜೈವ ಹಾನಿಕಾರಕ",
+    "radioactive": "ವಿಕಿರಣ ಕಚ್ಚಲು",
+    "useSafetyGear": "ರಕ್ಷಣಾ ಸಾಮಗ್ರಗಳನ್ನು ಬಳಸಿ",
+    "washHand": "ಕೈಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳಿ",
+    "sanitize": "ಸ್ಯಾನಿಟೈಸ್",
+    "disclaimer": "ಇಲ್ಲಿ ನೀಡಲಾದ ಮಾಹಿತಿ ಸಾಮಾನ್ಯವಾಗಿದೆ ಮತ್ತು ಎಲ್ಲಾ ಪ್ರದೇಶಗಳಿಗೂ ಅನ್ವಯಿಸಬಹುದು. {{value}} ನಿರ್ವಹಣೆಗಾಗಿ ಸ್ಥಳಿಕ ವಿಧಿಗಳು ಮತ್ತು ಮಾರ್ಗದರ್ಶಕಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿದೆ.",
+    "readMore": "ಹೆಚ್ಚು ಓದು",
+    "readMoreSearch": "ಸ್ಥಳಿಕ {{value}} ನಿರ್ವಹಣೆ ಪರಿಹರಣೆಗಳು ಮತ್ತು ನಿರ್ವಹಣೆ",
     "credits": "ಕ್ರೆಡಿಟ್ ಮಾಹಿತಿ",
-    "visitToKnowMore": "ಇನ್ನಷ್ಟು ತಿಳಿಯಲು ಭೇಟಿ ನೀಡಿ",
-    "sustainNatureNestBy": "ಪ್ರಕೃತಿಯ ಗೂಡನ್ನು ಇದರ ಮೂಲಕ ಪೋಷಿಸಿ"
+    "visitToKnowMore": "ಹೆಚ್ಚನ್ನು ತಿಳಿಯಲು ಭೇಟಿಯಾಗಿ",
+    "imageSearch": "ಚಿತ್ರ ಹುಡುಕಾಟ",
+    "uploadImage": "ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ",
+    "changeImage": "ಚಿತ್ರ ಬದಲಿಸಿ",
+    "or": "ಅಥವಾ",
+    "pasteImageLink": "ಚಿತ್ರ ಲಿಂಕ್ ಹಾಕಿ",
+    "reset": "ಮರುಹೊಂದಿಸು",
+    "search": "ಹುಡುಕು",
+    "searching": "ಹುಡುಕುತ್ತಿದೆ"
   }
 }

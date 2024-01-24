@@ -123,7 +123,6 @@
     },
     "004": {
       "name": "Food Waste",
-
       "wasteItems": {
         "Cooked Food": "Cooked Food",
         "Uncooked Food": "Uncooked Food",
@@ -223,13 +222,13 @@
         "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
         "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
         "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "safetyPrecautions": "When handling recyclables, wear appropriate safety gear if needed. Be cautious of insects or animals that may be near the recycling materials."
       },
       "whyItIsImportant": {
         "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
         "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Recycling helps reduce the environmental impact of waste and conserves valuable resources for future generations."
     },
     "007": {
       "name": "Automotive Waste",
@@ -578,10 +577,7 @@
       "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
     },
     "016": {
-      "id": "016",
       "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
       "wasteItems": {
         "Used Tires": "Used Tires",
         "Rubber Bands": "Rubber Bands",
@@ -964,7 +960,6 @@
       },
       "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
     },
-
     "026": {
       "name": "Landfill Waste",
       "wasteItems": {
@@ -1011,7 +1006,8 @@
   "error": {
     "invalidImageUrl": "Please enter a valid image URL.",
     "emptySearch": "Please provide an image or a URL.",
-    "searchResponse": "Error during search, please try later."
+    "searchResponse": "Error during search, please try later.",
+    "invalidImageSize": "Please provide image file with size up to 5MB."
   },
   "common": {
     "knowYourWaste": "Know your waste",
@@ -1034,7 +1030,7 @@
     "nonRecyclable": "Non recyclable",
     "burnable": "Controlled Burnable",
     "nonBurnable": "Non burnable",
-    "caution": "Handel with caution",
+    "caution": "Handle with caution",
     "flammable": "Flammable",
     "toxic": "Toxic",
     "biohazardous": "Biohazardous",
@@ -1042,7 +1038,7 @@
     "useSafetyGear": "take protective precaution",
     "washHand": "Wash hand",
     "sanitize": "Sanitize",
-    "disclaimer": "The information provided here is general and may not apply to all regions or circumstances. Local regulations and guidelines for organic waste management should be consulted.",
+    "disclaimer": "The information provided here is general and may not apply to all regions or circumstances. Local regulations and guidelines for {{value}} management should be consulted.",
     "readMore": "Read more",
     "readMoreSearch": "Local {{value}} management solutions and handling",
     "credits": "Credit info",

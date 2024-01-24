@@ -8,15 +8,11 @@ import {useTranslation} from 'react-i18next';
 import useSelectedLanguage from '../../hooks/useSelectedLanguage';
 import ImageSearchComponent from './ImageSearchComponent/ImageSearchComponent';
 import useOutsideOrScrollHide from '../../hooks/useOutsideOrScrollHide';
-import {
-  setFocusScroll,
-  setIsTextSearchOptionsVisible,
-} from '../../utils/redux/appSlice';
+import {setIsTextSearchOptionsVisible} from '../../utils/redux/appSlice';
 import {useDispatch, useSelector} from 'react-redux';
 
 const SearchComponent = () => {
   const dispatch = useDispatch();
-
   const {t} = useTranslation();
   useSelectedLanguage();
   const {
@@ -27,7 +23,6 @@ const SearchComponent = () => {
     handleSearchSubmit,
     handleSearchOptionClick,
   } = useSearchLogic();
-
   const {isNight} = useNightMode();
   const searchOptionRef = useRef(null);
   const isTextSearchOptionsVisible = useSelector(
@@ -35,12 +30,19 @@ const SearchComponent = () => {
   );
 
   useOutsideOrScrollHide(searchOptionRef, () => {
-    dispatch(setIsTextSearchOptionsVisible(false));
-    dispatch(setFocusScroll(false));
+    if (searchOptionRef) {
+      dispatch(setIsTextSearchOptionsVisible(false));
+    }
   });
 
+  const handleKeyDown = (event) => {
+    if (event.key === 'Enter' && searchTerm.trim().length >= 3) {
+      handleSearchSubmit();
+    }
+  };
+
   return (
-    <div className="search-container border-default">
+    <div className="search-container border-default" ref={searchOptionRef}>
       <input
         className="search-input"
         required
@@ -48,6 +50,7 @@ const SearchComponent = () => {
         placeholder={t('common.searchPlaceholder')}
         value={searchTerm}
         onChange={handleSearchChange}
+        onKeyDown={handleKeyDown}
       />
 
       <ImageSearchComponent />
@@ -68,7 +71,7 @@ const SearchComponent = () => {
       </button>
 
       {isTextSearchOptionsVisible && (
-        <ul className="search-options popup" ref={searchOptionRef}>
+        <ul className="search-options popup">
           {searchOptions.map(({item, binId}, index) => (
             <li
               key={index}

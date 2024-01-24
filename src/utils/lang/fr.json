@@ -1,1032 +1,1022 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "Déchets Organiques",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "Restes de nourriture",
+        "Fruit Peels": "Épluchures de fruits",
+        "Vegetable Peels": "Épluchures de légumes",
+        "Coffee Grounds": "Marc de café",
+        "Tea Bags": "Sachets de thé",
+        "Eggshells": "Coquilles d'œufs",
+        "Garden Flowers": "Fleurs de jardin",
+        "Houseplants": "Plantes d'intérieur",
+        "Grass Clippings": "Tontes de gazon",
+        "Weeds": "Mauvaises herbes",
+        "Nut Shells": "Coquilles de noix",
+        "Paper Towels": "Serviettes en papier",
+        "Cardboard": "Carton",
+        "Wood Scrap": "Déchets de bois",
+        "Natural Fibers": "Fibres naturelles"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "Les déchets organiques proviennent principalement des cuisines et des jardins. Ils comprennent des matériaux biodégradables tels que les restes de nourriture, les déchets de jardin et les fibres naturelles. Riches en nutriments, ces matériaux sont idéaux pour le compostage, qui transforme les déchets en précieux amendements du sol.",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "Déchets compostables",
+        "Biodegradable Waste": "Déchets biodégradables"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "Composteur (ventilé), métal ou plastique durable, vert/marron",
+        "handling": "Utilisez des gants lors de la manipulation, lavez-vous les mains après la disposition. Évitez tout contact direct avec les matériaux en décomposition.",
+        "separation": "Séparez les matériaux organiques des articles inorganiques (comme le plastique, le métal, le verre) pour assurer un compostage efficace.",
+        "whatNotToDo": "N'incluez pas les matériaux inorganiques tels que le plastique, le métal ou le verre. Évitez de jeter des produits traités chimiquement ou des matériaux contaminés par l'huile/graisse.",
+        "safetyPrecautions": "Utilisez des gants lors de la manipulation des déchets organiques pour éviter tout contact direct avec les matériaux en décomposition et les agents pathogènes potentiels. Assurez-vous que la zone de compostage est bien ventilée pour éviter l'accumulation d'odeurs désagréables. Lavez-vous soigneusement les mains après la manipulation de matériaux organiques pour maintenir l'hygiène personnelle."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "Réduit l'utilisation des décharges et les émissions de méthane, et diminue le besoin d'engrais chimiques. Favorise l'agriculture durable.",
+        "impact": "Transforme les déchets en compost précieux, enrichissant le sol en nutriments et favorisant la croissance saine des plantes. Encourage une utilisation durable des terres."
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "Si tous les déchets alimentaires mondiaux étaient compostés, les émissions de CO2 équivalentes à celles de 2 milliards de voitures pourraient être réduites, soit plus que le nombre total de voitures en circulation dans le monde."
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "Déchets Agricoles",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "Résidus de cultures",
+        "Manure": "Fumier",
+        "Pesticide Containers": "Contenants de pesticides",
+        "Fertilizer Bags": "Sacs d'engrais",
+        "Farm Machinery": "Machines agricoles",
+        "Spoiled Produce": "Produits gâtés",
+        "Agricultural Plastics": "Plastiques agricoles",
+        "Diseased Plants": "Plantes malades",
+        "Greenhouse Films": "Films de serre",
+        "Seed Sacks": "Sacs de semences",
+        "Pruning Waste": "Déchets de taille",
+        "Irrigation Equipment": "Équipement d'irrigation",
+        "Soil Amendment Packaging": "Emballages d'amendements du sol",
+        "Animal Feed Bags": "Sacs d'aliments pour animaux",
+        "Silage Wraps": "Enveloppements de silage",
+        "Horticultural Pots": "Pots horticoles",
+        "Waste Pesticides": "Pesticides usagés",
+        "Contaminated Soils": "Sols contaminés",
+        "Old Tools": "Vieux outils",
+        "Broken Irrigation Pipes": "Tuyaux d'irrigation cassés",
+        "Discarded Gloves": "Gants jetés",
+        "Protective Gear": "Équipement de protection",
+        "Unused Veterinary Medicines": "Médicaments vétérinaires non utilisés",
+        "Baler Twine": "Corde de presse",
+        "Netting Material": "Matériel de filetage",
+        "Plastic Mulch": "Paillage en plastique"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "Les déchets agricoles englobent à la fois des matériaux organiques et inorganiques provenant des activités agricoles. Cela comprend des sous-produits naturels tels que les résidus de cultures et le fumier, ainsi que des déchets non organiques tels que des contenants, des plastiques et d'anciennes machines. Une gestion efficace est essentielle pour minimiser l'impact environnemental et soutenir une agriculture durable.",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "Déchets agricoles",
+        "Agricultural Byproducts": "Sous-produits agricoles"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "Bacs spécialisés pour les déchets organiques et inorganiques, avec une manipulation séparée des matériaux dangereux",
+        "handling": "Utilisez un équipement de protection pour les articles dangereux. Compostez les déchets organiques lorsque cela est possible.",
+        "separation": "Séparez les matériaux organiques des déchets chimiques et plastiques. Manipulez les matériaux dangereux avec précaution.",
+        "whatNotToDo": "Ne brûlez pas les plastiques ni les contenants chimiques. Évitez de mélanger les déchets organiques avec les matériaux dangereux.",
+        "safetyPrecautions": "Portez des gants et des vêtements de protection, en particulier lors de la manipulation d'engrais chimiques ou de pesticides. Assurez une bonne ventilation lors de travaux avec des amendements du sol ou dans des espaces clos comme les serres."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "Une élimination appropriée réduit la pollution, améliore la santé du sol et favorise des pratiques durables.",
+        "impact": "Une gestion efficace des déchets agricoles réduit l'empreinte environnementale de l'agriculture, préserve les ressources et soutient des pratiques agricoles durables."
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "Les résidus de cultures, s'ils sont correctement gérés et compostés, peuvent enrichir considérablement la fertilité du sol, réduisant ainsi potentiellement le besoin d'engrais synthétiques."
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "Déchets Animaux",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "Fumier",
+        "Bedding Straw": "Paille de litière",
+        "Livestock Carcasses": "Carcasses de bétail",
+        "Poultry Waste": "Déchets de volaille",
+        "Feathers": "Plumes",
+        "Fish Waste": "Déchets de poisson",
+        "Milk Spoilage": "Détérioration du lait",
+        "Eggshell Waste": "Déchets de coquilles d'œufs",
+        "Animal Hair": "Poils d'animaux",
+        "Wool": "Laine",
+        "Dairy Processing Waste": "Déchets de transformation laitière",
+        "Veterinary Supplies": "Fournitures vétérinaires",
+        "Expired Animal Feed": "Aliments pour animaux périmés",
+        "Contaminated Animal Products": "Produits animaux contaminés"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "Les déchets animaux désignent les sous-produits générés par l'élevage de bétail, de volaille et d'autres animaux. Cela comprend les déchets organiques tels que le fumier et la litière, ainsi que les carcasses et les produits dérivés animaux détériorés. Une manipulation et une élimination appropriées sont essentielles pour la santé environnementale et la prévention de la propagation des maladies.",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "Déchets de bétail",
+        "Poultry Waste": "Déchets de volaille"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "Contenants spécialisés pour les déchets biologiques dangereux, séparés des déchets courants",
+        "handling": "Utilisez un équipement de protection, en particulier lors de la manipulation de carcasses ou de déchets contaminés. Respectez des protocoles d'hygiène stricts.",
+        "separation": "Séparez les déchets animaux biologiques dangereux des déchets courants. Éliminez-les dans des contenants désignés.",
+        "whatNotToDo": "Ne mélangez pas avec les déchets courants. Évitez tout contact direct sans l'équipement de sécurité approprié.",
+        "safetyPrecautions": "Portez des gants et des chaussures de protection lors de la manipulation de déchets animaux pour éviter tout contact direct avec des micro-organismes potentiellement nocifs. Assurez-vous que les zones où les déchets animaux sont stockés ou traités sont bien ventilées. Après la manipulation de déchets animaux, lavez-vous soigneusement les mains à l'eau et au savon pour éviter la propagation de maladies zoonotiques."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "Une gestion appropriée prévient la contamination environnementale et les risques pour la santé des humains et des animaux.",
+        "impact": "L'élimination responsable des déchets animaux soutient la santé publique, la protection de l'environnement et les pratiques agricoles durables."
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "Le fumier d'une vache laitière peut produire suffisamment d'électricité pour alimenter un petit réfrigérateur pendant une journée, illustrant le potentiel de conversion des déchets animaux en énergie renouvelable."
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "Déchets Alimentaires",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "Nourriture Cuite",
+        "Uncooked Food": "Nourriture Non Cuite",
+        "Meat Scraps": "Déchets de Viande",
+        "Fish Scraps": "Déchets de Poisson",
+        "Dairy Products": "Produits Laitiers",
+        "Bread": "Pain",
+        "Pastries": "Pâtisseries",
+        "Leftover Meals": "Repas Restants",
+        "Expired Food": "Nourriture Périmée",
+        "Rice": "Riz",
+        "Pasta": "Pâtes",
+        "Cheese": "Fromage",
+        "Egg Shells": "Coquilles d'Œufs",
+        "Fruit Scraps": "Déchets de Fruits",
+        "Vegetable Scraps": "Déchets de Légumes",
+        "Coffee Grounds": "Marc de Café",
+        "Tea Bags": "Sachets de Thé",
+        "Food-Soiled Paper": "Papier Souillé de Nourriture"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "Les bacs à déchets alimentaires servent à éliminer divers types de déchets alimentaires, y compris les restes, les articles périmés et les déchets alimentaires. Cette catégorie de déchets convient à la biodigestion ou au compostage, transformant la matière organique en ressources précieuses.",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "Déchets de Cuisine",
+        "Leftover Waste": "Déchets de Restes"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "Poubelle hermétique, avec contrôle des odeurs, vert foncé ou marron",
+        "handling": "Scellez les déchets alimentaires pour réduire les odeurs et dissuader les insectes. Lavez toujours et désinfectez vos mains après manipulation. Nettoyez rapidement les déversements.",
+        "separation": "Séparez les déchets alimentaires des matériaux recyclables et non compostables pour améliorer l'efficacité du compostage et du recyclage.",
+        "whatNotToDo": "Ne mélangez pas les déchets alimentaires avec des liquides, des huiles ou des produits chimiques. Évitez d'inclure des articles non biodégradables comme le plastique ou le métal. Ne laissez pas les déchets alimentaires à découvert pour éviter d'attirer les nuisibles et de générer des odeurs.",
+        "safetyPrecautions": "Lors de la manipulation de déchets alimentaires, en particulier en grande quantité, portez des gants pour vous protéger contre les altérations potentielles et les bactéries. Gardez les conteneurs de déchets alimentaires propres et couverts pour éviter d'attirer les nuisibles et de générer des odeurs. Nettoyez régulièrement vos mains, vos outils et les surfaces en contact avec les déchets alimentaires pour maintenir l'hygiène."
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "Contribue à prévenir l'attraction des nuisibles, réduit les émissions de gaz à effet de serre provenant des décharges et facilite la production de compost ou de biogaz.",
+        "impact": "Une gestion adéquate des déchets alimentaires permet d'économiser des ressources, réduit l'impact environnemental et favorise les pratiques durables."
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "Si les déchets alimentaires étaient un pays, ils seraient le troisième plus grand émetteur de gaz à effet de serre au monde, après les États-Unis et la Chine. Réduire les déchets alimentaires est crucial pour minimiser l'impact environnemental."
     },
     "005": {
-      "name": "Green Waste",
+      "name": "Déchets Verts",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
+        "Grass Clippings": "Tontes de Gazon",
+        "Leaves": "Feuilles",
         "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Weeds": "Mauvaises Herbes",
+        "Flowers": "Fleurs",
+        "Garden Trimmings": "Tailles de Jardin",
+        "Shrubs": "Arbustes",
+        "Small Twigs": "Petites Branches",
+        "Hedge Clippings": "Tailles de Haies",
+        "Fallen Fruit": "Fruits Tombés",
+        "Garden Maintenance": "Entretien de Jardin",
+        "Plant Prunings": "Tailles de Plantes"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "Les déchets verts, composés de débris végétaux et de jardin, jouent un rôle essentiel dans le recyclage organique. Le compostage des déchets verts contribue à la création d'amendements riches en nutriments, essentiels pour le jardinage et l'agriculture durables.",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "Déchets de Jardin",
+        "Garden Waste": "Déchets de Jardin"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "Bac Ouvert, Grande Capacité, de préférence Vert",
+        "handling": "Utilisez des gants lors de la manipulation des déchets verts pour éviter les coupures ou les irritations dues aux matériaux rugueux. Lavez-vous les mains après l'élimination.",
+        "separation": "Séparez les déchets verts des déchets ménagers et dangereux. Ne les mélangez pas avec les déchets alimentaires ou recyclables.",
+        "whatNotToDo": "Évitez de jeter des matériaux inorganiques comme des sacs en plastique ou des pots. N'incluez pas de terre ou de pierres. Abstenez-vous d'ajouter des plantes malades ou des espèces envahissantes qui pourraient contaminer le compost.",
+        "safetyPrecautions": "Lors de la manipulation des déchets verts, portez des gants pour vous protéger contre les matériaux tranchants, et assurez-vous qu'ils ne contiennent pas de substances nocives comme le bois traité."
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "Facilite la production de compost, enrichit la santé du sol et contribue à la séquestration du carbone. Réduit l'utilisation de l'espace en décharge et les émissions de gaz à effet de serre.",
+        "impact": "Contribue à la gestion durable des déchets, soutient la biodiversité du sol et encourage des pratiques de jardinage et d'agriculture respectueuses de l'environnement."
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "Les déchets verts comme les tontes de gazon et les feuilles peuvent être compostés pour créer un sol riche, connu sous le nom de 'l'or noir' des jardiniers, améliorant la croissance des plantes sans engrais chimiques."
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "Déchets Recyclables",
       "wasteItems": {
-        "Newspapers": "Newspapers",
+        "Newspapers": "Journaux",
         "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
+        "Office Paper": "Papier de Bureau",
+        "Cardboard": "Carton",
+        "Plastic Bottles": "Bouteilles en Plastique",
+        "Plastic Containers": "Contenants en Plastique",
+        "Glass Bottles": "Bouteilles en Verre",
+        "Glass Jars": "Bocaux en Verre",
+        "Aluminum Cans": "Canettes en Aluminium",
+        "Steel Cans": "Canettes en Acier",
+        "Electronics": "Appareils Électroniques",
         "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Untreated Wood": "Bois Non Traité",
+        "Aerosol Cans": "Bombes Aérosols",
+        "Batteries": "Piles",
+        "Non-LED Light Bulbs": "Ampoules Non-LED"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "Les déchets recyclables comprennent une variété de matériaux qui peuvent être retraités pour une utilisation ultérieure. Les principaux éléments de cette catégorie comprennent les produits en papier, les plastiques, le verre, les métaux et certains types d'appareils électroniques, qui jouent tous un rôle vital dans la préservation des ressources et la durabilité environnementale.",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "Poubelle de Recyclage, en Métal ou en Plastique Durable",
+        "handling": "Assurez-vous que les articles sont propres et secs avant de les recycler. Triez-les selon les directives de recyclage locales.",
+        "separation": "Séparez les différents types de matériaux recyclables pour éviter la contamination avec des matériaux non recyclables.",
+        "whatNotToDo": "Évitez d'inclure des matériaux souillés, contaminés ou non recyclables. Respectez les règles locales de recyclage pour les éliminations spécifiques.",
+        "safetyPrecautions": "Lors de la manipulation des matériaux recyclables, portez l'équipement de sécurité approprié si nécessaire. Soyez prudent vis-à-vis des insectes ou des animaux qui pourraient se trouver près des matériaux recyclables."
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "Réduit le besoin de nouvelles matières premières, conserve l'énergie et diminue l'impact environnemental des déchets.",
+        "impact": "Soutient la gestion durable des ressources, contribuant aux efforts de conservation et de protection de l'environnement."
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "Le recyclage contribue à réduire l'impact environnemental des déchets et préserve des ressources précieuses pour les générations futures."
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "Déchets Automobiles",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
+        "Used Motor Oil": "Huile de Moteur Usagée",
+        "Oil Filters": "Filtres à Huile",
         "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Tires": "Pneus",
+        "Brake Pads": "Plaquettes de Frein",
+        "Brake Fluid": "Liquide de Frein",
+        "Transmission Fluid": "Liquide de Transmission",
+        "Coolants": "Liquides de Refroidissement",
+        "Metal Parts": "Pièces Métalliques",
+        "Rubber Hoses": "Tuyaux en Caoutchouc",
+        "Belts": "Courroies",
+        "Air Filters": "Filtres à Air",
+        "Windshield Glass": "Vitres de Pare-Brise",
+        "Upholstery Materials": "Matériaux d'Aménagement Intérieur",
+        "Automotive Bumpers": " Pare-Chocs Automobiles",
+        "Headlights": "Phares",
+        "Electrical Components": "Composants Électriques"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "Les déchets automobiles englobent divers matériaux et composants provenant des véhicules. Ils comprennent à la fois des déchets dangereux et non dangereux, tels que les huiles, les batteries, les pneus et les pièces mécaniques. La bonne élimination et le recyclage des déchets automobiles sont essentiels pour la protection de l'environnement et la conservation des ressources.",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "Déchets de Véhicules",
+        "Car Waste": "Déchets de Voitures"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "Contenants spécialisés pour les matériaux dangereux, zones désignées pour les pièces plus volumineuses",
+        "handling": "Manipulez avec précaution, en particulier pour les substances dangereuses. Utilisez un équipement de protection lors de la manipulation d'huiles et de produits chimiques.",
+        "separation": "Séparez les déchets dangereux tels que les huiles et les batteries des articles non dangereux. Suivez les directives locales pour l'élimination de chaque type de déchet.",
+        "whatNotToDo": "N'éliminez pas les huiles et les produits chimiques automobiles dans les poubelles ou les drains classiques. Évitez de mélanger différents types de déchets automobiles.",
+        "safetyPrecautions": "Portez des gants et une protection oculaire lors de la manipulation des déchets automobiles tels que l'huile usagée, les batteries et les pneus pour éviter tout contact avec des matériaux dangereux. Travaillez toujours dans des zones bien ventilées pour éviter d'inhaler des vapeurs, en particulier lors de la manipulation de liquides automobiles. Éliminez les déchets automobiles dans les centres de recyclage désignés pour éviter toute contamination environnementale."
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "Prévient la contamination environnementale, conserve des matériaux précieux et soutient les initiatives de recyclage.",
+        "impact": "Une gestion adéquate des déchets automobiles réduit l'empreinte écologique de l'utilisation et de l'entretien des véhicules, contribuant ainsi à un environnement plus propre et plus sûr."
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "Le recyclage d'une seule voiture permet d'économiser plus de 2 500 livres de minerai de fer, 1 400 livres de charbon et 120 livres de calcaire. Ce processus réduit également de manière significative l'énergie et les matières premières nécessaires pour produire de nouvelles pièces automobiles et des véhicules."
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "Déchets Encombrants",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "Meubles",
+        "Appliances": "Appareils Électroménagers",
+        "Mattresses": "Matelas",
+        "Large Toys": "Jouets de Grande Taille",
+        "Carpeting": "Revêtements de Sol (Tapis)",
+        "Bicycles": "Vélos",
+        "Large Electronics": "Équipements Électroniques de Grande Taille",
+        "BBQ Grills": "Barbecues",
+        "Exercise Equipment": "Équipement de Fitness",
+        "Large Household Items": "Articles Ménagers de Grande Taille"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "Les déchets encombrants comprennent de gros articles qui ne rentrent pas dans les poubelles traditionnelles. Une élimination adéquate des déchets encombrants est essentielle pour une gestion efficace des déchets et la préservation de l'environnement. Le recyclage des articles encombrants peut contribuer à la conservation des ressources.",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "Gros Déchets",
+        "Oversized Items": "Articles Surdimensionnés"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "Collecte Spéciale ou Point de Dépôt",
+        "handling": "Consultez les instructions spécifiques de l'organisme de gestion des déchets local pour l'élimination. Certains articles peuvent nécessiter une manipulation spéciale ou des services de collecte.",
+        "separation": "Séparez les différents types d'articles encombrants pour des méthodes appropriées de recyclage ou d'élimination.",
+        "whatNotToDo": "Ne laissez pas d'articles encombrants sur le trottoir sans organiser une collecte appropriée. Évitez le dépôt illégal.",
+        "safetyPrecautions": "Lors de la manipulation d'articles encombrants tels que les meubles, les appareils électroménagers et les gros jouets, utilisez des techniques de levage appropriées pour éviter les blessures au dos. Il est conseillé d'avoir de l'aide ou d'utiliser un chariot pour déplacer les objets lourds. Portez des chaussures de protection pour éviter les blessures aux pieds et des gants pour une meilleure prise en main et pour vous protéger des bords tranchants."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "Une élimination adéquate des déchets encombrants réduit l'utilisation des décharges, favorise le recyclage et contribue à un environnement plus propre et plus sûr.",
+        "impact": "Le recyclage des articles encombrants permet de récupérer des matériaux précieux, réduit l'impact environnemental et soutient des pratiques de gestion durable des déchets."
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "Les meubles et d'autres articles encombrants finissent souvent dans les décharges, mais s'ils sont réutilisés ou recyclés, un seul canapé peut économiser jusqu'à 9 mètres cubes d'espace en décharge, ce qui illustre l'impact significatif du recyclage et de la réutilisation des articles encombrants."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "Déchets de Construction et de Démolition",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "Béton",
+        "Bricks": "Briques",
+        "Wood": "Bois",
+        "Gypsum": "Gypse",
+        "Metal": "Métal",
+        "Glass": "Verre",
+        "Plastic": "Plastique",
+        "Insulation Materials": "Matériaux d'Isolation",
+        "Electrical Wiring": "Câblage Électrique",
+        "Plumbing Fixtures": "Équipements de Plomberie",
+        "Ceramic Tiles": "Carreaux en Céramique",
+        "Asphalt": "Asphalte",
+        "Roofing Materials": "Matériaux de Toiture",
+        "Windows": "Fenêtres",
+        "Doors": "Portes",
+        "Piping": "Tuyauterie",
+        "Reinforced Concrete": "Béton Armé",
+        "Drywall": "Plaque de Plâtre (Placoplâtre)",
+        "Flooring Materials": "Matériaux de Revêtement de Sol",
+        "Wall Coverings": "Revêtements Muraux"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "Les déchets de construction et de démolition comprennent des matériaux provenant de la construction, de la rénovation et de la démolition de bâtiments et de structures. Une gestion appropriée est cruciale pour recycler les matériaux et minimiser l'impact environnemental.",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "Déchets de Construction",
+        "Renovation Debris": "Débris de Rénovation"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "Collecte Spéciale ou Zones de Dépôt Désignées",
+        "handling": "Consultez les réglementations locales pour l'élimination. Certains matériaux nécessitent un traitement ou une manipulation spéciale.",
+        "separation": "Séparez les matériaux en fonction du type (par exemple, métal, bois, béton) pour un recyclage efficace.",
+        "whatNotToDo": "Ne mélangez pas les déchets de construction et de démolition avec les déchets ménagers. Évitez le dépôt illégal et l'élimination inappropriée.",
+        "safetyPrecautions": "Assurez-vous de porter des gants solides et des lunettes de protection pour vous protéger contre les objets tranchants et les débris dans les déchets de construction et de démolition tels que le bois, le métal et le béton. Des chaussures appropriées sont essentielles pour éviter les blessures causées par les matériaux lourds. Utilisez des masques anti-poussières pour vous protéger contre la poussière et les fines particules. Employez des techniques de levage appropriées pour les objets lourds afin d'éviter les blessures au dos."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "Une élimination appropriée favorise le recyclage des matériaux, réduit l'utilisation des décharges et minimise la pollution environnementale.",
+        "impact": "Le recyclage des matériaux de construction et de démolition permet de préserver les ressources, soutient l'industrie de la construction en utilisant des matériaux recyclés et contribue au développement durable."
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "Le recyclage d'une tonne de béton peut économiser jusqu'à 1360 gallons d'eau et 900 kg de CO2, mettant en évidence les importants avantages environnementaux de la réutilisation des matériaux de construction et de démolition au lieu de les enfouir dans des décharges."
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "Déchets Électroniques",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
+        "Computers": "Ordinateurs",
+        "Laptops": "Ordinateurs Portables",
+        "Mobile Phones": "Téléphones Mobiles",
+        "Printers": "Imprimantes",
         "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
+        "Televisions": "Télévisions",
+        "Monitors": "Écrans",
+        "DVD Players": "Lecteurs DVD",
+        "Game Consoles": "Consoles de Jeu",
+        "Small Appliances": "Petits Appareils Électroménagers",
+        "Electronic Tools": "Outils Électroniques",
         "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Circuit Boards": "Cartes de Circuit",
+        "Hard Drives": "Disques Durs",
+        "Keyboards": "Claviers",
+        "Mice": "Souris",
+        "Speakers": "Haut-Parleurs",
+        "Chargers": "Chargeurs",
+        "Cables": "Câbles",
+        "Cameras": "Caméras",
+        "Electronic Toys": "Jouets Électroniques",
+        "CDs": "CD",
+        "DVDs": "DVD",
+        "GPS Devices": "Appareils GPS"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "Les déchets électroniques, ou e-déchets, comprennent les dispositifs et équipements électroniques jetés. Un recyclage et une élimination appropriés sont essentiels pour récupérer des matériaux précieux et prévenir la contamination environnementale.",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "DEEE (Déchets d'Équipements Électriques et Électroniques)",
+        "E-Waste": "E-Déchets"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "Points de Collecte Spécialisés pour les E-Déchets ou Centres de Recyclage",
+        "handling": "Manipulez les E-Déchets avec précaution pour éviter la casse et les fuites de substances dangereuses. Suivez les réglementations locales pour l'élimination.",
+        "separation": "Séparez les E-Déchets des déchets réguliers. Triez-les par type pour un recyclage efficace.",
+        "whatNotToDo": "Ne jetez pas les E-Déchets dans les poubelles ordinaires. Évitez de démonter ou de casser les dispositifs électroniques, ce qui peut libérer des substances toxiques.",
+        "safetyPrecautions": "Utilisez des gants pour vous protéger des arêtes vives lors de la manipulation des E-Déchets comme les anciens ordinateurs et téléviseurs. Soyez conscient des matériaux dangereux tels que le plomb et le mercure dans les appareils électroniques. Évitez de les casser pour éviter toute exposition. Recyclez-les dans des centres désignés pour une élimination sûre."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "Une élimination appropriée des E-Déchets recycle des matériaux précieux, réduit l'utilisation des décharges et protège l'environnement contre les substances toxiques.",
+        "impact": "Le recyclage des E-Déchets soutient l'économie circulaire, réduit le besoin de nouvelles matières premières et minimise l'empreinte écologique."
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "Le recyclage d'un million d'ordinateurs portables permet d'économiser suffisamment d'énergie pour alimenter plus de 3 500 foyers américains pendant un an. Le recyclage d'un million de téléphones mobiles peut récupérer 35 274 livres de cuivre, 772 livres d'argent, 75 livres d'or et 33 livres de palladium."
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "Déchets de Verre",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "Bouteilles en Verre",
+        "Glass Jars": "Bocaux en Verre",
+        "Window Glass": "Vitrage de Fenêtre",
+        "Mirror Glass": "Miroirs en Verre",
+        "Glass Containers": "Récipients en Verre",
+        "Drinking Glasses": "Verres à Boire",
+        "Broken Glassware": "Verres Cassés",
+        "Automotive Glass": "Vitres Automobiles",
+        "Glass Tableware": "Vaisselle en Verre",
+        "Light Bulbs": "Ampoules en Verre (non fluorescentes)",
+        "Laboratory Glassware": "Matériel de Laboratoire en Verre",
+        "Tempered Glass": "Verre Trempé",
+        "Glass Shards": "Éclats de Verre"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "Les déchets de verre comprennent divers types de produits en verre jetés. Le recyclage du verre est essentiel car il peut être transformé et refait en nouveaux produits en verre, réduisant ainsi le besoin de nouvelles matières premières.",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "Verre Brisé",
+        "Discarded Glassware": "Vaisselle en Verre Abandonnée"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "Poubelle de Recyclage du Verre ou Points de Dépôt",
+        "handling": "Manipulez les déchets de verre avec précaution pour éviter les blessures. Retirez les composants non en verre si nécessaire.",
+        "separation": "Séparez le verre par couleur et par type lorsque cela est possible pour améliorer l'efficacité du recyclage.",
+        "whatNotToDo": "Ne jetez pas de verre dans les poubelles ordinaires. Évitez de mélanger le verre avec d'autres matériaux recyclables qui pourraient le contaminer.",
+        "safetyPrecautions": "Utilisez des gants lors de la manipulation de verre cassé pour éviter les coupures. Si vous manipulez une grande quantité de déchets de verre, il est recommandé de porter une protection oculaire pour vous protéger des échardes potentielles. Soulevez toujours les objets en verre lourds correctement pour éviter les blessures. Conservez les déchets de verre dans un conteneur rigide pour éviter les cassures et assurer un transport en toute sécurité."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "Le recyclage du verre réduit les déchets enfouis, préserve les ressources naturelles et économise de l'énergie. Le verre peut être recyclé indéfiniment sans perte de qualité.",
+        "impact": "Un recyclage efficace du verre contribue à réduire l'impact environnemental, soutient l'utilisation durable des ressources et contribue à une économie circulaire."
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "Le recyclage du verre est incroyablement efficace car il peut être recyclé indéfiniment sans aucune perte de pureté ou de qualité. En fait, 80 % des contenants en verre récupérés sont transformés en nouvelles bouteilles en verre, et un contenant en verre peut passer d'une poubelle de recyclage à une étagère de magasin en aussi peu que 30 jours."
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "Déchets Industriels",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "Solvants Chimiques",
+        "Metal Scraps": "Déchets Métalliques",
+        "Plastic Offcuts": "Chutes de Plastique",
+        "Construction Debris": "Débris de Construction",
+        "Electronic Components": "Composants Électroniques",
+        "Paper and Cardboard": "Papier et Carton",
+        "Textile Scraps": "Chutes de Textile",
+        "Glass Pieces": "Morceaux de Verre",
+        "Rubber Waste": "Déchets en Caoutchouc",
+        "Biodegradable Waste": "Déchets Biodégradables",
+        "Non-Biodegradable Waste": "Déchets Non Biodégradables",
+        "Hazardous Materials": "Matériaux Dangereux",
+        "Non-Hazardous Materials": "Matériaux Non Dangereux",
+        "Industrial Sludge": "Boues Industrielles",
+        "Packaging Materials": "Matériaux d'Emballage"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "Les déchets industriels comprennent une vaste gamme de matériaux résultant des processus industriels et de fabrication. Une gestion adéquate, y compris le recyclage et l'élimination sûre, est essentielle pour minimiser l'impact environnemental.",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "Déchets de Fabrication",
+        "Production Waste": "Déchets de Production"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "Conteneurs Spécialisés pour les Déchets Industriels ou Installations de Recyclage",
+        "handling": "Manipulez avec l'équipement de sécurité approprié, en particulier lorsqu'il s'agit de matériaux dangereux. Suivez toutes les directives réglementaires pour l'élimination.",
+        "separation": "Séparez les déchets par type (par exemple, dangereux vs non dangereux) et par matériau (par exemple, métal, plastique) pour faciliter le recyclage et l'élimination.",
+        "whatNotToDo": "Ne mélangez pas les déchets industriels dangereux avec les déchets non dangereux. Évitez le déversement illégal ou l'élimination incorrecte des déchets industriels.",
+        "safetyPrecautions": "Utilisez toujours des gants, des lunettes de protection et des masques de protection lors de la manipulation des déchets industriels, en particulier s'ils contiennent des matériaux dangereux."
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "La gestion adéquate et le recyclage des déchets industriels préservent les ressources, réduisent la pollution et soutiennent les pratiques industrielles durables.",
+        "impact": "La gestion efficace des déchets industriels réduit la pression sur les décharges, minimise les risques environnementaux et contribue à l'économie circulaire."
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "Le recyclage des métaux industriels peut économiser jusqu'à 75 % de l'énergie nécessaire pour les produire à partir de matières premières."
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "Déchets Métalliques",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "Canettes en Aluminium",
+        "Tin Cans": "Boîtes de Conserve en Fer-Blanc",
+        "Steel Scraps": "Chutes de Fer",
+        "Copper Wire": "Câbles en Cuivre",
+        "Metal Pipes": "Tuyaux Métalliques",
+        "Metal Tools": "Outils Métalliques",
+        "Metal Packaging": "Emballages Métalliques",
+        "Automotive Parts": "Pièces Automobiles",
+        "Metal Furniture": "Meubles en Métal",
+        "Metal Appliances": "Appareils Ménagers en Métal",
+        "Construction Materials": "Matériaux de Construction",
+        "Aerosol Cans": "Bombes Aérosol",
+        "Electronic Metals": "Métaux Électroniques",
+        "Metal Caps": "Bouchons Métalliques",
+        "Metal Lids": "Couvercles Métalliques"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "Les déchets métalliques englobent divers objets et matériaux métalliques jetés. Ils sont hautement recyclables et peuvent être retraités en nouveaux produits métalliques, réduisant ainsi le besoin d'extraction de minerai vierge.",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "Ferraille Métallique",
+        "Discarded Metal": "Métal Jeté"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "Conteneur de Recyclage Métallique ou Fonderie",
+        "handling": "Triez les métaux par type et retirez toute composante non métallique si possible. Manipulez-les avec précaution pour éviter les blessures.",
+        "separation": "Séparez les métaux ferreux (comme l'acier et le fer) des métaux non ferreux (comme l'aluminium et le cuivre) pour améliorer l'efficacité du recyclage.",
+        "whatNotToDo": "Ne jetez pas les déchets métalliques avec les déchets ordinaires. Évitez de mélanger différents types de métaux, sauf si cela est indiqué par votre installation de recyclage locale.",
+        "safetyPrecautions": "Portez des gants et des chaussures de protection lorsque vous manipulez des déchets métalliques pour éviter les coupures et les blessures."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "Le recyclage des métaux permet d'économiser de l'énergie, de réduire les émissions de gaz à effet de serre et de conserver les ressources naturelles. Les métaux peuvent être recyclés plusieurs fois sans perdre leurs propriétés.",
+        "impact": "Le recyclage efficace des métaux réduit l'impact environnemental, diminue la demande d'extraction minière et favorise la gestion durable des ressources."
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "Recycler une canette en aluminium permet d'économiser suffisamment d'énergie pour faire fonctionner une télévision pendant trois heures."
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "Déchets Papier",
       "wasteItems": {
-        "Newspapers": "Newspapers",
+        "Newspapers": "Journaux",
         "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Office Paper": "Papier de Bureau",
+        "Notebooks": "Cahiers",
+        "Envelopes": "Enveloppes",
+        "Junk Mail": "Courrier Indésirable",
+        "Cardboard Boxes": "Boîtes en Carton",
+        "Paper Packaging": "Emballages en Papier",
+        "Paper Bags": "Sacs en Papier",
+        "Phone Books": "Annuaires Téléphoniques",
+        "Catalogs": "Catalogues",
+        "Shredded Paper": "Papier Déchiqueté",
+        "Paper Cups": "Gobelets en Papier",
+        "Paper Plates": "Assiettes en Papier",
+        "Greeting Cards": "Cartes de Vœux",
+        "Wrapping Paper": "Papier d'Emballage"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "Les déchets papier englobent divers types de papier et de produits en papier jetés. Le recyclage des déchets papier est essentiel pour réduire la déforestation et conserver les ressources naturelles.",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "Papier Jeté",
+        "Paper Scraps": "Chutes de Papier"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "Poubelle de Recyclage Papier",
+        "handling": "Retirez toutes les composantes non en papier telles que les doublures en plastique, les agrafes ou le ruban adhésif. Conservez le papier sec et propre pour un recyclage efficace.",
+        "separation": "Séparez le papier par type (par exemple, carton, papier de bureau) et par état (par exemple, propre, souillé) pour améliorer l'efficacité du recyclage.",
+        "whatNotToDo": "Ne mélangez pas les déchets papier souillés ou gras avec du papier propre. Évitez de jeter du papier recyclable dans les poubelles ordinaires.",
+        "safetyPrecautions": "Aucune précaution particulière n'est nécessaire pour la manipulation de la plupart des déchets papier."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "Le recyclage du papier réduit le besoin de produire du papier neuf, ce qui permet d'économiser des arbres et de réduire la consommation d'énergie et d'eau.",
+        "impact": "Le recyclage efficace du papier minimise l'utilisation des décharges, réduit les émissions de gaz à effet de serre et soutient des pratiques forestières durables."
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "Le recyclage d'une seule tonne de papier peut sauver 17 arbres et 7 000 gallons d'eau."
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "Déchets Plastiques",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "Bouteilles en Plastique",
+        "Plastic Bags": "Sacs en Plastique",
+        "Plastic Packaging": "Emballages en Plastique",
+        "Plastic Containers": "Contenants en Plastique",
+        "Plastic Utensils": "Ustensiles en Plastique",
+        "Plastic Wraps": "Films Plastiques",
+        "Plastic Toys": "Jouets en Plastique",
+        "Polystyrene Foam": "Mousse de Polystyrène",
+        "Plastic Cups": "Gobelets en Plastique",
+        "Plastic Plates": "Assiettes en Plastique",
+        "Plastic Film": "Film Plastique",
+        "Water Bottles": "Bouteilles d'Eau",
+        "Detergent Bottles": "Bouteilles de Détergent",
+        "Shampoo Bottles": "Bouteilles de Shampoing",
+        "Plastic Caps": "Bouchons en Plastique",
+        "Plastic Lids": "Couvercles en Plastique",
+        "Plastic Furniture": "Meubles en Plastique",
+        "Plastic Hangers": "Cintres en Plastique"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "Les déchets plastiques comprennent une variété d'articles en plastique jetés. Étant donné leur long temps de décomposition, le recyclage et l'élimination adéquate des déchets plastiques sont essentiels pour atténuer l'impact environnemental.",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "Plastiques Jetés",
+        "Scrap Plastics": "Plastiques Récupérés"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "Poubelle de Recyclage Plastique ou Installation de Recyclage",
+        "handling": "Nettoyez et séchez les plastiques avant de les recycler. Retirez toutes les composantes non plastiques, telles que les étiquettes ou les bouchons.",
+        "separation": "Séparez les plastiques par type et catégorie, car différents types de plastiques nécessitent différents processus de recyclage.",
+        "whatNotToDo": "Ne mélangez pas les déchets plastiques avec d'autres matériaux recyclables ou les déchets généraux. Évitez de jeter de gros articles en plastique dans les poubelles ordinaires.",
+        "safetyPrecautions": "Aucune précaution particulière n'est nécessaire pour manipuler la plupart des déchets plastiques."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "Le recyclage du plastique réduit le besoin de produire du plastique neuf, préserve les ressources et diminue la pollution. Il contribue également à réduire la quantité de plastique qui finit dans les décharges et les océans.",
+        "impact": "Le recyclage efficace du plastique contribue à la durabilité environnementale, réduit les émissions de gaz à effet de serre et soutient l'efficacité de la gestion des déchets."
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "Le recyclage d'une tonne de plastique peut permettre d'économiser jusqu'à 7,4 mètres cubes d'espace en décharge."
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "Déchets en Caoutchouc",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "Pneus Usagés",
+        "Rubber Bands": "Élastiques en Caoutchouc",
+        "Rubber Gloves": "Gants en Caoutchouc",
+        "Rubber Hoses": "Tuyaux en Caoutchouc",
+        "Rubber Footwear": "Chaussures en Caoutchouc",
+        "Rubber Mats": "Tapis en Caoutchouc",
+        "Conveyor Belts": "Courroies de Convoyeur",
+        "Rubber Gaskets": "Joints en Caoutchouc",
+        "Rubber Seals": "Joints d'Étanchéité en Caoutchouc",
+        "Rubber Sheets": "Feuilles en Caoutchouc",
+        "Rubber Toys": "Jouets en Caoutchouc",
+        "Automotive Rubber": "Caoutchouc Automobile",
+        "Rubber Tubing": "Tubes en Caoutchouc",
+        "Elastomeric Materials": "Matériaux Élastomères",
+        "Synthetic Rubber": "Caoutchouc Synthétique"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "Les déchets en caoutchouc se composent de divers produits en caoutchouc jetés. Le recyclage du caoutchouc est important pour préserver les ressources et réduire l'impact environnemental, car le caoutchouc peut mettre longtemps à se décomposer dans les décharges.",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "Caoutchouc Récupéré",
+        "Waste Rubber": "Déchets en Caoutchouc"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "Installation de Recyclage Spécialisée en Caoutchouc ou Points de Collecte",
+        "handling": "Manipulez les déchets en caoutchouc avec précaution, en particulier lorsqu'il s'agit d'articles volumineux ou lourds. Assurez-vous d'un stockage adéquat pour éviter toute contamination environnementale.",
+        "separation": "Séparez les différents types de déchets en caoutchouc pour un recyclage efficace. Retirez toute composante non en caoutchouc si possible.",
+        "whatNotToDo": "Ne jetez pas les déchets en caoutchouc dans les poubelles ordinaires. Évitez de brûler les déchets en caoutchouc, car cela libère des toxines nocives.",
+        "safetyPrecautions": "Portez des gants et des vêtements de protection lors de la manipulation des déchets en caoutchouc pour éviter toute irritation cutanée potentielle."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "Le recyclage du caoutchouc contribue à réduire les déchets en décharge et la pollution. Il peut être réutilisé dans divers produits tels que le paillis en caoutchouc, les tapis et les additifs pour l'asphalte.",
+        "impact": "La gestion efficace des déchets en caoutchouc favorise la durabilité environnementale et contribue à préserver les ressources non renouvelables utilisées dans la production de caoutchouc."
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "Le caoutchouc recyclé provenant des pneus peut être utilisé pour créer des terrains de sport synthétiques, des surfaces de jeux et même comme source de carburant dans certains processus industriels."
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "Déchets Textiles",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "Vêtements",
+        "Bed Linens": "Linge de Lit",
+        "Towels": "Serviettes",
+        "Curtains": "Rideaux",
+        "Fabric Scraps": "Chutes de Tissu",
+        "Carpeting": "Revêtements de Sol",
+        "Upholstery": "Garnissage de Sièges",
+        "Footwear": "Chaussures",
+        "Handbags": "Sacs à Main",
+        "Belts": "Ceintures",
+        "Hats": "Chapeaux",
+        "Socks": "Chaussettes",
+        "Non-reusable Textiles": "Textiles Non Réutilisables",
+        "Stuffed Toys": "Jouets Rembourrés",
+        "Ropes": "Cordes",
+        "Thread": "Fil",
+        "Yarn": "Fil à Tricoter"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "Les déchets textiles sont constitués de matériaux en tissu et de vêtements jetés. Ils représentent une composante significative des déchets environnementaux. Le recyclage et la réutilisation des déchets textiles sont essentiels pour réduire leur impact sur l'environnement.",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "Tissu Jeté",
+        "Scrap Textiles": "Textiles Récupérés"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "Poubelle de Recyclage des Textiles ou Centres de Don",
+        "handling": "Nettoyez et séchez les textiles avant de les recycler. Les textiles endommagés ou usés peuvent être réutilisés ou recyclés pour fabriquer de nouveaux produits.",
+        "separation": "Séparez les textiles par type (par exemple, coton, polyester) et par état (portable, non portable) pour un recyclage ou une réutilisation plus efficace.",
+        "whatNotToDo": "Ne jetez pas les textiles portables avec les ordures ordinaires. Évitez de jeter les textiles très sales ou contaminés sans traitement approprié.",
+        "safetyPrecautions": "Aucune précaution particulière n'est nécessaire pour manipuler la plupart des déchets textiles."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "Le recyclage des textiles permet de préserver les ressources, de réduire les déchets en décharge et de diminuer la demande en matières premières neuves. Les textiles réutilisés peuvent trouver une nouvelle vie dans diverses applications.",
+        "impact": "Une gestion efficace des déchets textiles soutient la mode durable, réduit la pollution environnementale et favorise une économie circulaire dans l'industrie textile."
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "Le recyclage ou la réutilisation d'une seule tonne de textiles peut empêcher l'émission d'environ 7 tonnes de CO2."
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "Déchets de Bois",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
+        "Lumber Scraps": "Chutes de Bois",
+        "Pallets": "Palettes",
+        "Timber Offcuts": "Chutes de Bois de Charpente",
+        "Furniture Pieces": "Morceaux de Mobilier",
         "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Twigs": "Branchettes",
+        "Sawdust": "Sciure de Bois",
+        "Plywood": "Contreplaqué",
+        "Particle Board": "Panneau de Particules",
+        "Wooden Crates": "Caisses en Bois",
+        "Wooden Tools": "Outils en Bois",
+        "Construction Debris": "Débris de Construction",
+        "Floorboards": "Planchers en Bois",
+        "Window Frames": "Cadres de Fenêtre",
+        "Door Frames": "Cadres de Porte",
+        "Tree Stumps": "Souches d'Arbres",
+        "Wooden Fencing": "Clôtures en Bois",
+        "Decking Material": "Matériau de Terrasse",
+        "Firewood Scraps": "Chutes de Bois de Chauffage"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "Les déchets de bois comprennent divers produits et matériaux en bois jetés. Il est crucial de recycler et de réutiliser les déchets de bois pour réduire la déforestation et gérer les déchets de manière durable.",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "Bois de Récupération",
+        "Used Wood": "Bois Usagé"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "Installation de Recyclage du Bois ou Points de Collecte Spécialisés",
+        "handling": "Manipulez les déchets de bois avec précaution pour éviter les échardes et les blessures. Retirez les composants non en bois tels que les clous ou les vis.",
+        "separation": "Séparez le bois traité du bois non traité car ils nécessitent différents processus de recyclage. Triez en fonction du type et de la taille pour un recyclage efficace.",
+        "whatNotToDo": "Ne jetez pas les déchets de bois avec les ordures ordinaires, en particulier s'ils sont traités avec des produits chimiques. Évitez de brûler du bois traité en raison des émissions de gaz toxiques.",
+        "safetyPrecautions": "Portez des gants et des lunettes de protection lors de la manipulation des déchets de bois pour éviter les blessures dues aux échardes et aux arêtes vives."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "Le recyclage des déchets de bois réduit l'utilisation des décharges, préserve les ressources naturelles et soutient les pratiques forestières durables.",
+        "impact": "Une gestion efficace des déchets de bois réduit la pollution environnementale et fournit des ressources précieuses à réutiliser dans la construction et la fabrication."
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "Le recyclage d'une seule tonne de déchets de bois peut économiser l'équivalent de 1 000 gallons d'essence en valeur énergétique."
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "Déchets Dangereux",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
+        "Toxic Chemicals": "Produits Chimiques Toxiques",
+        "Solvents": "Solvants",
         "Pesticides": "Pesticides",
         "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Medical Sharps": "Objets Coupants Médicaux",
+        "Contaminated Materials": "Matériaux Contaminés",
+        "Radioactive Substances": "Substances Radioactives",
+        "Contaminated Sanitary Products": "Produits Sanitaires Contaminés",
+        "Sewage Treatment Waste": "Déchets de Traitement des Eaux Usées",
+        "Automotive Fluids": "Fluides Automobiles",
+        "Antifreeze": "Antigel",
+        "Brake Fluid": "Liquide de Frein",
+        "Lead-based Paints": "Peintures à Base de Plomb",
+        "Electronic Hazardous Components": "Composants Électroniques Dangereux",
+        "Industrial Residues": "Résidus Industriels",
+        "Used Oil": "Huile Usagée",
+        "Oil-Contaminated Materials": "Matériaux Contaminés par l'Huile",
+        "Toxic Plastic Additives": "Additifs Plastiques Toxiques"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "Les déchets dangereux comprennent divers matériaux présentant des risques importants pour la santé et l'environnement. Une manipulation, un stockage et une élimination appropriés sont essentiels pour atténuer ces risques.",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "Déchets Dangereux",
+        "Toxic Waste": "Déchets Toxiques"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "Installations de Collecte de Déchets Dangereux Spécialisées",
+        "handling": "Manipulez avec une extrême prudence en utilisant l'équipement de sécurité approprié. Suivez toutes les réglementations locales et fédérales en matière de stockage et d'élimination.",
+        "separation": "Séparez les différents types de déchets dangereux car ils nécessitent des méthodes de manipulation et d'élimination uniques.",
+        "whatNotToDo": "Ne jetez pas les déchets dangereux dans les poubelles ordinaires ni dans les égouts. Évitez tout déversement non autorisé.",
+        "safetyPrecautions": "Portez toujours un équipement de protection, y compris des gants, des lunettes et des masques, lors de la manipulation de matériaux dangereux. Assurez une ventilation adéquate et évitez tout contact direct."
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "Une gestion appropriée des déchets dangereux prévient la contamination environnementale, protège la santé publique et garantit la conformité aux normes légales.",
+        "impact": "L'élimination soigneuse des matériaux dangereux réduit le risque de pollution des sols et de l'eau et favorise un environnement plus sûr et plus propre."
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "L'élimination correcte d'un seul quart d'huile de moteur peut empêcher la contamination de jusqu'à deux millions de gallons d'eau potable."
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "Déchets Chimiques",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
+        "Industrial Chemicals": "Produits Chimiques Industriels",
+        "Laboratory Chemicals": "Produits Chimiques de Laboratoire",
+        "Cleaning Agents": "Agents de Nettoyage",
         "Pesticides": "Pesticides",
         "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
+        "Paints": "Peintures",
+        "Solvents": "Solvants",
+        "Automotive Fluids": "Fluides Automobiles",
         "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
+        "Aerosol Cans": "Bombes Aérosols",
+        "Mercury Devices": "Dispositifs au Mercure",
+        "Pharmaceuticals": "Produits Pharmaceutiques",
+        "Photographic Chemicals": "Produits Chimiques Photographiques",
+        "Pool Chemicals": "Produits Chimiques de Piscine",
+        "Flammable Liquids": "Liquides Inflammables",
+        "Toxic Metals": "Métaux Toxiques",
+        "Acids": "Acides",
         "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Reactive Materials": "Matériaux Réactifs"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "Les déchets chimiques comprennent divers produits chimiques dangereux et non biodégradables qui peuvent présenter des risques importants pour la santé et l'environnement. Une manipulation, un stockage et une élimination appropriés sont cruciaux pour minimiser ces risques.",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "Produits Chimiques Dangereux",
+        "Toxic Chemicals": "Produits Chimiques Toxiques"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "Installations de Collecte de Déchets Chimiques Spécialisées",
+        "handling": "Manipulez avec une extrême prudence en utilisant l'équipement de sécurité approprié. Suivez toutes les réglementations réglementaires pour le stockage, le transport et l'élimination.",
+        "separation": "Séparez les produits chimiques incompatibles et classez-les en fonction de leur classe de danger (par exemple, inflammable, corrosif, toxique).",
+        "whatNotToDo": "Ne jetez pas les déchets chimiques dans les poubelles ordinaires, dans les égouts ni dans les cours d'eau. Évitez de mélanger différents produits chimiques qui pourraient réagir dangereusement.",
+        "safetyPrecautions": "Portez toujours un équipement de protection, y compris des gants, des lunettes et une protection respiratoire appropriée. Assurez une ventilation adéquate lors de la manipulation de produits chimiques volatils ou fumigènes."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "Une élimination adéquate des déchets chimiques prévient la pollution environnementale, préserve les ressources et réduit les risques pour la santé.",
+        "impact": "La gestion responsable des déchets chimiques réduit au minimum le risque de contamination des sols et des eaux et contribue à un système écologique plus sûr."
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "Le recyclage approprié d'un seul gallon d'huile de moteur usagée peut produire suffisamment d'énergie pour alimenter une maison moyenne pendant un an."
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "Déchets Médicaux",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "Bandages Usagés",
+        "Gauze": "Gaze",
+        "Expired Medicines": "Médicaments Périmés",
+        "Medical Gloves": "Gants Médicaux",
+        "Sharps": "Objets Coupants",
+        "Test Strips": "Bandes de Test",
+        "Surgical Instruments": "Instruments Chirurgicaux",
+        "Disposable Garments": "Vêtements Jetables",
+        "Pathological Waste": "Déchets Pathologiques",
+        "Infectious Agents": "Agents Infectieux",
+        "Discarded Vaccines": "Vaccins Périmés",
+        "Dialysis Waste": "Déchets de Dialyse",
+        "Chemotherapy Agents": "Agents de Chimiothérapie",
+        "Imaging Chemicals": "Produits Chimiques d'Imagerie",
+        "Radioactive Waste": "Déchets Radioactifs",
+        "Biological Specimens": "Échantillons Biologiques"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "Les déchets médicaux comprennent divers articles utilisés dans les établissements de santé et potentiellement infectieux ou dangereux. Une élimination appropriée est essentielle pour prévenir la propagation des maladies et protéger la santé publique.",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "Déchets Cliniques",
+        "Healthcare Waste": "Déchets de Soins de Santé"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "Conteneurs de Collecte de Déchets Médicaux Spécialisés",
+        "handling": "Manipulez avec une extrême prudence et utilisez un équipement de protection approprié. Les déchets médicaux doivent être triés dès leur génération.",
+        "separation": "Séparez les objets coupants, les déchets pharmaceutiques, pathologiques et chimiques, car chaque type nécessite des méthodes d'élimination différentes.",
+        "whatNotToDo": "Ne jetez pas les déchets médicaux dans les poubelles ordinaires ni ne les mélangez avec les déchets généraux. Évitez de les manipuler sans équipement de protection approprié.",
+        "safetyPrecautions": "Portez toujours des gants, des masques et éventuellement des visières ou des blouses lors de la manipulation des déchets médicaux pour minimiser les risques d'exposition."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "Une élimination appropriée des déchets médicaux réduit le risque de transmission des infections, protège les professionnels de la santé et le public, et assure la conformité aux réglementations sanitaires.",
+        "impact": "La gestion efficace des déchets médicaux est cruciale pour maintenir un environnement sûr et sain, en particulier dans les établissements de santé."
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "Un hôpital typique génère environ 15 kilogrammes de déchets médicaux par lit et par jour, ce qui souligne l'importance d'une gestion efficace des déchets dans les établissements de santé."
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "Déchets d'Huile",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "Huile de Moteur Usagée",
+        "Cooking Oil": "Huile de Cuisine",
+        "Lubricating Oil": "Huile de Lubrification",
+        "Hydraulic Oil": "Huile Hydraulique",
+        "Transmission Fluid": "Liquide de Transmission",
+        "Machine Oil": "Huile pour Machines",
+        "Grease": "Graisse",
+        "Oil Filters": "Filtres à Huile",
+        "Oil-Soaked Rags": "Chiffons Imbibés d'Huile",
+        "Fuel Oils": "Huiles de Combustible",
+        "Vegetable Oils": "Huiles Végétales",
+        "Petroleum Products": "Produits Pétroliers",
+        "Oil Containers": "Contenants d'Huile",
+        "Oil-Water Mixtures": "Mélanges d'Huile et d'Eau",
+        "Synthetic Oils": "Huiles Synthétiques",
+        "Oil Sludge": "Boues d'Huile"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "Les déchets d'huile comprennent différents types d'huiles usagées et contaminées, qui nécessitent une manipulation spéciale pour le recyclage et l'élimination afin de prévenir la contamination environnementale et les risques pour la santé.",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "Huile Usagée",
+        "Waste Oil": "Huile Usée"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "Installation de Recyclage d'Huile Désignée ou Points de Collecte",
+        "handling": "Conservez les déchets d'huile dans des contenants étanches. Évitez le contact direct et l'inhalation de vapeurs.",
+        "separation": "Séparez les différents types d'huiles et de déchets liés à l'huile pour un recyclage et une élimination appropriés.",
+        "whatNotToDo": "Ne jetez pas les déchets d'huile dans les poubelles ordinaires, dans les égouts ou dans les cours d'eau. Évitez de mélanger les déchets d'huile avec d'autres matériaux dangereux.",
+        "safetyPrecautions": "Utilisez des gants et une protection oculaire lors de la manipulation des déchets d'huile. Assurez une ventilation adéquate dans les zones de stockage."
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "Le recyclage des déchets d'huile permet de préserver les ressources naturelles, de prévenir la pollution et de soutenir la durabilité environnementale. Une huile correctement recyclée peut être raffinée en de nouveaux produits.",
+        "impact": "Une gestion efficace des déchets d'huile réduit le risque de contamination des sols et de l'eau et contribue à maintenir un environnement propre et sûr."
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "Un gallon d'huile de moteur usagée peut contaminer un million de gallons d'eau douce."
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "Déchets Radioactifs",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "Combustible Nucléaire Irradié",
+        "Radioactive Medical Waste": "Déchets Médicaux Radioactifs",
+        "Contaminated Lab Equipment": "Équipements de Laboratoire Contaminés",
+        "Radioactive Glass": "Verre Radioactif",
+        "Contaminated Metals": "Métaux Contaminés",
+        "Americium Smoke Detectors": "Détecteurs de Fumée à l'Américium",
+        "Uranium Residues": "Résidus d'Uranium",
+        "Irradiated Tools": "Outils Irradiés",
+        "Contaminated Clothing": "Vêtements Contaminés",
+        "Radioactive Sources": "Sources Radioactives",
+        "Luminous Dials": "Cadrans Lumineux",
+        "Thorium Lantern Mantles": "Manchons de Lanterne au Thorium",
+        "Radioactive Ores": "Minerais Radioactifs"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "Les déchets radioactifs comprennent des matériaux et des objets contenant des substances radioactives. Leur nature dangereuse nécessite des protocoles stricts de manipulation, de stockage et d'élimination.",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "Déchets Nucléaires",
+        "Radioactive Material": "Matériau Radioactif"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "Installations Spécialisées pour les Déchets Radioactifs",
+        "handling": "Protocoles de sécurité stricts requis. Manipulation réservée aux professionnels formés.",
+        "separation": "Basée sur le type et le niveau de radioactivité pour une élimination appropriée.",
+        "whatNotToDo": "Aucune élimination dans les poubelles ordinaires. Aucun contact direct sans protection.",
+        "safetyPrecautions": "Équipement de protection spécialisé et détecteurs de radiation obligatoires."
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "Protège contre les radiations nocives, prévient la contamination environnementale.",
+        "impact": "Essentiel pour la santé et la sécurité publiques, prévient les dommages environnementaux à long terme."
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "Certains déchets radioactifs peuvent rester dangereux pendant des millénaires."
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "Déchets Sanitaires",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
+        "Used Diapers": "Couches Usagées",
+        "Sanitary Napkins": "Serviettes Hygiéniques",
         "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Wet Wipes": " Lingettes Humides",
+        "Incontinence Pads": "Protections contre l'Incontinence",
+        "Disposable Toilet Seat Covers": "Couvre-Sièges de Toilette Jetables",
+        "Cotton Swabs": "Coton-Tiges",
+        "Facial Tissues": "Mouchoirs en Papier",
+        "Bandages": "Pansements",
+        "Disposable Razors": "Rasoirs Jetables",
+        "Dental Floss": "Fil Dentaire"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "Les déchets sanitaires comprennent divers produits d'hygiène personnelle qui sont utilisés et jetés. En raison des risques potentiels pour la santé, en particulier dans les établissements médicaux ou de soins, une élimination appropriée est essentielle pour prévenir la contamination.",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "Déchets d'Hygiène",
+        "Personal Care Waste": "Déchets de Soins Personnels"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "Unités Spécialisées d'Élimination des Déchets Sanitaires",
+        "handling": "Manipulez avec soin, de préférence avec des gants, pour éviter tout contact direct et la contamination.",
+        "separation": "Séparez les déchets sanitaires des déchets ordinaires en vue d'une élimination spécialisée.",
+        "whatNotToDo": "N'éliminez pas les déchets sanitaires dans les toilettes. Évitez de les jeter dans des poubelles ordinaires sans un confinement approprié.",
+        "safetyPrecautions": "Portez des gants lors de la manipulation et de l'élimination des déchets sanitaires. Assurez-vous de suivre des pratiques d'hygiène appropriées après l'élimination."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "Une élimination appropriée prévient la propagation des infections et maintient l'hygiène dans les espaces publics et privés.",
+        "impact": "Une gestion efficace des déchets sanitaires est essentielle pour la santé publique, en particulier dans les zones densément peuplées ou sensibles comme les hôpitaux."
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "En moyenne, une personne génère environ 30 livres de déchets sanitaires par an."
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "Déchets d'Égout",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "Excréments Humains",
+        "Used Water": "Eau Usée",
+        "Domestic Wastewater": "Eaux Usées Domestiques",
+        "Industrial Effluent": "Effluents Industriels",
+        "Agricultural Runoff": "Ruissellement Agricole",
+        "Storm water Discharge": "Déversement d'Eaux Pluviales",
+        "Septic Tank Sludge": "Boues de Fosse Septique",
+        "Grease Trap Waste": "Déchets de Bac à Graisse",
+        "Gray Water": "Eau Grise",
+        "Black Water": "Eau Noire",
+        "Sewage Sludge": "Boues d'Égout",
+        "Soapy Water": "Eau Savonneuse",
+        "Cooking Water Discharge": "Déversement d'Eaux de Cuisine",
+        "Bathroom Water": "Eaux de Salle de Bain",
+        "Laundry Wastewater": "Eaux Usées de Lessive",
+        "Sink Drainage": "Drainage d'Évier",
+        "Toilet Flushing Waste": "Déchets de Chasse d'Eau",
+        "Shower Drain Water": "Eau de Drain de Douche",
+        "Sump Pump Discharge": "Déversement de Pompe de Cuve",
+        "Urban Runoff": "Ruissellement Urbain"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "Les déchets d'égout englobent les eaux usées et les matériaux qui sont évacués ou drainés des ménages, des établissements industriels et des terres agricoles. Un traitement et une élimination appropriés sont essentiels pour la protection de l'environnement et la prévention de la contamination de l'eau.",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "Eaux Usées",
+        "Sewerage": "Assainissement"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "Installations de Traitement des Eaux Usées Spécialisées",
+        "handling": "Évitez tout contact direct et suivez les protocoles de sécurité pour la manipulation des eaux usées.",
+        "separation": "Assurez-vous de la séparation par rapport aux sources d'eau potable et respectez les processus de traitement des eaux usées.",
+        "whatNotToDo": "Ne rejetez pas les eaux usées non traitées dans les cours d'eau naturels ou dans l'environnement.",
+        "safetyPrecautions": "Portez un équipement de protection, notamment des gants et des masques, et pratiquez une bonne hygiène après la manipulation des déchets d'égout."
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "Une gestion adéquate des eaux usées empêche la transmission des maladies, protège les sources d'eau et soutient la santé publique.",
+        "impact": "Un traitement efficace des déchets d'égout est essentiel pour la préservation de l'environnement et le développement urbain durable."
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "Les stations de traitement des eaux usées avancées peuvent convertir les déchets en énergie et en eau réutilisable, démontrant ainsi le potentiel de récupération des ressources à partir des déchets."
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "Déchets d'Enfouissement",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "Plastique Non Recyclable",
+        "Contaminated Paper": "Papier Contaminé",
+        "Broken Glass": "Verre Brisé",
+        "Non-Recyclable Packaging": "Emballages Non Recyclables",
+        "Worn Textiles": "Textiles Usés",
+        "Damaged Furniture": "Meubles Endommagés",
+        "Ceramic Items": "Objets en Céramique",
+        "Construction Debris": "Débris de Construction",
+        "Non-Recyclable Electronics": "Appareils Électroniques Non Recyclables",
+        "Household Trash": "Déchets Ménagers",
+        "Ineligible Food Waste": "Déchets Alimentaires Non Éligibles",
+        "Ineligible Garden Waste": "Déchets de Jardin Non Éligibles",
+        "Used Batteries": "Piles Usagées",
+        "Soiled Clothing": "Vêtements Souillés",
+        "Old Carpets": "Vieux Tapis",
+        "Expired Medicines": "Médicaments Périmés",
+        "Waste Foam": "Mousse Déchets",
+        "Disposable Utensils": "Ustensiles Jetables",
+        "Waste Oil": "Huile Usagée",
+        "Contaminated Soil": "Sol Contaminé"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "Les déchets d'enfouissement comprennent des matériaux qui ne sont ni recyclables ni compostables. Ils englobent une gamme d'articles non recyclables qui finissent dans les décharges, entraînant des préoccupations environnementales potentielles telles que la contamination des sols et des eaux souterraines.",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "Déchets Non Recyclables",
+        "General Trash": "Déchets Généraux"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "Bacs à Ordures Générales ou Conteneurs, étiquetés pour les articles non recyclables",
+        "handling": "Manipulez soigneusement les déchets d'enfouissement, en les séparant des matériaux recyclables et dangereux.",
+        "separation": "Il est important de les séparer des matériaux recyclables, des déchets organiques et dangereux pour réduire au minimum l'impact sur les décharges.",
+        "whatNotToDo": "Évitez de jeter des articles recyclables ou compostables comme déchets d'enfouissement.",
+        "safetyPrecautions": "Portez des gants et utilisez des techniques de levage appropriées lors de la manipulation des déchets d'enfouissement pour éviter les blessures et assurer une hygiène adéquate."
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "Une élimination appropriée dans les décharges aide à gérer les déchets non recyclables, réduisant la pollution environnementale.",
+        "impact": "Minimiser les déchets d'enfouissement est essentiel pour une gestion durable des déchets, évitant des dommages environnementaux à long terme."
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "Les efforts visant à réduire les déchets d'enfouissement peuvent réduire considérablement les émissions de gaz à effet de serre, soulignant l'importance du recyclage et de la réduction des déchets."
     }
   },
+
+  "error": {
+    "invalidImageUrl": "Veuillez entrer une URL d'image valide.",
+    "emptySearch": "Veuillez fournir une image ou une URL.",
+    "searchResponse": "Erreur lors de la recherche, veuillez réessayer ultérieurement.",
+    "invalidImageSize": "Veuillez fournir un fichier image d'une taille maximale de 5 Mo."
+  },
   "common": {
-    "knowYourWaste": "Connaissez vos déchets",
-    "sustainNatureNest": "Soutenez le nid de la nature",
-    "searchPlaceholder": "Rechercher un article à recycler ou à jeter",
+    "knowYourWaste": "Connaissez les déchets",
+    "sustainNatureNest": "Préservez le nid de la nature",
+    "searchPlaceholder": "Recherchez un article à recycler ou à éliminer",
     "whatIsWaste": "Qu'est-ce que {{value}}",
-    "alsoKnownAs": "Également connu sous le nom",
-    "itemsInsideWaste": "Articles dans {{value}}",
+    "alsoKnownAs": "Également connu sous le nom de",
+    "itemsInsideWaste": "Articles à l'intérieur de {{value}}",
     "howToHandle": "Comment gérer {{value}}",
     "handling": "Manipulation",
     "separation": "Séparation",
@@ -1035,26 +1025,32 @@
     "whyItsImportant": "Pourquoi c'est important",
     "note": "Note",
     "safetyPrecautions": "Précautions de sécurité",
-    "alsoKnowAbout": "Sachez également sur",
+    "alsoKnowAbout": "À propos de",
     "compostable": "Compostable",
     "recyclable": "Recyclable",
     "nonRecyclable": "Non recyclable",
-    "burnable": "Brûlable contrôlé",
+    "burnable": "Brûlable de manière contrôlée",
     "nonBurnable": "Non brûlable",
-    "caution": "manipuler avec précaution",
-    "flammable": "inflammable",
-    "toxic": "toxique",
-    "biohazardous": "Bio-dangereux",
+    "caution": "Manipuler avec précaution",
+    "flammable": "Inflammable",
+    "toxic": "Toxique",
+    "biohazardous": "Biodangereux",
     "radioactive": "Radioactif",
-    "useSafetyGear": "prendre des précautions de protection",
-    "washHand": "Laver la main",
-    "sanitize": "Désinfecter",
-    "disclaimer": "Les informations fournies ici sont générales et peuvent ne pas s'appliquer à toutes les régions ou circonstances. Les réglementations et directives locales pour la gestion des déchets organiques doivent être consultées.",
-    "readMore": "Lire la suite",
-    "readMoreSearch": "solutions et gestion locales de {{value}}",
-    "managementStation": "station de gestion",
-    "credits": "Infos crédit",
+    "useSafetyGear": "Utiliser un équipement de protection",
+    "washHand": "Lavez-vous les mains",
+    "sanitize": "Désinfectez",
+    "disclaimer": "Les informations fournies ici sont générales et peuvent ne pas s'appliquer à toutes les régions ou circonstances. Les réglementations locales et les directives concernant la gestion des {{value}} doivent être consultées.",
+    "readMore": "En savoir plus",
+    "readMoreSearch": "Solutions locales de gestion des {{value}} et manipulation",
+    "credits": "Informations de crédit",
     "visitToKnowMore": "Visitez pour en savoir plus",
-    "sustainNatureNestBy": "Soutenez le nid de la nature par"
+    "imageSearch": "Recherche d'image",
+    "uploadImage": "Télécharger une image",
+    "changeImage": "Changer l'image",
+    "or": "Ou",
+    "pasteImageLink": "Coller le lien de l'image",
+    "reset": "Réinitialiser",
+    "search": "Rechercher",
+    "searching": "Recherche en cours"
   }
 }

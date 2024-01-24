@@ -6,10 +6,7 @@ import {
   setError,
 } from '../utils/redux/searchSlice';
 import {validateImageUrl} from '../utils/helpers/validateImageUrl';
-import {
-  setFocusScroll,
-  setIsImageSearchMenuVisible,
-} from '../utils/redux/appSlice';
+import {setIsImageSearchMenuVisible} from '../utils/redux/appSlice';
 import useSelectedLanguage from './useSelectedLanguage';
 import {useTranslation} from 'react-i18next';
 import {searchWasteImage} from '../api/searchApi';
@@ -27,12 +24,21 @@ export const useImageSearch = () => {
       if (event.target.files && event.target.files[0]) {
         setImageUrl('');
         const file = event.target.files[0];
-        setSelectedImage(file);
-        dispatch(setError(''));
+        console.log('file', file);
+        if (
+          file.type.match(/image\/(jpeg|jpg|gif|png)$/i) &&
+          file.size < 5 * 1024 * 1024
+        ) {
+          setSelectedImage(file);
+          dispatch(setError(''));
+        } else {
+          setSelectedImage(file);
+          dispatch(setError(t('error.invalidImageSize')));
+        }
         setImageUrl('');
       }
     },
-    [dispatch]
+    [dispatch, t]
   );
 
   const handleImageUrlChange = useCallback(
@@ -62,17 +68,14 @@ export const useImageSearch = () => {
 
       if (result.validItem) {
         dispatch(setAiSearchResult(result));
-        dispatch(setError('')); // Clear any existing error message
+        dispatch(setError(''));
         dispatch(setSelectedBinId(result.binId));
         dispatch(setIsImageSearchMenuVisible(false));
-        dispatch(setFocusScroll(false));
         window.scrollTo(0, 0);
       } else {
-        // Handle the case when the item is not valid
         dispatch(setError(t('error.invalidItem')));
       }
     } catch (error) {
-      console.error('Error in image search:', error);
       dispatch(setError(t('error.searchResponse')));
     } finally {
       dispatch(setLoading(false));

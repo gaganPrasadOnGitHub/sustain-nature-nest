@@ -1,1060 +1,1055 @@
 {
   "wasteBins": {
     "001": {
-      "name": "Organic Waste",
+      "name": "有機廃棄物",
       "wasteItems": {
-        "Food Scraps": "Food Scraps",
-        "Fruit Peels": "Fruit Peels",
-        "Vegetable Peels": "Vegetable Peels",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Eggshells": "Eggshells",
-        "Garden Flowers": "Garden Flowers",
-        "Houseplants": "Houseplants",
-        "Grass Clippings": "Grass Clippings",
-        "Weeds": "Weeds",
-        "Nut Shells": "Nut Shells",
-        "Paper Towels": "Paper Towels",
-        "Cardboard": "Cardboard",
-        "Wood Scrap": "Wood Scrap",
-        "Natural Fibers": "Natural Fibers"
+        "Food Scraps": "食品のくず",
+        "Fruit Peels": "果物の皮",
+        "Vegetable Peels": "野菜の皮",
+        "Coffee Grounds": "コーヒーのかす",
+        "Tea Bags": "茶袋",
+        "Eggshells": "卵の殻",
+        "Garden Flowers": "庭の花",
+        "Houseplants": "鉢植えの植物",
+        "Grass Clippings": "草の刈りくず",
+        "Weeds": "雑草",
+        "Nut Shells": "ナッツの殻",
+        "Paper Towels": "ペーパータオル",
+        "Cardboard": "ダンボール",
+        "Wood Scrap": "木くず",
+        "Natural Fibers": "自然繊維"
       },
-      "description": "Organic waste comes primarily from kitchens and gardens. It includes biodegradable materials like food scraps, yard waste, and natural fibers. Rich in nutrients, these materials are ideal for composting, which converts waste into valuable soil enhancers.",
+      "description": "有機廃棄物は主に台所と庭から発生します。食品のくず、庭の廃棄物、自然繊維などの生分解性の材料が含まれます。栄養分が豊富なこれらの材料は堆肥化に適しており、廃棄物を貴重な土壌改良剤に変えます。",
       "otherNames": {
-        "Compostable Waste": "Compostable Waste",
-        "Biodegradable Waste": "Biodegradable Waste"
+        "Compostable Waste": "堆肥化可能な廃棄物",
+        "Biodegradable Waste": "生分解性の廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Compost Bin (ventilated), Metal or Durable Plastic, Green/Brown",
-        "handling": "Use gloves when handling, wash hands after disposal. Avoid direct contact with decomposing materials.",
-        "separation": "Separate organic materials from inorganic items (like plastics, metals, glass) to ensure effective composting.",
-        "whatNotToDo": "Do not include inorganic materials like plastics, metals, or glass. Avoid disposing of chemically treated products or oil/grease-contaminated materials.",
-        "safetyPrecautions": "Use gloves when handling organic waste to avoid direct contact with decomposing materials and potential pathogens. Ensure the composting area is well-ventilated to prevent the buildup of unpleasant odors. Wash hands thoroughly after handling organic materials to maintain personal hygiene."
+        "recommendedBinType": "堆肥化用のビン（通気性）、金属または耐久性のあるプラスチック、緑/茶",
+        "handling": "取り扱う際は手袋を使用し、廃棄物を処理した後に手を洗う。分解中の材料との直接的な接触を避けます。",
+        "separation": "有機材料と非有機材料（プラスチック、金属、ガラスなど）を分けて堆肥化を効果的に行います。",
+        "whatNotToDo": "プラスチック、金属、ガラスなどの非有機材料を含めないでください。化学処理された製品や油/グリースで汚染された材料を廃棄しないでください。",
+        "safetyPrecautions": "有機廃棄物を取り扱う際は、分解中の材料や潜在的な病原体との直接的な接触を避けるために手袋を使用します。堆肥化エリアが十分に換気され、不快な臭いの蓄積を防ぎます。有機材料を取り扱った後は、個人の衛生を維持するために手を十分に洗ってください。"
       },
       "whyItIsImportant": {
-        "benefits": "Reduces landfill usage and methane emissions, and lowers the need for chemical fertilizers. Promotes sustainable agriculture.",
-        "impact": "Converts waste into valuable compost, enriching soil with nutrients and supporting healthy plant growth. Encourages sustainable land use."
+        "benefits": "埋立地の使用を減少し、メタンの排出を低減し、化学肥料の必要性を低減します。持続可能な農業を促進します。",
+        "impact": "廃棄物を貴重な堆肥に変え、土壌に栄養分を供給し、健全な植物の成長をサポートします。持続可能な土地利用を奨励します。"
       },
-      "funFact": "If composted, the global annual food waste could reduce the equivalent CO2 emissions of 2 billion cars off the road, which is more than the total number of cars driven in the world."
+      "funFact": "もし堆肥化されれば、世界の年間食品廃棄物は、20億台の車両が道路を走行している総数を超える、二酸化炭素排出を削減することができます。"
     },
     "002": {
-      "name": "Agricultural Waste",
+      "name": "農業廃棄物",
       "wasteItems": {
-        "Crop Residues": "Crop Residues",
-        "Manure": "Manure",
-        "Pesticide Containers": "Pesticide Containers",
-        "Fertilizer Bags": "Fertilizer Bags",
-        "Farm Machinery": "Farm Machinery",
-        "Spoiled Produce": "Spoiled Produce",
-        "Agricultural Plastics": "Agricultural Plastics",
-        "Diseased Plants": "Diseased Plants",
-        "Greenhouse Films": "Greenhouse Films",
-        "Seed Sacks": "Seed Sacks",
-        "Pruning Waste": "Pruning Waste",
-        "Irrigation Equipment": "Irrigation Equipment",
-        "Soil Amendment Packaging": "Soil Amendment Packaging",
-        "Animal Feed Bags": "Animal Feed Bags",
-        "Silage Wraps": "Silage Wraps",
-        "Horticultural Pots": "Horticultural Pots",
-        "Waste Pesticides": "Waste Pesticides",
-        "Contaminated Soils": "Contaminated Soils",
-        "Old Tools": "Old Tools",
-        "Broken Irrigation Pipes": "Broken Irrigation Pipes",
-        "Discarded Gloves": "Discarded Gloves",
-        "Protective Gear": "Protective Gear",
-        "Unused Veterinary Medicines": "Unused Veterinary Medicines",
-        "Baler Twine": "Baler Twine",
-        "Netting Material": "Netting Material",
-        "Plastic Mulch": "Plastic Mulch"
+        "Crop Residues": "作物の残渣",
+        "Manure": "堆肥",
+        "Pesticide Containers": "農薬容器",
+        "Fertilizer Bags": "肥料袋",
+        "Farm Machinery": "農機具",
+        "Spoiled Produce": "腐敗した農産物",
+        "Agricultural Plastics": "農業用プラスチック",
+        "Diseased Plants": "病気の植物",
+        "Greenhouse Films": "温室フィルム",
+        "Seed Sacks": "種子袋",
+        "Pruning Waste": "剪定廃棄物",
+        "Irrigation Equipment": "灌漑設備",
+        "Soil Amendment Packaging": "土壌改良材の包装",
+        "Animal Feed Bags": "飼料袋",
+        "Silage Wraps": "サイレージ包装",
+        "Horticultural Pots": "園芸用ポット",
+        "Waste Pesticides": "廃棄農薬",
+        "Contaminated Soils": "汚染された土壌",
+        "Old Tools": "古い工具",
+        "Broken Irrigation Pipes": "壊れた灌漑管",
+        "Discarded Gloves": "廃棄手袋",
+        "Protective Gear": "保護具",
+        "Unused Veterinary Medicines": "未使用の獣医薬品",
+        "Baler Twine": "ベーラータイン",
+        "Netting Material": "ネット材料",
+        "Plastic Mulch": "プラスチックマルチ"
       },
-      "description": "Agricultural waste encompasses both organic and inorganic materials from farming activities. This includes natural byproducts like crop residues and manure, as well as non-organic waste such as containers, plastics, and old machinery. Effective management is vital to minimize environmental impact and support sustainable agriculture.",
+      "description": "農業廃棄物には、農業活動から発生する有機および非有機材料が含まれます。これには、作物の残渣や堆肥などの自然由来の副産物だけでなく、コンテナ、プラスチック、古い機械などの非有機廃棄物も含まれます。効果的な管理は、環境への影響を最小限に抑え、持続可能な農業をサポートするために不可欠です。",
       "otherNames": {
-        "Farm Waste": "Farm Waste",
-        "Agricultural Byproducts": "Agricultural Byproducts"
+        "Farm Waste": "農業廃棄物",
+        "Agricultural Byproducts": "農業副産物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized bins for both organic and inorganic waste, with separate handling for hazardous materials",
-        "handling": "Use protective gear for hazardous items. Compost organic waste where applicable.",
-        "separation": "Separate organic materials from chemical and plastic waste. Handle hazardous materials with care.",
-        "whatNotToDo": "Do not burn plastics or chemical containers. Avoid mixing organic waste with hazardous materials.",
-        "safetyPrecautions": "Wear gloves and protective clothing, especially when handling chemical fertilizers or pesticides. Ensure good ventilation when working with soil amendments or in enclosed spaces like greenhouses."
+        "recommendedBinType": "有機および非有機廃棄物のための専用のビン、危険物の別処理を含む",
+        "handling": "危険なアイテムには保護具を使用します。有機廃棄物は適切な場合に堆肥化します。",
+        "separation": "有機材料を化学物質やプラスチック廃棄物から分離します。危険物の取り扱いには注意が必要です。",
+        "whatNotToDo": "プラスチックや化学容器を燃やさないでください。有機廃棄物を危険物と混ぜないでください。",
+        "safetyPrecautions": "危険物（特に農薬や化学肥料）を取り扱う際には手袋と保護服を着用します。土壌改良材などの取り扱いや温室などの閉じられた空間での作業時には十分な換気を確保します。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal reduces pollution, enhances soil health, and promotes sustainable practices.",
-        "impact": "Managing agricultural waste effectively reduces the environmental footprint of farming and conserves resources, while supporting sustainable agricultural practices."
+        "benefits": "適切な廃棄物処理は、汚染の削減、土壌の健康の向上、持続可能な実践の促進に寄与します。",
+        "impact": "農業廃棄物を効果的に管理することは、農業の環境への影響を軽減し、資源を保護し、持続可能な農業実践を支援します。"
       },
-      "funFact": "Crop residues, if properly managed and composted, can enrich soil fertility significantly, potentially reducing the need for synthetic fertilizers."
+      "funFact": "作物の残渣は、適切に管理し堆肥化すれば、土壌の肥沃度を著しく向上させ、合成肥料の必要性を削減できる可能性があります。"
     },
     "003": {
-      "name": "Animal Waste",
+      "name": "動物の廃棄物",
       "wasteItems": {
-        "Manure": "Manure",
-        "Bedding Straw": "Bedding Straw",
-        "Livestock Carcasses": "Livestock Carcasses",
-        "Poultry Waste": "Poultry Waste",
-        "Feathers": "Feathers",
-        "Fish Waste": "Fish Waste",
-        "Milk Spoilage": "Milk Spoilage",
-        "Eggshell Waste": "Eggshell Waste",
-        "Animal Hair": "Animal Hair",
-        "Wool": "Wool",
-        "Dairy Processing Waste": "Dairy Processing Waste",
-        "Veterinary Supplies": "Veterinary Supplies",
-        "Expired Animal Feed": "Expired Animal Feed",
-        "Contaminated Animal Products": "Contaminated Animal Products"
+        "Manure": "糞尿",
+        "Bedding Straw": "ベッド用わら",
+        "Livestock Carcasses": "家畜の死骸",
+        "Poultry Waste": "家禽の廃棄物",
+        "Feathers": "羽毛",
+        "Fish Waste": "魚の廃棄物",
+        "Milk Spoilage": "牛乳の腐敗",
+        "Eggshell Waste": "卵の殻の廃棄物",
+        "Animal Hair": "動物の毛",
+        "Wool": "羊毛",
+        "Dairy Processing Waste": "乳製品の加工廃棄物",
+        "Veterinary Supplies": "獣医用具",
+        "Expired Animal Feed": "賞味期限切れの動物用飼料",
+        "Contaminated Animal Products": "汚染された動物製品"
       },
-      "description": "Animal waste refers to by-products generated from livestock, poultry, and other animal farming activities. It includes organic waste such as manure and bedding, as well as carcasses and spoiled animal-derived products. Proper handling and disposal are crucial for environmental health and preventing disease spread.",
+      "description": "動物の廃棄物は、家畜、家禽、その他の動物飼育活動から発生する副産物を指します。これには糞尿やベッド用わらなどの有機廃棄物だけでなく、死骸や腐敗した動物由来の製品も含まれます。適切な取り扱いと廃棄が、環境の健康と疾病の拡散防止に不可欠です。",
       "otherNames": {
-        "Livestock Waste": "Livestock Waste",
-        "Poultry Waste": "Poultry Waste"
+        "Livestock Waste": "家畜の廃棄物",
+        "Poultry Waste": "家禽の廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for biohazardous waste, separate from regular waste",
-        "handling": "Use protective gear, especially when handling carcasses or contaminated waste. Practice strict hygiene protocols.",
-        "separation": "Separate biohazardous animal waste from regular waste. Dispose of in designated containers.",
-        "whatNotToDo": "Do not mix with general waste. Avoid direct contact without proper safety equipment.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling animal waste to prevent direct contact with potentially harmful microorganisms. Ensure areas where animal waste is stored or processed are well-ventilated. After handling animal waste, thoroughly wash hands with soap and water to prevent the spread of zoonotic diseases."
+        "recommendedBinType": "生物危険廃棄物用の専用容器、一般廃棄物とは分離して保管",
+        "handling": "死骸や汚染された廃棄物を取り扱う際には保護具を着用し、厳格な衛生プロトコルを実践します。",
+        "separation": "生物危険な動物の廃棄物を一般廃棄物から分離し、指定の容器に廃棄します。",
+        "whatNotToDo": "一般廃棄物と混ぜないでください。適切な安全装置なしでの直接接触を避けてください。",
+        "safetyPrecautions": "動物の廃棄物を取り扱う際には、有害な微生物との直接接触を防ぐために手袋と保護靴を着用します。動物の廃棄物が保管または処理されるエリアは十分な換気が確保されていることを確認します。動物の廃棄物を取り扱った後は、疾病の拡散を防ぐために石鹸と水で手を十分に洗います。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper management prevents environmental contamination and health risks to humans and animals.",
-        "impact": "Responsible disposal of animal waste supports public health, environmental protection, and sustainable farming practices."
+        "benefits": "適切な管理は環境汚染と人間と動物への健康リスクを防ぎます。",
+        "impact": "動物の廃棄物を責任を持って処理することは、公衆衛生、環境保護、持続可能な養殖プラクティスを支援します。"
       },
-      "funFact": "Manure from one dairy cow can generate enough electricity to power a small refrigerator for a day, illustrating the potential of converting animal waste into renewable energy."
+      "funFact": "1頭の乳牛からの糞尿は、動物の廃棄物を再生可能エネルギーに変換するのに十分な電力を1日分生成できます。これは、動物の廃棄物を再生可能エネルギーに変換する可能性を示しています。"
     },
     "004": {
-      "name": "Food Waste",
-
+      "name": "食品廃棄物",
       "wasteItems": {
-        "Cooked Food": "Cooked Food",
-        "Uncooked Food": "Uncooked Food",
-        "Meat Scraps": "Meat Scraps",
-        "Fish Scraps": "Fish Scraps",
-        "Dairy Products": "Dairy Products",
-        "Bread": "Bread",
-        "Pastries": "Pastries",
-        "Leftover Meals": "Leftover Meals",
-        "Expired Food": "Expired Food",
-        "Rice": "Rice",
-        "Pasta": "Pasta",
-        "Cheese": "Cheese",
-        "Egg Shells": "Egg Shells",
-        "Fruit Scraps": "Fruit Scraps",
-        "Vegetable Scraps": "Vegetable Scraps",
-        "Coffee Grounds": "Coffee Grounds",
-        "Tea Bags": "Tea Bags",
-        "Food-Soiled Paper": "Food-Soiled Paper"
+        "Cooked Food": "調理済み食品",
+        "Uncooked Food": "未調理食品",
+        "Meat Scraps": "肉のくずれ",
+        "Fish Scraps": "魚のくずれ",
+        "Dairy Products": "乳製品",
+        "Bread": "パン",
+        "Pastries": "ペイストリー",
+        "Leftover Meals": "残り物の食事",
+        "Expired Food": "賞味期限切れの食品",
+        "Rice": "ご飯",
+        "Pasta": "パスタ",
+        "Cheese": "チーズ",
+        "Egg Shells": "卵の殻",
+        "Fruit Scraps": "果物のくずれ",
+        "Vegetable Scraps": "野菜のくずれ",
+        "Coffee Grounds": "コーヒーのかす",
+        "Tea Bags": "紅茶のティーバッグ",
+        "Food-Soiled Paper": "食品汚れた紙"
       },
-      "description": "Food waste bins are for disposing of various types of food waste, including leftovers, expired items, and food scraps. This category of waste is suitable for bio-digestion or composting, turning organic matter into valuable resources.",
+      "description": "食品廃棄物用の容器は、残り物、賞味期限切れのアイテム、食品くずれなど、さまざまな種類の食品廃棄物を処分するためのものです。この廃棄物カテゴリーはバイオディジェスションまたは堆肥化に適しており、有機物を貴重な資源に変えます。",
       "otherNames": {
-        "Kitchen Waste": "Kitchen Waste",
-        "Leftover Waste": "Leftover Waste"
+        "Kitchen Waste": "台所廃棄物",
+        "Leftover Waste": "残り物の廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Sealed Bin, with odor control, Dark Green or Brown",
-        "handling": "Seal food waste to reduce odors and deter insects. Always wash and sanitize hands after handling. Promptly clean spills.",
-        "separation": "Separate food waste from recyclables and non-compostables to enhance composting and recycling efficiency.",
-        "whatNotToDo": "Do not mix food waste with liquids, oils, or chemicals. Avoid including non-biodegradable items like plastics or metals. Do not leave food waste uncovered to prevent attracting pests and generating odors.",
-        "safetyPrecautions": "When handling food waste, especially in large quantities, wear gloves to protect against potential spoilage and bacteria. Keep food waste containers clean and covered to avoid attracting pests and generating odors. Regularly clean hands, tools, and surfaces that come into contact with food waste to maintain hygiene."
+        "recommendedBinType": "密閉容器、においのコントロール、ダークグリーンまたはブラウン",
+        "handling": "食品廃棄物を密閉して臭いを減少させ、虫を寄せ付けないようにします。取り扱いの後は必ず手を洗浄・消毒します。こぼれた場合は速やかに清掃します。",
+        "separation": "食品廃棄物をリサイクル可能な物と堆肥化できるものから分離することで、堆肥化とリサイクルの効率が向上します。",
+        "whatNotToDo": "食品廃棄物を液体、油、化学物質と混ぜないでください。プラスチックや金属などの非生分解性のアイテムを含めないでください。食品廃棄物を露出させないようにし、害虫を寄せ付けずに臭いを発生させないようにします。",
+        "safetyPrecautions": "食品廃棄物を取り扱う際、特に大量の場合は、変質や細菌から保護するために手袋を着用します。食品廃棄物を保管する容器は清潔に保ち、蓋をして害虫の侵入と臭いの発生を防ぎます。食品廃棄物に接触する手、道具、表面は定期的に清掃し、衛生を保ちます。"
       },
       "whyItIsImportant": {
-        "benefits": "Helps prevent pest attraction, reduces greenhouse gas emissions from landfills, and facilitates the production of compost or biogas.",
-        "impact": "Proper management of food waste saves resources, lessens environmental impact, and promotes sustainable practices."
+        "benefits": "害虫の誘引を防ぎ、埋立地からの温室効果ガス排出を減少させ、堆肥やバイオガスの生産を促進します。",
+        "impact": "食品廃棄物を適切に管理することは、資源の節約、環境への影響の軽減、持続可能なプラクティスを奨励します。"
       },
-      "funFact": "If food waste were a country, it would be the third-largest emitter of greenhouse gases globally, after the USA and China. Reducing food waste is crucial for minimizing environmental impact."
+      "funFact": "食品廃棄物が国である場合、それはアメリカと中国に次ぐ世界で3番目に大きな温室効果ガス排出源となります。食品廃棄物の削減は環境への影響を最小限に抑えるために重要です。"
     },
     "005": {
-      "name": "Green Waste",
+      "name": "緑のごみ",
       "wasteItems": {
-        "Grass Clippings": "Grass Clippings",
-        "Leaves": "Leaves",
-        "Branches": "Branches",
-        "Weeds": "Weeds",
-        "Flowers": "Flowers",
-        "Garden Trimmings": "Garden Trimmings",
-        "Shrubs": "Shrubs",
-        "Small Twigs": "Small Twigs",
-        "Hedge Clippings": "Hedge Clippings",
-        "Fallen Fruit": "Fallen Fruit",
-        "Garden Maintenance": "Garden Maintenance",
-        "Plant Prunings": "Plant Prunings"
+        "Grass Clippings": "芝生の刈りくず",
+        "Leaves": "葉",
+        "Branches": "枝",
+        "Weeds": "雑草",
+        "Flowers": "花",
+        "Garden Trimmings": "庭の整理",
+        "Shrubs": "低木",
+        "Small Twigs": "小枝",
+        "Hedge Clippings": "生け垣の刈りくず",
+        "Fallen Fruit": "落ちた果物",
+        "Garden Maintenance": "庭のメンテナンス",
+        "Plant Prunings": "植物の剪定"
       },
-      "description": "Green waste, consisting of plant and garden debris, plays a vital role in organic recycling. Composting green waste contributes to creating nutrient-rich soil amendments, essential for sustainable gardening and agriculture.",
+      "description": "植物や庭の残骸から成る緑のごみは、有機リサイクルにおいて重要な役割を果たします。緑のごみを堆肥化することは、栄養豊富な土壌改良材料の生成に寄与し、持続可能な園芸や農業に不可欠です。",
       "otherNames": {
-        "Yard Waste": "Yard Waste",
-        "Garden Waste": "Garden Waste"
+        "Yard Waste": "庭のごみ",
+        "Garden Waste": "庭園のごみ"
       },
       "guideLines": {
-        "recommendedBinType": "Open Bin, Large Capacity, preferably Green",
-        "handling": "Use gloves when handling green waste to avoid cuts or irritation from rough materials. Wash hands after disposal.",
-        "separation": "Separate green waste from household and hazardous waste. Do not mix with food waste or recyclables.",
-        "whatNotToDo": "Avoid disposing of inorganic materials like plastic bags or pots. Do not include soil or rocks. Refrain from adding diseased plants or invasive species that might contaminate the compost."
+        "recommendedBinType": "オープンビン、大容量、できれば緑色",
+        "handling": "緑のごみを取り扱う際には、粗い材料からの切り傷や刺激から守るために手袋を使用します。廃棄物処理後は手を洗浄します。",
+        "separation": "緑のごみを家庭ごみや有害ごみから分離します。食品廃棄物やリサイクラブルと混合しないでください。",
+        "whatNotToDo": "プラスチックバッグやポットなどの非有機材料を廃棄しないでください。土壌や岩石を含めないでください。堆肥を汚染する可能性のある病気の植物や侵略的な種を追加しないでください。",
+        "safetyPrecautions": "緑のごみを取り扱う際、鋭利な材料から保護するために手袋を着用し、処理物が処理された木材などの有害物質から自由であることを確認します。"
       },
       "whyItIsImportant": {
-        "benefits": "Facilitates the production of compost, enriches soil health, and aids in carbon sequestration. Reduces landfill space usage and greenhouse gas emissions.",
-        "impact": "Contributes to sustainable waste management, supports biodiversity in soil, and encourages eco-friendly gardening and agricultural practices."
+        "benefits": "堆肥の生成を促進し、土壌の健康を豊かにし、炭素固定を支援します。埋立地のスペース使用と温室効果ガス排出を減少させます。",
+        "impact": "持続可能な廃棄物管理に貢献し、土壌の生物多様性をサポートし、環境に優しい園芸や農業の実践を奨励します。"
       },
-      "funFact": "Green waste like grass clippings and leaves can be composted to create rich soil, known as 'black gold' among gardeners, improving plant growth without chemical fertilizers."
+      "funFact": "芝刈りくずや葉などの緑のごみは、化学肥料なしで植物の成長を向上させる、園芸家の間では「黒金」として知られる、豊かな土壌を作るために堆肥化できます。"
     },
     "006": {
-      "name": "Recyclable Waste",
+      "name": "リサイクル可能なごみ",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Cardboard": "Cardboard",
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Containers": "Plastic Containers",
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Aluminum Cans": "Aluminum Cans",
-        "Steel Cans": "Steel Cans",
-        "Electronics": "Electronics",
-        "Textiles": "Textiles",
-        "Untreated Wood": "Untreated Wood",
-        "Aerosol Cans": "Aerosol Cans",
-        "Batteries": "Batteries",
-        "Non-LED Light Bulbs": "Non-LED Light Bulbs"
+        "Newspapers": "新聞",
+        "Magazines": "雑誌",
+        "Office Paper": "オフィス用紙",
+        "Cardboard": "ダンボール",
+        "Plastic Bottles": "プラスチックボトル",
+        "Plastic Containers": "プラスチック容器",
+        "Glass Bottles": "ガラスボトル",
+        "Glass Jars": "ガラスジャー",
+        "Aluminum Cans": "アルミニウム缶",
+        "Steel Cans": "スチール缶",
+        "Electronics": "電子機器",
+        "Textiles": "テキスタイル",
+        "Untreated Wood": "未処理木材",
+        "Aerosol Cans": "エアロゾル缶",
+        "Batteries": "電池",
+        "Non-LED Light Bulbs": "非LED電球"
       },
-      "description": "Recyclable waste includes a variety of materials that can be reprocessed for further use. Key items in this category include paper products, plastics, glass, metals, and certain types of electronics, all of which play a vital role in resource conservation and environmental sustainability.",
+      "description": "リサイクル可能なごみには、さまざまな材料が含まれ、さらなる利用のために再処理できるものがあります。このカテゴリの主要アイテムには紙製品、プラスチック、ガラス、金属、一部の電子機器が含まれ、すべてが資源保護と環境持続可能性に重要な役割を果たします。",
       "otherNames": {},
       "guideLines": {
-        "recommendedBinType": "Recycling Bin, Metal or Durable Plastic",
-        "handling": "Ensure items are clean and dry before recycling. Sort them according to local recycling guidelines.",
-        "separation": "Separate different types of recyclables to avoid contamination with non-recyclable materials.",
-        "whatNotToDo": "Avoid including soiled, contaminated, or non-recyclable materials. Adhere to local recycling rules for specific disposals.",
-        "safetyPrecautions": "When handling green waste, like grass clippings and tree branches, wear gloves to protect your hands from scratches and irritants. If using power tools for trimming or cutting, wear appropriate safety gear including goggles and hearing protection. Be cautious of insects or animals that may be living in the green waste material."
+        "recommendedBinType": "リサイクリングビン、金属または耐久プラスチック",
+        "handling": "リサイクル前にアイテムが清潔かつ乾燥していることを確認します。地元のリサイクルガイドラインに従って分別します。",
+        "separation": "異なる種類のリサイクル可能な材料を分別して、非リサイクル可能な材料との混入を防ぎます。",
+        "whatNotToDo": "汚れた、汚染された、または非リサイクル可能な材料を含めないでください。特定の廃棄物に関する地元のリサイクル規則に従ってください。",
+        "safetyPrecautions": "リサイクル可能な材料を取り扱う際には、必要に応じて適切な安全装備を着用します。リサイクリング材料の近くにいるかもしれない昆虫や動物に注意してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Reduces the need for new raw materials, conserves energy, and lessens the environmental impact of waste.",
-        "impact": "Supports sustainable resource management, contributing to environmental conservation and protection efforts."
+        "benefits": "新しい原材料の必要性を減少し、エネルギーを節約し、廃棄物の環境への影響を軽減します。",
+        "impact": "持続可能な資源管理をサポートし、環境保護と保護の取り組みに貢献します。"
       },
-      "funFact": "Composting green waste not only reduces landfill use but also creates a nutrient-rich soil amendment. In one year, an average tree absorbs about 48 pounds of CO2, making green waste a valuable resource in combatting climate change."
+      "funFact": "リサイクルは、廃棄物の環境への影響を軽減し、将来の世代のために貴重な資源を保護するのに役立ちます。"
     },
     "007": {
-      "name": "Automotive Waste",
+      "name": "自動車廃棄物",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Oil Filters": "Oil Filters",
-        "Batteries": "Batteries",
-        "Tires": "Tires",
-        "Brake Pads": "Brake Pads",
-        "Brake Fluid": "Brake Fluid",
-        "Transmission Fluid": "Transmission Fluid",
-        "Coolants": "Coolants",
-        "Metal Parts": "Metal Parts",
-        "Rubber Hoses": "Rubber Hoses",
-        "Belts": "Belts",
-        "Air Filters": "Air Filters",
-        "Windshield Glass": "Windshield Glass",
-        "Upholstery Materials": "Upholstery Materials",
-        "Automotive Bumpers": "Automotive Bumpers",
-        "Headlights": "Headlights",
-        "Electrical Components": "Electrical Components"
+        "Used Motor Oil": "使用済みモーターオイル",
+        "Oil Filters": "オイルフィルター",
+        "Batteries": "バッテリー",
+        "Tires": "タイヤ",
+        "Brake Pads": "ブレーキパッド",
+        "Brake Fluid": "ブレーキフルイド",
+        "Transmission Fluid": "トランスミッションフルイド",
+        "Coolants": "冷却液",
+        "Metal Parts": "金属部品",
+        "Rubber Hoses": "ゴムホース",
+        "Belts": "ベルト",
+        "Air Filters": "エアフィルター",
+        "Windshield Glass": "ウィンドウガラス",
+        "Upholstery Materials": "内装材料",
+        "Automotive Bumpers": "自動車バンパー",
+        "Headlights": "ヘッドライト",
+        "Electrical Components": "電子部品"
       },
-      "description": "Automotive waste encompasses various materials and components discarded from vehicles. It includes both hazardous and non-hazardous waste types, such as oils, batteries, tires, and mechanical parts. Proper disposal and recycling of automotive waste are crucial for environmental protection and resource conservation.",
+      "description": "自動車廃棄物には、車両から廃棄されるさまざまな材料と部品が含まれます。これにはオイル、バッテリー、タイヤ、機械部品など、有害および非有害な廃棄物が含まれます。自動車廃棄物の適切な処分とリサイクルは、環境保護と資源保護に不可欠です。",
       "otherNames": {
-        "Vehicle Waste": "Vehicle Waste",
-        "Car Waste": "Car Waste"
+        "Vehicle Waste": "車両廃棄物",
+        "Car Waste": "自動車廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized containers for hazardous materials, designated areas for larger parts",
-        "handling": "Handle with care, especially for hazardous substances. Use safety gear when dealing with oils and chemicals.",
-        "separation": "Separate hazardous waste like oils and batteries from non-hazardous items. Follow local guidelines for disposal of each type.",
-        "whatNotToDo": "Do not dispose of automotive oils and chemicals in regular trash or drains. Avoid mixing different types of automotive waste.",
-        "safetyPrecautions": "Wear gloves and eye protection when handling automotive waste like used oil, batteries, and tires to prevent contact with hazardous materials. Always work in well-ventilated areas to avoid inhaling fumes, especially when dealing with automotive fluids. Dispose of automotive waste at designated recycling centers to prevent environmental contamination."
+        "recommendedBinType": "有害物質用の専用コンテナ、大型部品用の指定エリア",
+        "handling": "特に有害物質の取り扱いに注意して取り扱います。オイルや化学物質を扱う際には安全装備を使用します。",
+        "separation": "オイルやバッテリーなどの有害廃棄物を非有害アイテムから分別します。各タイプの廃棄物の処分に関する地元のガイドラインに従います。",
+        "whatNotToDo": "自動車用オイルや化学物質を通常のごみや排水に廃棄しないでください。異なる種類の自動車廃棄物を混ぜないでください。",
+        "safetyPrecautions": "使用済みオイル、バッテリー、タイヤなどの自動車廃棄物を取り扱う際には、有害物質との接触を防ぐために手袋と目の保護具を着用します。特に自動車フルイドなどを取り扱う際には、有害な蒸気を吸い込まないよう、十分な換気の効いた場所で作業します。自動車廃棄物は環境汚染を防ぐために指定されたリサイクリングセンターで廃棄します。"
       },
       "whyItIsImportant": {
-        "benefits": "Prevents environmental contamination, conserves valuable materials, and supports recycling initiatives.",
-        "impact": "Proper management of automotive waste minimizes the ecological footprint of vehicle use and maintenance, contributing to a cleaner and safer environment."
+        "benefits": "環境汚染を防止し、貴重な材料を保存し、リサイクルイニシアティブを支援します。",
+        "impact": "自動車廃棄物の適切な管理は、車両の使用とメンテナンスの生態学的な影響を最小限に抑え、より清潔で安全な環境に貢献します。"
       },
-      "funFact": "Recycling just one car saves over 2,500 pounds of iron ore, 1,400 pounds of coal, and 120 pounds of limestone. This process also significantly reduces the energy and raw materials needed to produce new automotive parts and vehicles."
+      "funFact": "1台の車をリサイクルすると、鉄鉱石2,500ポンド、石炭1,400ポンド、石灰石120ポンドを節約できます。このプロセスはまた、新しい自動車部品と車両を製造するために必要なエネルギーと原材料を大幅に削減します。"
     },
     "008": {
-      "name": "Bulky Waste",
+      "name": "かさばる廃棄物",
       "wasteItems": {
-        "Furniture": "Furniture",
-        "Appliances": "Appliances",
-        "Mattresses": "Mattresses",
-        "Large Toys": "Large Toys",
-        "Carpeting": "Carpeting",
-        "Bicycles": "Bicycles",
-        "Large Electronics": "Large Electronics",
-        "BBQ Grills": "BBQ Grills",
-        "Exercise Equipment": "Exercise Equipment",
-        "Large Household Items": "Large Household Items"
+        "Furniture": "家具",
+        "Appliances": "家電製品",
+        "Mattresses": "マットレス",
+        "Large Toys": "大型おもちゃ",
+        "Carpeting": "カーペット",
+        "Bicycles": "自転車",
+        "Large Electronics": "大型電子機器",
+        "BBQ Grills": "バーベキューグリル",
+        "Exercise Equipment": "エクササイズ機器",
+        "Large Household Items": "大型家庭用品"
       },
-      "description": "Bulky waste includes large items that cannot fit into regular trash bins. Proper disposal of bulky waste is essential for efficient waste management and environmental preservation. Recycling bulky items can contribute to resource conservation.",
+      "description": "かさばる廃棄物には、通常のごみ箱に収納できない大きなアイテムが含まれます。かさばる廃棄物の適切な処分は、効率的な廃棄物管理と環境保護に不可欠です。かさばるアイテムのリサイクルは資源保護に貢献できます。",
       "otherNames": {
-        "Large Waste": "Large Waste",
-        "Oversized Items": "Oversized Items"
+        "Large Waste": "大型廃棄物",
+        "Oversized Items": "大型アイテム"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Drop-off Point",
-        "handling": "Check with local waste management for specific disposal instructions. Some items may require special handling or pickup services.",
-        "separation": "Separate different types of bulky items for appropriate recycling or disposal methods.",
-        "whatNotToDo": "Do not leave bulky items on the curb without arranging for proper collection. Avoid illegal dumping.",
-        "safetyPrecautions": "When handling bulky waste items such as furniture, appliances, and large toys, use proper lifting techniques to avoid back injuries. It's advisable to have assistance or use a trolley for moving heavy items. Wear protective footwear to prevent foot injuries and gloves for grip and protection from sharp edges."
+        "recommendedBinType": "特別回収または提供場所",
+        "handling": "特定の廃棄物処理手順については、地元の廃棄物管理に確認してください。一部のアイテムは特別な取り扱いや収集サービスが必要かもしれません。",
+        "separation": "さまざまな種類のかさばるアイテムを適切なリサイクルまたは廃棄物処理方法に分別します。",
+        "whatNotToDo": "かさばるアイテムを適切な収集の手配なしで路上に置かないでください。不法投棄を避けてください。",
+        "safetyPrecautions": "家具、家電製品、大型おもちゃなどのかさばる廃棄物アイテムを取り扱う際には、腰の怪我を防ぐために適切な持ち上げ技術を使用します。重いアイテムを移動する際には、助けを求めるか手押し車を使用することをお勧めします。鋭利なエッジからの保護とグリップのために、保護手袋と足の怪我から守るための保護靴を着用してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of bulky waste reduces landfill usage, promotes recycling, and contributes to a cleaner and safer environment.",
-        "impact": "Recycling bulky items helps in recovering valuable materials, reduces environmental impact, and supports sustainable waste management practices."
+        "benefits": "かさばる廃棄物の適切な処分は、埋立地の使用量を減少させ、リサイクルを促進し、より清潔で安全な環境に貢献します。",
+        "impact": "かさばるアイテムのリサイクルは、貴重な資材の回収に役立ち、環境への影響を減少させ、持続可能な廃棄物管理プラクティスを支援します。"
       },
-      "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
+      "funFact": "家具やその他のかさばるアイテムはしばしば埋立地に捨てられますが、再利用またはリサイクルされれば、1つのソファが最大9立方ヤードの埋立地スペースを節約できます。これはかさばるアイテムのリサイクルと再利用の重要性を示しています。"
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "建設および解体廃棄物",
       "wasteItems": {
-        "Concrete": "Concrete",
-        "Bricks": "Bricks",
-        "Wood": "Wood",
-        "Gypsum": "Gypsum",
-        "Metal": "Metal",
-        "Glass": "Glass",
-        "Plastic": "Plastic",
-        "Insulation Materials": "Insulation Materials",
-        "Electrical Wiring": "Electrical Wiring",
-        "Plumbing Fixtures": "Plumbing Fixtures",
-        "Ceramic Tiles": "Ceramic Tiles",
-        "Asphalt": "Asphalt",
-        "Roofing Materials": "Roofing Materials",
-        "Windows": "Windows",
-        "Doors": "Doors",
-        "Piping": "Piping",
-        "Reinforced Concrete": "Reinforced Concrete",
-        "Drywall": "Drywall",
-        "Flooring Materials": "Flooring Materials",
-        "Wall Coverings": "Wall Coverings"
+        "Concrete": "コンクリート",
+        "Bricks": "レンガ",
+        "Wood": "木材",
+        "Gypsum": "ギプス",
+        "Metal": "金属",
+        "Glass": "ガラス",
+        "Plastic": "プラスチック",
+        "Insulation Materials": "断熱材",
+        "Electrical Wiring": "電気配線",
+        "Plumbing Fixtures": "配管設備",
+        "Ceramic Tiles": "セラミックタイル",
+        "Asphalt": "アスファルト",
+        "Roofing Materials": "屋根材",
+        "Windows": "窓",
+        "Doors": "ドア",
+        "Piping": "パイピング",
+        "Reinforced Concrete": "鉄筋コンクリート",
+        "Drywall": "ドライウォール",
+        "Flooring Materials": "床材",
+        "Wall Coverings": "壁材料"
       },
-      "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
+      "description": "建設および解体廃棄物には、建物や構造物の建設、改装、解体から発生する材料が含まれます。適切な管理は材料のリサイクルと環境への影響を最小限に抑えるために重要です。",
       "otherNames": {
-        "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Building Waste": "建設廃棄物",
+        "Renovation Debris": "改装廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Special Collection or Designated Dumping Areas",
-        "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
-        "separation": "Separate materials based on type (e.g., metal, wood, concrete) for efficient recycling.",
-        "whatNotToDo": "Do not mix C&D waste with regular household waste. Avoid illegal dumping and improper disposal.",
-        "safetyPrecautions": "Ensure wearing sturdy gloves and safety glasses to protect against sharp objects and debris in C&D waste like wood, metal, and concrete. Appropriate footwear is essential to prevent injuries from heavy materials. Use dust masks for protection against dust and fine particles. Employ proper lifting techniques for heavy items to avoid back injuries."
+        "recommendedBinType": "特別な収集または指定の投棄エリア",
+        "handling": "廃棄物の処分については地元の規制を確認してください。一部の材料は特別な処理や取り扱いが必要です。",
+        "separation": "効率的なリサイクルのために、材料をタイプ別に分けてください（例：金属、木材、コンクリートなど）。",
+        "whatNotToDo": "C&D廃棄物を一般家庭ごみと混ぜないでください。不法投棄と不適切な廃棄物処理を避けてください。",
+        "safetyPrecautions": "C&D廃棄物のような木材、金属、コンクリートのような鋭利なオブジェクトと破片から保護するために、丈夫な手袋と安全メガネの着用を確認してください。重い材料からのけがを防ぐために適切な靴履きが重要です。ほこりと微粒子から保護するために防塵マスクを使用してください。重いアイテムの持ち上げに適切な持ち上げ技術を使用して、腰のけがを防ぎます。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal promotes material recycling, reduces landfill use, and minimizes environmental pollution.",
-        "impact": "Recycling C&D materials conserves resources, supports the building industry with recycled materials, and contributes to sustainable development."
+        "benefits": "適切な廃棄物処分は材料のリサイクルを促進し、埋立地の使用を減少させ、環境汚染を最小限に抑えます。",
+        "impact": "C&D材料のリサイクルは資源の保護に貢献し、建設業界にリサイクル材料を提供し、持続可能な発展を支えます。"
       },
-      "funFact": "Recycling one ton of concrete can save up to 1,360 gallons of water and 900 kg of CO2, highlighting the significant environmental benefits of repurposing C&D materials instead of disposing of them in landfills."
+      "funFact": "1トンのコンクリートのリサイクルは、最大1,360ガロンの水と900 kgのCO2を節約でき、これは埋立地に廃棄物を投棄する代わりにC&D材料を再利用することの重要な環境上の利点を示しています。"
     },
     "010": {
-      "name": "Electronic Waste",
+      "name": "電子廃棄物",
       "wasteItems": {
-        "Computers": "Computers",
-        "Laptops": "Laptops",
-        "Mobile Phones": "Mobile Phones",
-        "Printers": "Printers",
-        "Scanners": "Scanners",
-        "Televisions": "Televisions",
-        "Monitors": "Monitors",
-        "DVD Players": "DVD Players",
-        "Game Consoles": "Game Consoles",
-        "Small Appliances": "Small Appliances",
-        "Electronic Tools": "Electronic Tools",
-        "Batteries": "Batteries",
-        "Circuit Boards": "Circuit Boards",
-        "Hard Drives": "Hard Drives",
-        "Keyboards": "Keyboards",
-        "Mice": "Mice",
-        "Speakers": "Speakers",
-        "Chargers": "Chargers",
-        "Cables": "Cables",
-        "Cameras": "Cameras",
-        "Electronic Toys": "Electronic Toys",
-        "CDs": "CDs",
-        "DVDs": "DVDs",
-        "GPS Devices": "GPS Devices"
+        "Computers": "コンピュータ",
+        "Laptops": "ノートパソコン",
+        "Mobile Phones": "携帯電話",
+        "Printers": "プリンター",
+        "Scanners": "スキャナー",
+        "Televisions": "テレビ",
+        "Monitors": "モニター",
+        "DVD Players": "DVDプレーヤー",
+        "Game Consoles": "ゲーム機",
+        "Small Appliances": "小型家電",
+        "Electronic Tools": "電子工具",
+        "Batteries": "バッテリー",
+        "Circuit Boards": "回路基板",
+        "Hard Drives": "ハードドライブ",
+        "Keyboards": "キーボード",
+        "Mice": "マウス",
+        "Speakers": "スピーカー",
+        "Chargers": "充電器",
+        "Cables": "ケーブル",
+        "Cameras": "カメラ",
+        "Electronic Toys": "電子おもちゃ",
+        "CDs": "CD",
+        "DVDs": "DVD",
+        "GPS Devices": "GPSデバイス"
       },
-      "description": "Electronic Waste, or E-Waste, includes discarded electronic devices and equipment. Proper recycling and disposal are essential to recover valuable materials and prevent environmental contamination.",
+      "description": "電子廃棄物、またはE-ウェイストには廃棄された電子デバイスと装置が含まれます。適切なリサイクルと廃棄物処理は貴重な材料の回収と環境汚染の防止に不可欠です。",
       "otherNames": {
-        "WEEE": "WEEE (Waste Electrical and Electronic Equipment)",
-        "E-Waste": "E-Waste"
+        "WEEE": "WEEE（廃棄電気および電子機器）",
+        "E-Waste": "E-ウェイスト"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized E-Waste Collection Points or Recycling Centers",
-        "handling": "Handle E-Waste carefully to avoid breakage and leakage of hazardous substances. Follow local regulations for disposal.",
-        "separation": "Separate E-Waste from regular waste. Sort by type for efficient recycling.",
-        "whatNotToDo": "Do not dispose of E-Waste in regular trash. Avoid dismantling or breaking electronic devices, which can release toxic substances.",
-        "safetyPrecautions": "Use gloves to protect from sharp edges when handling E-Waste like old computers and TVs. Be aware of hazardous materials like lead and mercury in electronics. Avoid breaking them to prevent exposure. Recycle at designated centers for safe disposal."
+        "recommendedBinType": "専門のE-ウェイスト収集ポイントまたはリサイクルセンター",
+        "handling": "E-ウェイストを注意深く取り扱い、破損や有害物質の漏れを防ぐようにしてください。廃棄物処理に関する地元の規制に従ってください。",
+        "separation": "E-ウェイストを一般のごみから分けてください。効率的なリサイクルのためにタイプ別に分けてください。",
+        "whatNotToDo": "E-ウェイストを一般のゴミに廃棄しないでください。電子デバイスを分解または破壊しないでください。これにより有害物質が放出される可能性があります。",
+        "safetyPrecautions": "古いコンピュータやテレビなどのE-ウェイストを取り扱う際には、鋭利な部品から保護するために手袋を使用してください。電子機器に含まれる鉛や水銀などの有害物質に注意してください。それらを破壊しないようにして、露出を防ぎます。安全な廃棄物処分のために指定されたセンターでリサイクルしてください。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of E-Waste recycles valuable materials, reduces landfill use, and protects the environment from toxic substances.",
-        "impact": "Recycling E-Waste supports the circular economy, reduces the need for new raw materials, and minimizes ecological footprints."
+        "benefits": "E-ウェイストの適切な廃棄物処分は貴重な材料のリサイクルを促進し、埋立地の使用を減少させ、環境から有害物質を守ります。",
+        "impact": "E-ウェイストのリサイクルは循環型経済を支援し、新しい原材料の必要性を減少させ、生態系への影響を最小限に抑えます。"
       },
-      "funFact": "Recycling one million laptops saves enough energy to power over 3,500 US homes for a year. Recycling a million cell phones can recover 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium."
+      "funFact": "100万台のノートパソコンをリサイクルすると、1年間3,500軒以上のアメリカの家庭を電力供給できるエネルギーを節約できます。100万台の携帯電話をリサイクルすると、35,274ポンドの銅、772ポンドの銀、75ポンドの金、33ポンドのパラジウムを回収できます。"
     },
     "011": {
-      "name": "Glass Waste",
+      "name": "ガラス廃棄物",
       "wasteItems": {
-        "Glass Bottles": "Glass Bottles",
-        "Glass Jars": "Glass Jars",
-        "Window Glass": "Window Glass",
-        "Mirror Glass": "Mirror Glass",
-        "Glass Containers": "Glass Containers",
-        "Drinking Glasses": "Drinking Glasses",
-        "Broken Glassware": "Broken Glassware",
-        "Automotive Glass": "Automotive Glass",
-        "Glass Tableware": "Glass Tableware",
-        "Light Bulbs": "Light Bulbs (non-fluorescent)",
-        "Laboratory Glassware": "Laboratory Glassware",
-        "Tempered Glass": "Tempered Glass",
-        "Glass Shards": "Glass Shards"
+        "Glass Bottles": "ガラスボトル",
+        "Glass Jars": "ガラスジャー",
+        "Window Glass": "窓ガラス",
+        "Mirror Glass": "鏡ガラス",
+        "Glass Containers": "ガラス容器",
+        "Drinking Glasses": "飲料用ガラス",
+        "Broken Glassware": "割れたガラス製品",
+        "Automotive Glass": "自動車用ガラス",
+        "Glass Tableware": "ガラス食器",
+        "Light Bulbs": "電球（非蛍光灯）",
+        "Laboratory Glassware": "実験用ガラス製品",
+        "Tempered Glass": "強化ガラス",
+        "Glass Shards": "ガラスの破片"
       },
-      "description": "Glass Waste includes various types of discarded glass products. Recycling glass is crucial as it can be processed and remade into new glass products, reducing the need for new raw materials.",
+      "description": "ガラス廃棄物にはさまざまな種類の廃棄ガラス製品が含まれます。ガラスをリサイクルすることは非常に重要であり、新しい原材料の必要性を減少させるために再加工および新しいガラス製品に再製造できます。",
       "otherNames": {
-        "Broken Glass": "Broken Glass",
-        "Discarded Glassware": "Discarded Glassware"
+        "Broken Glass": "割れたガラス",
+        "Discarded Glassware": "廃棄ガラス製品"
       },
       "guideLines": {
-        "recommendedBinType": "Glass Recycling Bin or Drop-off Locations",
-        "handling": "Handle glass waste carefully to avoid injury. Remove any non-glass components if required.",
-        "separation": "Separate glass by color and type when possible to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of glass in regular waste bins. Avoid mixing glass with other recyclables that might contaminate it.",
-        "safetyPrecautions": "Use gloves when handling broken glass to prevent cuts. If dealing with a large quantity of glass waste, eye protection is recommended to guard against potential splinters or shards. Always lift heavy glass items properly to avoid injury. Keep glass waste in a rigid container to prevent breakage and ensure safe transportation."
+        "recommendedBinType": "ガラスリサイクル用の容器または回収場所",
+        "handling": "ガラス廃棄物を注意深く取り扱い、怪我を防いでください。必要に応じて非ガラスの部品を取り外してください。",
+        "separation": "可能な限りガラスを色別およびタイプ別に分けて、リサイクルの効率を向上させてください。",
+        "whatNotToDo": "ガラスを通常のごみ箱に廃棄しないでください。ガラスを他のリサイクル可能なものと混ぜないようにして、汚染を防いでください。",
+        "safetyPrecautions": "割れたガラスを取り扱う際には切り傷を防ぐために手袋を使用してください。多量のガラス廃棄物を処理する場合、木片や破片による潜在的なけがを防ぐために眼の保護が推奨されます。重いガラス製品を適切に持ち上げてけがを防いでください。ガラス廃棄物を破損を防ぎ、安全な輸送を確保するために堅固な容器に入れてください。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling glass reduces landfill waste, conserves natural resources, and saves energy. Glass can be recycled indefinitely without loss of quality.",
-        "impact": "Effective glass recycling helps in reducing environmental impact, supports sustainable resource use, and contributes to a circular economy."
+        "benefits": "ガラスのリサイクルは埋立地の廃棄物を減少させ、天然資源を保護し、エネルギーを節約します。ガラスは品質を損なうことなく無限にリサイクルできます。",
+        "impact": "効果的なガラスのリサイクルは環境への影響を減少させ、持続可能な資源利用を支え、循環型経済に貢献します。"
       },
-      "funFact": "Recycling glass is incredibly efficient as it can be endlessly recycled without any loss in purity or quality. In fact, 80% of recovered glass containers are made into new glass bottles, and a glass container can go from a recycling bin to a store shelf in as little as 30 days."
+      "funFact": "ガラスのリサイクルは非常に効率的であり、回収されたガラス容器の80％が新しいガラスボトルに製造されます。また、ガラス容器はリサイクル箱から店の棚にわずか30日で移ることがあります。"
     },
     "012": {
-      "name": "Industrial Waste",
+      "name": "産業廃棄物",
       "wasteItems": {
-        "Chemical Solvents": "Chemical Solvents",
-        "Metal Scraps": "Metal Scraps",
-        "Plastic Offcuts": "Plastic Offcuts",
-        "Construction Debris": "Construction Debris",
-        "Electronic Components": "Electronic Components",
-        "Paper and Cardboard": "Paper and Cardboard",
-        "Textile Scraps": "Textile Scraps",
-        "Glass Pieces": "Glass Pieces",
-        "Rubber Waste": "Rubber Waste",
-        "Biodegradable Waste": "Biodegradable Waste",
-        "Non-Biodegradable Waste": "Non-Biodegradable Waste",
-        "Hazardous Materials": "Hazardous Materials",
-        "Non-Hazardous Materials": "Non-Hazardous Materials",
-        "Industrial Sludge": "Industrial Sludge",
-        "Packaging Materials": "Packaging Materials"
+        "Chemical Solvents": "化学溶剤",
+        "Metal Scraps": "金属スクラップ",
+        "Plastic Offcuts": "プラスチック端材",
+        "Construction Debris": "建設残材",
+        "Electronic Components": "電子部品",
+        "Paper and Cardboard": "紙およびダンボール",
+        "Textile Scraps": "テキスタイルスクラップ",
+        "Glass Pieces": "ガラス片",
+        "Rubber Waste": "ゴム廃棄物",
+        "Biodegradable Waste": "生分解性廃棄物",
+        "Non-Biodegradable Waste": "非生分解性廃棄物",
+        "Hazardous Materials": "有害物質",
+        "Non-Hazardous Materials": "非有害物質",
+        "Industrial Sludge": "産業スラッジ",
+        "Packaging Materials": "包装材料"
       },
-      "description": "Industrial Waste comprises a broad range of materials resulting from industrial and manufacturing processes. Proper management, including recycling and safe disposal, is vital to minimize environmental impact.",
+      "description": "産業廃棄物には、産業および製造プロセスから生じるさまざまな材料が含まれます。環境への影響を最小限に抑えるためには、リサイクルと安全な廃棄物処理を含む適切な管理が不可欠です。",
       "otherNames": {
-        "Manufacturing Waste": "Manufacturing Waste",
-        "Production Waste": "Production Waste"
+        "Manufacturing Waste": "製造廃棄物",
+        "Production Waste": "生産廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Industrial Waste Containers or Recycling Facilities",
-        "handling": "Handle with appropriate safety gear, especially when dealing with hazardous materials. Follow all regulatory guidelines for disposal.",
-        "separation": "Separate waste by type (e.g., hazardous vs. non-hazardous) and material (e.g., metal, plastic) to facilitate recycling and disposal.",
-        "whatNotToDo": "Do not mix hazardous industrial waste with non-hazardous waste. Avoid illegal dumping or improper disposal of industrial waste.",
-        "safetyPrecautions": "Always use gloves, protective eye wear, and masks when handling industrial waste, especially if it contains hazardous materials."
+        "recommendedBinType": "専用の産業廃棄物コンテナまたはリサイクル施設",
+        "handling": "有害物質を取り扱う際を含む適切な安全装備を使用して取り扱ってください。廃棄物の処分に関するすべての規制ガイドラインに従ってください。",
+        "separation": "廃棄物を種類（例：有害物質対非有害物質）および材料（例：金属、プラスチック）別に分けて、リサイクルと廃棄物処理を容易にしてください。",
+        "whatNotToDo": "有害な産業廃棄物を非有害な廃棄物と混ぜないでください。不法投棄や不適切な廃棄物処分を避けてください。",
+        "safetyPrecautions": "産業廃棄物を取り扱う際には、特に有害物質を含む場合は手袋、保護眼鏡、マスクを使用してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper handling and recycling of industrial waste conserves resources, reduces pollution, and supports sustainable industrial practices.",
-        "impact": "Effective management of industrial waste reduces the strain on landfills, minimizes environmental hazards, and contributes to the circular economy."
+        "benefits": "産業廃棄物の適切な取り扱いとリサイクルは資源の保護、汚染の削減、持続可能な産業プラクティスの支援に貢献します。",
+        "impact": "産業廃棄物の効果的な管理は埋立地への負荷を減少させ、環境ハザードを最小限に抑え、循環型経済に貢献します。"
       },
-      "funFact": "Recycling industrial metals can save up to 75% of the energy needed to produce them from raw materials."
+      "funFact": "産業金属のリサイクルによって、新たに原材料から製造するために必要なエネルギーの75%を節約できます。"
     },
     "013": {
-      "name": "Metal Waste",
+      "name": "金属廃棄物",
       "wasteItems": {
-        "Aluminum Cans": "Aluminum Cans",
-        "Tin Cans": "Tin Cans",
-        "Steel Scraps": "Steel Scraps",
-        "Copper Wire": "Copper Wire",
-        "Metal Pipes": "Metal Pipes",
-        "Metal Tools": "Metal Tools",
-        "Metal Packaging": "Metal Packaging",
-        "Automotive Parts": "Automotive Parts",
-        "Metal Furniture": "Metal Furniture",
-        "Metal Appliances": "Metal Appliances",
-        "Construction Materials": "Construction Materials",
-        "Aerosol Cans": "Aerosol Cans",
-        "Electronic Metals": "Electronic Metals",
-        "Metal Caps": "Metal Caps",
-        "Metal Lids": "Metal Lids"
+        "Aluminum Cans": "アルミ缶",
+        "Tin Cans": "ブリキ缶",
+        "Steel Scraps": "鉄くず",
+        "Copper Wire": "銅ワイヤー",
+        "Metal Pipes": "金属パイプ",
+        "Metal Tools": "金属工具",
+        "Metal Packaging": "金属包装",
+        "Automotive Parts": "自動車部品",
+        "Metal Furniture": "金属家具",
+        "Metal Appliances": "金属家電",
+        "Construction Materials": "建設材料",
+        "Aerosol Cans": "エアゾール缶",
+        "Electronic Metals": "電子部品の金属",
+        "Metal Caps": "金属のキャップ",
+        "Metal Lids": "金属のふた"
       },
-      "description": "Metal Waste encompasses various discarded metal items and materials. It is highly recyclable and can be reprocessed into new metal products, reducing the need for virgin ore extraction.",
+      "description": "金属廃棄物にはさまざまな廃棄金属製品と材料が含まれています。これらは高度にリサイクル可能で、新たな金属製品への鉱石の採掘の必要性を減少させることができます。",
       "otherNames": {
-        "Scrap Metal": "Scrap Metal",
-        "Discarded Metal": "Discarded Metal"
+        "Scrap Metal": "スクラップメタル",
+        "Discarded Metal": "廃棄金属"
       },
       "guideLines": {
-        "recommendedBinType": "Metal Recycling Bin or Scrap Yard",
-        "handling": "Sort metals by type and remove any non-metal components if possible. Handle with care to avoid injury.",
-        "separation": "Separate ferrous metals (like steel and iron) from non-ferrous metals (like aluminum and copper) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not dispose of metal waste with regular trash. Avoid mixing different types of metals unless instructed by your local recycling facility.",
-        "safetyPrecautions": "Wear gloves and protective footwear when handling metal waste to prevent cuts and injuries."
+        "recommendedBinType": "金属リサイクルビンまたはスクラップヤード",
+        "handling": "金属を種類別に分類し、可能であれば非金属の部品を取り除いてください。けがをしないように注意して取り扱ってください。",
+        "separation": "鉄（鋼鉄など）と非鉄（アルミニウムや銅など）を分けてリサイクル効率を高めてください。",
+        "whatNotToDo": "金属廃棄物を一般のごみと混ぜないでください。異なる種類の金属を混ぜることは、地元のリサイクル施設の指示がない限り避けてください。",
+        "safetyPrecautions": "金属廃棄物を取り扱う際には、切り傷やけがを防ぐために手袋と保護用の靴を着用してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling metal saves energy, reduces greenhouse gas emissions, and conserves natural resources. Metals can be recycled multiple times without degrading their properties.",
-        "impact": "Effective metal recycling reduces environmental impact, decreases the demand for new mining, and supports sustainable resource management."
+        "benefits": "金属のリサイクルはエネルギーを節約し、温室効果ガスの排出を減少させ、天然資源を保護します。金属は何度もリサイクルでき、その性質が劣化しません。",
+        "impact": "効果的な金属のリサイクルは環境への影響を減少させ、新たな鉱業の需要を減らし、持続可能な資源管理を支援します。"
       },
-      "funFact": "Recycling one aluminum can save enough energy to run a TV for three hours."
+      "funFact": "1つのアルミニウム缶をリサイクルすることで、3時間テレビを動かすのに十分なエネルギーを節約できます。"
     },
     "014": {
-      "name": "Paper Waste",
+      "name": "紙類廃棄物",
       "wasteItems": {
-        "Newspapers": "Newspapers",
-        "Magazines": "Magazines",
-        "Office Paper": "Office Paper",
-        "Notebooks": "Notebooks",
-        "Envelopes": "Envelopes",
-        "Junk Mail": "Junk Mail",
-        "Cardboard Boxes": "Cardboard Boxes",
-        "Paper Packaging": "Paper Packaging",
-        "Paper Bags": "Paper Bags",
-        "Phone Books": "Phone Books",
-        "Catalogs": "Catalogs",
-        "Shredded Paper": "Shredded Paper",
-        "Paper Cups": "Paper Cups",
-        "Paper Plates": "Paper Plates",
-        "Greeting Cards": "Greeting Cards",
-        "Wrapping Paper": "Wrapping Paper"
+        "Newspapers": "新聞",
+        "Magazines": "雑誌",
+        "Office Paper": "オフィス用紙",
+        "Notebooks": "ノートブック",
+        "Envelopes": "封筒",
+        "Junk Mail": "ジャンクメール",
+        "Cardboard Boxes": "ダンボール箱",
+        "Paper Packaging": "紙の包装材",
+        "Paper Bags": "紙袋",
+        "Phone Books": "電話帳",
+        "Catalogs": "カタログ",
+        "Shredded Paper": "紙の破片",
+        "Paper Cups": "紙コップ",
+        "Paper Plates": "紙皿",
+        "Greeting Cards": "挨拶状",
+        "Wrapping Paper": "包装紙"
       },
-      "description": "Paper Waste encompasses various types of discarded paper and paper products. Recycling paper waste is crucial for reducing deforestation and conserving natural resources.",
+      "description": "紙類廃棄物にはさまざまな種類の廃棄紙および紙製品が含まれています。紙類廃棄物のリサイクルは森林伐採の減少と天然資源の保護に重要です。",
       "otherNames": {
-        "Discarded Paper": "Discarded Paper",
-        "Paper Scraps": "Paper Scraps"
+        "Discarded Paper": "廃棄紙",
+        "Paper Scraps": "紙くず"
       },
       "guideLines": {
-        "recommendedBinType": "Paper Recycling Bin",
-        "handling": "Remove any non-paper components like plastic liners, staples, or tape. Keep paper dry and clean for effective recycling.",
-        "separation": "Separate paper by type (e.g., cardboard, office paper) and condition (e.g., clean, soiled) to enhance recycling efficiency.",
-        "whatNotToDo": "Do not mix soiled or greasy paper waste with clean paper. Avoid disposing of recyclable paper in regular waste bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most paper waste."
+        "recommendedBinType": "紙リサイクルビン",
+        "handling": "プラスチック製のライナーやステープル、テープなどの非紙類の部品を取り除いてください。紙を乾燥させ、清潔に保つことで効果的なリサイクルが可能です。",
+        "separation": "紙をタイプ（例：ダンボール、オフィス用紙）および状態（例：清潔、汚れ）別に分けてリサイクル効率を高めてください。",
+        "whatNotToDo": "汚れたり脂ぎったりした紙類廃棄物を清潔な紙と混ぜないでください。リサイクル可能な紙を一般のごみ箱に廃棄しないでください。",
+        "safetyPrecautions": "ほとんどの紙類廃棄物を取り扱う際に特別な安全対策は必要ありません。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling paper reduces the need for new paper production, saving trees and decreasing energy and water consumption.",
-        "impact": "Effective paper recycling minimizes landfill use, reduces greenhouse gas emissions, and supports sustainable forestry practices."
+        "benefits": "紙のリサイクルは新たな紙の生産の必要性を減少させ、木を節約し、エネルギーや水の消費を減少させます。",
+        "impact": "効果的な紙のリサイクルは埋立地の使用を最小限にし、温室効果ガスの排出を減少させ、持続可能な森林管理を支援します。"
       },
-      "funFact": "Recycling a single ton of paper can save 17 trees and 7,000 gallons of water."
+      "funFact": "1トンの紙をリサイクルすることで、17本の木と7,000ガロンの水を節約できます。"
     },
     "015": {
-      "name": "Plastic Waste",
+      "name": "プラスチック廃棄物",
       "wasteItems": {
-        "Plastic Bottles": "Plastic Bottles",
-        "Plastic Bags": "Plastic Bags",
-        "Plastic Packaging": "Plastic Packaging",
-        "Plastic Containers": "Plastic Containers",
-        "Plastic Utensils": "Plastic Utensils",
-        "Plastic Wraps": "Plastic Wraps",
-        "Plastic Toys": "Plastic Toys",
-        "Polystyrene Foam": "Polystyrene Foam",
-        "Plastic Cups": "Plastic Cups",
-        "Plastic Plates": "Plastic Plates",
-        "Plastic Film": "Plastic Film",
-        "Water Bottles": "Water Bottles",
-        "Detergent Bottles": "Detergent Bottles",
-        "Shampoo Bottles": "Shampoo Bottles",
-        "Plastic Caps": "Plastic Caps",
-        "Plastic Lids": "Plastic Lids",
-        "Plastic Furniture": "Plastic Furniture",
-        "Plastic Hangers": "Plastic Hangers"
+        "Plastic Bottles": "プラスチックボトル",
+        "Plastic Bags": "プラスチックバッグ",
+        "Plastic Packaging": "プラスチック包装材",
+        "Plastic Containers": "プラスチック容器",
+        "Plastic Utensils": "プラスチック食器",
+        "Plastic Wraps": "プラスチックラップ",
+        "Plastic Toys": "プラスチックおもちゃ",
+        "Polystyrene Foam": "ポリスチレンフォーム",
+        "Plastic Cups": "プラスチックカップ",
+        "Plastic Plates": "プラスチック皿",
+        "Plastic Film": "プラスチックフィルム",
+        "Water Bottles": "ウォーターボトル",
+        "Detergent Bottles": "洗剤ボトル",
+        "Shampoo Bottles": "シャンプーボトル",
+        "Plastic Caps": "プラスチックキャップ",
+        "Plastic Lids": "プラスチックの蓋",
+        "Plastic Furniture": "プラスチック家具",
+        "Plastic Hangers": "プラスチックハンガー"
       },
-      "description": "Plastic Waste comprises a variety of discarded plastic items. Given its long decomposition time, recycling and proper disposal of plastic waste are essential to mitigate environmental impact.",
+      "description": "プラスチック廃棄物にはさまざまな種類の廃棄プラスチック製品が含まれています。分解に時間がかかるため、プラスチック廃棄物のリサイクルと適切な廃棄物処理は環境への影響を軽減するために重要です。",
       "otherNames": {
-        "Discarded Plastics": "Discarded Plastics",
-        "Scrap Plastics": "Scrap Plastics"
+        "Discarded Plastics": "廃棄プラスチック",
+        "Scrap Plastics": "スクラッププラスチック"
       },
       "guideLines": {
-        "recommendedBinType": "Plastic Recycling Bin or Facility",
-        "handling": "Clean and dry plastics before recycling. Remove any non-plastic components, such as labels or caps.",
-        "separation": "Separate plastics by type and category, as different types of plastics have different recycling processes.",
-        "whatNotToDo": "Do not mix plastic waste with other recyclables or general waste. Avoid throwing large plastic items in regular trash bins.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most plastic waste."
+        "recommendedBinType": "プラスチックリサイクルビンまたは施設",
+        "handling": "リサイクル前にプラスチックをきれいに洗って乾かしてください。ラベルやキャップなどの非プラスチック成分を取り除いてください。",
+        "separation": "プラスチックをタイプとカテゴリに分けてください。異なる種類のプラスチックには異なるリサイクルプロセスがあります。",
+        "whatNotToDo": "プラスチック廃棄物を他のリサイクル物や一般のごみと混ぜないでください。大きなプラスチックアイテムを通常のごみ箱に捨てないでください。",
+        "safetyPrecautions": "ほとんどのプラスチック廃棄物を取り扱う際に特別な安全対策は必要ありません。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling plastic reduces the need for new plastic production, conserves resources, and decreases pollution. It also helps reduce the amount of plastic entering landfills and oceans.",
-        "impact": "Effective plastic recycling contributes to environmental sustainability, reduces greenhouse gas emissions, and supports waste management efficiency."
+        "benefits": "プラスチックのリサイクルは新たなプラスチックの生産の必要性を減少させ、資源を保護し、汚染を減少させます。また、埋立地や海洋に入るプラスチックの量を減少させるのにも役立ちます。",
+        "impact": "効果的なプラスチックのリサイクルは環境の持続可能性に貢献し、温室効果ガスの排出を減少させ、廃棄物管理の効率を支えます。"
       },
-      "funFact": "Recycling one ton of plastic can save up to 7.4 cubic yards of landfill space."
+      "funFact": "1トンのプラスチックをリサイクルすることで、最大7.4立方ヤードの埋立地スペースを節約できます。"
     },
     "016": {
-      "id": "016",
-      "name": "Rubber Waste",
-      "isParent": false,
-      "subCategoryIds": [],
+      "name": "ゴム廃棄物",
       "wasteItems": {
-        "Used Tires": "Used Tires",
-        "Rubber Bands": "Rubber Bands",
-        "Rubber Gloves": "Rubber Gloves",
-        "Rubber Hoses": "Rubber Hoses",
-        "Rubber Footwear": "Rubber Footwear",
-        "Rubber Mats": "Rubber Mats",
-        "Conveyor Belts": "Conveyor Belts",
-        "Rubber Gaskets": "Rubber Gaskets",
-        "Rubber Seals": "Rubber Seals",
-        "Rubber Sheets": "Rubber Sheets",
-        "Rubber Toys": "Rubber Toys",
-        "Automotive Rubber": "Automotive Rubber",
-        "Rubber Tubing": "Rubber Tubing",
-        "Elastomeric Materials": "Elastomeric Materials",
-        "Synthetic Rubber": "Synthetic Rubber"
+        "Used Tires": "使用済みタイヤ",
+        "Rubber Bands": "ゴムバンド",
+        "Rubber Gloves": "ゴム手袋",
+        "Rubber Hoses": "ゴムホース",
+        "Rubber Footwear": "ゴム製履物",
+        "Rubber Mats": "ゴムマット",
+        "Conveyor Belts": "コンベアベルト",
+        "Rubber Gaskets": "ゴムガスケット",
+        "Rubber Seals": "ゴムシール",
+        "Rubber Sheets": "ゴムシート",
+        "Rubber Toys": "ゴムのおもちゃ",
+        "Automotive Rubber": "自動車用ゴム",
+        "Rubber Tubing": "ゴムチューブ",
+        "Elastomeric Materials": "弾性体材料",
+        "Synthetic Rubber": "合成ゴム"
       },
-      "binImage": "link_to_rubber_waste_bin_image.jpg",
-      "descriptionImage": "link_to_rubber_waste_description_image.jpg",
-      "compostable": false,
-      "recyclable": true,
-      "burnable": true,
-      "caution": true,
-      "toxic": false,
-      "flammable": true,
-      "bioHazardous": false,
-      "radioactive": false,
-      "washHand": true,
-      "sanitize": false,
-      "safetyGear": true,
-      "description": "Rubber Waste consists of various discarded rubber products. Recycling rubber is important for conserving resources and reducing environmental impact, as rubber can take a long time to decompose in landfills.",
+      "description": "ゴム廃棄物にはさまざまな種類の廃棄ゴム製品が含まれています。ゴムは埋立地で分解に時間がかかるため、ゴムのリサイクルは資源を保護し、環境への影響を軽減するために重要です。",
       "otherNames": {
-        "Scrap Rubber": "Scrap Rubber",
-        "Waste Rubber": "Waste Rubber"
+        "Scrap Rubber": "スクラップゴム",
+        "Waste Rubber": "廃棄ゴム"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Rubber Recycling Facility or Collection Points",
-        "handling": "Handle rubber waste carefully, especially when dealing with large or heavy items. Ensure proper storage to prevent environmental contamination.",
-        "separation": "Separate different types of rubber waste for effective recycling. Remove any non-rubber components if possible.",
-        "whatNotToDo": "Do not dispose of rubber waste in regular trash bins. Avoid burning rubber waste, as it releases harmful toxins.",
-        "safetyPrecautions": "Wear gloves and protective clothing when handling rubber waste to avoid potential skin irritation."
+        "recommendedBinType": "専門のゴムリサイクル施設または収集ポイント",
+        "handling": "特に大きなまたは重いアイテムを取り扱う際にはゴム廃棄物を注意深く扱ってください。環境への汚染を防ぐために適切な保管を確保してください。",
+        "separation": "効果的なリサイクルのために、異なる種類のゴム廃棄物を分けてください。可能であれば非ゴム成分を取り除いてください。",
+        "whatNotToDo": "ゴム廃棄物を通常のゴミ箱に捨てないでください。ゴム廃棄物を燃やすことは避けてください。これにより有害な毒素が放出されます。",
+        "safetyPrecautions": "ゴム廃棄物を取り扱う際には、皮膚の刺激を防ぐために手袋と保護服を着用してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling rubber helps in reducing landfill waste and pollution. It can be repurposed into various products like rubber mulch, mats, and asphalt additives.",
-        "impact": "Effective management of rubber waste supports environmental sustainability and helps conserve non-renewable resources used in rubber production."
+        "benefits": "ゴムのリサイクルは埋立地の廃棄物と汚染の削減に役立ちます。ゴムはゴムマルチ、マット、アスファルト添加剤など、さまざまな製品に再利用できます。",
+        "impact": "ゴム廃棄物の効果的な管理は環境の持続可能性を支え、ゴムの生産に使用される非再生可能な資源の保全に貢献します。"
       },
-      "funFact": "Recycled rubber from tires can be used to create artificial turf, playground surfaces, and even as a fuel source in some industrial processes."
+      "funFact": "タイヤからのリサイクルゴムは人工芝、遊び場の表面材、一部の産業プロセスでの燃料源として使用できます。"
     },
     "017": {
-      "name": "Textile Waste",
+      "name": "テキスタイル廃棄物",
       "wasteItems": {
-        "Clothing": "Clothing",
-        "Bed Linens": "Bed Linens",
-        "Towels": "Towels",
-        "Curtains": "Curtains",
-        "Fabric Scraps": "Fabric Scraps",
-        "Carpeting": "Carpeting",
-        "Upholstery": "Upholstery",
-        "Footwear": "Footwear",
-        "Handbags": "Handbags",
-        "Belts": "Belts",
-        "Hats": "Hats",
-        "Socks": "Socks",
-        "Non-reusable Textiles": "Non-reusable Textiles",
-        "Stuffed Toys": "Stuffed Toys",
-        "Ropes": "Ropes",
-        "Thread": "Thread",
-        "Yarn": "Yarn"
+        "Clothing": "衣類",
+        "Bed Linens": "ベッドリネン",
+        "Towels": "タオル",
+        "Curtains": "カーテン",
+        "Fabric Scraps": "布くず",
+        "Carpeting": "カーペット",
+        "Upholstery": "張り地",
+        "Footwear": "履物",
+        "Handbags": "ハンドバッグ",
+        "Belts": "ベルト",
+        "Hats": "帽子",
+        "Socks": "靴下",
+        "Non-reusable Textiles": "再利用不可能なテキスタイル",
+        "Stuffed Toys": "ぬいぐるみ",
+        "Ropes": "ロープ",
+        "Thread": "糸",
+        "Yarn": "糸"
       },
-      "description": "Textile Waste consists of discarded fabric and clothing materials. It's a significant component of environmental waste. Recycling and repurposing textile waste are essential for reducing its impact on the environment.",
+      "description": "テキスタイル廃棄物は、廃棄された生地と衣類の材料で構成されています。これは環境廃棄物の重要な部分です。テキスタイル廃棄物のリサイクルと再利用は、環境への影響を軽減するために重要です。",
       "otherNames": {
-        "Discarded Fabric": "Discarded Fabric",
-        "Scrap Textiles": "Scrap Textiles"
+        "Discarded Fabric": "廃棄生地",
+        "Scrap Textiles": "スクラップテキスタイル"
       },
       "guideLines": {
-        "recommendedBinType": "Textile Recycling Bin or Donation Centers",
-        "handling": "Clean and dry textiles before recycling. Damaged or worn textiles can be repurposed or recycled into new products.",
-        "separation": "Separate textiles by type (e.g., cotton, polyester) and condition (e.g., wearable, non-wearable) for more efficient recycling or repurposing.",
-        "whatNotToDo": "Do not throw away wearable textiles with regular trash. Avoid disposing of heavily soiled or contaminated textiles without proper treatment.",
-        "safetyPrecautions": "No specific safety precautions are necessary for handling most textile waste."
+        "recommendedBinType": "テキスタイルリサイクルボックスまたは寄付センター",
+        "handling": "リサイクル前にテキスタイルをきれいに洗って乾かしてください。損傷したり古くなったテキスタイルは新製品に再利用またはリサイクルできます。",
+        "separation": "テキスタイルを種類（例：綿、ポリエステル）と状態（例：着用可能、着用不可）によって分別し、効率的なリサイクルまたは再利用を促進します。",
+        "whatNotToDo": "着用可能なテキスタイルを通常のごみと一緒に捨てないでください。適切な処理をせずに重度に汚れたり汚染されたテキスタイルを廃棄しないでください。",
+        "safetyPrecautions": "ほとんどのテキスタイル廃棄物を取り扱う際には特別な安全対策は必要ありません。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling textiles conserves resources, reduces landfill waste, and decreases the demand for new raw materials. Repurposed textiles can find new life in various applications.",
-        "impact": "Effective textile waste management supports sustainable fashion, reduces environmental pollution, and promotes a circular economy in the textile industry."
+        "benefits": "テキスタイルのリサイクルは資源を保護し、埋立地の廃棄物を減少させ、新しい原材料の需要を減少させます。再利用されたテキスタイルはさまざまな用途で新たな生活を見つけることができます。",
+        "impact": "効果的なテキスタイル廃棄物管理は持続可能なファッションを支え、環境汚染を減少させ、テキスタイル産業における循環型経済を推進します。"
       },
-      "funFact": "Recycling or repurposing just one ton of textiles can prevent the emission of approximately 7 tons of CO2."
+      "funFact": "たった1トンのテキスタイルをリサイクルまたは再利用することで、約7トンのCO2排出を防ぐことができます。"
     },
     "018": {
-      "name": "Wood Waste",
+      "name": "木材廃棄物",
       "wasteItems": {
-        "Lumber Scraps": "Lumber Scraps",
-        "Pallets": "Pallets",
-        "Timber Offcuts": "Timber Offcuts",
-        "Furniture Pieces": "Furniture Pieces",
-        "Branches": "Branches",
-        "Twigs": "Twigs",
-        "Sawdust": "Sawdust",
-        "Plywood": "Plywood",
-        "Particle Board": "Particle Board",
-        "Wooden Crates": "Wooden Crates",
-        "Wooden Tools": "Wooden Tools",
-        "Construction Debris": "Construction Debris",
-        "Floorboards": "Floorboards",
-        "Window Frames": "Window Frames",
-        "Door Frames": "Door Frames",
-        "Tree Stumps": "Tree Stumps",
-        "Wooden Fencing": "Wooden Fencing",
-        "Decking Material": "Decking Material",
-        "Firewood Scraps": "Firewood Scraps"
+        "Lumber Scraps": "木材くず",
+        "Pallets": "パレット",
+        "Timber Offcuts": "木材の切りくず",
+        "Furniture Pieces": "家具の部品",
+        "Branches": "枝",
+        "Twigs": "小枝",
+        "Sawdust": "ほこり",
+        "Plywood": "合板",
+        "Particle Board": "パーティクルボード",
+        "Wooden Crates": "木製のクレート",
+        "Wooden Tools": "木製の道具",
+        "Construction Debris": "建設廃棄物",
+        "Floorboards": "床材",
+        "Window Frames": "窓枠",
+        "Door Frames": "ドア枠",
+        "Tree Stumps": "木の切株",
+        "Wooden Fencing": "木製のフェンス",
+        "Decking Material": "デッキ材",
+        "Firewood Scraps": "薪のくず"
       },
-      "description": "Wood Waste includes various discarded wood products and materials. It is crucial to recycle and repurpose wood waste to reduce deforestation and manage waste sustainably.",
+      "description": "木材廃棄物にはさまざまな廃棄木材製品や材料が含まれています。木材廃棄物をリサイクルし、再利用することは森林伐採を減少させ、廃棄物を持続可能に管理するために重要です。",
       "otherNames": {
-        "Scrap Wood": "Scrap Wood",
-        "Used Wood": "Used Wood"
+        "Scrap Wood": "くず木材",
+        "Used Wood": "使用済み木材"
       },
       "guideLines": {
-        "recommendedBinType": "Wood Recycling Facility or Specialized Collection Points",
-        "handling": "Handle wood waste carefully to avoid splinters and injuries. Remove any non-wood components like nails or screws.",
-        "separation": "Separate treated wood from untreated wood as they require different recycling processes. Sort based on type and size for efficient recycling.",
-        "whatNotToDo": "Do not dispose of wood waste with regular trash, especially if it's treated with chemicals. Avoid burning treated wood due to toxic fume emission.",
-        "safetyPrecautions": "Wear gloves and protective eye wear when handling wood waste to prevent injuries from splinters and sharp edges."
+        "recommendedBinType": "木材リサイクル施設または専門の収集ポイント",
+        "handling": "木材廃棄物を取り扱う際は注意して、ささくれやけがを防ぎましょう。釘やネジなどの非木材成分を取り除いてください。",
+        "separation": "処理の方法が異なるため、処理済みの木材と未処理の木材を分けてください。効率的なリサイクルのために種類とサイズに基づいて分別します。",
+        "whatNotToDo": "木材廃棄物を通常のごみと一緒に捨てないでください、特に化学物質で処理されている場合は。処理済みの木材を燃やさないでください、有毒なガスが発生します。",
+        "safetyPrecautions": "木材廃棄物を取り扱う際には、ささくれや鋭利な部分からのけがを防ぐために手袋と保護眼鏡を着用してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling wood waste reduces landfill usage, conserves natural resources, and supports sustainable forestry practices.",
-        "impact": "Effective wood waste management decreases environmental pollution and provides valuable resources for reuse in construction and manufacturing."
+        "benefits": "木材廃棄物のリサイクルは埋立地の使用を減少し、天然資源を保護し、持続可能な森林管理を支援します。",
+        "impact": "効果的な木材廃棄物の管理は環境汚染を減少させ、建設および製造に再利用するための貴重な資源を提供します。"
       },
-      "funFact": "Recycling just one ton of wood waste can save the equivalent of 1,000 gallons of gasoline in energy value."
+      "funFact": "たった1トンの木材廃棄物をリサイクルすることで、ガソリン約1,000ガロン分のエネルギーを節約できます。"
     },
     "019": {
-      "name": "Hazardous Waste",
+      "name": "有害廃棄物",
       "wasteItems": {
-        "Toxic Chemicals": "Toxic Chemicals",
-        "Solvents": "Solvents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Medical Sharps": "Medical Sharps",
-        "Contaminated Materials": "Contaminated Materials",
-        "Radioactive Substances": "Radioactive Substances",
-        "Contaminated Sanitary Products": "Contaminated Sanitary Products",
-        "Sewage Treatment Waste": "Sewage Treatment Waste",
-        "Automotive Fluids": "Automotive Fluids",
-        "Antifreeze": "Antifreeze",
-        "Brake Fluid": "Brake Fluid",
-        "Lead-based Paints": "Lead-based Paints",
-        "Electronic Hazardous Components": "Electronic Hazardous Components",
-        "Industrial Residues": "Industrial Residues",
-        "Used Oil": "Used Oil",
-        "Oil-Contaminated Materials": "Oil-Contaminated Materials",
-        "Toxic Plastic Additives": "Toxic Plastic Additives"
+        "Toxic Chemicals": "有害化学物質",
+        "Solvents": "溶剤",
+        "Pesticides": "農薬",
+        "Herbicides": "除草剤",
+        "Medical Sharps": "医療用の鋭利な物",
+        "Contaminated Materials": "汚染物質",
+        "Radioactive Substances": "放射性物質",
+        "Contaminated Sanitary Products": "汚染された衛生用品",
+        "Sewage Treatment Waste": "下水処理廃棄物",
+        "Automotive Fluids": "自動車用液体",
+        "Antifreeze": "冷却液",
+        "Brake Fluid": "ブレーキ液",
+        "Lead-based Paints": "鉛含有塗料",
+        "Electronic Hazardous Components": "電子機器の有害部品",
+        "Industrial Residues": "産業廃棄物",
+        "Used Oil": "使用済みオイル",
+        "Oil-Contaminated Materials": "オイルで汚染された物質",
+        "Toxic Plastic Additives": "有害なプラスチック添加剤"
       },
-      "description": "Hazardous Waste includes a variety of materials that pose significant risks to health and the environment. Proper handling, storage, and disposal are essential to mitigate these risks.",
+      "description": "有害廃棄物には健康と環境に重大なリスクをもたらすさまざまな物質が含まれています。これらのリスクを軽減するために、適切な取り扱い、保管、廃棄が不可欠です。",
       "otherNames": {
-        "Dangerous Waste": "Dangerous Waste",
-        "Toxic Waste": "Toxic Waste"
+        "Dangerous Waste": "危険廃棄物",
+        "Toxic Waste": "有害廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Hazardous Waste Collection Facilities",
-        "handling": "Handle with extreme care using appropriate safety gear. Follow all local and federal regulations for storage and disposal.",
-        "separation": "Separate different types of hazardous wastes as they require unique handling and disposal methods.",
-        "whatNotToDo": "Do not dispose of hazardous waste in regular trash bins or sewers. Avoid any unauthorized dumping.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and masks, when handling hazardous materials. Ensure proper ventilation and avoid direct contact."
+        "recommendedBinType": "専門の有害廃棄物収集施設",
+        "handling": "適切な安全装備を使用して非常に注意して取り扱います。貯蔵と廃棄に関するすべての地元および連邦の規制に従います。",
+        "separation": "異なる種類の有害廃棄物を分けることが必要であり、それぞれ固有の取り扱いと廃棄方法が必要です。",
+        "whatNotToDo": "有害廃棄物を通常のゴミ箱や下水に廃棄しないでください。不正な投棄を避けてください。",
+        "safetyPrecautions": "有害物質を取り扱う際には、手袋、ゴーグル、マスクなどの保護具を常に着用します。適切な換気を確保し、直接の接触を避けます。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper management of hazardous waste prevents environmental contamination, protects public health, and ensures compliance with legal standards.",
-        "impact": "Careful disposal of hazardous materials reduces the risk of soil and water pollution and supports a safer, cleaner environment."
+        "benefits": "有害廃棄物の適切な管理は環境汚染を防ぎ、公衆衛生を守り、法的基準の遵守を確保します。",
+        "impact": "有害物質の注意深い廃棄物処理は土壌や水の汚染のリスクを減少させ、より安全で清潔な環境をサポートします。"
       },
-      "funFact": "The proper disposal of a single quart of motor oil can prevent up to two million gallons of drinking water from becoming contaminated."
+      "funFact": "1クォートのモーターオイルを適切に廃棄することで、最大2百万ガロンの飲料水が汚染されるのを防ぐことができます。"
     },
     "020": {
-      "name": "Chemical Waste",
+      "name": "化学廃棄物",
       "wasteItems": {
-        "Industrial Chemicals": "Industrial Chemicals",
-        "Laboratory Chemicals": "Laboratory Chemicals",
-        "Cleaning Agents": "Cleaning Agents",
-        "Pesticides": "Pesticides",
-        "Herbicides": "Herbicides",
-        "Paints": "Paints",
-        "Solvents": "Solvents",
-        "Automotive Fluids": "Automotive Fluids",
-        "Batteries": "Batteries",
-        "Aerosol Cans": "Aerosol Cans",
-        "Mercury Devices": "Mercury Devices",
-        "Pharmaceuticals": "Pharmaceuticals",
-        "Photographic Chemicals": "Photographic Chemicals",
-        "Pool Chemicals": "Pool Chemicals",
-        "Flammable Liquids": "Flammable Liquids",
-        "Toxic Metals": "Toxic Metals",
-        "Acids": "Acids",
-        "Bases": "Bases",
-        "Reactive Materials": "Reactive Materials"
+        "Industrial Chemicals": "産業用化学物質",
+        "Laboratory Chemicals": "実験室用化学物質",
+        "Cleaning Agents": "洗浄剤",
+        "Pesticides": "農薬",
+        "Herbicides": "除草剤",
+        "Paints": "塗料",
+        "Solvents": "溶剤",
+        "Automotive Fluids": "自動車用液体",
+        "Batteries": "バッテリー",
+        "Aerosol Cans": "エアゾール缶",
+        "Mercury Devices": "水銀デバイス",
+        "Pharmaceuticals": "医薬品",
+        "Photographic Chemicals": "写真用化学薬品",
+        "Pool Chemicals": "プール用薬品",
+        "Flammable Liquids": "引火性液体",
+        "Toxic Metals": "有害金属",
+        "Acids": "酸",
+        "Bases": "塩基",
+        "Reactive Materials": "反応性材料"
       },
-      "description": "Chemical Waste includes various hazardous and non-biodegradable chemicals that can pose significant risks to health and the environment. Proper handling, storage, and disposal are crucial for minimizing these risks.",
+      "description": "化学廃棄物には、健康と環境に重大なリスクをもたらすさまざまな有害で不生分解性の化学物質が含まれています。これらのリスクを最小限に抑えるために、適切な取り扱い、保管、廃棄が不可欠です。",
       "otherNames": {
-        "Hazardous Chemicals": "Hazardous Chemicals",
-        "Toxic Chemicals": "Toxic Chemicals"
+        "Hazardous Chemicals": "危険な化学物質",
+        "Toxic Chemicals": "有害な化学物質"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Chemical Waste Collection Facilities",
-        "handling": "Handle with extreme caution using appropriate safety gear. Follow all regulatory guidelines for storage, transport, and disposal.",
-        "separation": "Separate incompatible chemicals and categorize them based on hazard class (e.g., flammable, corrosive, toxic).",
-        "whatNotToDo": "Do not dispose of chemical waste in regular trash bins, down drains, or in natural water bodies. Avoid mixing different chemicals which could react dangerously.",
-        "safetyPrecautions": "Always wear protective gear, including gloves, goggles, and appropriate respiratory protection. Ensure proper ventilation when handling volatile or fumigant chemicals."
+        "recommendedBinType": "専門の化学廃棄物収集施設",
+        "handling": "適切な安全装備を使用して非常に注意して取り扱います。貯蔵、輸送、廃棄に関するすべての規制ガイドラインに従います。",
+        "separation": "互換性のない化学物質を分け、危険クラス（可燃性、腐食性、有毒など）に基づいて分類します。",
+        "whatNotToDo": "化学廃棄物を通常のゴミ箱、排水口、自然水域に廃棄しないでください。異なる化学物質を混合して反応が危険になるのを避けてください。",
+        "safetyPrecautions": "常に手袋、ゴーグル、適切な呼吸保護具などの保護具を着用します。揮発性または発煙性の化学物質を取り扱う際には適切な換気を確保します。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of chemical waste prevents environmental pollution, conserves resources, and reduces health hazards.",
-        "impact": "Managing chemical waste responsibly minimizes the risk of soil and water contamination and contributes to a safer ecological system."
+        "benefits": "化学廃棄物の適切な廃棄は環境汚染を防ぎ、資源を保護し、健康リスクを減少させます。",
+        "impact": "化学廃棄物を責任を持って管理することは、土壌と水の汚染のリスクを最小限に抑え、より安全な生態系に貢献します。"
       },
-      "funFact": "Properly recycling just one gallon of used motor oil can produce enough energy to power the average home for a year."
+      "funFact": "使用済みモーターオイル1ガロンを適切にリサイクルすると、平均的な家庭を1年間電力供給できるエネルギーが生み出されます。"
     },
     "021": {
-      "name": "Medical Waste",
+      "name": "医療廃棄物",
       "wasteItems": {
-        "Used Bandages": "Used Bandages",
-        "Gauze": "Gauze",
-        "Expired Medicines": "Expired Medicines",
-        "Medical Gloves": "Medical Gloves",
-        "Sharps": "Sharps",
-        "Test Strips": "Test Strips",
-        "Surgical Instruments": "Surgical Instruments",
-        "Disposable Garments": "Disposable Garments",
-        "Pathological Waste": "Pathological Waste",
-        "Infectious Agents": "Infectious Agents",
-        "Discarded Vaccines": "Discarded Vaccines",
-        "Dialysis Waste": "Dialysis Waste",
-        "Chemotherapy Agents": "Chemotherapy Agents",
-        "Imaging Chemicals": "Imaging Chemicals",
-        "Radioactive Waste": "Radioactive Waste",
-        "Biological Specimens": "Biological Specimens"
+        "Used Bandages": "使用済みバンデージ",
+        "Gauze": "ガーゼ",
+        "Expired Medicines": "期限切れの薬品",
+        "Medical Gloves": "医療用手袋",
+        "Sharps": "シャープ（針など）",
+        "Test Strips": "試験ストリップ",
+        "Surgical Instruments": "手術器具",
+        "Disposable Garments": "使い捨て衣類",
+        "Pathological Waste": "病理学的廃棄物",
+        "Infectious Agents": "感染性物質",
+        "Discarded Vaccines": "廃棄ワクチン",
+        "Dialysis Waste": "透析廃棄物",
+        "Chemotherapy Agents": "化学療法薬",
+        "Imaging Chemicals": "画像化学薬品",
+        "Radioactive Waste": "放射線廃棄物",
+        "Biological Specimens": "生物学的標本"
       },
-      "description": "Medical Waste comprises various items used in healthcare facilities that are potentially infectious or hazardous. Proper disposal is critical to prevent the spread of diseases and protect public health.",
+      "description": "医療廃棄物には、医療施設で使用されるさまざまなアイテムが含まれており、これらは感染の可能性があるか有害なものです。適切な廃棄物処理は、病気の拡散を防ぎ、公衆の健康を保護するために不可欠です。",
       "otherNames": {
-        "Clinical Waste": "Clinical Waste",
-        "Healthcare Waste": "Healthcare Waste"
+        "Clinical Waste": "臨床廃棄物",
+        "Healthcare Waste": "医療廃棄物"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Medical Waste Disposal Containers",
-        "handling": "Handle with extreme caution and use appropriate protective gear. Medical waste should be segregated at the point of generation.",
-        "separation": "Separate sharps, pharmaceutical, pathological, and chemical wastes as each type requires different disposal methods.",
-        "whatNotToDo": "Do not dispose of medical waste in regular trash bins or mix with general waste. Avoid handling without proper protective equipment.",
-        "safetyPrecautions": "Always use gloves, masks, and potentially face shields or gowns when handling medical waste to minimize exposure risk."
+        "recommendedBinType": "専門の医療廃棄物処理容器",
+        "handling": "極めて注意して取り扱い、適切な保護具を使用します。医療廃棄物は発生地点で分別されるべきです。",
+        "separation": "針、薬品、病理学的廃棄物、化学廃棄物など、各タイプは異なる廃棄物処理方法が必要なため、分離します。",
+        "whatNotToDo": "医療廃棄物を通常のゴミ箱に廃棄したり、一般廃棄物と混合したりしないでください。適切な保護具なしで取り扱うことを避けてください。",
+        "safetyPrecautions": "医療廃棄物を取り扱う際には、手袋、マスク、可能であればフェイスシールドやガウンを着用し、曝露リスクを最小限に抑えます。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal of medical waste reduces the risk of infection transmission, protects healthcare workers and the public, and complies with health regulations.",
-        "impact": "Effective management of medical waste is crucial for maintaining a safe and healthy environment, especially in healthcare settings."
+        "benefits": "医療廃棄物の適切な廃棄は感染伝播のリスクを減少させ、医療従事者と一般市民を保護し、健康規制を遵守します。",
+        "impact": "医療廃棄物の効果的な管理は、特に医療施設において安全で健康的な環境を維持するために重要です。"
       },
-      "funFact": "A typical hospital generates about 33 pounds of medical waste per bed per day, highlighting the importance of efficient waste management in healthcare facilities."
+      "funFact": "典型的な病院は、1ベッドあたり1日に約33ポンドの医療廃棄物を生成し、医療施設での効率的な廃棄物処理の重要性を示しています。"
     },
     "022": {
-      "name": "Oil Waste",
+      "name": "油廃棄物",
       "wasteItems": {
-        "Used Motor Oil": "Used Motor Oil",
-        "Cooking Oil": "Cooking Oil",
-        "Lubricating Oil": "Lubricating Oil",
-        "Hydraulic Oil": "Hydraulic Oil",
-        "Transmission Fluid": "Transmission Fluid",
-        "Machine Oil": "Machine Oil",
-        "Grease": "Grease",
-        "Oil Filters": "Oil Filters",
-        "Oil-Soaked Rags": "Oil-Soaked Rags",
-        "Fuel Oils": "Fuel Oils",
-        "Vegetable Oils": "Vegetable Oils",
-        "Petroleum Products": "Petroleum Products",
-        "Oil Containers": "Oil Containers",
-        "Oil-Water Mixtures": "Oil-Water Mixtures",
-        "Synthetic Oils": "Synthetic Oils",
-        "Oil Sludge": "Oil Sludge"
+        "Used Motor Oil": "使用済みエンジンオイル",
+        "Cooking Oil": "調理用油",
+        "Lubricating Oil": "潤滑油",
+        "Hydraulic Oil": "油圧油",
+        "Transmission Fluid": "トランスミッションフルイド",
+        "Machine Oil": "機械油",
+        "Grease": "グリース",
+        "Oil Filters": "オイルフィルター",
+        "Oil-Soaked Rags": "オイルで汚れた布",
+        "Fuel Oils": "燃料油",
+        "Vegetable Oils": "植物油",
+        "Petroleum Products": "石油製品",
+        "Oil Containers": "オイル容器",
+        "Oil-Water Mixtures": "油水混合物",
+        "Synthetic Oils": "合成オイル",
+        "Oil Sludge": "オイルスラッジ"
       },
-      "description": "Oil Waste includes various types of used and contaminated oils, which require special handling for recycling and disposal to prevent environmental contamination and health risks.",
+      "description": "油廃棄物には、さまざまな種類の使用済みおよび汚染された油が含まれており、環境汚染と健康リスクを防ぐために特別な取り扱いが必要です。",
       "otherNames": {
-        "Used Oil": "Used Oil",
-        "Waste Oil": "Waste Oil"
+        "Used Oil": "使用済みオイル",
+        "Waste Oil": "廃油"
       },
       "guideLines": {
-        "recommendedBinType": "Designated Oil Recycling Facility or Collection Points",
-        "handling": "Store oil waste in leak-proof containers. Avoid direct contact and inhalation of fumes.",
-        "separation": "Separate different types of oils and oil-related waste for proper recycling and disposal.",
-        "whatNotToDo": "Do not dispose of oil waste in regular trash, down the drain, or in water bodies. Avoid mixing oil waste with other hazardous materials.",
-        "safetyPrecautions": "Use gloves and eye protection when handling oil waste. Ensure proper ventilation in storage areas."
+        "recommendedBinType": "指定されたオイルリサイクル施設または収集ポイント",
+        "handling": "オイル廃棄物を漏れない容器に保管します。直接の接触や蒸気の吸入を避けます。",
+        "separation": "異なる種類の油およびオイル関連廃棄物を適切にリサイクルおよび廃棄物処理するために分離します。",
+        "whatNotToDo": "油廃棄物を通常のゴミ箱、排水、または水域に廃棄しないでください。他の有害物質との混合を避けます。",
+        "safetyPrecautions": "油廃棄物を取り扱う際には手袋と目の保護具を使用します。保管エリアで適切な換気を確保します。"
       },
       "whyItIsImportant": {
-        "benefits": "Recycling oil waste conserves natural resources, prevents pollution, and supports environmental sustainability. Properly recycled oil can be refined into new products.",
-        "impact": "Effective oil waste management reduces the risk of soil and water contamination and helps in maintaining a clean and safe environment."
+        "benefits": "油廃棄物のリサイクルは天然資源の保護、汚染の防止、環境の持続可能性を支援します。適切にリサイクルされた油は新しい製品に精製できます。",
+        "impact": "油廃棄物の効果的な管理は土壌と水の汚染リスクを減少し、清潔で安全な環境を維持するのに役立ちます。"
       },
-      "funFact": "One gallon of used motor oil can contaminate one million gallons of fresh water."
+      "funFact": "1ガロンの使用済みエンジンオイルは、100万ガロンの淡水を汚染する可能性があります。"
     },
     "023": {
-      "name": "Radioactive Waste",
+      "name": "放射線廃棄物",
       "wasteItems": {
-        "Spent Nuclear Fuel": "Spent Nuclear Fuel",
-        "Radioactive Medical Waste": "Radioactive Medical Waste",
-        "Contaminated Lab Equipment": "Contaminated Lab Equipment",
-        "Radioactive Glass": "Radioactive Glass",
-        "Contaminated Metals": "Contaminated Metals",
-        "Americium Smoke Detectors": "Americium Smoke Detectors",
-        "Uranium Residues": "Uranium Residues",
-        "Irradiated Tools": "Irradiated Tools",
-        "Contaminated Clothing": "Contaminated Clothing",
-        "Radioactive Sources": "Radioactive Sources",
-        "Luminous Dials": "Luminous Dials",
-        "Thorium Lantern Mantles": "Thorium Lantern Mantles",
-        "Radioactive Ores": "Radioactive Ores"
+        "Spent Nuclear Fuel": "使用済み核燃料",
+        "Radioactive Medical Waste": "放射線医療廃棄物",
+        "Contaminated Lab Equipment": "汚染された実験器具",
+        "Radioactive Glass": "放射線ガラス",
+        "Contaminated Metals": "汚染された金属",
+        "Americium Smoke Detectors": "アメリシウム煙感知器",
+        "Uranium Residues": "ウラン残渣",
+        "Irradiated Tools": "被照射工具",
+        "Contaminated Clothing": "汚染された衣類",
+        "Radioactive Sources": "放射線源",
+        "Luminous Dials": "蓄光ダイヤル",
+        "Thorium Lantern Mantles": "トリウムランタンマントル",
+        "Radioactive Ores": "放射性鉱石"
       },
-      "description": "Radioactive Waste includes materials and objects with radioactive substances. Its hazardous nature necessitates strict handling, storage, and disposal protocols.",
+      "description": "放射線廃棄物には、放射性物質を含む材料や物体が含まれています。その危険性から、厳格な取り扱い、保管、廃棄物処理プロトコルが必要です。",
       "otherNames": {
-        "Nuclear Waste": "Nuclear Waste",
-        "Radioactive Material": "Radioactive Material"
+        "Nuclear Waste": "核廃棄物",
+        "Radioactive Material": "放射性物質"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Radioactive Waste Facilities",
-        "handling": "Strict safety protocols required. Handling by trained professionals only.",
-        "separation": "Based on radioactivity type and level for proper disposal.",
-        "whatNotToDo": "No disposal in regular trash. No direct contact without protection.",
-        "safetyPrecautions": "Specialized protective gear and radiation detectors mandatory."
+        "recommendedBinType": "専門の放射線廃棄物施設",
+        "handling": "厳格な安全プロトコルが必要です。訓練を受けた専門家による取り扱いのみ。",
+        "separation": "適切な廃棄物処分のために、放射線の種類とレベルに基づいて分離します。",
+        "whatNotToDo": "通常のごみ箱に廃棄しないでください。保護具なしでの直接接触は避けてください。",
+        "safetyPrecautions": "専門的な保護具と放射線検出器の使用が義務付けられています。"
       },
       "whyItIsImportant": {
-        "benefits": "Protects from harmful radiation, prevents environmental contamination.",
-        "impact": "Essential for public health and safety, prevents long-term environmental damage."
+        "benefits": "有害な放射線から保護し、環境汚染を防ぎます。",
+        "impact": "公衆の健康と安全のために不可欠であり、長期的な環境への損傷を防ぎます。"
       },
-      "funFact": "Some radioactive waste can remain hazardous for millennia."
+      "funFact": "一部の放射線廃棄物は何千年にもわたって有害なままです。"
     },
     "024": {
-      "name": "Sanitary Waste",
+      "name": "衛生廃棄物",
       "wasteItems": {
-        "Used Diapers": "Used Diapers",
-        "Sanitary Napkins": "Sanitary Napkins",
-        "Tampons": "Tampons",
-        "Wet Wipes": "Wet Wipes",
-        "Incontinence Pads": "Incontinence Pads",
-        "Disposable Toilet Seat Covers": "Disposable Toilet Seat Covers",
-        "Cotton Swabs": "Cotton Swabs",
-        "Facial Tissues": "Facial Tissues",
-        "Bandages": "Bandages",
-        "Disposable Razors": "Disposable Razors",
-        "Dental Floss": "Dental Floss"
+        "Used Diapers": "使用済みおむつ",
+        "Sanitary Napkins": "生理用ナプキン",
+        "Tampons": "タンポン",
+        "Wet Wipes": "ウェットティッシュ",
+        "Incontinence Pads": "失禁パッド",
+        "Disposable Toilet Seat Covers": "使い捨てトイレシートカバー",
+        "Cotton Swabs": "綿棒",
+        "Facial Tissues": "ティッシュペーパー",
+        "Bandages": "絆創膏",
+        "Disposable Razors": "使い捨てカミソリ",
+        "Dental Floss": "デンタルフロス"
       },
-      "description": "Sanitary Waste includes various personal hygiene products that are used and discarded. Due to potential health risks, particularly in medical or care facilities, proper disposal is essential to prevent contamination.",
+      "description": "衛生廃棄物には、使用後に廃棄されるさまざまな個人衛生製品が含まれます。特に医療機関や介護施設などで健康リスクがあるため、適切な廃棄物処理は汚染を防ぐために不可欠です。",
       "otherNames": {
-        "Hygiene Waste": "Hygiene Waste",
-        "Personal Care Waste": "Personal Care Waste"
+        "Hygiene Waste": "衛生ごみ",
+        "Personal Care Waste": "個人ケアごみ"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sanitary Waste Disposal Units",
-        "handling": "Handle with care, ideally with gloves, to prevent direct contact and contamination.",
-        "separation": "Separate sanitary waste from regular waste for specialized disposal.",
-        "whatNotToDo": "Do not flush sanitary waste down toilets. Avoid disposing of in regular trash bins without proper containment.",
-        "safetyPrecautions": "Wear gloves when handling and disposing of sanitary waste. Ensure proper hygiene practices post-disposal."
+        "recommendedBinType": "専用の衛生廃棄物処理ユニット",
+        "handling": "直接の接触と汚染を防ぐために、できれば手袋を着用して取り扱ってください。",
+        "separation": "一般のごみから衛生廃棄物を専用の処理に分けてください。",
+        "whatNotToDo": "トイレに衛生廃棄物を流さないでください。適切な封じ込めなしに通常のゴミ箱に廃棄しないでください。",
+        "safetyPrecautions": "衛生廃棄物を取り扱う際には手袋を着用し、廃棄後の適切な衛生手順を確保してください。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal prevents the spread of infections and maintains hygiene in public and private spaces.",
-        "impact": "Effective management of sanitary waste is crucial for public health, especially in densely populated or sensitive areas like hospitals."
+        "benefits": "適切な廃棄物処理は感染の拡散を防ぎ、公共および私的な場所での衛生を維持します。",
+        "impact": "衛生廃棄物の効果的な管理は、特に病院などの密集した場所や敏感な地域での公衆衛生にとって重要です。"
       },
-      "funFact": "The average person generates about 30 pounds of sanitary waste per year."
+      "funFact": "平均的な人は年間約30ポンドの衛生廃棄物を生成します。"
     },
     "025": {
-      "name": "Sewage Waste",
+      "name": "下水廃棄物",
       "wasteItems": {
-        "Human Excreta": "Human Excreta",
-        "Used Water": "Used Water",
-        "Domestic Wastewater": "Domestic Wastewater",
-        "Industrial Effluent": "Industrial Effluent",
-        "Agricultural Runoff": "Agricultural Runoff",
-        "Storm water Discharge": "Storm water Discharge",
-        "Septic Tank Sludge": "Septic Tank Sludge",
-        "Grease Trap Waste": "Grease Trap Waste",
-        "Gray Water": "Gray Water",
-        "Black Water": "Black Water",
-        "Sewage Sludge": "Sewage Sludge",
-        "Soapy Water": "Soapy Water",
-        "Cooking Water Discharge": "Cooking Water Discharge",
-        "Bathroom Water": "Bathroom Water",
-        "Laundry Wastewater": "Laundry Wastewater",
-        "Sink Drainage": "Sink Drainage",
-        "Toilet Flushing Waste": "Toilet Flushing Waste",
-        "Shower Drain Water": "Shower Drain Water",
-        "Sump Pump Discharge": "Sump Pump Discharge",
-        "Urban Runoff": "Urban Runoff"
+        "Human Excreta": "人糞",
+        "Used Water": "使用済み水",
+        "Domestic Wastewater": "家庭用汚水",
+        "Industrial Effluent": "産業排水",
+        "Agricultural Runoff": "農業排水",
+        "Storm water Discharge": "雨水排水",
+        "Septic Tank Sludge": "浄化槽スラッジ",
+        "Grease Trap Waste": "グリーストラップ廃棄物",
+        "Gray Water": "灰色の水",
+        "Black Water": "黒水",
+        "Sewage Sludge": "下水汚泥",
+        "Soapy Water": "石鹸水",
+        "Cooking Water Discharge": "調理水排水",
+        "Bathroom Water": "バスルームの水",
+        "Laundry Wastewater": "洗濯排水",
+        "Sink Drainage": "シンクの排水",
+        "Toilet Flushing Waste": "トイレの流し水",
+        "Shower Drain Water": "シャワー排水",
+        "Sump Pump Discharge": "サンプポンプの排水",
+        "Urban Runoff": "都市排水"
       },
-      "description": "Sewage Waste encompasses waste water and materials that are flushed or drained from households, industrial establishments, and agricultural lands. Proper treatment and disposal are crucial for environmental protection and preventing water contamination.",
+      "description": "下水廃棄物には、家庭、産業施設、農地から排水または排水される廃水と材料が含まれます。適切な処理と廃棄物処分は環境保護と水質汚染の防止のために不可欠です。",
       "otherNames": {
-        "Wastewater": "Waste water",
-        "Sewerage": "Sewerage"
+        "Wastewater": "廃水",
+        "Sewerage": "下水設備"
       },
       "guideLines": {
-        "recommendedBinType": "Specialized Sewage Treatment Facilities",
-        "handling": "Avoid direct contact and follow safety protocols for handling sewage.",
-        "separation": "Ensure separation from potable water sources and adherence to waste water treatment processes.",
-        "whatNotToDo": "Do not release untreated sewage into natural water bodies or the environment.",
-        "safetyPrecautions": "Wear protective gear, including gloves and masks, and practice good hygiene after handling sewage waste."
+        "recommendedBinType": "専門の下水処理施設",
+        "handling": "下水を取り扱う際には直接の接触を避け、安全プロトコルに従ってください。",
+        "separation": "飲料水源からの分離と廃水処理プロセスへの遵守を確保してください。",
+        "whatNotToDo": "未処理の下水を自然水域や環境に放流しないでください。",
+        "safetyPrecautions": "下水廃棄物を取り扱う際には手袋やマスクなどの保護具を着用し、取り扱い後に衛生を保つようにしてください。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper sewage management prevents disease transmission, protects water sources, and supports public health.",
-        "impact": "Effective sewage waste treatment is essential for environmental conservation and sustainable urban development."
+        "benefits": "適切な下水管理は病気の伝播を防ぎ、水源を保護し、公共衛生を支えます。",
+        "impact": "効果的な下水廃棄物処理は環境保護と持続可能な都市開発に不可欠です。"
       },
-      "funFact": "Advanced sewage treatment plants can convert waste into energy and reusable water, demonstrating the potential for resource recovery from waste."
+      "funFact": "高度な下水処理プラントは廃棄物をエネルギーと再利用可能な水に変換することができ、廃棄物からの資源回収の可能性を示しています。"
     },
-
     "026": {
-      "name": "Landfill Waste",
+      "name": "埋立ごみ",
       "wasteItems": {
-        "Non-Recyclable Plastic": "Non-Recyclable Plastic",
-        "Contaminated Paper": "Contaminated Paper",
-        "Broken Glass": "Broken Glass",
-        "Non-Recyclable Packaging": "Non-Recyclable Packaging",
-        "Worn Textiles": "Worn Textiles",
-        "Damaged Furniture": "Damaged Furniture",
-        "Ceramic Items": "Ceramic Items",
-        "Construction Debris": "Construction Debris",
-        "Non-Recyclable Electronics": "Non-Recyclable Electronics",
-        "Household Trash": "Household Trash",
-        "Ineligible Food Waste": "Ineligible Food Waste",
-        "Ineligible Garden Waste": "Ineligible Garden Waste",
-        "Used Batteries": "Used Batteries",
-        "Soiled Clothing": "Soiled Clothing",
-        "Old Carpets": "Old Carpets",
-        "Expired Medicines": "Expired Medicines",
-        "Waste Foam": "Waste Foam",
-        "Disposable Utensils": "Disposable Utensils",
-        "Waste Oil": "Waste Oil",
-        "Contaminated Soil": "Contaminated Soil"
+        "Non-Recyclable Plastic": "再利用できないプラスチック",
+        "Contaminated Paper": "汚染された紙",
+        "Broken Glass": "割れたガラス",
+        "Non-Recyclable Packaging": "再利用できない包装材",
+        "Worn Textiles": "摩耗した繊維製品",
+        "Damaged Furniture": "損傷した家具",
+        "Ceramic Items": "陶器製品",
+        "Construction Debris": "建設廃材",
+        "Non-Recyclable Electronics": "再利用できない電子機器",
+        "Household Trash": "家庭ごみ",
+        "Ineligible Food Waste": "廃棄物として不適格な食品廃棄物",
+        "Ineligible Garden Waste": "廃棄物として不適格な庭の廃棄物",
+        "Used Batteries": "使用済み電池",
+        "Soiled Clothing": "汚れた衣類",
+        "Old Carpets": "古いカーペット",
+        "Expired Medicines": "期限切れの薬品",
+        "Waste Foam": "廃棄物の発泡体",
+        "Disposable Utensils": "使い捨ての食器",
+        "Waste Oil": "廃油",
+        "Contaminated Soil": "汚染された土壌"
       },
-      "description": "Landfill Waste includes materials that are not recyclable or compostable. It encompasses a range of non-recyclable items that end up in landfills, leading to potential environmental concerns like soil and groundwater contamination.",
+      "description": "埋立ごみにはリサイクルや堆肥化できない材料が含まれます。これは埋立地に最終的に運ばれ、土壌や地下水の汚染などの環境への懸念を引き起こす非再生可能なアイテムの幅広い範囲を含んでいます。",
       "otherNames": {
-        "Non-Recyclable Waste": "Non-Recyclable Waste",
-        "General Trash": "General Trash"
+        "Non-Recyclable Waste": "再利用できない廃棄物",
+        "General Trash": "一般的なごみ"
       },
       "guideLines": {
-        "recommendedBinType": "General Waste Bins or Dumpsters, labeled for non-recyclable items",
-        "handling": "Carefully handle landfill waste, segregating it from recyclable and hazardous materials.",
-        "separation": "Important to separate from recyclables, organics, and hazardous waste to minimize landfill impact.",
-        "whatNotToDo": "Avoid disposing of recyclable or compostable items as landfill waste.",
-        "safetyPrecautions": "Wear gloves and use appropriate lifting techniques when handling landfill waste to avoid injury and ensure proper hygiene."
+        "recommendedBinType": "一般ゴミ箱または非再利用可能なアイテム用のダンプスター、ラベル付き",
+        "handling": "埋立ごみを注意深く取り扱い、リサイクル可能な材料や有害物質から分別してください。",
+        "separation": "埋立地への影響を最小限に抑えるために、リサイクル可能な材料、有機物、有害廃棄物から分離することが重要です。",
+        "whatNotToDo": "再利用可能なアイテムや堆肥化可能なアイテムを埋立ごみとして廃棄しないでください。",
+        "safetyPrecautions": "埋立ごみを取り扱う際には、けがを防ぐために手袋を着用し、適切な持ち上げ技術を使用し、衛生を保つようにしてください。"
       },
       "whyItIsImportant": {
-        "benefits": "Proper disposal in landfills helps manage non-recyclable waste, reducing environmental pollution.",
-        "impact": "Minimizing landfill waste is critical for sustainable waste management, preventing long-term environmental damage."
+        "benefits": "埋立地での適切な廃棄物処分は、非再利用可能な廃棄物の管理を支援し、環境汚染を減少させます。",
+        "impact": "埋立ごみを最小限に抑えることは、持続可能な廃棄物管理と、長期的な環境への損害を防ぐために重要です。"
       },
-      "funFact": "Efforts to reduce landfill waste can significantly lower greenhouse gas emissions, underscoring the importance of recycling and waste reduction."
+      "funFact": "埋立ごみを減少させる取り組みは、温室効果ガスの排出を大幅に削減できることを示しており、リサイクルと廃棄物削減の重要性を強調しています。"
     }
   },
+  "error": {
+    "invalidImageUrl": "有効な画像URLを入力してください。",
+    "emptySearch": "画像またはURLを提供してください。",
+    "searchResponse": "検索中にエラーが発生しました。後で再試行してください。",
+    "invalidImageSize": "5MBまでの画像ファイルを提供してください。"
+  },
   "common": {
-    "knowYourWaste": "ごみの知識",
-    "sustainNatureNest": "自然の巣を保護する",
-    "searchPlaceholder": "リサイクルまたは処分するアイテムを検索",
-    "whatIsWaste": "{{value}}とは何か",
+    "knowYourWaste": "廃棄物を知る",
+    "sustainNatureNest": "自然の巣を維持する",
+    "searchPlaceholder": "リサイクルまたは廃棄方法を検索",
+    "whatIsWaste": "{{value}}とは",
     "alsoKnownAs": "別名",
     "itemsInsideWaste": "{{value}}内のアイテム",
-    "howToHandle": "{{value}}の取り扱い方",
+    "howToHandle": "{{value}}の取り扱い方法",
     "handling": "取り扱い",
     "separation": "分別",
-    "whatNotToDo": "してはいけないこと",
-    "suggestedBin": "推奨されるゴミ箱",
-    "whyItsImportant": "その重要性",
+    "whatNotToDo": "やってはいけないこと",
+    "suggestedBin": "推奨されるごみ箱",
+    "whyItsImportant": "なぜ重要なのか",
     "note": "注意",
-    "safetyPrecautions": "安全予防策",
-    "alsoKnowAbout": "また、これについて知る",
+    "safetyPrecautions": "安全対策",
+    "alsoKnowAbout": "関連情報",
     "compostable": "堆肥化可能",
     "recyclable": "リサイクル可能",
     "nonRecyclable": "リサイクル不可",
-    "burnable": "燃焼可能",
-    "nonBurnable": "燃えない",
-    "caution": "注意して扱う",
+    "burnable": "焼却可",
+    "nonBurnable": "焼却不可",
+    "caution": "注意が必要",
     "flammable": "可燃性",
     "toxic": "有毒",
-    "biohazardous": "生物危険",
-    "radioactive": "放射性",
-    "useSafetyGear": "保護措置を取る",
+    "biohazardous": "生物危険物",
+    "radioactive": "放射線を放出する",
+    "useSafetyGear": "保護用具を着用",
     "washHand": "手を洗う",
     "sanitize": "消毒する",
-    "disclaimer": "ここに提供された情報は一般的なもので、すべての地域や状況に適用されるわけではありません。地域の規制や有機廃棄物管理のガイドラインを参照してください。",
-    "readMore": "もっと読む",
-    "readMoreSearch": "地域の{{value}}管理ソリューションと取り扱い",
-    "managementStation": "管理ステーション",
+    "disclaimer": "ここで提供される情報は一般的なものであり、すべての地域や状況に適用されるわけではありません。{{value}}管理のための地元の規制とガイドラインを参照してください。",
+    "readMore": "詳細を読む",
+    "readMoreSearch": "地元の{{value}}管理ソリューションと取り扱いについて",
     "credits": "クレジット情報",
-    "visitToKnowMore": "詳細はこちら",
-    "sustainNatureNestBy": "自然の巣を保護する方法"
+    "visitToKnowMore": "詳細を知るために訪問",
+    "imageSearch": "画像検索",
+    "uploadImage": "画像をアップロード",
+    "changeImage": "画像を変更",
+    "or": "または",
+    "pasteImageLink": "画像リンクを貼り付け",
+    "reset": "リセット",
+    "search": "検索",
+    "searching": "検索中"
   }
 }

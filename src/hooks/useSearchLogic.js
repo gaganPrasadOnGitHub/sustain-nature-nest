@@ -9,10 +9,7 @@ import {
 import {setSelectedBinId} from '../utils/redux/binSlice';
 import wasteManagementData from '../data/bin.json';
 import {debounce} from '../utils/debounce';
-import {
-  setFocusScroll,
-  setIsTextSearchOptionsVisible,
-} from '../utils/redux/appSlice';
+import {setIsTextSearchOptionsVisible} from '../utils/redux/appSlice';
 import {searchWasteItems} from '../api/searchApi';
 
 const useSearchLogic = () => {
@@ -50,7 +47,6 @@ const useSearchLogic = () => {
       dispatch(
         setIsTextSearchOptionsVisible(options.length > 0 && input.length >= 2)
       );
-      dispatch(setFocusScroll(options.length > 0 && input.length >= 2));
     },
     [dispatch]
   );
@@ -66,50 +62,32 @@ const useSearchLogic = () => {
     }
   }, [searchTerm, debouncedUpdateSearchOptions]);
 
-  const handleSearchSubmit = useCallback(
-    async (event) => {
-      event.preventDefault();
-      const foundOption = searchOptions.find(
-        (option) => option.item.toLowerCase() === searchTerm.toLowerCase()
-      );
+  const handleSearchSubmit = useCallback(async () => {
+    const foundOption = searchOptions.find(
+      (option) => option.item.toLowerCase() === searchTerm.toLowerCase()
+    );
 
-      if (foundOption) {
-        dispatch(setAiSearchResult(null));
-        dispatch(setSelectedBinId(foundOption.binId));
+    if (foundOption) {
+      dispatch(setAiSearchResult(null));
+      dispatch(setSelectedBinId(foundOption.binId));
+      dispatch(setIsTextSearchOptionsVisible(false));
+    } else {
+      dispatch(setLoading(true));
+      try {
+        const result = await searchWasteItems(searchTerm);
+
+        dispatch(setAiSearchResult(result));
+        dispatch(setSelectedBinId(result?.binId));
         dispatch(setIsTextSearchOptionsVisible(false));
-        dispatch(setFocusScroll(false));
-      } else {
-        dispatch(setLoading(true));
-        try {
-          const result = await searchWasteItems(searchTerm);
 
-          console.log('resulr', result);
-          // const result = await new Promise((resolve) => {
-          //   setTimeout(() => {
-          //     resolve({
-          //       binId: '004',
-          //       message:
-          //         'Organic waste such as fruit peels and food scraps can be composted to create nutrient-rich soil for gardening.',
-          //       validItem: true,
-          //     });
-          //   }, 5000);
-          // });
-
-          dispatch(setAiSearchResult(result));
-          dispatch(setSelectedBinId(result?.binId));
-          dispatch(setIsTextSearchOptionsVisible(false));
-          dispatch(setFocusScroll(false));
-
-          window.scrollTo(0, 0);
-        } catch (error) {
-          dispatch(setError('Failed to fetch results.'));
-        } finally {
-          dispatch(setLoading(false));
-        }
+        window.scrollTo(0, 0);
+      } catch (error) {
+        dispatch(setError('Failed to fetch results.'));
+      } finally {
+        dispatch(setLoading(false));
       }
-    },
-    [searchOptions, searchTerm, dispatch]
-  );
+    }
+  }, [searchOptions, searchTerm, dispatch]);
 
   const handleSearchOptionClick = useCallback(
     (item, binId) => {
@@ -119,7 +97,6 @@ const useSearchLogic = () => {
 
       setTimeout(() => {
         dispatch(setIsTextSearchOptionsVisible(false));
-        dispatch(setFocusScroll(false));
       }, 350);
 
       window.scrollTo(0, 0);

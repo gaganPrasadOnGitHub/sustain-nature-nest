@@ -1,9 +1,6 @@
 import {useMemo, useRef, useState} from 'react';
 import {useDispatch, useSelector} from 'react-redux';
-import {
-  setFocusScroll,
-  setIsCategoryMenuVisible,
-} from '../utils/redux/appSlice';
+import {setIsCategoryMenuVisible} from '../utils/redux/appSlice';
 import useGetBinById from './useGetBinById';
 import useOutsideOrScrollHide from './useOutsideOrScrollHide';
 
@@ -31,18 +28,16 @@ const useNavMenu = () => {
     setActiveMenuItem(binId);
   };
 
-  useOutsideOrScrollHide(menuRef, () => {
-    if (menuRef) {
-      dispatch(setIsCategoryMenuVisible(false));
-      dispatch(setFocusScroll(false));
-    }
-  });
-
   const handleToggleMenuVisibility = (event) => {
     event.stopPropagation();
     dispatch(setIsCategoryMenuVisible(!isCategoryMenuVisible));
-    dispatch(setFocusScroll(!isCategoryMenuVisible));
   };
+
+  useOutsideOrScrollHide(menuRef, () => {
+    if (menuRef) {
+      dispatch(setIsCategoryMenuVisible(false));
+    }
+  });
 
   return {
     menuRef,
