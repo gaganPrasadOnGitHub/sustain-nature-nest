@@ -117,7 +117,6 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
           {/* Bin Image */}
           <ScrollAnimation>
             <img
-              loading="lazy"
               className={`recommendedBin ${imageLoaded ? '' : 'hide'}`}
               src={
                 validateImageUrl(selectedBin.binImage)

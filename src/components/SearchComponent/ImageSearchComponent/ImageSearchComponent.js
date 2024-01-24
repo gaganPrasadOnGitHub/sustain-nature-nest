@@ -93,7 +93,6 @@ const ImageSearchComponent = () => {
 
           <div className="image-preview-wrapper">
             <img
-              loading="lazy"
               src={
                 imageUrl ||
                 imagePreview ||
