@@ -72,14 +72,14 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
             <div className="detail-info">
               <p className="text-subheading mb-16">
                 {t('common.itemsInsideWaste', {
-                  value: t(`wasteBins.${selectedBinId}.name`).toLowerCase(),
+                  value: t(`wasteBins.${selectedBin.id}.name`),
                 })}
               </p>
 
               <ul className="items-list">
                 {selectedBin?.wasteItems?.map((itemKey, index) => (
                   <li key={index}>
-                    {t(`wasteBins.${selectedBinId}.wasteItems.${itemKey}`)}
+                    {t(`wasteBins.${selectedBin.id}.wasteItems.${itemKey}`)}
                   </li>
                 ))}
               </ul>
@@ -94,7 +94,7 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
           <ScrollAnimation>
             <p className="text-heading">
               {t('common.howToHandle', {
-                value: t(`wasteBins.${selectedBinId}.name`).toLowerCase(),
+                value: t(`wasteBins.${selectedBin.id}.name`).toLowerCase(),
               })}
             </p>
           </ScrollAnimation>
@@ -104,7 +104,7 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
                 <div className="detail-info" key={key}>
                   <ScrollAnimation>
                     <span className="text-subheading">{label}</span>
-                    {t(`wasteBins.${selectedBinId}.guideLines.${key}`)}
+                    {t(`wasteBins.${selectedBin.id}.guideLines.${key}`)}
                   </ScrollAnimation>
                 </div>
               );
