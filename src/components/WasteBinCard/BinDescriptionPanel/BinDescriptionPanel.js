@@ -115,19 +115,21 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
 
         <div>
           {/* Bin Image */}
-          <ScrollAnimation className="flex-default">
-            <img
-              className={`recommendedBin ${imageLoaded ? '' : 'hide'}`}
-              src={
-                validateImageUrl(selectedBin.binImage)
-                  ? selectedBin.binImage
-                  : isNight
-                    ? imageSearchNight
-                    : imageSearchDay
-              }
-              alt="recommendedBin"
-              onLoad={handleImageLoad}
-            />
+          <ScrollAnimation>
+            <div className="flex-default">
+              <img
+                className={`recommendedBin ${imageLoaded ? '' : 'hide'}`}
+                src={
+                  validateImageUrl(selectedBin.binImage)
+                    ? selectedBin.binImage
+                    : isNight
+                      ? imageSearchNight
+                      : imageSearchDay
+                }
+                alt="recommendedBin"
+                onLoad={handleImageLoad}
+              />
+            </div>
             {!imageLoaded && <p className="searching"></p>}
           </ScrollAnimation>
           <ScrollAnimation>

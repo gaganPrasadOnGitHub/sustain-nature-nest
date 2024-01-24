@@ -5,7 +5,7 @@ import useNightMode from '../../hooks/useNightMode';
 
 const VerticalPageScroll = () => {
   const [isVisible, setIsVisible] = useState(false);
-  const [isMiddleVisible, setIsMiddleVisible] = useState(true);
+  const [isMiddleVisible, setIsMiddleVisible] = useState(false);
   const {isNight} = useNightMode();
 
   const toggleVisibility = () => {

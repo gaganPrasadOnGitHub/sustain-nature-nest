@@ -80,7 +80,7 @@
 }
 
 #safetyGear {
-  top: -90px;
+  top: -100px;
   right: 0px;
   animation: upDown 8s ease-in-out infinite alternate;
 }

@@ -302,7 +302,7 @@
       "funFact": "Furniture and other bulky items often end up in landfills, but if repurposed or recycled, a single sofa can save up to 9 cubic yards of landfill space, illustrating the significant impact of recycling and reusing bulky items."
     },
     "009": {
-      "name": "Construction and Demolition Waste",
+      "name": "C&D Waste",
       "wasteItems": {
         "Concrete": "Concrete",
         "Bricks": "Bricks",
@@ -328,7 +328,7 @@
       "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
       "otherNames": {
         "Building Waste": "Building Waste",
-        "Renovation Debris": "Renovation Debris"
+        "Renovation Debris": "Construction and Demolition Waste"
       },
       "guideLines": {
         "recommendedBinType": "Special Collection or Designated Dumping Areas",

@@ -423,7 +423,7 @@
     },
     {
       "id": "009",
-      "name": "Construction and Demolition Waste",
+      "name": "C&D Waste",
       "isParent": false,
       "subCategoryIds": [],
       "wasteItems": [
@@ -462,7 +462,7 @@
       "sanitize": true,
       "safetyGear": true,
       "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
-      "otherNames": ["Building Waste", "Renovation Debris"],
+      "otherNames": ["Building Waste", "Construction and Demolition Waste"],
       "guideLines": {
         "recommendedBinType": "Special Collection or Designated Dumping Areas",
         "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
