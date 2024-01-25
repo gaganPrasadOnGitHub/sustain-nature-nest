@@ -59,7 +59,7 @@ const SearchComponent = () => {
         onClick={handleSearchSubmit}
         disabled={isLoading || !searchTerm.trim().length}
       >
-        {!isLoading ? (
+        {isLoading ? (
           <p className="searching"></p>
         ) : (
           <img
