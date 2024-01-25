@@ -17,6 +17,7 @@ button {
   border: none;
   display: flex;
   align-items: center;
+  position: relative;
   font-weight: 500;
   background: var(--main-background);
 }
@@ -99,16 +100,12 @@ ul.search-options {
 }
 
 .searching {
-  top: 50%;
-  left: 50%;
   width: 20px;
   height: 20px;
   align-items: center;
   text-align: center;
   border-radius: 50%;
   border: 3px solid;
-  position: absolute;
-  translate: -50% -50%;
   animation: rotate 1000ms infinite linear;
   border-color: #006241 #006241 #dff9ba #dff9ba;
 }

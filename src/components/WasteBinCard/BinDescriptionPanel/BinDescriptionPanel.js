@@ -117,6 +117,7 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
           {/* Bin Image */}
           <ScrollAnimation>
             <div className="flex-default">
+              {!imageLoaded && <p className="searching"></p>}
               <img
                 className={`recommendedBin ${imageLoaded ? '' : 'hide'}`}
                 src={
@@ -130,7 +131,6 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
                 onLoad={handleImageLoad}
               />
             </div>
-            {!imageLoaded && <p className="searching"></p>}
           </ScrollAnimation>
           <ScrollAnimation>
             <div className="detail-info">
