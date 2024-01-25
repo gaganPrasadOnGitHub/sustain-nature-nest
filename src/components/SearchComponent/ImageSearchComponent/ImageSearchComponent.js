@@ -99,7 +99,9 @@ const ImageSearchComponent = () => {
                 (isNight ? imageSearchNight : imageSearchDay)
               }
               alt="Preview"
-              className={`${selectedImage ? 'uploaded-image' : 'mock-image'}`}
+              className={`${
+                selectedImage || imageUrl ? 'uploaded-image' : 'mock-image'
+              }`}
             />
             <input
               type="file"
