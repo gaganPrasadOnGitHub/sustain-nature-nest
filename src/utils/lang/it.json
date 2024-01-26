@@ -1007,7 +1007,8 @@
     "invalidImageUrl": "Inserisci un URL immagine valido.",
     "emptySearch": "Fornisci un'immagine o un URL.",
     "searchResponse": "Errore durante la ricerca, riprova più tardi.",
-    "invalidImageSize": "Fornisci un file immagine con dimensioni fino a 5MB."
+    "invalidImageSize": "Fornisci un file immagine con dimensioni fino a 5MB.",
+    "invalidItemResponse": "Articolo non identificato. Si prega di riprovare con un'immagine diversa."
   },
   "common": {
     "knowYourWaste": "Conosci i rifiuti",

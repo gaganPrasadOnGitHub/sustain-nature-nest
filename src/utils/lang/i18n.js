@@ -14,6 +14,7 @@ import Japanese from './ja.json';
 import Kannada from './kn.json';
 import Korean from './ko.json';
 import Portuguese from './pt.json';
+import Romanian from './ro.json';
 import Russian from './ru.json';
 import Spanish from './es.json';
 import Turkish from './tr.json';
@@ -38,6 +39,7 @@ i18n.use(initReactI18next).init({
     kn: {translation: Kannada},
     ko: {translation: Korean},
     pt: {translation: Portuguese},
+    ro: {translation: Romanian},
     ru: {translation: Russian},
     es: {translation: Spanish},
     tr: {translation: Turkish},

@@ -7,9 +7,9 @@ import useSearchLogic from '../../hooks/useSearchLogic';
 import {useTranslation} from 'react-i18next';
 import useSelectedLanguage from '../../hooks/useSelectedLanguage';
 import ImageSearchComponent from './ImageSearchComponent/ImageSearchComponent';
-import useOutsideOrScrollHide from '../../hooks/useOutsideOrScrollHide';
 import {setIsTextSearchOptionsVisible} from '../../utils/redux/appSlice';
 import {useDispatch, useSelector} from 'react-redux';
+import useOutsideClick from '../../hooks/useOutsideClick';
 
 const SearchComponent = () => {
   const dispatch = useDispatch();
@@ -29,7 +29,7 @@ const SearchComponent = () => {
     (state) => state.appData.isTextSearchOptionsVisible
   );
 
-  useOutsideOrScrollHide(searchOptionRef, () => {
+  useOutsideClick(searchOptionRef, () => {
     if (searchOptionRef) {
       dispatch(setIsTextSearchOptionsVisible(false));
     }

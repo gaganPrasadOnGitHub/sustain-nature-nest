@@ -1007,7 +1007,8 @@
     "invalidImageUrl": "Voer een geldige afbeeldings-URL in.",
     "emptySearch": "Geef een afbeelding of een URL op.",
     "searchResponse": "Fout tijdens het zoeken, probeer later opnieuw.",
-    "invalidImageSize": "Geef een afbeeldingsbestand op met een grootte tot 5 MB."
+    "invalidImageSize": "Geef een afbeeldingsbestand op met een grootte tot 5 MB.",
+    "invalidItemResponse": "Item niet geïdentificeerd. Probeer opnieuw met een andere afbeelding."
   },
   "common": {
     "knowYourWaste": "Ken afval",

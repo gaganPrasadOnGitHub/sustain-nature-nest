@@ -39,8 +39,13 @@
   rotate: 90deg;
 }
 
+.slider-container .category-card {
+  width: 120px;
+}
+
 @media (min-width: 767px) {
   .slider-container .category-card {
     margin: 0 16px;
+    width: 170px;
   }
 }

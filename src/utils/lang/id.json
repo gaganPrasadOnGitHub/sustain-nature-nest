@@ -1009,7 +1009,8 @@
     "invalidImageUrl": "Silakan masukkan URL gambar yang valid.",
     "emptySearch": "Silakan berikan gambar atau URL.",
     "searchResponse": "Kesalahan selama pencarian, harap coba lagi nanti.",
-    "invalidImageSize": "Silakan berikan file gambar dengan ukuran hingga 5MB."
+    "invalidImageSize": "Silakan berikan file gambar dengan ukuran hingga 5MB.",
+    "invalidItemResponse": "Item tidak teridentifikasi. Silakan coba lagi dengan gambar yang berbeda."
   },
   "common": {
     "knowYourWaste": "Kenali limbah",

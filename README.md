@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Sustain Nature Nest: https://sustainnaturenest.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview
+Welcome to Sustain Nature Nest, your comprehensive platform for exploring waste categories, eco-friendly practices, and sustainable solutions. Sustain Nature Nest empowers users to delve into various waste categories, conduct image and text searches, and access information in 21 languages. With its user-friendly interface and responsive design, Sustain Nature Nest offers a seamless experience for users to explore and engage with sustainability initiatives.
 
-## Available Scripts
+Features
+Explore Waste Categories: Dive into a wide range of waste categories to understand their composition and disposal methods.
 
-In the project directory, you can run:
+Image and Text Search: Utilize the power of AI-driven image and text search functionalities to quickly find relevant information.
 
-### `npm start`
+Multi-Language Support: Enjoy access to Sustain Nature Nest in 21 languages, breaking down language barriers and promoting inclusivity.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Getting Started
+To explore Sustain Nature Nest locally, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clone the repository.
+`git clone <repository_url>`
 
-### `npm test`
+Navigate to the project folder.
+`cd sustain-nature-nest`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install dependencies using npm.
+`npm install`
 
-### `npm run build`
+Start the development server.
+`npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Technologies Used
+Sustain Nature Nest is built using the following technologies:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React: A JavaScript library for building user interfaces.
+Redux: For state management.
+OpenAI APIs: Integrated OpenAI APIs for image and text search functionalities.
+Firebase: Utilized for database storage, deployment, hosting, and Firebase Cloud Functions for backend logic.
+Custom CSS: All styling is implemented using custom CSS for a tailored design.
+Responsive Design: Ensuring optimal viewing experience across various devices.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Disclaimer
+The information provided in Sustain Nature Nest is general and may not apply to all regions or circumstances. Local regulations and guidelines for waste management should be consulted.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Explore Sustain Nature Nest to discover a world of sustainable practices and waste management solutions!

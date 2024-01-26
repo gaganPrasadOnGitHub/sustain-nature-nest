@@ -1,0 +1,1056 @@
+{
+  "wasteBins": {
+    "001": {
+      "name": "Deșeuri Organice",
+      "wasteItems": {
+        "Food Scraps": "Resturi alimentare",
+        "Fruit Peels": "Coji de fructe",
+        "Vegetable Peels": "Coji de legume",
+        "Coffee Grounds": "Resturi de cafea",
+        "Tea Bags": "Pliculețe de ceai",
+        "Eggshells": "Coji de ouă",
+        "Garden Flowers": "Flori de grădină",
+        "Houseplants": "Plante de interior",
+        "Grass Clippings": "Tăieturi de iarbă",
+        "Weeds": "Buruieni",
+        "Nut Shells": "Coji de nucă",
+        "Paper Towels": "Prosoape de hârtie",
+        "Cardboard": "Carton",
+        "Wood Scrap": "Resturi de lemn",
+        "Natural Fibers": "Fibre naturale"
+      },
+      "description": "Deșeurile organice provin în principal din bucătării și grădini. Ele includ materiale biodegradabile precum resturi alimentare, de grădină și fibre naturale. Bogate în nutrienți, aceste materiale sunt ideale pentru compostare, care transformă deșeurile în îmbunătățitori de sol valoroși.",
+      "otherNames": {
+        "Compostable Waste": "Deșeuri compostabile",
+        "Biodegradable Waste": "Deșeuri biodegradabile"
+      },
+      "guideLines": {
+        "recommendedBinType": "Recipient pentru compost (ventilat), metal sau plastic durabil, verde/maron",
+        "handling": "Folosiți mănuși la manipulare, spălați-vă pe mâini după eliminare. Evitați contactul direct cu materialele în descompunere.",
+        "separation": "Separați materialele organice de cele anorganice (cum ar fi plasticul, metalele, sticla) pentru a asigura o compostare eficientă.",
+        "whatNotToDo": "Nu includeți materiale anorganice precum plastic, metale sau sticlă. Evitați eliminarea produselor tratate chimic sau a materialelor contaminate cu ulei/grăsime.",
+        "safetyPrecautions": "Folosiți mănuși la manipularea deșeurilor organice pentru a evita contactul direct cu materialele în descompunere și posibilele patogeni. Asigurați-vă că zona de compostare este bine ventilată pentru a preveni acumularea mirosurilor neplăcute. Spălați-vă bine pe mâini după manipularea materialelor organice pentru a menține igiena personală."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reduce utilizarea depozitelor de deșeuri și emisiile de metan, și reduce necesitatea îngrășămintelor chimice. Promovează agricultura durabilă.",
+        "impact": "Transformă deșeurile în compost valoros, îmbogățind solul cu nutrienți și susținând creșterea sănătoasă a plantelor. Încurajează utilizarea durabilă a terenurilor."
+      },
+      "funFact": "Dacă ar fi compostate, deșeurile alimentare anuale globale ar putea reduce emisiile echivalente de CO2 ale a 2 miliarde de mașini de pe drum, ceea ce este mai mult decât numărul total de mașini conduse în lume."
+    },
+    "002": {
+      "name": "Deșeuri Agricole",
+      "wasteItems": {
+        "Crop Residues": "Reziduurile culturilor",
+        "Manure": "Gunoi",
+        "Pesticide Containers": "Containere de pesticide",
+        "Fertilizer Bags": "Sacii de îngrășăminte",
+        "Farm Machinery": "Mașini agricole",
+        "Spoiled Produce": "Produse alterate",
+        "Agricultural Plastics": "Plastic agricol",
+        "Diseased Plants": "Plante bolnave",
+        "Greenhouse Films": "Folii de sere",
+        "Seed Sacks": "Sacii de semințe",
+        "Pruning Waste": "Deșeuri de tăiere",
+        "Irrigation Equipment": "Echipament de irigații",
+        "Soil Amendment Packaging": "Ambalaje pentru amendamentele solului",
+        "Animal Feed Bags": "Sacii de furaje pentru animale",
+        "Silage Wraps": "Învelitori de siloz",
+        "Horticultural Pots": "Ghivece horticole",
+        "Waste Pesticides": "Deșeuri de pesticide",
+        "Contaminated Soils": "Soluri contaminate",
+        "Old Tools": "Unelte vechi",
+        "Broken Irrigation Pipes": "Tuburi de irigație rupte",
+        "Discarded Gloves": "Mănuși aruncate",
+        "Protective Gear": "Echipament de protecție",
+        "Unused Veterinary Medicines": "Medicamente veterinare neutilizate",
+        "Baler Twine": "Sfori de balotat",
+        "Netting Material": "Material de plasă",
+        "Plastic Mulch": "Mulci de plastic"
+      },
+      "description": "Deșeurile agricole cuprind atât materiale organice, cât și neorganice din activitățile agricole. Acest lucru include produse naturale precum reziduurile culturilor și gunoiul, precum și deșeuri non-organice precum containerele, plasticul și mașinile vechi. Managementul eficient este vital pentru a minimiza impactul asupra mediului și pentru a susține agricultura durabilă.",
+      "otherNames": {
+        "Farm Waste": "Deșeuri agricole",
+        "Agricultural Byproducts": "Produse agricole secundare"
+      },
+      "guideLines": {
+        "recommendedBinType": "Containere specializate pentru deșeurile organice și neorganice, cu manipulare separată pentru materialele periculoase",
+        "handling": "Folosiți echipament de protecție pentru articolele periculoase. Compostați deșeurile organice acolo unde este posibil.",
+        "separation": "Separați materialele organice de cele chimice și de plastic. Manipulați materialele periculoase cu grijă.",
+        "whatNotToDo": "Nu ardeți plastic sau containere chimice. Evitați amestecarea deșeurilor organice cu materiale periculoase.",
+        "safetyPrecautions": "Purtați mănuși și îmbrăcăminte de protecție, în special atunci când manipulați îngrășăminte chimice sau pesticide. Asigurați o bună ventilație când lucrați cu amendamentele solului sau în spații închise precum serele."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corespunzătoare reduce poluarea, îmbunătățește sănătatea solului și promovează practici durabile.",
+        "impact": "Managementul eficient al deșeurilor agricole reduce amprenta ecologică a agriculturii și conservă resursele, susținând în același timp practici agricole durabile."
+      },
+      "funFact": "Reziduurile culturilor, dacă sunt gestionate și compostate corespunzător, pot îmbunătăți semnificativ fertilitatea solului, reducând potențial nevoia de îngrășăminte sintetice."
+    },
+    "003": {
+      "name": "Deșeuri Animale",
+      "wasteItems": {
+        "Manure": "Gunoi de grajd",
+        "Bedding Straw": "Paie pentru adăpost",
+        "Livestock Carcasses": "Carcase de animale",
+        "Poultry Waste": "Deșeuri de păsări",
+        "Feathers": "Pene",
+        "Fish Waste": "Deșeuri de pește",
+        "Milk Spoilage": "Deteriorare a laptelui",
+        "Eggshell Waste": "Deșeuri de coji de ouă",
+        "Animal Hair": "Păr de animale",
+        "Wool": "Lână",
+        "Dairy Processing Waste": "Deșeuri de prelucrare a laptelui",
+        "Veterinary Supplies": "Materiale veterinare",
+        "Expired Animal Feed": "Hrana pentru animale expirată",
+        "Contaminated Animal Products": "Produse animale contaminate"
+      },
+      "description": "Deșeurile animale se referă la produsele secundare generate din activitățile de creștere a animalelor, inclusiv de la animalele de fermă, păsări și alte activități de creștere a animalelor. Acestea includ deșeuri organice precum gunoiul de grajd și materialele pentru adăpost, precum și carcase și produse de origine animală alterate. Manipularea și eliminarea corectă sunt cruciale pentru sănătatea mediului și prevenirea răspândirii bolilor.",
+      "otherNames": {
+        "Livestock Waste": "Deșeuri de animale de fermă",
+        "Poultry Waste": "Deșeuri de păsări"
+      },
+      "guideLines": {
+        "recommendedBinType": "Containere specializate pentru deșeuri biologice, separate de deșeurile obișnuite",
+        "handling": "Folosiți echipament de protecție, în special atunci când manipulați carcase sau deșeuri contaminate. Respectați protocoale stricte de igienă.",
+        "separation": "Separați deșeurile biologice periculoase de deșeurile obișnuite. Eliminați-le în containerele designate.",
+        "whatNotToDo": "Nu amestecați cu deșeurile generale. Evitați contactul direct fără echipament de protecție adecvat.",
+        "safetyPrecautions": "Purtați mănuși și încălțăminte de protecție atunci când manipulați deșeuri animale pentru a preveni contactul direct cu microorganismele potențial dăunătoare. Asigurați-vă că zonele în care se depozitează sau se procesează deșeurile animale sunt bine ventilate. După manipularea deșeurilor animale, spălați-vă bine pe mâini cu săpun și apă pentru a preveni răspândirea bolilor zoologice."
+      },
+      "whyItIsImportant": {
+        "benefits": "Gestionarea corectă previne contaminarea mediului și riscurile pentru sănătatea oamenilor și a animalelor.",
+        "impact": "Eliminarea responsabilă a deșeurilor animale susține sănătatea publică, protecția mediului și practicile agricole durabile."
+      },
+      "funFact": "Gunoiul de grajd de la o vacă de lapte poate genera suficientă electricitate pentru a alimenta un frigider mic timp de o zi, ilustrând potențialul de transformare a deșeurilor animale în energie regenerabilă."
+    },
+    "004": {
+      "name": "Deșeuri Alimentare",
+      "wasteItems": {
+        "Cooked Food": "Alimente gătite",
+        "Uncooked Food": "Alimente crude",
+        "Meat Scraps": "Resturi de carne",
+        "Fish Scraps": "Resturi de pește",
+        "Dairy Products": "Produse lactate",
+        "Bread": "Pâine",
+        "Pastries": "Produse de patiserie",
+        "Leftover Meals": "Mese rămase",
+        "Expired Food": "Alimente expirate",
+        "Rice": "Orez",
+        "Pasta": "Paste",
+        "Cheese": "Brânză",
+        "Egg Shells": "Coji de ouă",
+        "Fruit Scraps": "Resturi de fructe",
+        "Vegetable Scraps": "Resturi de legume",
+        "Coffee Grounds": "Resturi de cafea",
+        "Tea Bags": "Pliculețe de ceai",
+        "Food-Soiled Paper": "Hârtie contaminată cu alimente"
+      },
+      "description": "Containerele pentru deșeuri alimentare sunt destinate eliminării diferitelor tipuri de deșeuri alimentare, inclusiv resturi, produse expirate și resturi de alimente. Această categorie de deșeuri este potrivită pentru biodigestie sau compostare, transformând materia organică în resurse valoroase.",
+      "otherNames": {
+        "Kitchen Waste": "Deșeuri de bucătărie",
+        "Leftover Waste": "Deșeuri de mese rămase"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container sigilat, cu control al mirosurilor, de culoare verde închis sau maro",
+        "handling": "Sigilați deșeurile alimentare pentru a reduce mirosurile și a descuraja insectele. Spălați întotdeauna și dezinfectați-vă mâinile după manipulare. Curățați prompt vărsăturile.",
+        "separation": "Separați deșeurile alimentare de reciclabile și non-compostabile pentru a îmbunătăți eficiența compostării și reciclării.",
+        "whatNotToDo": "Nu amestecați deșeurile alimentare cu lichide, uleiuri sau substanțe chimice. Evitați includerea articolelor nebiodegradabile precum plastic sau metal. Nu lăsați deșeurile alimentare neacoperite pentru a preveni atragerea dăunătorilor și generarea de mirosuri.",
+        "safetyPrecautions": "Când manipulați deșeuri alimentare, în special în cantități mari, purtați mănuși pentru a vă proteja împotriva posibilei alterări și a bacteriilor. Mențineți curate și acoperite containerele de deșeuri alimentare pentru a evita atragerea dăunătorilor și generarea de mirosuri. Curățați regulat mâinile, instrumentele și suprafețele care vin în contact cu deșeurile alimentare pentru a menține igiena."
+      },
+      "whyItIsImportant": {
+        "benefits": "Contribuie la prevenirea atragerii dăunătorilor, reduce emisiile de gaze cu efect de seră din depozitele de deșeuri și facilitează producerea de compost sau biogaz.",
+        "impact": "Gestionarea corectă a deșeurilor alimentare economisește resurse, reduce impactul asupra mediului și promovează practici durabile."
+      },
+      "funFact": "Dacă deșeurile alimentare ar fi o țară, ar fi al treilea cel mai mare emițător de gaze cu efect de seră la nivel global, după SUA și China. Reducerea deșeurilor alimentare este crucială pentru minimizarea impactului asupra mediului."
+    },
+    "005": {
+      "name": "Deșeuri Verzi",
+      "wasteItems": {
+        "Grass Clippings": "Tăieturi de iarbă",
+        "Leaves": "Frunze",
+        "Branches": "Ramuri",
+        "Weeds": "Burdue",
+        "Flowers": "Flori",
+        "Garden Trimmings": "Tăieri din grădină",
+        "Shrubs": "Tufe",
+        "Small Twigs": "Ramuri mici",
+        "Hedge Clippings": "Tăieturi de gard viu",
+        "Fallen Fruit": "Fructe căzute",
+        "Garden Maintenance": "Întreținere grădină",
+        "Plant Prunings": "Tăieri de plante"
+      },
+      "description": "Deșeurile verzi, constând din resturi de plante și grădină, joacă un rol vital în reciclarea organică. Compostarea deșeurilor verzi contribuie la crearea amendamentelor solului bogate în nutrienți, esențiale pentru grădinăritul și agricultura durabilă.",
+      "otherNames": {
+        "Yard Waste": "Deșeuri din curte",
+        "Garden Waste": "Deșeuri de grădină"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container deschis, capacitate mare, preferabil verde",
+        "handling": "Folosiți mănuși când manipulați deșeurile verzi pentru a evita tăieturile sau iritațiile cauzate de materiale aspre. Spălați-vă pe mâini după eliminare.",
+        "separation": "Separați deșeurile verzi de cele de uz casnic și periculoase. Nu le amestecați cu deșeurile alimentare sau reciclabile.",
+        "whatNotToDo": "Evitați eliminarea materialelor neorganice precum saci sau ghivece de plastic. Nu includeți sol sau pietre. Abțineți-vă să adăugați plante bolnave sau specii invazive care ar putea contamina compostul.",
+        "safetyPrecautions": "Atunci când manipulați deșeurile verzi, purtați mănuși pentru a vă proteja împotriva materialelor aspre și asigurați-vă că sunt lipsite de substanțe nocive precum lemnul tratat."
+      },
+      "whyItIsImportant": {
+        "benefits": "Facilitează producerea de compost, îmbogățește sănătatea solului și ajută la sechestrarea carbonului. Reduce utilizarea spațiului de depozitare a deșeurilor și emisiile de gaze cu efect de seră.",
+        "impact": "Contribuie la gestionarea durabilă a deșeurilor, susține biodiversitatea în sol și încurajează practicile de grădinărit și agricultură ecologice."
+      },
+      "funFact": "Deșeurile verzi precum tăieturile de iarbă și frunzele pot fi compostate pentru a crea un sol bogat, cunoscut sub numele de 'aur negru' printre grădinari, îmbunătățind creșterea plantelor fără îngrășăminte chimice."
+    },
+    "006": {
+      "name": "Deșeuri Reciclabile",
+      "wasteItems": {
+        "Newspapers": "Ziare",
+        "Magazines": "Reviste",
+        "Office Paper": "Hârtie de birou",
+        "Cardboard": "Carton",
+        "Plastic Bottles": "Sticle de plastic",
+        "Plastic Containers": "Containere de plastic",
+        "Glass Bottles": "Sticle de sticlă",
+        "Glass Jars": "Borcane de sticlă",
+        "Aluminum Cans": "Doze de aluminiu",
+        "Steel Cans": "Doze de oțel",
+        "Electronics": "Electronice",
+        "Textiles": "Textile",
+        "Untreated Wood": "Lemn netratat",
+        "Aerosol Cans": "Doze de aerosoli",
+        "Batteries": "Baterii",
+        "Non-LED Light Bulbs": "Becuri ne-LED"
+      },
+      "description": "Deșeurile reciclabile includ o varietate de materiale care pot fi reprelucrate pentru utilizare ulterioară. Elementele cheie din această categorie includ produse din hârtie, plastic, sticlă, metale și anumite tipuri de electronice, toate având un rol vital în conservarea resurselor și sustenabilitatea mediului.",
+      "otherNames": {},
+      "guideLines": {
+        "recommendedBinType": "Container de reciclare, metal sau plastic durabil",
+        "handling": "Asigurați-vă că obiectele sunt curate și uscate înainte de reciclare. Sortați-le conform ghidurilor locale de reciclare.",
+        "separation": "Separați diferitele tipuri de materiale reciclabile pentru a evita contaminarea cu materiale non-reciclabile.",
+        "whatNotToDo": "Evitați includerea materialelor murdare, contaminate sau non-reciclabile. Respectați regulile locale de reciclare pentru eliminările specifice.",
+        "safetyPrecautions": "Atunci când manipulați materiale reciclabile, purtați echipament de protecție adecvat dacă este necesar. Fiți precauți cu insectele sau animalele care ar putea fi în apropierea materialelor de reciclare."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reduce nevoia de materiale prime noi, conservează energia și diminuează impactul ambiental al deșeurilor.",
+        "impact": "Susține gestionarea durabilă a resurselor, contribuind la conservarea și protejarea mediului înconjurător."
+      },
+      "funFact": "Reciclarea ajută la reducerea impactului ambiental al deșeurilor și conservă resurse valoroase pentru generațiile viitoare."
+    },
+    "007": {
+      "name": "Deșeuri Auto",
+      "wasteItems": {
+        "Used Motor Oil": "Ulei de motor uzat",
+        "Oil Filters": "Filtre de ulei",
+        "Batteries": "Baterii",
+        "Tires": "Anvelope",
+        "Brake Pads": "Plăcuțe de frână",
+        "Brake Fluid": "Lichid de frână",
+        "Transmission Fluid": "Lichid de transmisie",
+        "Coolants": "Antigel",
+        "Metal Parts": "Părți metalice",
+        "Rubber Hoses": "Furtunuri de cauciuc",
+        "Belts": "Curele",
+        "Air Filters": "Filtre de aer",
+        "Windshield Glass": "Geamuri de parbriz",
+        "Upholstery Materials": "Materiale pentru tapițerie",
+        "Automotive Bumpers": "Bare de protecție auto",
+        "Headlights": "Faruri",
+        "Electrical Components": "Componente electrice"
+      },
+      "description": "Deșeurile auto cuprind diverse materiale și componente eliminate din vehicule. Include atât tipuri de deșeuri periculoase, cât și nepericuloase, cum ar fi uleiurile, bateriile, anvelopele și piesele mecanice. Eliminarea corectă și reciclarea deșeurilor auto sunt cruciale pentru protecția mediului și conservarea resurselor.",
+      "otherNames": {
+        "Vehicle Waste": "Deșeuri auto",
+        "Car Waste": "Deșeuri auto"
+      },
+      "guideLines": {
+        "recommendedBinType": "Containere specializate pentru materiale periculoase, zone designate pentru piese mai mari",
+        "handling": "Manipulați cu grijă, în special substanțele periculoase. Utilizați echipament de protecție când lucrați cu uleiuri și substanțe chimice.",
+        "separation": "Separă deșeurile periculoase precum uleiurile și bateriile de elementele nepericuloase. Urmați ghidurile locale pentru eliminarea fiecărui tip.",
+        "whatNotToDo": "Nu eliminați uleiurile și substanțele chimice auto în gunoiul obișnuit sau în scurgeri. Evitați amestecarea diferitelor tipuri de deșeuri auto.",
+        "safetyPrecautions": "Purtați mănuși și protecție pentru ochi când manipulați deșeuri auto precum uleiul uzat, bateriile și anvelopele pentru a preveni contactul cu materialele periculoase. Lucrați întotdeauna în zone bine ventilate pentru a evita inhalarea vaporilor, în special atunci când lucrați cu fluide auto. Eliminați deșeurile auto la centrele de reciclare designate pentru a preveni contaminarea mediului înconjurător."
+      },
+      "whyItIsImportant": {
+        "benefits": "Previne contaminarea mediului, conservă materiale valoroase și susține inițiativele de reciclare.",
+        "impact": "Gestionarea corectă a deșeurilor auto minimizează amprenta ecologică a utilizării și întreținerii vehiculelor, contribuind la un mediu mai curat și mai sigur."
+      },
+      "funFact": "Reciclarea unei singure mașini salvează peste 2500 de kilograme de minereu de fier, 1400 de kilograme de cărbune și 120 de kilograme de calcar. Acest proces reduce, de asemenea, semnificativ energia și materiile prime necesare pentru a produce piese auto și vehicule noi."
+    },
+    "008": {
+      "name": "Deșeuri Voluminoase",
+      "wasteItems": {
+        "Furniture": "Mobilier",
+        "Appliances": "Aparate electrocasnice",
+        "Mattresses": "Saltele",
+        "Large Toys": "Jucării mari",
+        "Carpeting": "Covoare",
+        "Bicycles": "Biciclete",
+        "Large Electronics": "Electronice mari",
+        "BBQ Grills": "Grătare pentru grătar",
+        "Exercise Equipment": "Echipamente de exerciții",
+        "Large Household Items": "Obiecte mari de uz casnic"
+      },
+      "description": "Deșeurile voluminoase includ obiecte mari care nu încap în containerele de gunoi obișnuite. Eliminarea corectă a deșeurilor voluminoase este esențială pentru gestionarea eficientă a deșeurilor și conservarea mediului înconjurător. Reciclarea obiectelor voluminoase poate contribui la conservarea resurselor.",
+      "otherNames": {
+        "Large Waste": "Deșeuri voluminoase",
+        "Oversized Items": "Obiecte supra-dimensionate"
+      },
+      "guideLines": {
+        "recommendedBinType": "Colectare specială sau punct de predare",
+        "handling": "Verificați cu administrația locală a deșeurilor pentru instrucțiuni specifice de eliminare. Unele articole pot necesita manipulare specială sau servicii de ridicare.",
+        "separation": "Separați diferitele tipuri de obiecte voluminoase pentru metodele adecvate de reciclare sau eliminare.",
+        "whatNotToDo": "Nu lăsați obiectele voluminoase pe marginea drumului fără a organiza o colectare adecvată. Evitați depozitarea ilegală.",
+        "safetyPrecautions": "Atunci când manipulați obiecte voluminoase cum ar fi mobilierul, electrocasnicele și jucăriile mari, folosiți tehnici adecvate de ridicare pentru a evita accidentările la spate. Este recomandabil să aveți asistență sau să folosiți un cărucior pentru deplasarea obiectelor grele. Purtați încălțăminte de protecție pentru a preveni accidentările la picioare și mănuși pentru aderență și protecție împotriva marginilor ascuțite."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corectă a deșeurilor voluminoase reduce utilizarea depozitelor de deșeuri, promovează reciclarea și contribuie la un mediu mai curat și mai sigur.",
+        "impact": "Reciclarea obiectelor voluminoase ajută la recuperarea materialelor valoroase, reduce impactul asupra mediului și susține practicile durabile de gestionare a deșeurilor."
+      },
+      "funFact": "Mobilierul și alte obiecte voluminoase ajung adesea în depozitele de deșeuri, dar dacă sunt reutilizate sau reciclate, o singură canapea poate salva până la 9 metri cubi de spațiu de depozitare în depozitul de deșeuri, ilustrând impactul semnificativ al reciclării și reutilizării obiectelor voluminoase."
+    },
+    "009": {
+      "name": "Deșeuri C&D",
+      "wasteItems": {
+        "Concrete": "Beton",
+        "Bricks": "Cărămizi",
+        "Wood": "Lemn",
+        "Gypsum": "Gips",
+        "Metal": "Metal",
+        "Glass": "Sticlă",
+        "Plastic": "Plastic",
+        "Insulation Materials": "Materiale de izolație",
+        "Electrical Wiring": "Instalații electrice",
+        "Plumbing Fixtures": "Accesorii de instalații sanitare",
+        "Ceramic Tiles": "Plăci ceramice",
+        "Asphalt": "Asfalt",
+        "Roofing Materials": "Materiale pentru acoperiș",
+        "Windows": "Ferestre",
+        "Doors": "Uși",
+        "Piping": "Conducte",
+        "Reinforced Concrete": "Beton armat",
+        "Drywall": "Placă gips-carton",
+        "Flooring Materials": "Materiale pentru pardoseli",
+        "Wall Coverings": "Acoperiri de perete"
+      },
+      "description": "Deșeurile de Construcție și Demolare includ materiale din construcția, renovarea și demolarea clădirilor și structurilor. O gestionare adecvată este crucială pentru reciclarea materialelor și minimizarea impactului asupra mediului.",
+      "otherNames": {
+        "Building Waste": "Deșeuri de Construcție",
+        "Renovation Debris": "Deșeuri de Construcție și Demolare"
+      },
+      "guideLines": {
+        "recommendedBinType": "Colectare specială sau zone desemnate pentru depozitare",
+        "handling": "Verificați reglementările locale pentru eliminare. Unele materiale necesită procesare sau manipulare specială.",
+        "separation": "Separați materialele în funcție de tip (de exemplu, metal, lemn, beton) pentru reciclare eficientă.",
+        "whatNotToDo": "Nu amestecați deșeurile C&D cu deșeurile obișnuite de uz casnic. Evitați depozitarea ilegală și eliminarea necorespunzătoare.",
+        "safetyPrecautions": "Asigurați-vă că purtați mănuși rezistente și ochelari de protecție pentru a vă proteja împotriva obiectelor ascuțite și detritusului din deșeurile C&D cum ar fi lemnul, metalul și betonul. Încălțămintea adecvată este esențială pentru a preveni accidentările din cauza materialelor grele. Folosiți măști de protecție împotriva prafului și a particulelor fine. Aplicați tehnici adecvate de ridicare pentru obiecte grele pentru a evita accidentările la spate."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corectă promovează reciclarea materialelor, reduce utilizarea depozitelor de deșeuri și minimizează poluarea mediului.",
+        "impact": "Reciclarea materialelor C&D conservă resursele, susține industria construcțiilor cu materiale reciclate și contribuie la dezvoltarea durabilă."
+      },
+      "funFact": "Reciclarea unei tone de beton poate salva până la 1.360 de galoane de apă și 900 kg de CO2, evidențiind beneficiile semnificative ale repurificării materialelor C&D în loc să fie eliminate în depozitele de deșeuri."
+    },
+    "010": {
+      "name": "Deșeuri Electronice",
+      "wasteItems": {
+        "Computers": "Calculatoare",
+        "Laptops": "Laptopuri",
+        "Mobile Phones": "Telefoane Mobile",
+        "Printers": "Imprimante",
+        "Scanners": "Scannere",
+        "Televisions": "Televizoare",
+        "Monitors": "Monitoare",
+        "DVD Players": "Playere DVD",
+        "Game Consoles": "Console de Jocuri",
+        "Small Appliances": "Electrocasnice Mici",
+        "Electronic Tools": "Unelte Electronice",
+        "Batteries": "Baterii",
+        "Circuit Boards": "Plăci de Circuit",
+        "Hard Drives": "Hard Disk-uri",
+        "Keyboards": "Tastaturi",
+        "Mice": "Mice-uri",
+        "Speakers": "Boxe",
+        "Chargers": "Încărcătoare",
+        "Cables": "Cabluri",
+        "Cameras": "Camere Foto",
+        "Electronic Toys": "Jucării Electronice",
+        "CDs": "CD-uri",
+        "DVDs": "DVD-uri",
+        "GPS Devices": "Dispozitive GPS"
+      },
+      "description": "Deșeurile Electronice, sau E-Deșeuri, includ dispozitive și echipamente electronice abandonate. Reciclarea și eliminarea adecvată sunt esențiale pentru recuperarea materialelor valoroase și prevenirea contaminării mediului.",
+      "otherNames": {
+        "WEEE": "DEEE (Deșeuri Electrice și Electronice)",
+        "E-Waste": "E-Deșeuri"
+      },
+      "guideLines": {
+        "recommendedBinType": "Puncte de Colectare Specializate pentru E-Deșeuri sau Centre de Reciclare",
+        "handling": "Manipulați cu grijă E-Deșeurile pentru a evita deteriorarea și scurgerea substanțelor periculoase. Respectați reglementările locale pentru eliminare.",
+        "separation": "Separați E-Deșeurile de deșeurile obișnuite. Sortați după tip pentru reciclare eficientă.",
+        "whatNotToDo": "Nu eliminați E-Deșeurile în gunoiul obișnuit. Evitați dezmembrarea sau spargerea dispozitivelor electronice, care pot elibera substanțe toxice.",
+        "safetyPrecautions": "Utilizați mănuși pentru a vă proteja de marginile ascuțite atunci când manipulați E-Deșeurile precum computerele vechi și televizoarele. Fiți conștienți de materialele periculoase precum plumbul și mercurul din electronice. Evitați spargerea lor pentru a preveni expunerea. Reciclați la centrele designate pentru eliminare în condiții de siguranță."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea adecvată a E-Deșeurilor reciclează materiale valoroase, reduce utilizarea depozitelor de deșeuri și protejează mediul de substanțe toxice.",
+        "impact": "Reciclarea E-Deșeurilor susține economia circulară, reduce necesitatea de materii prime noi și minimizează amprentele ecologice."
+      },
+      "funFact": "Reciclarea a un milion de laptopuri economisește suficientă energie pentru a alimenta peste 3.500 de case americane timp de un an. Reciclarea a un milion de telefoane mobile poate recupera 35.274 de kilograme de cupru, 772 de kilograme de argint, 75 de kilograme de aur și 33 de kilograme de paladiu."
+    },
+    "011": {
+      "name": "Deșeuri de Sticlă",
+      "wasteItems": {
+        "Glass Bottles": "Sticle de Sticlă",
+        "Glass Jars": "Borcane de Sticlă",
+        "Window Glass": "Sticlă de Ferestre",
+        "Mirror Glass": "Sticlă de Oglinzi",
+        "Glass Containers": "Containere de Sticlă",
+        "Drinking Glasses": "Pahare de Băut",
+        "Broken Glassware": "Vase de Sticlă Sparte",
+        "Automotive Glass": "Sticlă Auto",
+        "Glass Tableware": "Veselă de Sticlă",
+        "Light Bulbs": "Becuri (non-fluorescente)",
+        "Laboratory Glassware": "Vas de Laborator din Sticlă",
+        "Tempered Glass": "Sticlă Temperată",
+        "Glass Shards": "Fragmente de Sticlă"
+      },
+      "description": "Deșeurile de Sticlă includ diverse tipuri de produse de sticlă abandonate. Reciclarea sticlei este crucială deoarece poate fi procesată și refăcută în noi produse din sticlă, reducând necesitatea de materii prime noi.",
+      "otherNames": {
+        "Broken Glass": "Sticlă Spartă",
+        "Discarded Glassware": "Vas de Sticlă Abandonat"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container de Reciclare a Sticlei sau Locații de Predare",
+        "handling": "Manipulați cu grijă deșeurile de sticlă pentru a evita rănirea. Îndepărtați orice componente non-sticlă dacă este necesar.",
+        "separation": "Separați sticla după culoare și tip atunci când este posibil pentru a îmbunătăți eficiența reciclării.",
+        "whatNotToDo": "Nu eliminați sticla în containerele de deșeuri obișnuite. Evitați amestecarea sticlei cu alte materiale reciclabile care ar putea o contamina.",
+        "safetyPrecautions": "Utilizați mănuși atunci când manipulați sticla spartă pentru a preveni tăieturile. Dacă manipulați o cantitate mare de deșeuri de sticlă, se recomandă protecția ochilor pentru a vă proteja împotriva posibilelor cioburi. Ridicați întotdeauna obiectele de sticlă grele în mod corespunzător pentru a evita rănile. Păstrați deșeurile de sticlă într-un recipient rigid pentru a preveni spargerea și asigurați transportul în siguranță."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea sticlei reduce deșeurile de pe depozitul de deșeuri, conservă resursele naturale și economisește energie. Sticla poate fi reciclată în mod infinit fără pierderi de calitate.",
+        "impact": "Reciclarea eficientă a sticlei contribuie la reducerea impactului asupra mediului, susține utilizarea durabilă a resurselor și contribuie la o economie circulară."
+      },
+      "funFact": "Reciclarea sticlei este incredibil de eficientă deoarece poate fi reciclată în mod continuu fără nicio pierdere în puritate sau calitate. De fapt, 80% din containerele de sticlă recuperate sunt transformate în noi sticle de sticlă, iar o sticlă poate ajunge de la un container de reciclare la raftul unui magazin în doar 30 de zile."
+    },
+    "012": {
+      "name": "Deșeuri Industriale",
+      "wasteItems": {
+        "Chemical Solvents": "Solvenți Chimici",
+        "Metal Scraps": "Resturi Metalice",
+        "Plastic Offcuts": "Resturi de Plastic",
+        "Construction Debris": "Deșeuri de Construcție",
+        "Electronic Components": "Componente Electronice",
+        "Paper and Cardboard": "Hârtie și Carton",
+        "Textile Scraps": "Resturi Textile",
+        "Glass Pieces": "Fragmente de Sticlă",
+        "Rubber Waste": "Deșeuri de Cauciuc",
+        "Biodegradable Waste": "Deșeuri Biodegradabile",
+        "Non-Biodegradable Waste": "Deșeuri Non-Biodegradabile",
+        "Hazardous Materials": "Materiale Periculoase",
+        "Non-Hazardous Materials": "Materiale Non-Periculoase",
+        "Industrial Sludge": "Nămol Industrial",
+        "Packaging Materials": "Materiale de Ambalaj"
+      },
+      "description": "Deșeurile Industriale cuprind o gamă largă de materiale rezultate din procesele industriale și de producție. Managementul adecvat, inclusiv reciclarea și eliminarea în condiții de siguranță, este vital pentru a minimiza impactul asupra mediului.",
+      "otherNames": {
+        "Manufacturing Waste": "Deșeuri de Producție",
+        "Production Waste": "Deșeuri de Producție"
+      },
+      "guideLines": {
+        "recommendedBinType": "Containere Speciale pentru Deșeuri Industriale sau Facilități de Reciclare",
+        "handling": "Manipulați cu echipament de protecție adecvat, mai ales atunci când aveți de-a face cu materiale periculoase. Respectați toate ghidurile regulate pentru eliminare.",
+        "separation": "Separați deșeurile după tip (de exemplu, periculoase vs. non-periculoase) și material (de exemplu, metal, plastic) pentru a facilita reciclarea și eliminarea.",
+        "whatNotToDo": "Nu amestecați deșeurile industriale periculoase cu cele non-periculoase. Evitați depozitarea ilegală sau eliminarea necorespunzătoare a deșeurilor industriale.",
+        "safetyPrecautions": "Utilizați întotdeauna mănuși, ochelari de protecție și măști de protecție când manipulați deșeuri industriale, în special dacă acestea conțin materiale periculoase."
+      },
+      "whyItIsImportant": {
+        "benefits": "Manipularea și reciclarea corespunzătoare a deșeurilor industriale conservă resursele, reduce poluarea și susține practicile industriale durabile.",
+        "impact": "Managementul eficient al deșeurilor industriale reduce presiunea asupra depozitelor de deșeuri, minimizează pericolele pentru mediu și contribuie la economia circulară."
+      },
+      "funFact": "Reciclarea metalelor industriale poate economisi până la 75% din energia necesară pentru a le produce din materii prime."
+    },
+    "013": {
+      "name": "Deșeuri Metalice",
+      "wasteItems": {
+        "Aluminum Cans": "Cutii de Aluminiu",
+        "Tin Cans": "Cutii de Tablă",
+        "Steel Scraps": "Resturi de Oțel",
+        "Copper Wire": "Sârmă de Cupru",
+        "Metal Pipes": "Tevi Metalice",
+        "Metal Tools": "Unelte Metalice",
+        "Metal Packaging": "Ambalaje Metalice",
+        "Automotive Parts": "Piese Auto",
+        "Metal Furniture": "Mobilier Metalic",
+        "Metal Appliances": "Aparate Electrocasnice Metalice",
+        "Construction Materials": "Materiale de Construcție",
+        "Aerosol Cans": "Cutii Aerosoli",
+        "Electronic Metals": "Metale Electronice",
+        "Metal Caps": "Capace Metalice",
+        "Metal Lids": "Capace Metalice"
+      },
+      "description": "Deșeurile Metalice cuprind diverse articole și materiale metalice eliminate. Acestea sunt foarte reciclabile și pot fi reprocesate în produse metalice noi, reducând necesitatea de extracție de minereu virgin.",
+      "otherNames": {
+        "Scrap Metal": "Metal Vechi",
+        "Discarded Metal": "Metal Eliminat"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container de Reciclare Metalic sau Depozit de Vechituri",
+        "handling": "Sortați metalele după tip și eliminați orice componente non-metalice, dacă este posibil. Manipulați cu grijă pentru a evita rănile.",
+        "separation": "Separați metalele ferose (cum ar fi oțelul și fierul) de cele neferoase (cum ar fi aluminiul și cuprul) pentru a îmbunătăți eficiența reciclării.",
+        "whatNotToDo": "Nu eliminați deșeurile metalice cu gunoiul obișnuit. Evitați amestecarea diferitelor tipuri de metale decât dacă sunteți instruiți de facilitatea locală de reciclare.",
+        "safetyPrecautions": "Utilizați mănuși și încălțăminte de protecție atunci când manipulați deșeuri metalice pentru a preveni tăieturile și rănile."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea metalelor salvează energie, reduce emisiile de gaze cu efect de seră și conservează resursele naturale. Metalele pot fi reciclate de mai multe ori fără a-și degrada proprietățile.",
+        "impact": "Reciclarea eficientă a metalelor reduce impactul asupra mediului, scade cererea de noi mine și susține gestionarea durabilă a resurselor."
+      },
+      "funFact": "Reciclarea unei doze de aluminiu poate economisi suficientă energie pentru a alimenta un televizor timp de trei ore."
+    },
+    "014": {
+      "name": "Deșeuri de Hârtie",
+      "wasteItems": {
+        "Newspapers": "Ziare",
+        "Magazines": "Reviste",
+        "Office Paper": "Hârtie de Birou",
+        "Notebooks": "Caiete",
+        "Envelopes": "Plicuri",
+        "Junk Mail": "Corespondență Nedorită",
+        "Cardboard Boxes": "Cutii de Carton",
+        "Paper Packaging": "Ambalaje din Hârtie",
+        "Paper Bags": "Pungi de Hârtie",
+        "Phone Books": "Carte de Telefon",
+        "Catalogs": "Cataloage",
+        "Shredded Paper": "Hârtie Distrusă",
+        "Paper Cups": "Pahare de Hârtie",
+        "Paper Plates": "Farfurii de Hârtie",
+        "Greeting Cards": "Felicitări",
+        "Wrapping Paper": "Hârtie de Împachetat"
+      },
+      "description": "Deșeurile de Hârtie cuprind diverse tipuri de hârtie și produse din hârtie eliminate. Reciclarea deșeurilor de hârtie este crucială pentru reducerea defrișărilor și conservarea resurselor naturale.",
+      "otherNames": {
+        "Discarded Paper": "Hârtie Eliminată",
+        "Paper Scraps": "Resturi de Hârtie"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container de Reciclare Hârtie",
+        "handling": "Eliminați orice componente non-hârtie precum folii de plastic, capse sau bandă adezivă. Păstrați hârtia uscată și curată pentru reciclare eficientă.",
+        "separation": "Separați hârtia după tip (de exemplu, carton, hârtie de birou) și condiție (curată, murdară) pentru a îmbunătăți eficiența reciclării.",
+        "whatNotToDo": "Nu amestecați hârtia murdară sau unsuroasă cu hârtia curată. Evitați eliminarea hârtiei reciclabile în containerele de gunoi obișnuite.",
+        "safetyPrecautions": "Nu sunt necesare precauții specifice de siguranță pentru manipularea majorității deșeurilor de hârtie."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea hârtiei reduce necesitatea producției de hârtie nouă, salvând arborii și reducând consumul de energie și apă.",
+        "impact": "Reciclarea eficientă a hârtiei minimizează utilizarea depozitelor de deșeuri, reduce emisiile de gaze cu efect de seră și susține practicile de silvicultură durabilă."
+      },
+      "funFact": "Reciclarea unei tone de hârtie poate salva 17 arbori și 7.000 de galoane de apă."
+    },
+    "015": {
+      "name": "Deșeuri de Plastic",
+      "wasteItems": {
+        "Plastic Bottles": "Sticle de Plastic",
+        "Plastic Bags": "Pungi de Plastic",
+        "Plastic Packaging": "Ambalaje de Plastic",
+        "Plastic Containers": "Containere de Plastic",
+        "Plastic Utensils": "Tacâmuri de Plastic",
+        "Plastic Wraps": "Înfășurări de Plastic",
+        "Plastic Toys": "Jucării de Plastic",
+        "Polystyrene Foam": "Spumă de Polistiren",
+        "Plastic Cups": "Pahare de Plastic",
+        "Plastic Plates": "Farfurii de Plastic",
+        "Plastic Film": "Folii de Plastic",
+        "Water Bottles": "Sticle de Apă",
+        "Detergent Bottles": "Sticle de Detergent",
+        "Shampoo Bottles": "Sticle de Șampon",
+        "Plastic Caps": "Capace de Plastic",
+        "Plastic Lids": "Capace de Plastic",
+        "Plastic Furniture": "Mobilier de Plastic",
+        "Plastic Hangers": "Agățători de Plastic"
+      },
+      "description": "Deșeurile de Plastic cuprind o varietate de obiecte de plastic eliminate. Având în vedere timpul lung de descompunere, reciclarea și eliminarea corespunzătoare a deșeurilor de plastic sunt esențiale pentru a reduce impactul asupra mediului.",
+      "otherNames": {
+        "Discarded Plastics": "Plastic Eliminat",
+        "Scrap Plastics": "Deșeuri de Plastic"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container de Reciclare Plastic sau Facilitate",
+        "handling": "Curățați și uscați plasticul înainte de reciclare. Îndepărtați orice componente non-plastice, cum ar fi etichetele sau capacele.",
+        "separation": "Separați plasticul după tip și categorie, deoarece diferite tipuri de plastic necesită procese de reciclare diferite.",
+        "whatNotToDo": "Nu amestecați deșeurile de plastic cu alte materiale reciclabile sau cu gunoiul obișnuit. Evitați aruncarea obiectelor mari de plastic în containerele de gunoi obișnuite.",
+        "safetyPrecautions": "Nu sunt necesare precauții specifice de siguranță pentru manipularea majorității deșeurilor de plastic."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea plasticului reduce necesitatea producerii de plastic nou, conservează resursele și reduce poluarea. De asemenea, ajută la reducerea cantității de plastic care ajunge în depozitele de deșeuri și în oceane.",
+        "impact": "Reciclarea eficientă a plasticului contribuie la durabilitatea mediului înconjurător, reduce emisiile de gaze cu efect de seră și susține eficiența managementului deșeurilor."
+      },
+      "funFact": "Reciclarea unei tone de plastic poate salva până la 7,4 metri cubi de spațiu de depozitare în gropile de gunoi."
+    },
+    "016": {
+      "name": "Deșeuri de Cauciuc",
+      "wasteItems": {
+        "Used Tires": "Anvelope Folosite",
+        "Rubber Bands": "Benzi de Cauțiuc",
+        "Rubber Gloves": "Mănuși de Cauțiuc",
+        "Rubber Hoses": "Furtunuri de Cauțiuc",
+        "Rubber Footwear": "Încălțăminte din Cauțiuc",
+        "Rubber Mats": "Covorașe de Cauțiuc",
+        "Conveyor Belts": "Benzi Transportoare",
+        "Rubber Gaskets": "Garnituri de Cauțiuc",
+        "Rubber Seals": "Etanșări de Cauțiuc",
+        "Rubber Sheets": "Plăci de Cauțiuc",
+        "Rubber Toys": "Jucării din Cauțiuc",
+        "Automotive Rubber": "Cauțiuc Auto",
+        "Rubber Tubing": "Tuburi de Cauțiuc",
+        "Elastomeric Materials": "Materiale Elastomerice",
+        "Synthetic Rubber": "Cauțiuc Sintetic"
+      },
+      "description": "Deșeurile de Cauciuc constau în diverse produse din cauciuc eliminate. Reciclarea cauciucului este importantă pentru conservarea resurselor și reducerea impactului asupra mediului, deoarece cauciucul poate dura mult timp să se descompună în gropile de gunoi.",
+      "otherNames": {
+        "Scrap Rubber": "Cauciuc Reciclat",
+        "Waste Rubber": "Deșeuri de Cauciuc"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilitate Specializată de Reciclare a Cauciucului sau Puncte de Colectare",
+        "handling": "Manipulați cu atenție deșeurile de cauciuc, în special atunci când aveți de-a face cu obiecte mari sau grele. Asigurați-vă o depozitare corectă pentru a preveni contaminarea mediului înconjurător.",
+        "separation": "Separați diferitele tipuri de deșeuri de cauciuc pentru reciclare eficientă. Îndepărtați orice componente non-cauciuc dacă este posibil.",
+        "whatNotToDo": "Nu aruncați deșeurile de cauciuc în containerele de gunoi obișnuite. Evitați arderea deșeurilor de cauciuc, deoarece eliberează toxine nocive.",
+        "safetyPrecautions": "Purtați mănuși și îmbrăcăminte de protecție atunci când manipulați deșeuri de cauciuc pentru a evita posibilele iritații ale pielii."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea cauciucului contribuie la reducerea deșeurilor de la gropile de gunoi și a poluării. Poate fi reutilizat în diverse produse precum mulci de cauciuc, covorașe și aditivi pentru asfalt.",
+        "impact": "Managementul eficient al deșeurilor de cauciuc susține durabilitatea mediului înconjurător și ajută la conservarea resurselor neregenerabile utilizate în producția de cauciuc."
+      },
+      "funFact": "Cauciucul reciclat din anvelope poate fi folosit pentru crearea de terenuri de joacă, suprafețe de teren sintetic și chiar ca sursă de combustibil în unele procese industriale."
+    },
+    "017": {
+      "name": "Deșeuri Textile",
+      "wasteItems": {
+        "Clothing": "Îmbrăcăminte",
+        "Bed Linens": "Lenjerii de Pat",
+        "Towels": "Prosoape",
+        "Curtains": "Perdele",
+        "Fabric Scraps": "Resturi de Material",
+        "Carpeting": "Covoare",
+        "Upholstery": "Tapiterie",
+        "Footwear": "Încălțăminte",
+        "Handbags": "Genți de Mână",
+        "Belts": "Curele",
+        "Hats": "Pălării",
+        "Socks": "Șosete",
+        "Non-reusable Textiles": "Textile Nereutilizabile",
+        "Stuffed Toys": "Jucării Umplute",
+        "Ropes": "Corzi",
+        "Thread": "Năluci",
+        "Yarn": "Ață"
+      },
+      "description": "Deșeurile Textile constau din materiale textile și îmbrăcăminte abandonate. Ele reprezintă o componentă semnificativă a deșeurilor de mediu. Reciclarea și reutilizarea deșeurilor textile sunt esențiale pentru reducerea impactului lor asupra mediului.",
+      "otherNames": {
+        "Discarded Fabric": "Material Textil Abandonat",
+        "Scrap Textiles": "Textile Rămase"
+      },
+      "guideLines": {
+        "recommendedBinType": "Container de Reciclare Textilă sau Centre de Donații",
+        "handling": "Curățați și uscați textilele înainte de reciclare. Textilele deteriorate sau uzate pot fi reutilizate sau reciclate în noi produse.",
+        "separation": "Separați textilele după tip (de exemplu, bumbac, poliester) și condiție (de exemplu, purtabile, nepurtabile) pentru o reciclare sau reutilizare mai eficientă.",
+        "whatNotToDo": "Nu aruncați textile purtabile la gunoiul obișnuit. Evitați eliminarea textilelor foarte murdare sau contaminate fără tratament adecvat.",
+        "safetyPrecautions": "Nu sunt necesare măsuri specifice de siguranță pentru manipularea majorității deșeurilor textile."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea textilelor conservă resursele, reduce deșeurile de la gropile de gunoi și scade cererea de noi materii prime. Textilele reutilizate pot găsi o nouă viață în diverse aplicații.",
+        "impact": "Managementul eficient al deșeurilor textile susține moda durabilă, reduce poluarea mediului și promovează o economie circulară în industria textilă."
+      },
+      "funFact": "Reciclarea sau reutilizarea unei tone de textile poate preveni emisia a aproximativ 7 tone de CO2."
+    },
+    "018": {
+      "name": "Deșeuri Lemnoase",
+      "wasteItems": {
+        "Lumber Scraps": "Resturi de Lemn",
+        "Pallets": "Paleți",
+        "Timber Offcuts": "Resturi de Lemn de Construcție",
+        "Furniture Pieces": "Piese de Mobilier",
+        "Branches": "Ramuri",
+        "Twigs": "Crenguțe",
+        "Sawdust": "Rămurele",
+        "Plywood": "Pliant",
+        "Particle Board": "Plăci de Particule",
+        "Wooden Crates": "Cutii de Lemn",
+        "Wooden Tools": "Unelte din Lemn",
+        "Construction Debris": "Resturi de Construcție",
+        "Floorboards": "Plăci de Podea",
+        "Window Frames": "Rame de Ferestre",
+        "Door Frames": "Rame de Uși",
+        "Tree Stumps": "Tulpini de Copac",
+        "Wooden Fencing": "Garduri de Lemn",
+        "Decking Material": "Material pentru Platforme",
+        "Firewood Scraps": "Resturi de Lemn de Foc"
+      },
+      "description": "Deșeurile Lemnoase includ diverse produse și materiale lemnoase abandonate. Este crucial să reciclăm și să reutilizăm deșeurile lemnoase pentru a reduce defrișările și pentru a gestiona deșeurile în mod durabil.",
+      "otherNames": {
+        "Scrap Wood": "Lemn Reciclat",
+        "Used Wood": "Lemn Utilizat"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilitate de Reciclare Lemn sau Puncte de Colectare Specializate",
+        "handling": "Manipulați cu grijă deșeurile lemnoase pentru a evita ciobirea și rănile. Eliminați orice componente non-lemnoase, cum ar fi cuișoarele sau șuruburile.",
+        "separation": "Separați lemnul tratat de lemnul netratat, deoarece acestea necesită procese de reciclare diferite. Sortați în funcție de tip și dimensiune pentru un reciclare eficientă.",
+        "whatNotToDo": "Nu aruncați deșeurile lemnoase la gunoiul obișnuit, în special dacă sunt tratate cu substanțe chimice. Evitați arderea lemnului tratat din cauza emisiilor toxice de fum.",
+        "safetyPrecautions": "Purtați mănuși și ochelari de protecție atunci când manipulați deșeurile lemnoase pentru a preveni rănile cauzate de ciobire și margini ascuțite."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea deșeurilor lemnoase reduce utilizarea gropilor de gunoi, conservează resursele naturale și susține practicile de silvicultură durabilă.",
+        "impact": "Managementul eficient al deșeurilor lemnoase scade poluarea mediului și oferă resurse valoroase pentru reutilizare în construcție și fabricație."
+      },
+      "funFact": "Reciclarea unei singure tone de deșeuri lemnoase poate economisi echivalentul a 1.000 de galoni de benzină în valoare energetică."
+    },
+    "019": {
+      "name": "Deșeuri Periculoase",
+      "wasteItems": {
+        "Toxic Chemicals": "Substanțe Chimice Toxice",
+        "Solvents": "Solvenți",
+        "Pesticides": "Pesticide",
+        "Herbicides": "Herbicide",
+        "Medical Sharps": "Obiecte Tăioase Medicale",
+        "Contaminated Materials": "Materiale Contaminate",
+        "Radioactive Substances": "Substanțe Radioactive",
+        "Contaminated Sanitary Products": "Produse Sanitare Contaminate",
+        "Sewage Treatment Waste": "Deșeuri de Epurare a Apelor Uzate",
+        "Automotive Fluids": "Fluide Auto",
+        "Antifreeze": "Antigel",
+        "Brake Fluid": "Lichid de Frână",
+        "Lead-based Paints": "Vopsele pe Bază de Plumb",
+        "Electronic Hazardous Components": "Componente Electronice Periculoase",
+        "Industrial Residues": "Reziduuri Industriale",
+        "Used Oil": "Ulei Folosit",
+        "Oil-Contaminated Materials": "Materiale Contaminate cu Ulei",
+        "Toxic Plastic Additives": "Aditivi Plastici Toxici"
+      },
+      "description": "Deșeurile Periculoase includ o varietate de materiale care prezintă riscuri semnificative pentru sănătate și mediu. Manipularea, depozitarea și eliminarea corecte sunt esențiale pentru a reduce aceste riscuri.",
+      "otherNames": {
+        "Dangerous Waste": "Deșeuri Periculoase",
+        "Toxic Waste": "Deșeuri Toxice"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilități Specializate de Colectare a Deșeurilor Periculoase",
+        "handling": "Manipulați cu maximă atenție folosind echipament de protecție adecvat. Respectați toate regulamentele locale și federale pentru depozitare și eliminare.",
+        "separation": "Separă diferitele tipuri de deșeuri periculoase, deoarece acestea necesită metode de manipulare și eliminare unice.",
+        "whatNotToDo": "Nu eliminați deșeurile periculoase în containerele de gunoi obișnuite sau în canalizare. Evitați orice descărcare neautorizată.",
+        "safetyPrecautions": "Purtați întotdeauna echipament de protecție, inclusiv mănuși, ochelari de protecție și măști, atunci când manipulați materiale periculoase. Asigurați o ventilație adecvată și evitați contactul direct."
+      },
+      "whyItIsImportant": {
+        "benefits": "Managementul adecvat al deșeurilor periculoase previne contaminarea mediului, protejează sănătatea publică și asigură conformitatea cu standardele legale.",
+        "impact": "Eliminarea cu grijă a materialelor periculoase reduce riscul de poluare a solului și a apei și susține un mediu mai sigur și mai curat."
+      },
+      "funFact": "Eliminarea corectă a unui singur quart de ulei de motor poate preveni contaminarea a până la două milioane de galoane de apă potabilă."
+    },
+    "020": {
+      "name": "Deșeuri Chimice",
+      "wasteItems": {
+        "Industrial Chemicals": "Substanțe Chimice Industriale",
+        "Laboratory Chemicals": "Substanțe Chimice de Laborator",
+        "Cleaning Agents": "Agende de Curățare",
+        "Pesticides": "Pesticide",
+        "Herbicides": "Herbicide",
+        "Paints": "Vopsele",
+        "Solvents": "Solvenți",
+        "Automotive Fluids": "Fluide Auto",
+        "Batteries": "Baterii",
+        "Aerosol Cans": "Cutii de Aerosoli",
+        "Mercury Devices": "Dispozitive cu Mercur",
+        "Pharmaceuticals": "Produse Farmaceutice",
+        "Photographic Chemicals": "Substanțe Chimice Fotografice",
+        "Pool Chemicals": "Substanțe Chimice pentru Piscine",
+        "Flammable Liquids": "Lichide Inflamabile",
+        "Toxic Metals": "Metale Toxice",
+        "Acids": "Acizi",
+        "Bases": "Baze",
+        "Reactive Materials": "Materiale Reactive"
+      },
+      "description": "Deșeurile Chimice includ diverse substanțe chimice periculoase și non-biodegradabile care pot prezenta riscuri semnificative pentru sănătate și mediu. Manipularea, depozitarea și eliminarea corecte sunt cruciale pentru minimizarea acestor riscuri.",
+      "otherNames": {
+        "Hazardous Chemicals": "Substanțe Chimice Periculoase",
+        "Toxic Chemicals": "Substanțe Chimice Toxice"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilități Specializate de Colectare a Deșeurilor Chimice",
+        "handling": "Manipulați cu maximă precauție folosind echipament de protecție adecvat. Respectați toate regulamentele reglementare pentru depozitare, transport și eliminare.",
+        "separation": "Separarea substanțelor chimice incompatibile și categorizarea acestora în funcție de clasa de pericol (de exemplu, inflamabil, coroziv, toxic).",
+        "whatNotToDo": "Nu eliminați deșeurile chimice în containerele de gunoi obișnuite, în canalele de scurgere sau în corpuri de apă naturale. Evitați amestecarea diferitelor substanțe chimice care ar putea reacționa periculos.",
+        "safetyPrecautions": "Purtați întotdeauna echipament de protecție, inclusiv mănuși, ochelari de protecție și protecție respiratorie adecvată. Asigurați o ventilație adecvată atunci când manipulați substanțe chimice volatile sau fumigante."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corectă a deșeurilor chimice previne poluarea mediului, conservă resursele și reduce riscurile pentru sănătate.",
+        "impact": "Gestionarea responsabilă a deșeurilor chimice minimizează riscul de contaminare a solului și a apei și contribuie la un sistem ecologic mai sigur."
+      },
+      "funFact": "Reciclarea corectă a doar unui galon de ulei de motor uzat poate produce suficientă energie pentru a alimenta o casă medie timp de un an."
+    },
+    "021": {
+      "name": "Deșeuri Medicale",
+      "wasteItems": {
+        "Used Bandages": "Bindele Folosite",
+        "Gauze": "Gaza",
+        "Expired Medicines": "Medicamente Expirate",
+        "Medical Gloves": "Mănuși Medicale",
+        "Sharps": "Obiecte Tăioase",
+        "Test Strips": "Benzi de Testare",
+        "Surgical Instruments": "Instrumentar Chirurgical",
+        "Disposable Garments": "Îmbrăcăminte de Unică Folosință",
+        "Pathological Waste": "Deșeuri Patologice",
+        "Infectious Agents": "Agente Infectioase",
+        "Discarded Vaccines": "Vaccinuri Expirate",
+        "Dialysis Waste": "Deșeuri de Dializă",
+        "Chemotherapy Agents": "Agente de Chimioterapie",
+        "Imaging Chemicals": "Substanțe Chimice de Imagistică",
+        "Radioactive Waste": "Deșeuri Radioactive",
+        "Biological Specimens": "Specimene Biologice"
+      },
+      "description": "Deșeurile Medicale cuprind diverse articole utilizate în facilitățile de sănătate care sunt potențial infectioase sau periculoase. Eliminarea corectă este crucială pentru a preveni răspândirea bolilor și a proteja sănătatea publică.",
+      "otherNames": {
+        "Clinical Waste": "Deșeuri Clinice",
+        "Healthcare Waste": "Deșeuri Medicale"
+      },
+      "guideLines": {
+        "recommendedBinType": "Containere Specializate pentru Eliminarea Deșeurilor Medicale",
+        "handling": "Manipulați cu maximă precauție și folosiți echipament de protecție adecvat. Deșeurile medicale ar trebui segregate la punctul de generare.",
+        "separation": "Separați obiectele tăioase, medicamentele, deșeurile patologice și chimice deoarece fiecare tip necesită metode diferite de eliminare.",
+        "whatNotToDo": "Nu eliminați deșeurile medicale în containerele de gunoi obișnuite sau le amestecați cu deșeurile generale. Evitați manipularea fără echipament de protecție adecvat.",
+        "safetyPrecautions": "Folosiți întotdeauna mănuși, măști și, eventual, echipament de protecție pentru față sau halate atunci când manipulați deșeurile medicale pentru a minimiza riscul de expunere."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corectă a deșeurilor medicale reduce riscul de transmitere a infecțiilor, protejează lucrătorii din domeniul sănătății și publicul și respectă reglementările de sănătate.",
+        "impact": "Gestionarea eficientă a deșeurilor medicale este crucială pentru menținerea unui mediu sigur și sănătos, în special în mediile de sănătate."
+      },
+      "funFact": "Un spital tipic generează aproximativ 33 de kilograme de deșeuri medicale pe pat pe zi, subliniind importanța gestionării eficiente a deșeurilor în facilitățile de sănătate."
+    },
+    "022": {
+      "name": "Deșeuri de Ulei",
+      "wasteItems": {
+        "Used Motor Oil": "Ulei de Motor Folosit",
+        "Cooking Oil": "Ulei de Gătit",
+        "Lubricating Oil": "Ulei de Lubrifiere",
+        "Hydraulic Oil": "Ulei Hidraulic",
+        "Transmission Fluid": "Lichid de Transmisie",
+        "Machine Oil": "Ulei de Mașină",
+        "Grease": "Grăsime",
+        "Oil Filters": "Filtre de Ulei",
+        "Oil-Soaked Rags": "Țesături Înmuiate în Ulei",
+        "Fuel Oils": "Uleiuri de Combustibil",
+        "Vegetable Oils": "Uleiuri Vegetale",
+        "Petroleum Products": "Produse Petroliere",
+        "Oil Containers": "Containere de Ulei",
+        "Oil-Water Mixtures": "Amestecuri de Apă și Ulei",
+        "Synthetic Oils": "Uleiuri Sintetice",
+        "Oil Sludge": "Mâl de Ulei"
+      },
+      "description": "Deșeurile de Ulei includ diverse tipuri de uleiuri folosite și contaminate, care necesită manipulare specială pentru reciclare și eliminare pentru a preveni contaminarea mediului înconjurător și riscurile pentru sănătate.",
+      "otherNames": {
+        "Used Oil": "Ulei Folosit",
+        "Waste Oil": "Deșeuri de Ulei"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilitate de Reciclare a Uleiului Designată sau Puncte de Colectare",
+        "handling": "Stocați deșeurile de ulei în recipiente etanșe la scurgeri. Evitați contactul direct și inhalarea vaporilor.",
+        "separation": "Separați diferitele tipuri de uleiuri și deșeuri legate de ulei pentru reciclare și eliminare corectă.",
+        "whatNotToDo": "Nu eliminați deșeurile de ulei în containerele de gunoi obișnuite, în scurgere sau în corpuri de apă. Evitați amestecarea deșeurilor de ulei cu alte materiale periculoase.",
+        "safetyPrecautions": "Folosiți mănuși și protecție pentru ochi când manipulați deșeurile de ulei. Asigurați o ventilație corespunzătoare în zonele de depozitare."
+      },
+      "whyItIsImportant": {
+        "benefits": "Reciclarea deșeurilor de ulei conservă resursele naturale, previne poluarea și susține sustenabilitatea mediului înconjurător. Uleiul reciclat corect poate fi rafinat în produse noi.",
+        "impact": "Gestionarea eficientă a deșeurilor de ulei reduce riscul de contaminare a solului și a apei și contribuie la menținerea unui mediu curat și sigur."
+      },
+      "funFact": "Un galon de ulei de motor folosit poate contamina un milion de galoane de apă dulce."
+    },
+    "023": {
+      "name": "Deșeuri Radioactive",
+      "wasteItems": {
+        "Spent Nuclear Fuel": "Combustibil Nuclear Epuizat",
+        "Radioactive Medical Waste": "Deșeuri Medicale Radioactive",
+        "Contaminated Lab Equipment": "Echipamente de Laborator Contaminate",
+        "Radioactive Glass": "Sticlă Radioactivă",
+        "Contaminated Metals": "Metale Contaminate",
+        "Americium Smoke Detectors": "Detectoare de Fum cu Americiu",
+        "Uranium Residues": "Reziduuri de Uran",
+        "Irradiated Tools": "Unelte Iriadiate",
+        "Contaminated Clothing": "Îmbrăcăminte Contaminată",
+        "Radioactive Sources": "Surse Radioactive",
+        "Luminous Dials": "Cadranuri Luminoase",
+        "Thorium Lantern Mantles": "Mantii de Lumină cu Toriu",
+        "Radioactive Ores": "Minereuri Radioactive"
+      },
+      "description": "Deșeurile Radioactive includ materiale și obiecte cu substanțe radioactive. Natura sa periculoasă necesită protocoale stricte pentru manipulare, stocare și eliminare.",
+      "otherNames": {
+        "Nuclear Waste": "Deșeuri Nucleare",
+        "Radioactive Material": "Material Radioactiv"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilități Specializate pentru Deșeuri Radioactive",
+        "handling": "Protocoluri de siguranță stricte necesare. Manipularea doar de către profesioniști instruiți.",
+        "separation": "Bazat pe tipul și nivelul de radioactivitate pentru eliminare corectă.",
+        "whatNotToDo": "Nicio eliminare în gunoiul obișnuit. Niciun contact direct fără protecție.",
+        "safetyPrecautions": "Echipament specializat de protecție și detectoare de radiații obligatorii."
+      },
+      "whyItIsImportant": {
+        "benefits": "Protejează împotriva radiațiilor nocive, previne contaminarea mediului înconjurător.",
+        "impact": "Essențial pentru sănătatea și siguranța publică, previne deteriorarea mediului înconjurător pe termen lung."
+      },
+      "funFact": "Unele deșeuri radioactive pot rămâne periculoase timp de milenii."
+    },
+    "024": {
+      "name": "Deșeuri Sanitare",
+      "wasteItems": {
+        "Used Diapers": "Scutece Folosite",
+        "Sanitary Napkins": "Prosoape Sanitare",
+        "Tampons": "Tampoane",
+        "Wet Wipes": "Șervețele Umede",
+        "Incontinence Pads": "Pansamente pentru Incontinență",
+        "Disposable Toilet Seat Covers": "Huse de Toaletă de Unică Folosință",
+        "Cotton Swabs": "Bastonase de Vată",
+        "Facial Tissues": "Țesuturi Faciale",
+        "Bandages": "Bandaje",
+        "Disposable Razors": "Bărbieri de Unică Folosință",
+        "Dental Floss": "Aț Dentar"
+      },
+      "description": "Deșeurile Sanitare includ diverse produse de igienă personală care sunt folosite și aruncate. Datorită riscurilor potențiale pentru sănătate, în special în facilitățile medicale sau de îngrijire, eliminarea corectă este esențială pentru a preveni contaminarea.",
+      "otherNames": {
+        "Hygiene Waste": "Deșeuri de Igienă",
+        "Personal Care Waste": "Deșeuri de Îngrijire Personală"
+      },
+      "guideLines": {
+        "recommendedBinType": "Unități Specializate de Eliminare a Deșeurilor Sanitare",
+        "handling": "Manipulați cu grijă, ideal cu mănuși, pentru a preveni contactul direct și contaminarea.",
+        "separation": "Separarea deșeurilor sanitare de cele obișnuite pentru eliminare specializată.",
+        "whatNotToDo": "Nu aruncați deșeurile sanitare în toalete. Evitați eliminarea în containere de gunoi obișnuite fără containere adecvate.",
+        "safetyPrecautions": "Purtați mănuși când manipulați și eliminați deșeurile sanitare. Asigurați practici de igienă corecte după eliminare."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corectă previne răspândirea infecțiilor și menține igiena în spațiile publice și private.",
+        "impact": "Managementul eficient al deșeurilor sanitare este crucial pentru sănătatea publică, în special în zonele dens populate sau sensibile, cum ar fi spitalele."
+      },
+      "funFact": "O persoană medie generează aproximativ 30 de kilograme de deșeuri sanitare pe an."
+    },
+    "025": {
+      "name": "Deșeuri de Canalizare",
+      "wasteItems": {
+        "Human Excreta": "Excremente Umane",
+        "Used Water": "Apă Folosită",
+        "Domestic Wastewater": "Ape Uzate Casnice",
+        "Industrial Effluent": "Effluent Industrial",
+        "Agricultural Runoff": "Ape de Scurgere Agricolă",
+        "Storm water Discharge": "Deversare de Ape Pluviale",
+        "Septic Tank Sludge": "Nămol de la Fosele Septice",
+        "Grease Trap Waste": "Deșeuri din Capcanele de Grăsime",
+        "Gray Water": "Apa Gri",
+        "Black Water": "Apa Neagră",
+        "Sewage Sludge": "Nămol de Canalizare",
+        "Soapy Water": "Apă cu Săpun",
+        "Cooking Water Discharge": "Deversarea Apei de Gătit",
+        "Bathroom Water": "Apa de Baie",
+        "Laundry Wastewater": "Ape Uzate de la Spălătorie",
+        "Sink Drainage": "Scurgerea de la Chiuvetă",
+        "Toilet Flushing Waste": "Deșeuri de la Spălarea Toaletei",
+        "Shower Drain Water": "Apa de la Scurgerea Dușului",
+        "Sump Pump Discharge": "Deversarea Pompei de Canalizare",
+        "Urban Runoff": "Scurgerile Urbane"
+      },
+      "description": "Deșeurile de Canalizare cuprind ape uzate și materiale care sunt deversate sau scurse din gospodării, unități industriale și terenuri agricole. Tratarea și eliminarea corectă sunt cruciale pentru protecția mediului și prevenirea contaminării apei.",
+      "otherNames": {
+        "Wastewater": "Ape Uzate",
+        "Sewerage": "Canalizare"
+      },
+      "guideLines": {
+        "recommendedBinType": "Facilități Specializate de Tratare a Deșeurilor de Canalizare",
+        "handling": "Evitați contactul direct și respectați protocoalele de siguranță pentru manipularea deșeurilor de canalizare.",
+        "separation": "Asigurați separarea de sursele de apă potabilă și respectați procesele de tratare a apelor uzate.",
+        "whatNotToDo": "Nu eliberați canalizare netratată în corpuri de apă naturale sau în mediul înconjurător.",
+        "safetyPrecautions": "Purtați echipament de protecție, inclusiv mănuși și măști, și respectați igiena adecvată după manipularea deșeurilor de canalizare."
+      },
+      "whyItIsImportant": {
+        "benefits": "Managementul corect al canalizării previne transmiterea bolilor, protejează sursele de apă și susține sănătatea publică.",
+        "impact": "Tratarea eficientă a deșeurilor de canalizare este esențială pentru conservarea mediului și dezvoltarea urbană durabilă."
+      },
+      "funFact": "Plantele avansate de tratare a apelor uzate pot transforma deșeurile în energie și apă reutilizabilă, demonstrând potențialul de recuperare a resurselor din deșeuri."
+    },
+    "026": {
+      "name": "Deșeuri la Depozit",
+      "wasteItems": {
+        "Non-Recyclable Plastic": "Plastic Non-Reciclabil",
+        "Contaminated Paper": "Hârtie Contaminată",
+        "Broken Glass": "Sticlă Spartă",
+        "Non-Recyclable Packaging": "Ambalaje Non-Reciclabile",
+        "Worn Textiles": "Textile Uzate",
+        "Damaged Furniture": "Mobilier Deteriorat",
+        "Ceramic Items": "Obiecte Ceramice",
+        "Construction Debris": "Deșeuri de Construcție",
+        "Non-Recyclable Electronics": "Electronice Non-Reciclabile",
+        "Household Trash": "Deșeuri Menajere",
+        "Ineligible Food Waste": "Deșeuri Alimentare Ineligibile",
+        "Ineligible Garden Waste": "Deșeuri de Grădină Ineligibile",
+        "Used Batteries": "Baterii Uzate",
+        "Soiled Clothing": "Îmbrăcăminte Murdară",
+        "Old Carpets": "Covoare Vechi",
+        "Expired Medicines": "Medicamente Expirate",
+        "Waste Foam": "Spumă Uzată",
+        "Disposable Utensils": "Vase de Unică Folosință",
+        "Waste Oil": "Ulei Uzat",
+        "Contaminated Soil": "Sol Contaminat"
+      },
+      "description": "Deșeurile la Depozit includ materiale care nu pot fi reciclate sau compostate. Ele cuprind o varietate de elemente non-reciclabile care ajung la depozite, generând preocupări potențiale privind mediul, cum ar fi contaminarea solului și a apelor subterane.",
+      "otherNames": {
+        "Non-Recyclable Waste": "Deșeuri Non-Reciclabile",
+        "General Trash": "Gunoi General"
+      },
+      "guideLines": {
+        "recommendedBinType": "Containere pentru Deșeuri Generale sau Containere pentru Deponii, etichetate pentru articole non-reciclabile",
+        "handling": "Manipulați cu atenție deșeurile la depozit, separat de materialele reciclabile și cele periculoase.",
+        "separation": "Este important să le separați de materialele reciclabile, cele organice și deșeurile periculoase pentru a minimiza impactul asupra depozitului.",
+        "whatNotToDo": "Evitați să aruncați articole reciclabile sau compostabile ca deșeuri la depozit.",
+        "safetyPrecautions": "Purtați mănuși și utilizați tehnici adecvate de ridicare atunci când manipulați deșeurile la depozit pentru a evita răniri și pentru a asigura o igienă corespunzătoare."
+      },
+      "whyItIsImportant": {
+        "benefits": "Eliminarea corectă la depozit ajută la gestionarea deșeurilor non-reciclabile, reducând poluarea mediului.",
+        "impact": "Minimizarea deșeurilor la depozit este crucială pentru gestionarea durabilă a deșeurilor, prevenind deteriorarea mediului pe termen lung."
+      },
+      "funFact": "Eforturile de reducere a deșeurilor la depozit pot reduce semnificativ emisiile de gaze cu efect de seră, evidențiind importanța reciclării și a reducerii deșeurilor."
+    }
+  },
+  "error": {
+    "invalidImageUrl": "Vă rugăm să introduceți un URL de imagine valid.",
+    "emptySearch": "Vă rugăm să furnizați o imagine sau un URL.",
+    "searchResponse": "Eroare în timpul căutării, vă rugăm să încercați mai târziu.",
+    "invalidImageSize": "Vă rugăm să furnizați un fișier de imagine cu dimensiunea de până la 5MB.",
+    "invalidItemResponse": "Articolul nu a fost identificat. Vă rugăm să încercați din nou cu o altă imagine."
+  },
+  "common": {
+    "knowYourWaste": "Cunoașteți deșeurile dvs.",
+    "sustainNatureNest": "Mențineți cuibul naturii",
+    "searchPlaceholder": "Căutați elementul de reciclat sau eliminat",
+    "whatIsWaste": "Ce este {{value}}",
+    "alsoKnownAs": "Cunoscut și sub numele de",
+    "itemsInsideWaste": "Elemente în interiorul {{value}}",
+    "howToHandle": "Cum să manipulați {{value}}",
+    "handling": "Manipulare",
+    "separation": "Separare",
+    "whatNotToDo": "Ce să nu faci",
+    "suggestedBin": "Container recomandat",
+    "whyItsImportant": "De ce este important",
+    "note": "Notă",
+    "safetyPrecautions": "Precauții de siguranță",
+    "alsoKnowAbout": "De asemenea, aflați despre",
+    "compostable": "Compostabil",
+    "recyclable": "Reciclabil",
+    "nonRecyclable": "Non-reciclabil",
+    "burnable": "Arzător controlat",
+    "nonBurnable": "Non-arzător",
+    "caution": "Manipulați cu prudență",
+    "flammable": "Inflamabil",
+    "toxic": "Toxic",
+    "biohazardous": "Biodangeros",
+    "radioactive": "Radioactiv",
+    "useSafetyGear": "Luați măsuri de precauție de protecție",
+    "washHand": "Spălați mâinile",
+    "sanitize": "Dezinfectați",
+    "disclaimer": "Informațiile furnizate aici sunt generale și pot să nu se aplice tuturor regiunilor sau circumstanțelor. Regulamentele și ghidurile locale pentru gestionarea {{value}} ar trebui consultate.",
+    "readMore": "Citiți mai mult",
+    "readMoreSearch": "Soluții locale de gestionare a {{value}} și manipulare",
+    "credits": "Informații de credit",
+    "visitToKnowMore": "Vizitați pentru a afla mai mult",
+    "imageSearch": "Căutare imagine",
+    "uploadImage": "Încărcați imaginea",
+    "changeImage": "Schimbați imaginea",
+    "or": "Sau",
+    "pasteImageLink": "Lipiți linkul imaginii",
+    "reset": "Resetare",
+    "search": "Căutare",
+    "searching": "Se caută"
+  }
+}

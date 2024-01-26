@@ -61,6 +61,7 @@ img.close-popup:hover {
 }
 .image-preview-wrapper .uploaded-image {
   width: 100%;
+  object-fit: cover;
 }
 .image-preview-wrapper .mock-image {
   width: 65px;

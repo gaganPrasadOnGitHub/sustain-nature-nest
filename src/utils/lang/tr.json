@@ -1007,7 +1007,8 @@
     "invalidImageUrl": "Lütfen geçerli bir resim URL'si girin.",
     "emptySearch": "Lütfen bir resim veya URL sağlayın.",
     "searchResponse": "Arama sırasında hata oluştu, lütfen daha sonra tekrar deneyin.",
-    "invalidImageSize": "Lütfen 5 MB'a kadar boyuta sahip bir resim dosyası sağlayın."
+    "invalidImageSize": "Lütfen 5 MB'a kadar boyuta sahip bir resim dosyası sağlayın.",
+    "invalidItemResponse": "Öğe tanımlanamadı. Lütfen farklı bir görüntü ile tekrar deneyin."
   },
   "common": {
     "knowYourWaste": "Atığınızı Tanıyın",

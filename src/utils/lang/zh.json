@@ -1007,7 +1007,8 @@
     "invalidImageUrl": "请输入有效的图片链接。",
     "emptySearch": "请提供图片或链接。",
     "searchResponse": "搜索期间出现错误，请稍后重试。",
-    "invalidImageSize": "请提供大小不超过5MB的图片文件。"
+    "invalidImageSize": "请提供大小不超过5MB的图片文件。",
+    "invalidItemResponse": "未识别项目。请重试使用不同的图像。"
   },
   "common": {
     "knowYourWaste": "了解废物",

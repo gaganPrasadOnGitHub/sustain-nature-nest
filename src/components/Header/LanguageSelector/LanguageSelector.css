@@ -4,6 +4,8 @@
   right: 4px;
   z-index: 1;
   width: 320px;
+  max-height: 70dvh;
+  overflow: scroll;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;

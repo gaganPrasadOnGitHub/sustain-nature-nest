@@ -1007,7 +1007,8 @@
     "invalidImageUrl": "Vui lòng nhập URL hình ảnh hợp lệ.",
     "emptySearch": "Vui lòng cung cấp một hình ảnh hoặc URL.",
     "searchResponse": "Lỗi trong quá trình tìm kiếm, vui lòng thử lại sau.",
-    "invalidImageSize": "Vui lòng cung cấp tệp hình ảnh có kích thước tối đa 5MB."
+    "invalidImageSize": "Vui lòng cung cấp tệp hình ảnh có kích thước tối đa 5MB.",
+    "invalidItemResponse": "Mục không được xác định. Vui lòng thử lại với một hình ảnh khác."
   },
   "common": {
     "knowYourWaste": "Hiểu về chất thải",

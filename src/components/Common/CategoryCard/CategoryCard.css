@@ -2,13 +2,14 @@
   gap: 16px;
   width: 100px;
   height: 170px;
-  padding: 16px;
+  padding: 8px;
   display: flex;
   font-size: 12px;
   cursor: pointer;
   text-align: center;
   border-radius: 16px;
   align-items: center;
+  overflow: scroll;
   flex-direction: column;
   justify-content: center;
   color: var(--text-color);
@@ -47,6 +48,7 @@ img.category-card-image {
     width: 170px;
     height: 200px;
     font-size: 14px;
+    padding: 16px;
   }
 
   .category-card-image-wrapper {

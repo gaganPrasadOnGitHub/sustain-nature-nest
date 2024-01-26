@@ -9,11 +9,11 @@ import nightSearch from '../../../assets/searchIconNight.svg';
 import imageSearchDay from '../../../assets/imageSearchDay.svg';
 import imageSearchNight from '../../../assets/imageSearchNight.svg';
 import useNightMode from '../../../hooks/useNightMode';
-import useOutsideOrScrollHide from '../../../hooks/useOutsideOrScrollHide';
 import {useImageSearch} from '../../../hooks/useImageSearch';
 import {setError} from '../../../utils/redux/searchSlice';
 import {useTranslation} from 'react-i18next';
 import useSelectedLanguage from '../../../hooks/useSelectedLanguage';
+import useOutsideClick from '../../../hooks/useOutsideClick';
 
 const ImageSearchComponent = () => {
   const {t} = useTranslation();
@@ -49,7 +49,7 @@ const ImageSearchComponent = () => {
     }
   }, [selectedImage]);
 
-  useOutsideOrScrollHide(imageSearchMenuRef, () => {
+  useOutsideClick(imageSearchMenuRef, () => {
     if (isImageSearchMenuVisible) {
       dispatch(setIsImageSearchMenuVisible(false));
     }

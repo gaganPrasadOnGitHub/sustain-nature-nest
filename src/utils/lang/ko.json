@@ -1007,7 +1007,8 @@
     "invalidImageUrl": "유효한 이미지 URL을 입력하세요.",
     "emptySearch": "이미지 또는 URL을 제공하세요.",
     "searchResponse": "검색 중 오류가 발생했습니다. 나중에 다시 시도하세요.",
-    "invalidImageSize": "이미지 파일의 크기가 5MB 이하인 파일을 제공하세요."
+    "invalidImageSize": "이미지 파일의 크기가 5MB 이하인 파일을 제공하세요.",
+    "invalidItemResponse": "항목이 식별되지 않았습니다. 다른 이미지로 다시 시도하십시오."
   },
   "common": {
     "knowYourWaste": "폐기물 알아보기",

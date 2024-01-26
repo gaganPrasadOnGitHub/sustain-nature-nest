@@ -37,6 +37,7 @@ const LanguageSelector = () => {
     {code: 'kn', name: 'ಕನ್ನಡ'}, // Kannada
     {code: 'ko', name: '한국어'}, // Korean
     {code: 'pt', name: 'Português'}, // Portuguese
+    {code: 'ro', name: 'Română'}, // Romanian
     {code: 'ru', name: 'Русский'}, // Russian
     {code: 'es', name: 'Español'}, // Spanish
     {code: 'tr', name: 'Türkçe'}, // Turkish

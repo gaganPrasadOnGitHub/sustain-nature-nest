@@ -72,10 +72,12 @@ export const useImageSearch = () => {
         dispatch(setIsImageSearchMenuVisible(false));
         window.scrollTo(0, 0);
       } else {
-        dispatch(setError(t('error.invalidItem')));
+        dispatch(setError(t('error.invalidItemResponse')));
+        dispatch(setIsImageSearchMenuVisible(true));
       }
     } catch (error) {
       dispatch(setError(t('error.searchResponse')));
+      dispatch(setIsImageSearchMenuVisible(true));
     } finally {
       dispatch(setLoading(false));
     }
