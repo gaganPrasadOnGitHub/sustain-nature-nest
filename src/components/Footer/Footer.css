@@ -4,6 +4,7 @@
   padding: 24px;
   margin: 0 auto;
   font-size: 12px;
+  text-align: center;
   align-items: center;
   justify-content: center;
   color: var(--main-color);
