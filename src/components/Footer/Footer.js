@@ -24,7 +24,10 @@ const Footer = () => {
       name: 'freepik.com',
       url: 'https://www.freepik.com/',
     },
-
+    {
+      name: 'github.com',
+      url: 'https://github.com/gaganPrasadOnGitHub/sustain-nature-nest',
+    },
     {
       name: 'svgrepo.com',
       url: 'https://www.svgrepo.com/',
