@@ -462,7 +462,7 @@
       "sanitize": true,
       "safetyGear": true,
       "description": "Construction and Demolition Waste includes materials from the construction, renovation, and demolition of buildings and structures. Proper management is crucial to recycle materials and minimize environmental impact.",
-      "otherNames": ["Building Waste", "Construction and Demolition Waste"],
+      "otherNames": ["Building Waste", "Renovation Debris"],
       "guideLines": {
         "recommendedBinType": "Special Collection or Designated Dumping Areas",
         "handling": "Check with local regulations for disposal. Some materials require special processing or handling.",
