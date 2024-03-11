@@ -26,7 +26,7 @@
   z-index: 10;
   position: sticky;
   padding-bottom: 16px;
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(1.5px);
   background: linear-gradient(180deg, var(--main-background), #ffffff00);
 }
 
@@ -44,12 +44,12 @@
 }
 
 .text-heading {
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
 .text-heading::first-letter {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .text-subheading {
@@ -208,6 +208,13 @@ img {
 }
 
 @media (min-width: 767px) {
+  .text-heading {
+    font-size: 18px;
+  }
+
+  .text-heading::first-letter {
+    font-size: 20px;
+  }
   .row {
     margin-bottom: 100px;
     flex-direction: row;
