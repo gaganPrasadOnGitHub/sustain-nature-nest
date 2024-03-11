@@ -6,9 +6,12 @@ import useNightMode from '../hooks/useNightMode';
 import WasteBinCard from './WasteBinCard/WasteBinCard';
 import VerticalPageScroll from './Common/VerticalPageScroll';
 import BinItemsCarousel from './BinItemsCarousel/BinItemsCarousel';
+import Note from './Common/Note';
+import useIsMobileView from '../hooks/useIsMobileView';
 
 const Home = () => {
   const {isNight} = useNightMode();
+  const isMobileView = useIsMobileView();
 
   return (
     <div className={`app-container ${isNight ? 'night-mode' : ''} `}>
@@ -20,8 +23,8 @@ const Home = () => {
         <WasteBinCard />
         <BinItemsCarousel />
         <VerticalPageScroll />
+        {isMobileView && <Note />}
       </div>
-
       <Footer />
     </div>
   );

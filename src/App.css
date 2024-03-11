@@ -107,6 +107,10 @@ img {
   padding: 100px 0;
 }
 
+.pt-16 {
+  padding-top: 16px;
+}
+
 .gap-16 {
   gap: 16px;
 }
@@ -183,7 +187,7 @@ img {
 }
 
 .toggle-arrow {
-  width: 16px;
+  width: 10px;
   scale: -1;
 }
 .rotate-180 {

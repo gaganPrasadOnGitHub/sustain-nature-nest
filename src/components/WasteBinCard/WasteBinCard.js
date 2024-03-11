@@ -36,7 +36,7 @@ const WasteBinCard = () => {
   }
 
   return (
-    <div className="wasteBinCard">
+    <div className="wasteBinCard pt-16 ">
       {/* Title */}
       <p className="text-heading text-link" onClick={scrollToDescription}>
         {' '}

@@ -9,6 +9,7 @@ import imageSearchDay from '../../../assets/imageSearchDay.svg';
 import imageSearchNight from '../../../assets/imageSearchNight.svg';
 import useIsMobileView from '../../../hooks/useIsMobileView';
 import ToggleArrow from '../../Common/ToggleArrow';
+import Note from '../../Common/Note';
 
 const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
   const {t} = useTranslation();
@@ -221,16 +222,7 @@ const BinDescriptionPanel = ({selectedBin, selectedBinId, descriptionRef}) => {
               )
             )}
         </div>
-        {!isMobileView && (
-          <div>
-            <ScrollAnimation>
-              <p className="detail-info">
-                <span className="text-subheading">{t('common.note')}</span>
-                {disclaimer} <ReadMoreLink />
-              </p>
-            </ScrollAnimation>
-          </div>
-        )}
+        {!isMobileView && <Note />}
       </div>
     </section>
   );
