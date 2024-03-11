@@ -1,7 +1,7 @@
 import React from 'react';
 import './NavMenu.css';
-import menu from '../../../assets/dayMenu.png';
-import menuNight from '../../../assets/menuNight.png';
+import menu from '../../../assets/dayMenu.svg';
+import menuNight from '../../../assets/nightMenu.svg';
 import wasteManagementData from '../../../data/bin.json';
 import useNightMode from '../../../hooks/useNightMode';
 import useNavMenu from '../../../hooks/useNavMenu';
